@@ -1,5 +1,4 @@
-﻿#ordered
-Aum. torso
+﻿Aum. torso
 Veneno
 Paralisis
 Sueño
