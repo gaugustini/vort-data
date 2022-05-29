@@ -1,0 +1,7 @@
+fu - components in japanese (french, italian, spanish)
+fu - skills with some description
+
+gu - skill names in different order (english, japanese)
+
+p3 - decorations with values different
+p3 - skill names in different order (french, spanish)

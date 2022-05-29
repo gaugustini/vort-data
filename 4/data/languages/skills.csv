@@ -1,0 +1,388 @@
+english;spanish;french;italian;german;japanese;chinese
+Poison;Veneno;;;;毒;毒
+Paralysis;Paralizis;;;;麻痺;麻痹
+Sleep;Sueño;;;;睡眠;睡眠
+Faint;Aturdimiento;;;;気絶;气绝
+Snow/Mud Res;Barro/Nieve;;;;耐泥耐雪;耐泥耐雪
+Defense Lock;Def. Solida;;;;対防御DOWN;对防御DOWN
+Biology;Biologia;;;;細菌学;细菌学
+Attack;Ataque;;;;攻撃;攻击
+Defense;Defenza;;;;防御;防御
+Health;Salud;;;;体力;体力
+Rec Speed;Veloc. Recuperación;;;;回復速度;回复速度
+Protection;Protección;;;;加護;加护
+Sheathing;Envainar;;;;納刀;收刀
+Fast Charge;Carga Rapida;;;;溜め短縮;蓄力缩短
+Expert;Experto;;;;達人;达人
+Tenderizer;Golpe;;;;痛撃;痛击
+Destroyer;Destructor;;;;重撃;重击
+KO;KO;;;;KO;KO
+Stamina Drain;Agotar;;;;減気攻撃;减气攻击
+Constitution;Constitucion;;;;体術;体术
+Hearing;Oido;;;;聴覚保護;听觉保护
+Wind Res;Res. Viento;;;;風圧;风压
+Tremor Res;Res. Temblor;;;;耐震;耐震
+Heat Res;Res. Calor;;;;耐暑;耐暑
+Cold Res;Res. Frio;;;;耐寒;耐寒
+Stamina;Resistencia;;;;スタミナ;耐力
+Stamina Recovery;Recup. Resistencia;;;;気力回復;气力回复
+Evasion;Evasión;;;;回避性能;回避性能
+Evade Distance;Evasion Aum.;;;;回避距離;回避距離
+Sense;Sentido;;;;気配;气息
+Guard;Guardia;;;;ガード性能;防御性能
+Guard Up;Guardia Aumentada;;;;ガード強化;防御强化
+Status;Estado;;;;特殊攻撃;特殊攻击
+Elemental Attack;Elemento;;;;属性攻撃;属性攻击
+Fire Attack;Ataque Fuego;;;;火属性攻撃;火属性攻击
+Water Attack;Ataque Agua;;;;水属性攻撃;水属性攻击
+Thunder Attack;Ataque Trueno;;;;雷属性攻撃;雷属性攻击
+Ice Attack;Ataque Hielo;;;;氷属性攻撃;冰属性攻击
+Dragon Attack;Ataque Dragón;;;;龍属性攻撃;龙属性攻击
+Fire Res;Res. Fuego;;;;火耐性;火耐性
+Water Res;Res. Agua;;;;水耐性;水耐性
+Thunder Res;Res. Trueno;;;;雷耐性;雷耐性
+Ice Res;Res. Hielo;;;;氷耐性;冰耐性
+Dragon Res;Res. Dragón;;;;龍耐性;龙耐性
+Sharpness;Afilado;;;;斬れ味;锋利度
+Handicraft;Artesano;;;;匠;匠
+Sharpening Speed;Afilador;;;;研ぎ師;研磨师
+Punishing Draw;Desenv. Castig.;;;;抜刀減気;拔刀减气
+Critical Draw;Desenv. Crit.;;;;抜刀会心;拔刀会心
+Fencing;Esgrima;;;;剣術;剑术
+Reload Speed;Vel. Recarga;;;;装填速度;装填速度
+Loading;Carga;;;;装填数;装填数
+Rapid Fire;Fuego Rapido;;;;速射;速射
+Recoil;Retroceso;;;;反動;后坐力
+Precision;Presición;;;;精密射撃;精密射击
+Normal Up;Disp. Normal Aum.;;;;通常弾強化;通常弹强化
+Pierce Up;Disp. Perf. Aum.;;;;貫通弾強化;贯通弹强化
+Pellet Up;Disp. Perd. Aum.;;;;散弾強化;散弹强化
+Normal S+;Disp. Normal +;;;;通常弾追加;通常弹追加
+Pierce S+;Disp. Perf. +;;;;貫通弾追加;贯通弹追加
+Pellet S+;Disp. Perd. +;;;;散弾追加;散弹追加
+Crag S+;Disp. Explos. +;;;;榴弾追加;榴弹追加
+Clust S+;Disp. Grupo +;;;;拡散弾追加;扩散弹追加
+Slicing S+;Disp. Cort. +;;;;斬裂弾追加;斩裂弹追加
+Slime S+;Disp. Blast +;;;;爆破弾追加;爆破弹追加
+Poison C+;Disp. Veneno +;;;;毒瓶追加;毒瓶追加
+Paralysis C+;Disp. Paral. +;;;;麻痺瓶追加;麻痹瓶追加
+Sleep C+;Disp. Sueño +;;;;睡眠瓶追加;睡眠瓶追加
+Power C+;Rev. Poder +;;;;強撃瓶追加;强击瓶追加
+C.Range C+;Rev. Rango +;;;;接撃瓶追加;接撃瓶追加
+Exhaust C+;Rev. Fatiga +;;;;減気瓶追加;减气瓶追加
+Slime C+;Rev. Blast +;;;;爆破瓶追加;爆破瓶追加
+Maestro;Maestro;;;;笛;笛
+Artillery;Artilleria;;;;砲術;炮术
+Bomb Boost;Aum. Bombas;;;;爆弾強化;爆弹强化
+Recovery Level;Niv. Recuperación;;;;回復量;回复量
+Wide Range;Area Amplia;;;;広域;广域
+Lasting Power;Duración;;;;効果持続;效果持续
+Hunger;Hambre;;;;腹減り;饥饿
+Gluttony;Glotoneria;;;;食いしん坊;大胃王
+Eating;Comer;;;;食事;食事
+Carnivore;Carnivoro;;;;肉食;肉食
+Combo Rate;Éxito Combinacion;;;;調合成功率;调合成功率
+Combo Plus;Combinacion +;;;;調合数;调合数
+Gathering;Recogida;;;;採取;采集
+Speed Gather;Recog. Rapida;;;;高速収集;高速收集
+Whim;Capricho;;;;気まぐれ;反复无常
+Honey;Miel;;;;ハチミツ;蜂蜜
+Charmer;Amuletos;;;;護石王;护石王
+Fate;Destino;;;;運気;运气
+Carving;Carveo;;;;剥ぎ取り;剥取
+Tranquilizer;Tranquilzador;;;;捕獲;捕获
+Perception;Percepción;;;;観察眼;观察眼
+Psychic;Psiquico;;;;千里眼;千里眼
+Transporter;Transportador;;;;運搬;搬运
+Ranger;Cazador;;;;狩人;狩人
+Anti-Theft;antirrobo;;;;盗み無効;偷盗无效
+Speed Setup;Trampa Rapida;;;;高速設置;高速设置
+Flame Aura;Aura Flama;;;;燃鱗;燃鳞
+Potential;Potencial;;;;底力;底力
+Survivor;Sobreviviente;;;;逆境;逆境
+Gloves Off;Seriedad;;;;本気;认真
+Spirit;Espititu;;;;闘魂;斗魂
+Unscathed;Intocable;;;;無傷;无伤
+Free Element;Elemento Liberado;;;;属性解放;属性解放
+Guts;Agallas;;;;根性;根性
+Team Player;Batuta Otomo;;;;采配;采配
+Team Leader;Orden de Mando;;;;号令;号令
+Auto-Guard;Autoguardia;;;;自動防御;自动防御
+Blight Res;Res. Plaga;;;;属性耐性;属性耐性
+Status Res;Res. Estado;;;;状態耐性;状态耐性
+Fury;Furia;;;;怒;怒
+Edgemaster;Filo Maestro;;;;刀匠;刀匠
+Steadyhand;Mano Firme;;;;射手;射手
+Unshakable;Inquebrantable;;;;不動;不动
+Single-Minded;Mente;;;;一心;一心
+Firm Defence;Defenza Firme;;;;頑強;顽强
+Greedy;Codicia;;;;強欲;强欲
+Infection Res;Res. Locura;;;;狂撃耐性;狂击耐性
+Precise Attack;Ataque Preciso;;;;剛撃;刚击
+Commander;Comando Otomo;;;;指揮;指挥
+Rider;Jinete;;;;乗り;骑乘
+Martial Arts;Artes Marciales;;;;居合;居合
+Acrobat;Acrobata;;;;回避術;回避术
+Shielder;Escudero;;;;盾持;盾持
+Finesse;Delicadeza;;;;潔癖;洁癖
+Charm Collector;Colec. Amuletos;;;;護石収集;护石收集
+Amplifier;Amplificador;;;;増幅;增幅
+Torso Up;Torso Aumentado;;;;胴系統倍化;胴系統倍化
+Negate Poison;Veneno Anulado;;;;毒無効;毒无效
+Double Poison;Veneno Doblado;;;;毒倍加;毒倍加
+Negate Paralysis;Paralisis Negada;;;;麻痺無効;麻痹无效
+Double Paralysis;Paralisis Doblada;;;;麻痺倍加;麻痹倍加
+Negate Sleep;Sueño Anulado;;;;睡眠無効;睡眠无效
+Double Sleep;Sueño Doblado;;;;睡眠倍加;睡眠倍加
+Halve Stun;Aturdim. a Mitad;;;;気絶確率半減;气绝概率减半
+Negate Stun;Aturdim. Negado;;;;気絶無効;气绝无效
+Double Stun;Aturdim. Doblado;;;;気絶倍加;气绝倍加
+Negate Mud/Snow;Barro/Nieve Anulado;;;;泥＆雪無効;泥＆雪无效
+Iron Skin;Piel de Hierro;;;;鉄面皮;铁面皮
+Bio Student;Bio Estudiante;;;;細菌研究家;细菌研究家
+Bio Master;Bio Maestro;;;;バイオドクター;生物博士
+Attack Up (S);Ataque Aum. (Bajo);;;;攻撃力UP【小】;攻击力UP【小】
+Attack Up (M);Ataque Aum. (Medio);;;;攻撃力UP【中】;攻击力UP【中】
+Attack Up (L);Ataque Aum. (Alto);;;;攻撃力UP【大】;攻击力UP【大】
+Attack Up (U);Ataque Aum. (Ultra);;;;攻撃力UP【超】;攻击力UP【超】
+Attack Down (S);Ataque Dismin. (Bajo);;;;攻撃力DOWN【小】;攻击力DOWN【小】
+Attack Down (M);Ataque Dismin. (Medio);;;;攻撃力DOWN【中】;攻击力DOWN【中】
+Attack Down (L);Ataque Dismin. (Alto);;;;攻撃力DOWN【大】;攻击力DOWN【大】
+Defense Up (S);Defensa Aum. (Bajo);;;;防御力UP【小】;防御力UP【小】
+Defense Up (M);Defensa Aum. (Medio);;;;防御力UP【中】;防御力UP【中】
+Defense Up (L);Defensa Aum. (Alto);;;;防御力UP【大】;防御力UP【大】
+Defense Up (U);Defensa Aum. (Ultra);;;;防御力UP【超】;防御力UP【超】
+Defense Down (S);Defensa Dismin. (Bajo);;;;防御力DOWN【小】;防御力DOWN【小】
+Defense Down (M);Defensa Dismin. (Medio);;;;防御力DOWN【中】;防御力DOWN【中】
+Defense Down (L);Defensa Dismin. (Alto);;;;防御力DOWN【大】;防御力DOWN【大】
+Health +20;Salud +20;;;;体力+20;体力+20
+Health +50;Salud +50;;;;体力+50;体力+50
+Health -10;Salud -10;;;;体力-10;体力-10
+Health -30;Salud -30;;;;体力-30;体力-30
+Rec Speed +1;Vel. Recup +1;;;;回復速度+1;回復速度+1
+Rec Speed +2;Vel. Recup +2;;;;回復速度+2;回復速度+2
+Rec Speed -1;Vel. Recup -1;;;;回復速度-1;回復速度-1
+Rec Speed -2;Vel. Recup -2;;;;回復速度-2;回復速度-2
+Divine Protection;Proteccion Divina;;;;精霊の加護;精灵的加护
+Demonic Protection;Proteccion Demoniaca;;;;悪霊の加護;恶灵的加护
+Quick Sheath;Vaina Rápida;;;;納刀術;收刀术
+Focus;Concentación;;;;集中;集中
+Distraction;Distracción;;;;雑念;杂念
+Critical Eye +1;Ojo Critico +1;;;;見切り+1;看破+1
+Critical Eye +2;Ojo Critico +2;;;;見切り+2;看破+2
+Critical Eye +3;Ojo Critico +3;;;;見切り+3;看破+3
+Critical Master;Ojo Critico Maestro;;;;見切りマスター;看破大师
+Critical Eye -1;Ojo Critico -1;;;;見切り-1;看破-1
+Critical Eye -2;Ojo Critico -2;;;;見切り-2;看破-2
+Critical Eye -3;Ojo Critico -3;;;;見切り-3;看破-3
+Weakness Exploit;Aguijón;;;;弱点特効;弱点特效
+Part Breaker;Destructor;;;;破壊王;破坏王
+Knockout King;Rey del KO;;;;KO術;KO术
+Stamina Thief;Robarresistencia;;;;スタミナ奪取;耐力夺取
+Constitution +1;Constitución +1;;;;体術+1;体术+1
+Constitution +2;Constitución +2;;;;体術+2;体术+2
+Constitution -1;Constitución -1;;;;体術-1;体术-1
+Constitution -2;Constitución -2;;;;体術-2;体术-2
+Earplugs;Tapon de Oido;;;;耳栓;耳栓
+HG Earplugs;Tapon de Oido Alta Cal.;;;;高級耳栓;高级耳栓
+Windproof (Lo);Res. Viento +1;;;;風圧【小】無効;风圧【小】无效
+Windproof (Hi);Res. Viento +2;;;;風圧【大】無効;风圧【大】无效
+Tremor Resistence;Res. Temblor;;;;耐震;耐震
+Heat Cancel;Anula el calor;;;;暑さ無効;暑气无效
+Heat Surge;Aumentar calor;;;;暑さ倍加;暑气倍加
+Cold Cancel;Anula el Frío;;;;寒さ無効;寒气无效
+Cold Surge;Aumento de Frío;;;;寒さ倍加;寒气倍加
+Marathon Runner;Corredor +1;;;;ランナー;飞人
+Short Sprinter;Corredor -1;;;;鈍足;钝足
+Stamina Recovery Up;Resis. Recup +1;;;;スタミナ急速回復;耐力急速回复
+Stamina Recovery Down;Resis. Recup -1;;;;スタミナ回復遅延;耐力回復延迟
+Evasion +1;Evasión +1;;;;回避性能+1;回避性能+1
+Evasion +2;Evasión +2;;;;回避性能+2;回避性能+2
+Evasion +3;Evasión +3;;;;回避性能+3;回避性能+3
+Evasion Down;Evasión -1;;;;回避性能DOWN;回避性能DOWN
+Evade Extender;Dist. Evasión;;;;回避距離UP;回避距离UP
+Sneak;Sigilio;;;;隠密;隐秘
+Taunt;Provocación;;;;挑発;挑衅
+Guard +1;Guardia +1;;;;ガード性能+1;防御性能+1
+Guard +2;Guardia +2;;;;ガード性能+2;防御性能+2
+Guard -1;Guardia -1;;;;ガード性能-1;防御性能-1
+Guard Boost;Guardia Aumentada;;;;ガード強化;防御强化
+Status Attack +1;Estado Anorm. +1;;;;状態異常攻撃+1;状态异常攻击+1
+Status Attack +2;Estado Anorm. +2;;;;状態異常攻撃+2;状态异常攻击+2
+Status Attack Down;Estado Anorm. Dism.;;;;状態異常攻撃弱化;状态异常攻击弱化
+Elemental Attack Up;Elemental +1;;;;属性攻撃強化;属性攻击强化
+Elemental Attack Down;Elemental -1;;;;属性攻撃弱化;属性攻击弱化
+Fire Attack +1;Ataque fuego +1;;;;火属性攻撃強化+1;火属性攻击强化+1
+Fire Attack +2;Ataque fuego +2;;;;火属性攻撃強化+2;火属性攻击强化+2
+Fire Attack +3;Ataque fuego +3;;;;火属性攻撃強化+3;火属性攻击强化+3
+Fire Attack Down;Ataque Fuego Dism.;;;;火属性攻撃弱化;火属性攻击弱化
+Water Attack +1;Ataque Agua +1;;;;水属性攻撃強化+1;水属性攻击强化+1
+Water Attack +2;Ataque Agua +2;;;;水属性攻撃強化+2;水属性攻击强化+2
+Water Attack +3;Ataque Agua +3;;;;水属性攻撃強化+3;水属性攻击强化+3
+Water Attack Down;Ataque Agua Dism.;;;;水属性攻撃弱化;水属性攻击弱化
+Thunder Attack +1;Ataque Trueno +1;;;;雷属性攻撃強化+1;雷属性攻击强化+1
+Thunder Attack +2;Ataque Trueno +2;;;;雷属性攻撃強化+2;雷属性攻击强化+2
+Thunder Attack +3;Ataque Trueno +3;;;;雷属性攻撃強化+3;雷属性攻击强化+3
+Thunder Attack Down;Ataque Trueno Dism.;;;;雷属性攻撃弱化;雷属性攻击弱化
+Ice Attack +1;Ataque Hielo +1;;;;氷属性攻撃強化+1;冰属性攻击强化+1
+Ice Attack +2;Ataque Hielo +2;;;;氷属性攻撃強化+2;冰属性攻击强化+2
+Ice Attack +3;Ataque Hielo +3;;;;氷属性攻撃強化+3;冰属性攻击强化+3
+Ice Attack Down;Ataque Hielo Dism.;;;;氷属性攻撃弱化;冰属性攻击弱化
+Dragon Attack +1;Ataque Dragón +1;;;;龍属性攻撃強化+1;龙属性攻击强化+1
+Dragon Attack +2;Ataque Dragón +2;;;;龍属性攻撃強化+2;龙属性攻击强化+2
+Dragon Attack +3;Ataque Dragón +3;;;;龍属性攻撃強化+3;龙属性攻击强化+3
+Dragon Attack Down;Ataque Dragón Dism.;;;;龍属性攻撃弱化;龙属性攻击弱化
+Fire Res (S);Res.fuego +15;;;;火耐性【小】;火耐性【小】
+Fire Res (L);Res.fuego +20;;;;火耐性【大】;火耐性【大】
+Fire Res Down;Res. Fuego -20;;;;火耐性弱化;火耐性弱化
+Water Res (S);Res. Agua +15;;;;水耐性【小】;水耐性【小】
+Water Res (L);Res. Agua +20;;;;水耐性【大】;水耐性【大】
+Water Res Down;Res. Agua -20;;;;水耐性弱化;水耐性弱化
+Thunder Res (S);Res. Trueno +15;;;;雷耐性【小】;雷耐性【小】
+Thunder Res (L);Res. Trueno +20;;;;雷耐性【大】;雷耐性【大】
+Thunder Res Down;Res. Trueno -20;;;;雷耐性弱化;雷耐性弱化
+Ice Res (S);Res. Hielo +15;;;;氷耐性【小】;冰耐性【小】
+Ice Res (L);Res. Hielo +20;;;;氷耐性【大】;冰耐性【大】
+Ice Res Down;Res. Hielo -20;;;;氷耐性弱化;冰耐性弱化
+Dragon Res (S);Res. Dragón +15;;;;龍耐性【小】;龙耐性【小】
+Dragon Res (L);Res. Dragón +20;;;;龍耐性【大】;龙耐性【大】
+Dragon Res Down;Res. Dragón -20;;;;龍耐性弱化;龙耐性弱化
+Razor Sharp;Espada Afilada;;;;業物;业物
+Blunt Edge;Espada Desafilada;;;;なまくら;钝刀
+Sharpness +1;Afilado +1;;;;斬れ味レベル+1;锋利度等级+1
+Speed Sharpening;Afilado Rápido;;;;砥石使用高速化;砥石使用高速化
+Slow Sharpening;Afilado Lento;;;;砥石使用低速化;砥石使用低速化
+Punishing Draw;Desenv. Castigador;;;;抜刀術【力】;抜刀术【力】
+Critical Draw;Desenv. Critico;;;;抜刀術【技】;抜刀术【技】
+Mind's Eye;Ojo Critico;;;;心眼;心眼
+Reload Speed +1;Vel. Recarga +1;;;;装填速度+1;装填速度+1
+Reload Speed +2;Vel. Recarga +2;;;;装填速度+2;装填速度+2
+Reload Speed +3;Vel. Recarga +3;;;;装填速度+3;装填速度+3
+Reload Speed -1;Vel. Recarga -1;;;;装填速度-1;装填速度-1
+Reload Speed -2;Vel. Recarga -2;;;;装填速度-2;装填速度-2
+Reload Speed -3;Vel. Recarga -3;;;;装填速度-3;装填速度-3
+Load Up;Carga +;;;;装填数UP;装填数UP
+Bonus Shot;Disparo bonus;;;;連発数+1;速射数+1
+Recoil Reduction +1;Retroceso +1;;;;反動軽減+1;后坐力减轻+1
+Recoil Reduction +2;Retroceso +2;;;;反動軽減+2;后坐力减轻+2
+Recoil Reduction +3;Retroceso +3;;;;反動軽減+3;后坐力减轻+3
+Recoil Reduction -1;Retroceso -1;;;;反動軽減-1;后坐力减轻-1
+Recoil Reduction -2;Retroceso -2;;;;反動軽減-2;后坐力减轻-2
+Recoil Reduction -3;Retroceso -3;;;;反動軽減-3;后坐力减轻-3
+Steadiness +1;Precisión +1;;;;ブレ抑制+1;摇晃抑制+1
+Steadiness +2;Precisión +2;;;;ブレ抑制+2;摇晃抑制+2
+Steadiness -1;Precisión -1;;;;ブレ抑制-1;摇晃抑制-1
+Steadiness -2;Precisión -2;;;;ブレ抑制-2;摇晃抑制-2
+Normal/Rapid Up;Disp. Normal/Rapido +;;;;通常弾・連射矢UP;通常弹・连射箭UP
+Pierce/Pierce Up;Disp. Perfor. +;;;;貫通弾・貫通矢UP;貫通弹・贯通箭UP
+Pellet/Scatter Up;Disp. Perd./Abanico+;;;;散弾・拡散矢UP;散弹・扩散箭UP
+NormalS All Add;Usa normal;;;;通常弾全LV追加;通常弹全LV追加
+PierceS Lv1 Add;Usa perfor. Nv1;;;;貫通弾LV1追加;貫通弹LV1追加
+PierceS All Add;Usa perforador;;;;貫通弾全LV追加;貫通弹全LV追加
+PelletS Lv1 Add;Usa perdi. Nv1;;;;散弾LV1追加;散弹LV1追加
+PelletS All Add;Usa perdigón;;;;散弾全LV追加;散弹全LV追加
+CragS Lv1 Add;Usa explos. Nv1;;;;徹甲榴弾LV1追加;徹甲榴弹LV1追加
+CragS All Add;Usa explosivo;;;;徹甲榴弾全LV追加;徹甲榴弹全LV追加
+ClustS Lv1 Add;Usa grupo Nv1;;;;拡散弾LV1追加;扩散弹LV1追加
+ClustS All Add;Usa grupo;;;;拡散弾全LV追加;扩散弹全LV追加
+SlicingS Add;Usa cortador;;;;斬裂弾追加;斬裂弹追加
+SlimeS Add;Usa Blast;;;;爆破弾追加;爆破弹追加
+Poison Coat Add;Rev. Veneno +;;;;毒ビン追加;毒瓶追加
+Paralysis Coat Add;Rev. Paralizis +;;;;麻痺ビン追加;麻痹瓶追加
+Sleep Coat Add;Rev. Sueño +;;;;睡眠ビン追加;睡眠瓶追加
+Power Coat Add;Rev. Poder +;;;;強撃ビン追加;强击瓶追加
+C.Range Coat Add;Rev. Alcance +;;;;接撃ビン追加;接击瓶追加
+Exhaust Coat Add;Rev. Fatiga +;;;;減気ビン追加;减气瓶追加
+Slime Coat Add;Rev. Blast +;;;;爆破ビン追加;爆破瓶追加
+Horn Maestro;Flautista;;;;笛吹き名人;吹笛名人
+Artillery Novice;Artilleria +1;;;;砲術師;炮术师
+Artillery Expert;Artilleria +2;;;;砲術王;炮术王
+Artillery Master;Maestro Artillero;;;;砲術マスター;炮术大师
+Bombardier;Bombardero;;;;ボマー;炸弹人
+Recovery Up;Niv. Recuperac. +1;;;;体力回復量UP;体力回復量UP
+Recovery Down;Niv. Recuperac. -1;;;;体力回復量DOWN;体力回復量DOWN
+Wide Range +1;Area Amplia +1;;;;広域化+1;广域化+1
+Wide Range +2;Area Amplia +2;;;;広域化+2;广域化+2
+Item Use Up;Duración +1;;;;アイテム使用強化;道具使用强化
+Item Use Down;Duración -1;;;;アイテム使用弱化;道具使用弱化
+Negate Hunger;Hambre Negada;;;;腹減り無効;饥饿无效
+Halve Hunger;Hambre a Mitad.;;;;腹減り半減;饥饿减半
+Raise Hunger;Hambre Aument.;;;;腹減り倍加【小】;饥饿倍加【小】
+Double Hunger;Hambre Doblada;;;;腹減り倍加【大】;饥饿倍加【大】
+Gourmand;Glotón;;;;まんぷく;饱腹
+Scavenger;Carroñero;;;;拾い食い;捡食
+Speed Eating +1;Consumir +1;;;;早食い+1;速食者+1
+Speed Eating +2;Consumir +2;;;;早食い+2;速食者+2
+Slow Eater;Consumir -1;;;;スローライフ;慢食者
+Meat Lover;Carnívoro;;;;お肉大好き;食肉动物
+Combination +20%;Combinación +20%;;;;調合成功率+20%;调合成功率+20%
+Combination +45%;Combinación +45%;;;;調合成功率+45%;调合成功率+45%
+Combination -10%;Combinación -10%;;;;調合成功率-10%;调合成功率-10%
+Combination -20%;Combinación -20%;;;;調合成功率-20%;调合成功率-20%
+Combination Pro;Combinación +;;;;最大数生産;最大数生产
+Gathering +1;Recogida +1;;;;採取+1;采集+1
+Gathering +2;Recogida +2;;;;採取+2;采集+2
+Gathering Master;Maestro en Recogida;;;;採取マスター;采集大师
+Gathering -1;Recogida -1;;;;採取-1;采集-1
+Speed Gatherer;Veloc. Recogida;;;;高速収集;高速収集
+Divine Whim;Capricho Espiritu;;;;精霊の気まぐれ;精灵的反复无常
+Spirit's Whim;Capricho Divino;;;;神の気まぐれ;神的反复无常
+Spectre's Whim;Capricho  Espectro;;;;悪霊の気まぐれ;恶灵的反复无常
+Devil's Whim;Capricho Demoniaco;;;;悪魔の気まぐれ;恶魔的反复无常
+Honey Hunter;Cazamiel;;;;ハニーハンター;甜心猎人
+Charm Chaser;Buscador de Amuletos;;;;お守り収集;护身符收集者
+Charm Hunter;Cazador Amuletos;;;;お守りハンター;护身符猎人
+Charm Master;Maestro de Amuletos;;;;お守りマスター;护身符大师
+Good Luck;Buena Suerte;;;;幸運;幸运
+Great Luck;Gran Suerte;;;;強運;强运
+Super Luck;Ultra Suerte;;;;激運;激运
+Bad Luck;Mala Suerte;;;;不運;不运
+Horrible Luck;Suerte Horrible;;;;災難;灾难
+Carving Pro;Carveador Pro.;;;;剥ぎ取り鉄人;剥取铁人
+Carving Expert;Carveador Experto;;;;剥ぎ取り達人;剥取达人
+Carving Master;Carveador Maestro.;;;;剥ぎ取りマスター;剥取大师
+Capture Pro;Novato en Captura;;;;捕獲達人;捕获达人
+Capture Expert;Experto en Captura;;;;捕獲名人;捕获名人
+Capture Master;Maestro en Captura;;;;捕獲マスター;捕获大师
+Capture Guru;Gurú de Captura;;;;捕獲の見極め;捕获的极致
+Detect;Detección;;;;探知;探知
+Autotracker;Autoseguimiento;;;;自動マーキング;自动标记
+Pro Transporter;Exp. Mochilero;;;;運搬の達人;搬运达人
+Outdoorsman;Soldado;;;;ハンター生活;猎人生活
+Anti-Theft;Antirrobo;;;;盗み無効;偷盗无效
+Trap Master;Trampero;;;;罠師;陷阱师
+Flame Aura;Aura de Llama;;;;燃鱗;燃鳞
+Adrenaline +1;Adrenalina +1;;;;火事場力+1;火事场力+1
+Adrenaline +2;Adrenalina +2;;;;火事場力+2;火事场力+2
+Worrywart;Agobiado;;;;心配性;胆小
+Fortify;Fortalecer;;;;不屈;不屈
+Latent Power +1;Poder oculto +1;;;;力の解放+1;力之解放+1
+Latent Power +2;Poder oculto +2;;;;力の解放+2;力之解放+2
+Challenger +1;Espíritu +1;;;;挑戦者+1;挑战者+1
+Challenger +2;Espíritu +2;;;;挑戦者+2;挑战者+2
+Peak Performance;Rendimiento Maximo;;;;フルチャージ;充满
+Awaken;Despertar;;;;覚醒;觉醒
+Guts;Agallas;;;;根性;根性
+Felyne Rally;Carrera Felyne;;;;オトモへの采配;猫猫采配
+Felyne Cheer;Animo Felyne;;;;オトモへの号令;猫猫号令
+Auto-Guard;Autoguardia;;;;オートガード;自动防御
+Blightproof;Antiplagas;;;;属性やられ無効;属性异常无效
+Wellness;Bienestar;;;;護法;护法
+Wrath Awoken;Furia Despertada;;;;逆鱗;逆鱗
+Honed Blade;Hoja Afilada;;;;真打;真打
+Silver Bullet;Bala de Plata;;;;剛弾;钢弹
+Rock Steady;Invencible;;;;金剛体;金刚体
+Predatory Focus;Sinergia;;;;精神力;精神力
+Impregnable;Inexpugnable;;;;鉄壁;铁壁
+Filthy Rich;Ricachon;;;;増収;增收
+Infection Resist;Res. Infeccion;;;;無我の境地;无我境地
+Ruthless;Despiadado;;;;無慈悲;无慈悲
+Felyne Commander;Comandante Felyne;;;;オトモ指揮官;猫猫指挥官
+Ride Master;Jinete Maestro;;;;乗り名人;骑乘名人
+Poor Rider;Jinete Mediocre;;;;乗り下手;骑乘下手
+Punishing Skill;Hab. Castigadora;;;;居合術【力】;居合术【力】
+Acrobatics;Acrobata;;;;軽業師;轻业师
+Shields Up;Escudo Alzado;;;;盾使い;盾使用
+Dancer;Bailarin;;;;舞闘家;舞斗家
+Charm Mania;Maniaco de Amuletos;;;;お守りマニア;护身符狂热
+Amplification;Amplificacion;;;;属物強化;属物强化

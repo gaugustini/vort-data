@@ -1,0 +1,340 @@
+english;spanish;french;italian;german;japanese;chinese
+Leather Vest;;Tunique en cuir;;Leder-Weste;レザーベスト;轻皮内衣
+Chainmail Vest;;Tunique en maille;;Ketten-Weste;チェーンベスト;锁链内衣
+Yukumo Dogi;;Keikogi Yukumo;;Yukumo-Dogi;ユクモノドウギ;结云外套
+Loc Lac Shawl;;Foulard de Loc Lac;;Loc-Lac-Tuch;ロックラックスーツ;洛克拉克上衣
+Hunter's Mail;;Cotte de chasseur;;Jäger-Panzer;ハンターメイル;猎人铠甲
+Hunter's Vest;;Tunique de chasseur;;Jäger-Weste;ハンターレジスト;猎人炼甲
+Alloy Mail;;Cotte en alliage;;Legierungs-Panzer;アロイメイル;合金铠甲
+Alloy Vest;;Tunique en alliage;;Legierungs-Weste;アロイレジスト;合金炼甲
+Bone Mail;;Cotte d'os;;Knochen-Panzer;ボーンメイル;骨制铠甲
+Bone Vest;;Tunique d'os;;Knochen-Weste;ボーンレジスト;骨制炼甲
+Bnahabra Suit;;Armure Bnahabra;;Bnahabra-Anzug;ブナハスーツ;飞甲虫上衣
+Bnahabra Vest;;Tunique Bnahabra;;Bnahabra-Weste;ブナハベスト;飞甲虫内衣
+Rhenoplos Mail;;Cotte Rhenoplos;;Rhenoplos-Panzer;リノプロメイル;草食龙铠甲
+Rhenoplos Vest;;Tunique Rhenoplos;;Rhenoplos-Weste;リノプロレジスト;草食龙炼甲
+Jaggi Mail;;Cotte Jaggi;;Jaggi-Panzer;ジャギィメイル;狗龙铠甲
+Jaggi Vest;;Tunique Jaggi;;Jaggi-Weste;ジャギィレジスト;狗龙炼甲
+Arzuros Mail;;Cotte Arzuros;;Arzuros-Panzer;アシラメイル;青熊兽铠甲
+Arzuros Vest;;Tunique Arzuros;;Arzuros-Weste;アシラレジスト;青熊兽炼甲
+Wroggi Mail;;Cotte Wroggi;;Wroggi-Panzer;フロギィメイル;毒狗龙铠甲
+Wroggi Vest;;Tunique Wroggi;;Wroggi-Weste;フロギィレジスト;毒狗龙炼甲
+Qurupeco Mail;;Cotte Qurupeco;;Qurupeco-Panzer;ペッコメイル;彩鸟铠甲
+Qurupeco Vest;;Tunique Qurupeco;;Qurupeco-Weste;ペッコレジスト;彩鸟炼甲
+Ludroth Mail;;Cotte Ludroth;;Ludroth-Panzer;ルドロスメイル;水兽铠甲
+Ludroth Vest;;Tunique Ludroth;;Ludroth-Weste;ルドロスレジスト;水兽炼甲
+Baggi Mail;;Cotte Baggi;;Baggi-Panzer;バギィメイル;眠狗龙铠甲
+Baggi Vest;;Tunique Baggi;;Baggi-Weste;バギィレジスト;眠狗龙炼甲
+Lagombi Mail;;Cotte Lagombi;;Lagombi-Panzer;ウルクメイル;白兔兽铠甲
+Lagombi Vest;;Tunique Lagombi;;Lagombi-Weste;ウルクレジスト;白兔兽炼甲
+Barroth Mail;;Cotte Barroth;;Barroth-Panzer;ボロスメイル;土砂龙铠甲
+Barroth Vest;;Tunique Barroth;;Barroth-Weste;ボロスレジスト;土砂龙炼甲
+Volvidon Mail;;Cotte Volvidon;;Volvidon-Panzer;ラングロメイル;赤甲兽铠甲 
+Volvidon Vest;;Tunique Volvidon;;Volvidon-Weste;ラングロレジスト;赤甲兽炼甲
+Gobul Mail;;Cotte Gobul;;Gobul-Panzer;ガブルメイル;灯鱼龙铠甲
+Gobul Vest;;Tunique Gobul;;Gobul-Weste;ガブルレジスト;灯鱼龙炼甲
+Rathian Mail;;Cotte Rathian;;Rathian-Panzer;レイアメイル;雌火龙铠甲
+Rathian Vest;;Tunique Rathian;;Rathian-Weste;レイアレジスト;雌火龙炼甲
+Gigginox Mail;;Cotte Gigginox;;Gigginox-Panzer;ネブラメイル;毒怪龙铠甲
+Gigginox Vest;;Tunique Gigginox;;Gigginox-Weste;ネブラレジスト;毒怪龙炼甲
+Ingot Mail;;Cotte en lingot;;Guss-Panzer;インゴットメイル;高合金铠甲
+Ingot Vest;;Tunique en lingot;;Guss-Weste;インゴットレジスト;高合金炼甲
+Barioth Mail;;Cotte Barioth;;Barioth-Panzer;ベリオメイル;冰牙龙铠甲
+Barioth Vest;;Tunique Barioth;;Barioth-Weste;ベリオレジスト;冰牙龙炼甲
+Nibelsnarf Mail;;Cotte Nibelsnarf;;Nibelsnarf-Panzer;ハプルメイル;潜口龙铠甲
+Nibelsnarf Vest;;Tunique Nibelsnarf;;Nibelsnarf-Weste;ハプルレジスト;潜口龙炼甲
+Guild Bard Bolero;;Boléro de barde;;Gildenbarden-Bolero;ギルドバードスーツ;工会精英上衣
+Guild Bard Vest;;Tunique de barde;;Gildenbarden-Weste;ギルドバードベスト;工会精英内衣
+Scholar's Blouse;;Blouse de clerc;;Gelehrten-Bluse;スカラースーツ;店员上衣
+Scholar's Vest;;Tunique de clerc;;Gelehrten-Weste;スカラーベスト;店员内衣
+Lagiacrus Mail;;Cotte Lagiacrus;;Lagiacrus-Panzer;ラギアメイル;海龙铠甲
+Lagiacrus Vest;;Tunique Lagiacrus;;Lagiacrus-Weste;ラギアレジスト;海龙炼甲
+Rathalos Mail;;Cotte Rathalos;;Rathalos-Panzer;レウスメイル;雄火龙铠甲
+Rathalos Vest;;Tunique Rathalos;;Rathalos-Weste;レウスレジスト;雄火龙炼甲
+Duramboros Mail;;Cotte Duramboros;;Duramboros-Panzer;ドボルメイル;尾槌龙铠甲
+Duramboros Vest;;Tunique Duramboros;;Duramboros-Weste;ドボルレジスト;尾槌龙炼甲
+Diablos Mail;;Cotte Diablos;;Diablos-Panzer;ディアブロメイル;角龙铠甲
+Diablos Vest;;Tunique Diablos;;Diablos-Weste;ディアブロレジスト;角龙炼甲
+Uragaan Mail;;Cotte Uragaan;;Uragaan-Panzer;ガンキンメイル;爆锤龙铠甲
+Uragaan Vest;;Tunique Uragaan;;Uragaan-Weste;ガンキンレジスト;爆锤龙炼甲
+Agnaktor Mail;;Cotte Agnaktor;;Agnaktor-Panzer;アグナメイル;炎戈龙铠甲
+Agnaktor Vest;;Tunique Agnaktor;;Agnaktor-Weste;アグナレジスト;炎戈龙炼甲
+Helios Mail;;Cotte Helios;;Helios-Panzer;ヘリオスメイル;太阳神铠甲
+Helios Vest;;Tunique Helios;;Helios-Weste;ヘリオスレジスト;太阳神炼甲
+Selene Mail;;Cotte Selene;;Selene-Panzer;セレネメイル;月神铠甲
+Selene Vest;;Tunique Selene;;Selene-Weste;セレネレジスト;月神炼甲
+Leather Mail S;;Cotte en cuir S;;Leder-Panzer S;レザーＳメイル;轻皮铠甲Ｓ
+Leather Vest S;;Tunique en cuir S;;Leder-Weste S;レザーＳレジスト;轻皮炼甲Ｓ
+Yukumo Sky Dogi;;Keikogi ciel Yukumo;;Yukumo-Himmel-Dogi;ユクモノドウギ・天;结云外套・天
+Yukumo Land Dogi;;Keikogi terre Yukumo;;Yukumo-Land-Dogi;ユクモノドウギ・地;结云外套・地
+Chainmail Armor S;;Cotte de mailles S;;Ketten-Rüstung S;チェーンＳメイル;锁链铠甲Ｓ
+Chainmail Vest S;;Tunique de mailles S;;Ketten-Weste S;チェーンＳレジスト;锁链炼甲Ｓ
+Loc Lac Shawl S;;Foulard de Loc Lac S;;Loc-Lac-Tuch S;ロックラックＳスーツ;洛克拉克上衣Ｓ
+Loc Lac Vest S;;Tunique de Loc Lac S;;Loc-Lac-Weste S;ロックラックＳベスト;洛克拉克内衣Ｓ
+Hunter's Mail S;;Cotte de chasseur S;;Jäger-Panzer S;ハンターＳメイル;猎人铠甲Ｓ
+Hunter's Vest S;;Tunique chasseur S;;Jäger-Weste S;ハンターＳレジスト;猎人炼甲Ｓ
+Bone Mail S;;Cotte d'os S;;Knochen-Panzer S;ボーンＳメイル;骨制铠甲Ｓ
+Bone Vest S;;Tunique d'os S;;Knochen-Weste S;ボーンＳレジスト;骨制炼甲Ｓ
+Alloy Mail S;;Cotte en alliage S;;Legierungs-Panzer S;アロイＳメイル;合金铠甲Ｓ
+Alloy Vest S;;Tunique en alliage S;;Legierungs-Weste S;アロイＳレジスト;合金炼甲Ｓ
+Bnahabra Suit S;;Armure Bnahabra S;;Bnahabra-Anzug S;ブナハＳスーツ;飞甲虫上衣Ｓ
+Bnahabra Vest S;;Tunique Bnahabra S;;Bnahabra-Weste S;ブナハＳベスト;飞甲虫内衣Ｓ
+Rhenoplos Mail S;;Cotte Rhenoplos S;;Rhenoplos-Panzer S;リノプロＳメイル;草食龙铠甲Ｓ
+Rhenoplos Vest S;;Tunique Rhenoplos S;;Rhenoplos-Wemste S;リノプロＳレジスト;草食龙炼甲Ｓ
+Slagtoth Cloak;;Cape Slagtoth;;Slagtoth-Überwurf;ズワロマント;垂皮披风
+Slagtoth Wrap;;Pagne Slagtoth;;Slagtoth-Umhang;ズワロケープ;垂皮大衣
+Dianthus Jacket;;Gilet Dianthus;;Dianthus-Jacke;撫子【花衣】;抚子【花衣】
+Campanile Jacket;;Gilet Campanile;;Campanile-Jacke;桔梗【花衣】;桔梗【花衣】
+Jaggi Mail S;;Cotte Jaggi S;;Jaggi-Panzer S;ジャギィＳメイル;狗龙铠甲Ｓ
+Jaggi Vest S;;Tunique Jaggi S;;Jaggi-Weste S;ジャギィＳレジスト;狗龙炼甲Ｓ
+Arzuros Mail S;;Cotte Arzuros S;;Arzuros-Panzer S;アシラＳメイル;青熊兽铠甲Ｓ
+Arzuros Vest S;;Tunique Arzuros S;;Arzuros-Weste S;アシラＳレジスト;青熊兽炼甲Ｓ
+Wroggi Mail S;;Cotte Wroggi S;;Wroggi-Panzer S;フロギィＳメイル;毒狗龙铠甲Ｓ
+Wroggi Vest S;;Tunique Wroggi S;;Wroggi-Weste S;フロギィＳレジスト;毒狗龙炼甲Ｓ
+Baggi Mail S;;Cotte Baggi S;;Baggi-Panzer S;バギィＳメイル;眠狗龙铠甲Ｓ
+Baggi Vest S;;Tunique Baggi S;;Baggi-Weste S;バギィＳレジスト;眠狗龙炼甲Ｓ
+Lagombi Mail S;;Cotte Lagombi S;;Lagombi-Panzer S;ウルクＳメイル;白兔兽铠甲Ｓ
+Lagombi Vest S;;Tunique Lagombi S;;Lagombi-Weste S;ウルクＳレジスト;白兔兽炼甲Ｓ
+Qurupeco Mail S;;Cotte Qurupeco S;;Qurupeco-Panzer S;ペッコＳメイル;彩鸟铠甲Ｓ
+Qurupeco Vest S;;Tunique Qurupeco S;;Qurupeco-Weste S;ペッコＳレジスト;彩鸟炼甲Ｓ
+Qurupeco Mail U;;Cotte Qurupeco U;;Qurupeco-Panzer U;ペッコＵメイル;红彩鸟铠甲Ｕ
+Qurupeco Vest U;;Tunique Qurupeco U;;Qurupeco-Weste  U;ペッコＵレジスト;红彩鸟炼甲Ｕ
+Ludroth Mail S;;Cotte Ludroth S;;Ludroth-Panzer S;ルドロスＳメイル;水兽铠甲Ｓ
+Ludroth Vest S;;Tunique Ludroth S;;Ludroth-Weste S;ルドロスＳレジスト;水兽炼甲Ｓ
+Ludroth Mail U;;Cotte Ludroth U;;Ludroth-Panzer U;ルドロスＵメイル;紫水兽铠甲Ｕ
+Ludroth Vest U;;Tunique Ludroth U;;Ludroth-Weste U;ルドロスＵレジスト;紫水兽炼甲Ｕ
+Volvidon Mail S;;Cotte Volvidon S;;Volvidon-Panzer S;ラングロＳメイル;赤甲兽铠甲Ｓ
+Volvidon Vest S;;Tunique Volvidon S;;Volvidon-Weste S;ラングロＳレジスト;赤甲兽炼甲Ｓ
+Aelucanth Thorax;;Thorax Aelucanth;;Aelucanth-Thorax;ロワーガペット;锹虫铠甲
+Aelucanth Pleuron;;Pleuron Aelucanth;;Aelucanth-Pleuron;ロワーガペクトス;锹虫炼甲
+Rhopessa Thorax;;Thorax Rhopessa;;Rhopessa-Thorax;ファルメルペット;蝴蝶铠甲
+Rhopessa Pleuron;;Pleuron Rhopessa;;Rhopessa-Pleuron;ファルメルペクトス;蝴蝶炼甲
+Artian Mail;;Cotte Artian;;Artian-Panzer;アーティアメイル;神秘铠甲
+Artian Vest;;Tunique Artian;;Artian-Weste;アーティアレジスト;神秘炼甲
+Barroth Mail S;;Cotte Barroth S;;Barroth-Panzer S;ボロスＳメイル;土砂龙铠甲Ｓ
+Barroth Vest S;;Tunique Barroth S;;Barroth-Weste S;ボロスＳレジスト;土砂龙炼甲Ｓ
+Barroth Mail U;;Cotte Barroth U;;Barroth-Panzer U;ボロスＵメイル;冰碎龙铠甲Ｕ
+Barroth Vest U;;Tunique Barroth U;;Barroth-Weste U;ボロスＵレジスト;冰碎龙炼甲Ｕ
+Gobul Mail S;;Cotte Gobul S;;Gobul-Panzer S;ガブルＳメイル;灯鱼龙铠甲Ｓ
+Gobul Vest S;;Tunique Gobul S;;Gobul-Weste S;ガブルＳレジスト;灯鱼龙炼甲Ｓ
+Mosgharl Ribplate;;Côte Mosgharl;;Mosgharl-Rippenplat.;マギュルトロンコ;南瓜外衣
+Mosgharl Ribguard;;Protège-c. Mosgharl;;Mosgharl-Rippenschu.;マギュルシュタム;南瓜内衣
+Guild Bard Bolero S;;Boléro de barde S;;Gildenbard.-Bolero S;ギルドバードＳスーツ;工会精英上衣Ｓ
+Guild Bard Vest S;;Tunique de barde S;;Gildenbarden-Weste S;ギルドバードＳベスト;工会精英内衣Ｓ
+Scholar's Blouse S;;Blouse de clerc S;;Gelehrten-Bluse S;スカラーＳスーツ;店员上衣Ｓ
+Scholar's Vest S;;Tunique de clerc S;;Gelehrten-Weste S;スカラーＳベスト;店员内衣Ｓ
+Ingot Mail S;;Cotte Ingot S;;Guss-Panzer S;インゴットＳメイル;高合金铠甲Ｓ
+Ingot Vest S;;Tunique Ingot S;;Guss-Weste S;インゴットＳレジスト;高合金炼甲Ｓ
+Rathian Mail S;;Cotte Rathian S;;Rathian-Panzer S;レイアＳメイル;雌火龙铠甲Ｓ
+Rathian Vest S;;Tunique Rathian S;;Rathian-Weste S;レイアＳレジスト;雌火龙炼甲Ｓ
+Rath Heart Mail;;Cotte Coeur Rath;;Rath.-Herz-Panzer;リオハートメイル;樱火龙铠甲
+Rath Heart Vest;;Tunique Coeur Rath;;Rath.-Herz-Weste;リオハートレジスト;樱火龙炼甲
+Gigginox Mail S;;Cotte Gigginox S;;Gigginox-Panzer S;ネブラＳメイル;毒怪龙铠甲Ｓ
+Gigginox Vest S;;Tunique Gigginox S;;Gigginox-Weste S;ネブラＳレジスト;毒怪龙炼甲Ｓ
+Gigginox Mail U;;Cotte Gigginox U;;Gigginox-Panzer U;ネブラＵメイル;电怪龙铠甲Ｕ
+Gigginox Vest U;;Tunique Gigginox U;;Gigginox-Weste U;ネブラＵレジスト;电怪龙炼甲Ｕ
+Plesioth Mail;;Cotte Plesioth;;Plesioth-Panzer;ガノスメイル;水龙铠甲
+Plesioth Vest;;Tunique Plesioth;;Plesioth-Weste;ガノスレジスト;水龙炼甲
+Barioth Mail S;;Cotte Barioth S;;Barioth-Panzer S;ベリオＳメイル;冰牙龙铠甲Ｓ
+Barioth Vest S;;Tunique Barioth S;;Barioth-Weste S;ベリオＳレジスト;冰牙龙炼甲Ｓ
+Barioth Mail U;;Cotte Barioth U;;Barioth-Panzer U;ベリオＵメイル;风牙龙铠甲Ｕ
+Barioth Vest U;;Tunique Barioth U;;Barioth-Weste U;ベリオＵレジスト;风牙龙炼甲Ｕ
+Nibelsnarf Mail S;;Cotte Nibelsnarf S;;Nibelsnarf-Panzer S;ハプルＳメイル;潜口龙铠甲Ｓ
+Nibelsnarf Vest S;;Tunique Nibelsnarf S;;Nibelsnarf-Weste S;ハプルＳレジスト;潜口龙炼甲Ｓ
+Nargacuga Mail;;Cotte Nargacuga;;Nargacuga-Panzer;ナルガメイル;迅龙铠甲
+Nargacuga Vest;;Tunique Nargacuga;;Nargacuga-Weste;ナルガレジスト;迅龙炼甲
+Lagiacrus Mail S;;Cotte Lagiacrus S;;Lagiacrus-Panzer S;ラギアＳメイル;海龙铠甲Ｓ
+Lagiacrus Vest S;;Tunique Lagiacrus S;;Lagiacrus-Weste S;ラギアＳレジスト;海龙炼甲Ｓ
+Lagiacrus Mail U;;Cotte Lagiacrus U;;Lagiacrus-Panzer U;ラギアＵメイル;白海龙铠甲Ｕ
+Lagiacrus Vest U;;Tunique Lagiacrus U;;Lagiacrus-Weste U;ラギアＵレジスト;白海龙炼甲Ｕ
+Rathalos Mail S;;Cotte Rathalos S;;Rathalos-Panzer S;レウスＳメイル;雄火龙铠甲Ｓ
+Rathalos Vest S;;Tunique Rathalos S;;Rathalos-Weste S;レウスＳレジスト;雄火龙炼甲Ｓ
+Rath Soul Mail;;Cotte Âme Rath;;Rath.-Seelenpanzer;リオソウルメイル;苍火龙铠甲
+Rath Soul Vest;;Tunique Âme Rath;;Rath.-Seelenweste;リオソウルレジスト;苍火龙炼甲
+Zinogre Mail;;Cotte Zinogre;;Zinogre-Panzer;ジンオウメイル;雷狼龙铠甲
+Zinogre Vest;;Tunique Zinogre;;Zinogre-Weste;ジンオウレジスト;雷狼龙炼甲
+Brachydios Mail;;Cotte Brachydios;;Brachydios-Panzer;ブラキメイル;碎龙铠甲
+Brachydios Vest;;Tunique Brachydios;;Brachydios-Weste;ブラキレジスト;碎龙炼甲
+Duramboros Mail S;;Cotte Duramboros S;;Duramboros-Panzer S;ドボルＳメイル;尾槌龙铠甲Ｓ
+Duramboros Vest S;;Tunique Duramboros S;;Duramboros-Weste S;ドボルＳレジスト;尾槌龙炼甲Ｓ
+Ranger's Girdle;;Gaine de ranger;;Ranger-Brustband;城塞遊撃隊【胴巻】;城塞游击队【胴卷】
+Archer's Girdle;;Gaine d'archer;;Bogensch.-Brustband;城塞弓撃隊【胴巻】;城塞弓击队【胴卷】
+Dober Mail;;Cotte Dober;;Dober-Panzer;ドーベルメイル;远古龙铠甲
+Dober Vest;;Tunique Dober;;Dober-Weste;ドーベルレジスト;远古龙炼甲
+Diablos Mail S;;Cotte Diablos S;;Diablos-Panzer S;ディアブロＳメイル;角龙铠甲Ｓ
+Diablos Vest S;;Tunique Diablos S;;Diablos-Weste S;ディアブロＳレジスト;角龙炼甲Ｓ
+Diablos Mail U;;Cotte Diablos U;;Diablos-Panzer U;ディアブロＵメイル;黑角龙铠甲Ｕ
+Diablos Vest U;;Tunique Diablos U;;Diablos-Weste U;ディアブロＵレジスト;黑角龙炼甲Ｕ
+Agnaktor Mail S;;Cotte Agnaktor S;;Agnaktor-Panzer S;アグナＳメイル;炎戈龙铠甲Ｓ
+Agnaktor Vest S;;Tunique Agnaktor S;;Agnaktor-Weste S;アグナＳレジスト;炎戈龙炼甲Ｓ
+Agnaktor Mail U;;Cotte Agnaktor U;;Agnaktor-Panzer U;アグナＵメイル;冻戈龙铠甲Ｕ
+Agnaktor Vest U;;Tunique Agnaktor U;;Agnaktor-Weste U;アグナＵレジスト;冻戈龙炼甲Ｕ
+Uragaan Mail S;;Cotte Uragaan S;;Uragaan-Panzer S;ガンキンＳメイル;爆锤龙铠甲Ｓ
+Uragaan Vest S;;Tunique Uragaan S;;Uragaan-Weste S;ガンキンＳレジスト;爆锤龙炼甲Ｓ
+Uragaan Mail U;;Cotte Uragaan U;;Uragaan-Panzer U;ガンキンＵメイル;钢锤龙铠甲Ｕ
+Uragaan Vest U;;Tunique Uragaan U;;Uragaan-Weste U;ガンキンＵレジスト;钢锤龙炼甲Ｕ
+Damascus Mail;;Cotte Damascus;;Damaskus-Panzer;ダマスクメイル;金属镶嵌铠甲
+Damascus Vest;;Tunique Damascus;;Damaskus-Weste;ダマスクレジスト;金属镶嵌炼甲
+Yamato Doate;;Yamato Doate;;Yamato-Doate;大和【胴当て】;大和【胸甲】
+Mutsu Doate;;Mutsu Doate;;Mutsu-Doate;陸奥【胴当て】;陆奥【胸甲】
+Hyuga Muneate;;Hyuga Muneate;;Hyuga-Muneate;日向【胸当て】;日向【胸甲】
+Amagi Muneate;;Amagi Muneate;;Amagi-Muneate;天城【胸当て】;天城【胸甲】
+Vangis Mail;;Cotte Vangis;;Vangis-Panzer;バンギスメイル;恐暴龙铠甲
+Vangis Vest;;Tunique Vangis;;Vangis-Weste;バンギスレジスト;恐暴龙炼甲
+Escadora Soul;;Escadora Soul;;Escadora-Geist;エスカドラソウル;煌黑龙之魂
+Escadora Seele;;Âme Escadora;;Escadora-Seele;エスカドラゼーレ;煌黑龙之灵
+Pirate Suit J;;Jolly Roger Suit;;Jolly Roger Suit;大海賊Ｊスーツ;大海盗Ｊ上衣
+Pirate Jacket J;;Jolly Roger Jacket;;Jolly Roger Jacket;大海賊Ｊジャケット;大海盗Ｊ大衣
+Monster Hunter Jacket;;Monster Hunter Jacket;;Monster Hunter Jacket;モンハン部ジャケット;怪物猎人部大衣
+Monster Hunter Riders;;Monster Hunter Riders;;Monster Hunter Riders;モンハン部ジャージ;怪物猎人部外套 
+HellHunter Jacket;;Gilet de l'enfer;;Höllenjäger-Jacke;狩猟戦線ジャケット;狩猎战线大衣
+HellHunter Leather;;Cuir de l'enfer;;Höllenjäger-Leder;狩猟戦線ライダース;狩猎战线外套
+Armament Jacket;;Armament Front Jacket;;Warfront Jacket;武装戦線ジャケット;武装战线大衣
+Armament Leather;;Armament Front Riders;;Warfront Riders;武装戦線ライダース;武装战线外套
+Bouya Jacket;;Street Jacket;;Street Jacket;坊屋ジャケット;坊屋大衣
+Bouya Jumper;;Street Jumper;;Street Jumper;坊屋ジャンパー;坊屋外套
+Bnahabra Suit X;;Armure Bnahabra X;;Bnahabra-Anzug X;ブナハＸスーツ;飞甲虫上衣Ｘ
+Bnahabra Vest X;;Tunique Bnahabra X;;Bnahabra-Weste X;ブナハＸベスト;飞甲虫内衣Ｘ
+Rhenoplos Mail X;;Cotte Rhenoplos X;;Rhenoplos-Panzer X;リノプロＸメイル;草食龙铠甲Ｘ
+Rhenoplos Vest X;;Tunique Rhenoplos X;;Rhenoplos-Weste X;リノプロＸレジスト;草食龙炼甲Ｘ
+Slagtoth Cloak X;;Cape Slagtoth X;;Slagtoth-Überwurf X;ズワロＸマント;垂皮披风Ｘ
+Slagtoth Wrap X;;Pagne Slagtoth X;;Slagtoth-Umhang X;ズワロＸケープ;垂皮大衣Ｘ
+Chakra Necklace;;Collier Chakra;;Chakra-Halskette;三眼の首飾り;三眼首饰
+Mosgharl Ribplate X;;Côte Mosgharl X;;Mosgharl-Rippenpl. X;マギュルＸトロンコ;南瓜外衣Ｘ
+Mosgharl Ribguard X;;Prot.-c. Mosgharl X;;Mosgharl-RipSchutz X;マギュルＸシュタム;南瓜内衣Ｘ
+Jaggi Mail X;;Cotte Jaggi X;;Jaggi-Panzer X;ジャギィＸメイル;狗龙铠甲Ｘ
+Jaggi Vest X;;Tunique Jaggi X;;Jaggi-Weste X;ジャギィＸレジスト;狗龙炼甲Ｘ
+Baggi Mail X;;Cotte Baggi X;;Baggi-Panzer X;バギィＸメイル;眠狗龙铠甲Ｘ
+Baggi Vest X;;Tunique Baggi X;;Baggi-Weste X;バギィＸレジスト;眠狗龙炼甲Ｘ
+Wroggi Mail X;;Cotte Wroggi X;;Wroggi-Panzer X;フロギィＸメイル;毒狗龙铠甲Ｘ
+Wroggi Vest X;;Tunique Wroggi X;;Wroggi-Weste X;フロギィＸレジスト;毒狗龙炼甲Ｘ
+Arzuros Mail X;;Cotte Arzuros X;;Arzuros-Panzer X;アシラＸメイル;青熊兽铠甲Ｘ
+Arzuros Vest X;;Tunique Arzuros X;;Arzuros-Weste X;アシラＸレジスト;青熊兽炼甲Ｘ
+Lagombi Mail X;;Cotte Lagombi X;;Lagombi-Panzer X;ウルクＸメイル;白兔兽铠甲Ｘ
+Lagombi Vest X;;Tunique Lagombi X;;Lagombi-Weste X;ウルクＸレジスト;白兔兽炼甲Ｘ
+Volvidon Mail X;;Cotte Volvidon X;;Volvidon-Panzer X;ラングロＸメイル;赤甲兽铠甲Ｘ
+Volvidon Vest X;;Tunique Volvidon X;;Volvidon-Weste X;ラングロＸレジスト;赤甲兽炼甲Ｘ
+Ingot Mail X;;Cotte Ingot X;;Guss-Panzer X;インゴットＸメイル;高合金铠甲Ｘ
+Ingot Vest X;;Tunique Ingot X;;Guss-Weste X;インゴットＸレジスト;高合金炼甲Ｘ
+Dianthus Wealcoat;;Taille zéb. Dianthus;;Dianthus-Gunstwaffenr;撫子・華【花衣】;抚子・华【花衣】
+Campanile Wealcoat;;Taille z. Campanile;;Campanile-Gunstwffenr;桔梗・華【花衣】;桔梗・华【花衣】
+Sailor Suit;;Armure de marin;;Matrosen-Anzug;セイラースーツ;水手服上衣
+Sailor Vest;;Tunique de marin;;Matrosen-Weste;セイラーベスト;水手服内衣
+Qurupeco Mail X;;Cotte Qurupeco X;;Qurupeco-Panzer X;ペッコＸメイル;彩鸟铠甲Ｘ
+Qurupeco Vest X;;Tunique Qurupeco X;;Qurupeco-Weste X;ペッコＸレジスト;彩鸟炼甲Ｘ
+Qurupeco Mail Z;;Cotte Qurupeco Z;;Qurupeco-Panzer Z;ペッコＺメイル;红彩鸟铠甲Ｚ
+Qurupeco Vest Z;;Tunique Qurupeco Z;;Qurupeco-Weste Z;ペッコＺレジスト;红彩鸟炼甲Ｚ
+Ludroth Mail X;;Cotte Ludroth X;;Ludroth-Panzer X;ルドロスＸメイル;水兽铠甲Ｘ
+Ludroth Vest X;;Tunique Ludroth X;;Ludroth-Weste X;ルドロスＸレジスト;水兽炼甲Ｘ
+Ludroth Mail Z;;Cotte Ludroth Z;;Ludroth-Panzer Z;ルドロスＺメイル;紫水兽铠甲Ｚ
+Ludroth Vest Z;;Tunique Ludroth Z;;Ludroth-Weste Z;ルドロスＺレジスト;紫水兽炼甲Ｚ
+Artian Mail X;;Cotte Artian X;;Artian-Panzer X;アーティアＸメイル;神秘铠甲Ｘ
+Artian Vest X;;Tunique Artian X;;Artian-Weste X;アーティアＸレジスト;神秘炼甲Ｘ
+Plesioth Mail X;;Cotte Plesioth X;;Plesioth-Panzer X;ガノスＸメイル;水龙铠甲Ｘ
+Plesioth Vest X;;Tunique Plesioth X;;Plesioth-Weste X;ガノスＸレジスト;水龙炼甲Ｘ
+Plesioth Mail Z;;Cotte Plesioth Z;;Plesioth-Panzer Z;ガノスＺメイル;翠水龙铠甲Ｚ
+Plesioth Vest Z;;Tunique Plesioth Z;;Plesioth-Weste Z;ガノスＺレジスト;翠水龙炼甲Ｚ
+Rathian Mail X;;Cotte Rathian X;;Rathian-Panzer X;レイアＸメイル;雌火龙铠甲Ｘ
+Rathian Vest X;;Tunique Rathian X;;Rathian-Weste X;レイアＸレジスト;雌火龙炼甲Ｘ
+Rath Heart Mail Z;;Cotte Coeur Rath Z;;Rath.-Herz-Panzer Z;リオハートＺメイル;樱火龙铠甲Ｚ
+Rath Heart Vest Z;;Tunique Coeur Rath Z;;Rath.-Herz-Weste Z;リオハートＺレジスト;樱火龙炼甲Ｚ
+Guild Bard Bolero X;;Boléro de barde X;;Gildenbard.-Bolero X;ギルドバードＸスーツ;工会精英上衣Ｘ
+Guild Bard Vest X;;Tunique de barde X;;Gildenbarden-Weste X;ギルドバードＸベスト;工会精英内衣Ｘ
+Scholar's Blouse X;;Blouse de clerc X;;Gelehten-Bluse X;スカラーＸスーツ;店员上衣Ｘ
+Scholar's Vest X;;Tunique de clerc X;;Gelehrten-Weste X;スカラーＸベスト;店员内衣Ｘ
+Strider's Girdle;;Gaine de rôdeur;;Streicher-Brustband;城塞特攻隊【胴巻】;城塞特攻队【胴卷】
+Deadeye's Girdle;;Gaine mortelle;;Zielwasser-Brustband;城塞隠密隊【胴巻】;城塞隐密队【胴卷】
+Barioth Mail X;;Cotte Barioth X;;Barioth-Panzer X;ベリオＸメイル;冰牙龙铠甲Ｘ
+Barioth Vest X;;Tunique Barioth X;;Barioth-Weste X;ベリオＸレジスト;冰牙龙炼甲Ｘ
+Barioth Mail Z;;Cotte Barioth Z;;Barioth-Panzer Z;ベリオＺメイル;风牙龙铠甲Ｚ
+Barioth Vest Z;;Tunique Barioth Z;;Barioth-Weste Z;ベリオＺレジスト;风牙龙炼甲Ｚ
+Barroth Mail X;;Cotte Barroth X;;Barroth-Panzer X;ボロスＸメイル;土砂龙铠甲Ｘ
+Barroth Vest X;;Tunique Barroth X;;Barroth-Weste X;ボロスＸレジスト;土砂龙炼甲Ｘ
+Barroth Mail Z;;Cotte Barroth Z;;Barroth-Panzer Z;ボロスＺメイル;冰碎龙铠甲Ｚ
+Barroth Vest Z;;Tunique Barroth Z;;Barroth-Weste Z;ボロスＺレジスト;冰碎龙炼甲Ｚ
+Gobul Mail X;;Cotte Gobul X;;Gobul-Panzer X;ガブルＸメイル;灯鱼龙铠甲Ｘ
+Gobul Vest X;;Tunique Gobul X;;Gobul-Weste X;ガブルＸレジスト;灯鱼龙炼甲Ｘ
+Gigginox Mail X;;Cotte Gigginox X;;Gigginox-Panzer X;ネブラＸメイル;毒怪龙铠甲Ｘ
+Gigginox Vest X;;Tunique Gigginox X;;Gigginox-Weste X;ネブラＸレジスト;毒怪龙炼甲Ｘ
+Gigginox Mail Z;;Cotte Gigginox Z;;Gigginox-Panzer Z;ネブラＺメイル;电怪龙铠甲Ｚ
+Gigginox Vest Z;;Tunique Gigginox Z;;Gigginox-Weste Z;ネブラＺレジスト;电怪龙炼甲Ｚ
+Nibelsnarf Mail X;;Cotte Nibelsnarf X;;Nibelsnarf-Panzer X;ハプルＸメイル;潜口龙铠甲Ｘ
+Nibelsnarf Vest X;;Tunique Nibelsnarf X;;Nibelsnarf-Weste X;ハプルＸレジスト;潜口龙炼甲Ｘ
+Duramboros Mail X;;Cotte Duramboros X;;Duramboros-Panzer X;ドボルＸメイル;尾槌龙铠甲Ｘ
+Duramboros Vest X;;Tunique Duramboros X;;Duramboros-Weste X;ドボルＸレジスト;尾槌龙炼甲Ｘ
+Duramboros Mail Z;;Cotte Duramboros Z;;Duramboros-Panzer Z;ドボルＺメイル;尾斧龙铠甲Ｚ
+Duramboros Vest Z;;Tunique Duramboros Z;;Duramboros-Weste Z;ドボルＺレジスト;尾斧龙炼甲Ｚ
+Nargacuga Mail X;;Cotte Nargacuga X;;Nargacuga-Panzer X;ナルガＸメイル;迅龙铠甲Ｘ
+Nargacuga Vest X;;Tunique Nargacuga X;;Nargacuga-Weste X;ナルガＸレジスト;迅龙炼甲Ｘ
+Nargacuga Mail Z;;Cotte Nargacuga Z;;Nargacuga-Panzer Z;ナルガＺメイル;绿迅龙铠甲Ｚ
+Nargacuga Vest Z;;Tunique Nargacuga Z;;Nargacuga-Weste Z;ナルガＺレジスト;绿迅龙炼甲Ｚ
+Helios Mail X;;Cotte Helios X;;Helios-Panzer X;ヘリオスＸメイル;太阳神铠甲Ｘ
+Helios Vest X;;Tunique Helios X;;Helios-Weste X;ヘリオスＸレジスト;太阳神炼甲Ｘ
+Selene Mail X;;Cotte Selene X;;Selene-Panzer X;セレネＸメイル;月神铠甲Ｘ
+Selene Vest X;;Tunique Selene X;;Selene-Weste X;セレネＸレジスト;月神炼甲Ｘ
+Helios Mail Z;;Cotte Helios Z;;Helios-Panzer Z;ヘリオスＺメイル;太阳神铠甲Ｚ
+Helios Vest Z;;Tunique Helios Z;;Helios-Weste Z;ヘリオスＺレジスト;太阳神炼甲Ｚ
+Selene Mail Z;;Cotte Selene Z;;Selene-Panzer Z;セレネＺメイル;月神铠甲Ｚ
+Selene Vest Z;;Tunique Selene Z;;Selene-Weste Z;セレネＺレジスト;月神炼甲Ｚ
+Aelucanth Thorax X;;Thorax Aelucanth X;;Aelucanth-Thorax X;ロワーガＸペット;锹虫铠甲Ｘ
+Aelucanth Pleuron X;;Pleuron Aelucanth X;;Aelucanth-Pleuron X;ロワーガＸペクトス;锹虫炼甲Ｘ
+Rhopessa Thorax X;;Thorax Rhopessa X;;Rhopessa-Thorax X;ファルメルＸペット;蝴蝶铠甲Ｘ
+Rhopessa Pleuron X;;Pleuron Rhopessa X;;Rhopessa-Pleuron X;ファルメルＸペクトス;蝴蝶炼甲Ｘ
+Rathalos Mail X;;Cotte Rathalos X;;Rathalos-Panzer X;レウスＸメイル;雄火龙铠甲Ｘ
+Rathalos Vest X;;Tunique Rathalos X;;Rathalos-Weste X;レウスＸレジスト;雄火龙炼甲Ｘ
+Rath Soul Mail Z;;Cotte Âme Rath Z;;Rath.-Seelenpanzer Z;リオソウルＺメイル;苍火龙铠甲Ｚ
+Rath Soul Vest Z;;Tunique Âme Rath Z;;Rath.-Seelenweste Z;リオソウルＺレジスト;苍火龙炼甲Ｚ
+Diablos Mail X;;Cotte Diablos X;;Diablos-Panzer X;ディアブロＸメイル;角龙铠甲Ｘ
+Diablos Vest X;;Tunique Diablos X;;Diablos-Weste X;ディアブロＸレジスト;角龙炼甲Ｘ
+Diablos Mail Z;;Cotte Diablos Z;;Diablos-Panzer Z;ディアブロＺメイル;黑角龙铠甲Ｚ
+Diablos Vest Z;;Tunique Diablos Z;;Diablos-Weste Z;ディアブロＺレジスト;黑角龙炼甲Ｚ
+Agnaktor Mail X;;Cotte Agnaktor X;;Agnaktor-Panzer X;アグナＸメイル;炎戈龙铠甲Ｘ
+Agnaktor Vest X;;Tunique Agnaktor X;;Agnaktor-Weste X;アグナＸレジスト;炎戈龙炼甲Ｘ
+Agnaktor Mail Z;;Cotte Agnaktor Z;;Agnaktor-Panzer Z;アグナＺメイル;冻戈龙铠甲Ｚ
+Agnaktor Vest Z;;Tunique Agnaktor Z;;Agnaktor-Weste Z;アグナＺレジスト;冻戈龙炼甲Ｚ
+Brachydios Mail X;;Cotte Brachydios X;;Brachydios-Panzer X;ブラキＸメイル;碎龙铠甲Ｘ
+Brachydios Vest X;;Tunique Brachydios X;;Brachydios-Weste X;ブラキＸレジスト;碎龙炼甲Ｘ
+Lagiacrus Mail X;;Cotte Lagiacrus X;;Lagiacrus-Panzer X;ラギアＸメイル;海龙铠甲Ｘ
+Lagiacrus Vest X;;Tunique Lagiacrus X;;Lagiacrus-Weste X;ラギアＸレジスト;海龙炼甲Ｘ
+Lagiacrus Mail Z;;Cotte Lagiacrus Z;;Lagiacrus-Panzer Z;ラギアＺメイル;白海龙铠甲Ｚ
+Lagiacrus Vest Z;;Tunique Lagiacrus Z;;Lagiacrus-Weste Z;ラギアＺレジスト;白海龙炼甲Ｚ
+Uragaan Mail X;;Cotte Uragaan X;;Uragaan-Panzer X;ガンキンＸメイル;爆锤龙铠甲Ｘ
+Uragaan Vest X;;Tunique Uragaan X;;Uragaan-Weste X;ガンキンＸレジスト;爆锤龙炼甲Ｘ
+Uragaan Mail Z;;Cotte Uragaan Z;;Uragaan-Panzer Z;ガンキンＺメイル;钢锤龙铠甲Ｚ
+Uragaan Vest Z;;Tunique Uragaan Z;;Uragaan-Weste Z;ガンキンＺレジスト;钢锤龙炼甲Ｘ
+Zinogre Mail X;;Cotte Zinogre X;;Zinogre-Panzer X;ジンオウＸメイル;雷狼龙铠甲Ｘ
+Zinogre Vest X;;Tunique Zinogre X;;Zinogre-Weste X;ジンオウＸレジスト;雷狼龙炼甲Ｘ
+Zinogre Mail Z;;Cotte Zinogre Z;;Zinogre-Panzer Z;ジンオウＺメイル;狱狼龙铠甲Ｚ
+Zinogre Vest Z;;Tunique Zinogre Z;;Zinogre-Weste Z;ジンオウＺレジスト;狱狼龙炼甲Ｚ
+Dober Mail X;;Cotte Dober X;;Dober-Panzer X;ドーベルＸメイル;远古龙铠甲Ｘ
+Dober Vest X;;Tunique Dober X;;Dober-Weste X;ドーベルＸレジスト;远古龙炼甲Ｘ
+Damascus Mail X;;Cotte Damascus X;;Damaskus-Panzer X;ダマスクＸメイル;金属镶嵌铠甲Ｘ
+Damascus Vest X;;Tunique Damascus X;;Damaskus-Weste X;ダマスクＸレジスト;金属镶嵌炼甲Ｘ
+Vangis Mail X;;Cotte Vangis X;;Vangis-Panzer X;バンギスＸメイル;恐暴龙铠甲Ｘ
+Vangis Vest X;;Tunique Vangis X;;Vangis-Weste X;バンギスＸレジスト;恐暴龙炼甲Ｘ
+Lambent Hauberk;;Haubert Lambent;;Leucht-Haubert;月光【帷子】;月光【帷子】
+Silhouette Hauberk;;Haubert Silhouette;;Silhouetten-Haubert;白影【帷子】;白影【帷子】
+Silver Solmail;;Cotte Sol argent;;Silber-Sonnenpanzer;シルバーソルメイル;银火龙铠甲
+Silver Solvest;;Tunique Sol argent;;Silver-Sonnenweste;シルバーソルレジスト;银火龙炼甲
+Golden Lunemail;;Cotte Lune or;;Gold-Mondpanzer;ゴールドルナメイル;金火龙铠甲
+Golden Lunevest;;Tunique Lune or;;Golden-Mondweste;ゴールドルナレジスト;金火龙炼甲
+Grand Yamato Doate;;Grand Yamato Doate;;Groß-Yamato-Doate;大和・真【胴当て】;大和・真【胸甲】
+Grand Mutsu Doate;;Grand Mutsu Doate;;Groß-Mutsu-Doate;陸奥・真【胴当て】;陆奥・真【胸甲】
+Grand Hyuga Muneate;;Grand Hyuga Muneate;;Groß-Hyuga-Muneate;日向・真【胸当て】;日向・真【胸甲】
+Grand Amagi Muneate;;Grand Amagi Muneate;;Groß-Amagi-Muneate;天城・真【胸当て】;天城・真【胸甲】
+Yamato Doate Prime;;Y. Doate parfait;;1A-Yamato-Doate;大和・極【胴当て】;大和・极【胸甲】
+Mutsu Doate Prime;;M. Doate parfait;;1A-Mutsu-Doate;陸奥・極【胴当て】;陆奥・极【胸甲】
+Hyuga Muneate Prime;;H. Muneate parfait;;1A-Hyuga-Muneate;日向・極【胸当て】;日向・极【胸甲】
+Amagi Muneate Prime;;A. Muneate parfait;;1A-Amagi-Muneate;天城・極【胸当て】;天城・极【胸甲】
+Nether Mail;;Cotte Nether;;Jenseites-Panzer;アビスメイル;冥海龙铠甲
+Nether Vest;;Tunique Nether;;Jenseits-Weste;アビスレジスト;冥海龙炼甲
+Miralis Breastplate;;Plastron Miralis;;Miralis-Brustplatte;ミラアルマハイド;炼黑龙之腹甲
+Miralis Chestguard;;Poitrail Miralis;;Miralis-Brustschutz;ミラアルマスキン;炼黑龙之胸甲
+Training Corps Suit (B);;Training Suit (B);;Training Suit (B);訓練兵団スーツ【剣士】;训练兵团上衣
+Training Corps Suit (G);;Training Suit (G);;Training Suit (G);訓練兵団スーツ【ガンナー】;训练兵团大衣
+Captain Suit J;;Jolly Roger Suit X;;Jolly Roger Suit X;キャプテンＪスーツ;船长Ｊ上衣
+Captain Jacket J;;Jolly Roger Jacket X;;Jolly Roger Jacket X;キャプテンＪベスト;船长Ｊ内衣
+Escadora Soul X;;Escadora Soul X;;Escadora-Geist X;エスカドラＸソウル;煌黑龙之魂Ｘ
+Escadora Seele X;;Âme Escadora X;;Escadora-Seele X;エスカドラＸゼーレ;煌黑龙之灵Ｘ
+Blue Star Suit;;ブルースタースーツ;;Blauer Sternen-Panzer;ブルースタースーツ;工作室上衣
+Blue Star Vest;;ブルースターベスト;;Blaue Sternen-Weste;ブルースターベスト;工作室内衣

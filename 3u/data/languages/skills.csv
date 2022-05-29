@@ -1,0 +1,361 @@
+english;spanish;french;italian;german;japanese;chinese
+Poison;;Poison;;Gift;毒;毒
+Paralysis;;Paralysie;;Lähmung;麻痺;麻痹
+Sleep;;Sommeil;;Schlaf;睡眠;睡眠
+Stun;;Étourdir;;Betäuben;気絶;气绝
+Mud/Snow;;Boue/Neige;;Schl/Schn.;耐泥耐雪;耐泥耐雪
+Antiseptic;;Stériliser;;Antisept.;抗菌;抗菌
+Def Lock;;Assurance;;Abw.Sperre;対防御DOWN;对防御ＤＯＷＮ
+Dungmaster;;Bousier;;Dungmeist.;こやし;肥料
+Biology;;Biologie;;Biologie;細菌学;细菌学
+Attack;;Attaque;;Angriff;攻撃;攻击
+Defense;;Défense;;Verteidigung;防御;防御
+Health;;Vie;;Gesundheit;体力;体力
+Rec Speed;;Récup.;;ErholGschw;回復速度;回复速度
+Protection;;Protection;;Schutz;加護;加护
+Sheathing;;Rengainage;;Wegstecken;納刀;收刀
+FastCharge;;Charger;;Schn.lad.;溜め短縮;蓄力缩短
+Expert;;Expert;;Experte;達人;达人
+Tenderizer;;Attendrir;;Klopfer;痛撃;痛击
+Destroyer;;Destruction;;Zerstörer;重撃;重击
+KO;;KO;;Knock-out;KO;ＫＯ
+Stam Drain;;Drainer;;Ausd.Entz.;減気攻撃;灭气攻击
+Constitutn;;Ninja;;Konstitutn;体術;体术
+Hearing;;Ouïe;;Gehör;聴覚保護;听觉保护
+Wind Res;;Vent;;Windabwehr;風圧;风压
+Tremor Res;;Séisme;;Bebenabw.;耐震;耐震
+Heat Res;;Chaleur;;Hitzeabw.;耐暑;耐暑
+Cold Res;;Froid;;Kälteabw.;耐寒;耐寒
+Stamina;;Stamina;;Ausdauer;スタミナ;耐力
+Stam Recov;;Récupérer;;AusdErholg;気力回復;气力回复
+Evasion;;Évasion;;Ausweichen;回避性能;回避性能
+Evade Dist;;Esquive;;Ausweichdst;回避距離;回避距離
+Dive Dist;;Dérobade;;Tauchentf.;飛距離;飞距离
+Sense;;Sens;;Spürsinn;気配;气息
+Guard;;Garde;;Block;ガード性能;防御性能
+Guard Up;;Paladin;;Block hoch;ガード強化;防御强化
+Auto-Guard;;Garde auto;;Autoblock;自動防御;自动防御
+Status;;Statut;;Status;特殊攻撃;特殊攻击
+Fire Atk;;Att. Feu;;Feuerangr.;火属性攻撃;火属性攻击
+Water Atk;;Att. Eau;;Wasserang.;水属性攻撃;水属性攻击
+ThunderAtk;;At. Foudre;;Donnerang.;雷属性攻撃;雷属性攻击
+Ice Atk;;Att. Glace;;Eisangriff;氷属性攻撃;冰属性攻击
+Dragon Atk;;At. Dragon;;Drachenan.;龍属性攻撃;龍属性攻击
+Elemental;;Élémental;;Element;属性攻撃;属性攻击
+Fire Res;;Feu;;Feuerabw.;火耐性;火耐性
+Water Res;;Eau;;Wasserabw.;水耐性;水耐性
+ThunderRes;;Foudre;;Donnerabw.;雷耐性;雷耐性
+Ice Res;;Glace;;Eisabwehr;氷耐性;冰耐性
+Dragon Res;;Dragon;;Drachenabw.;龍耐性;龍耐性
+Sharpness;;Tranchant;;Schärfe;斬れ味;锋利度
+Handicraft;;Artisanat;;Handwerk;匠;匠
+Fencing;;Escrime;;Fechten;剣術;剑术
+Sharpener;;Aiguiseur;;Schärfer;研ぎ師;研磨师
+PunishDraw;;Punition;;StrafHieb;抜刀減気;拔刀灭气
+Crit Draw;;Critique;;KritHieb;抜刀会心;拔刀会心
+Reload Spd;;Recharger;;NachlGesch;装填速度;装填速度
+Loading;;Munitions;;Kapazität;装填数;装填数
+Rapid Fire;;Sniper;;Schnellfeu;速射;速射
+Recoil;;Recul;;Rückstoß;反動;后坐力
+Precision;;Précision;;Präzision;精密射撃;精密射击
+Normal Up;;Normale G;;NormlShoch;通常弾強化;通常弹强化
+Pierce Up;;Perçante G;;PiercShoch;貫通弾強化;贯通弹强化
+Pellet Up;;Plomb G;;SchrtShoch;散弾強化;散弹强化
+Normal S+;;Normale +;;NormlSzufü;通常弾追加;通常弹追加
+Pierce S+;;Perçante +;;PiercSzufü;貫通弾追加;贯通弹追加
+Pellet S+;;Plomb +;;SchrtSzufü;散弾追加;散弹追加
+Crag S+;;Explosive +;;CragSzufüg;榴弾追加;榴弹追加
+Clust S+;;Frag. +;;StreuSzufüg;拡散弾追加;扩散弹追加
+Slicing S+;;Tranch. +;;SchnittSzf;斬裂弾追加;斩裂弹追加
+Slime S+;;Poiss. +;;SchleimSzf;爆破弾追加;爆破弹追加
+Poison C+;;E. pois. +;;Gift B+;毒瓶追加;毒瓶追加
+Para C+;;E. para. +;;Lähm B+;麻痺瓶追加;麻痹瓶追加
+Sleep C+;;E. somm. +;;Schlaf B+;睡眠瓶追加;睡眠瓶追加
+Power C+;;E. éner. +;;Kraft B+;強撃瓶追加;强击瓶追加
+C.Range C+;;E. càc +;;Nahkampf B+;接撃瓶追加;接撃瓶追加
+Exhaust C+;;E. épui. +;;Ermüd. B+;減気瓶追加;灭气瓶追加
+Slime C+;;E. poiss.+;;Schleim B+;爆破瓶追加;爆破瓶追加
+Maestro;;Musique;;Maestro;笛;笛
+Artillery;;Artillerie;;Artillerie;砲術;炮术
+Bomb Boost;;Bombardier;;BombStärk.;爆弾強化;爆弹强化
+Rec Level;;Restaurer;;ErholStufe;回復量;回复量
+Wide-Range;;Soutien;;Großraum;広域;广域
+LastingPwr;;Objets;;EwigeKraft;効果持続;效果持续
+Hunger;;Appétit;;Hunger;腹減り;饥饿
+Gluttony;;Gastronome;;Schlemmen;食いしん坊;大胃王
+Eating;;Repas;;Essen;食事;食事
+Carnivore;;Carnivore;;Fleischfr.;肉食;肉食
+Combo Rate;;Inventeur;;Combi-Rate;調合成功率;调合成功率
+Combo Plus;;Alchimiste;;CombiBonus;調合数;调合数
+Gathering;;Collecte;;Sammeln;採取;采集
+Spd Gather;;Chapardeur;;SchnllSamm;高速収集;高速收集
+Whim;;Lubie;;Laune;気まぐれ;反复无常
+Honey;;Miel;;Honig;ハチミツ;蜂蜜
+Charmer;;Charme;;AmulFinder;護石王;护石王
+Fate;;Destin;;Schicksal;運気;运气
+Carving;;Dépeçage;;Zerlegen;剥ぎ取り;剥取
+Tranquilzr;;Capture;;Beruhigung;捕獲;捕获
+Perception;;Perception;;Wahrnehmen;観察眼;观察眼
+Psychic;;Lucidité;;Vision;千里眼;千里眼
+Transportr;;Convoyeur;;Rucksack;運搬;搬运
+Ranger;;Ranger;;Ranger;狩人;狩人
+Anti-Theft;;Antivol;;Anti-Dieb;盗み無効;偷盗无效
+SpeedSetup;;Piège;;SchnllAufb;高速設置;高速设置
+Flame Aura;;Aura feu;;Flammenau.;燃鱗;燃鳞
+Oxygen;;Oxygène;;Sauerstoff;酸素;氧气
+CurrentRes;;Courant;;Stromabw.;水流;水流
+Swimming;;Natation;;Schwimmen;泳ぎ;游泳
+Sea Legs;;Aquatique;;Seefest;水の心;水之心
+Potential;;Potentiel;;Potenzial;底力;底力
+Survivor;;Survivant;;Überleben;逆境;逆境
+Gloves Off;;Puissance;;Brachial;本気;认真
+Spirit;;Courage;;Elan;闘魂;斗魂
+Unscathed;;Indemne;;Unversehrt;無傷;无伤
+FreeElemnt;;Réveil;;FreiElemnt;属性解放;属性解放
+Blight Res;;Fléau;;Brandabw.;属性耐性;属性耐性
+Guts;;Bravoure;;Mut;根性;根性
+TeamPlayer;;Collectif;;Teamspiel.;采配;指令
+TeamLeader;;Leader;;Teamanfüh.;号令;号令
+Status Res;;Res Statut;;Statusabw.;状態耐性;状态耐性
+Fury;;Furie;;Zorn;怒;怒
+Edgemaster;;Aiguiseur (Edgemaster);;Schneidmst;刀匠;刀匠
+SteadyHand;;Fermeté;;Sichere Hd;射手;射手
+Unshakable;;Constance;;Unerschütt;不動;不动
+Torso Up;;Torse +;;RumpfVerst;胴系統倍化;胴系統倍化
+Negate Poison;;Antidote;;Gift nichtig;毒無効;毒无效
+Double Poison;;Venin;;Doppeltes Gift;毒倍加;毒倍加
+Negate Paralysis;;Anti-paralysie;;Lähmung nichtig;麻痺無効;麻痹无效
+Double Paralysis;;Super paralysie;;Doppelte Lähmung;麻痺倍加;麻痹倍加
+Negate Sleep;;Noctambule;;Schlaf nichtig;睡眠無効;睡眠无效
+Double Sleep;;Hypersomnie;;Doppelter Schlaf;睡眠倍加;睡眠倍加
+Halve Stun;;Crâne de pierre;;Halbes Betäuben;気絶確率半減;气绝几率减半
+Negate Stun;;Crâne de fer;;Betäuben nichtig;気絶無効;气绝无效
+Double Stun;;Menton de verre;;Dopp. Betäuben;気絶倍加;气绝倍加
+Negate Mud/Snow;;Anti-boue/neige;;Schl/Schn nicht.;泥＆雪無効;泥＆雪无效
+Antiseptic;;Antiseptique;;Antiseptik;抗菌;抗菌
+Iron Skin;;Peau d'acier;;Eisenhaut;鉄面皮;铁面皮
+Dung Bomb Expert;;Maître bousier;;Dungbomben-Exp.;こやし玉名人;肥料弹名人
+Bio Master;;Maître bio;;Bio-Meister;バイオドクター;生物博士
+Attack Up (S);;Attaque +1;;Angriff +;攻撃力UP【小】;攻击力ＵＰ【小】
+Attack Up (M);;Attaque +2;;Angriff ++;攻撃力UP【中】;攻击力ＵＰ【中】
+Attack Up (L);;Attaque +3;;Angriff +++;攻撃力UP【大】;攻击力ＵＰ【大】
+Attack Down (S);;Attaque -1;;Angriff -;攻撃力DOWN【小】;攻击力ＤＯＷＮ【小】
+Attack Down (M);;Attaque -2;;Angriff --;攻撃力DOWN【中】;攻击力ＤＯＷＮ【中】
+Attack Down (L);;Attaque -3;;Angriff ---;攻撃力DOWN【大】;攻击力ＤＯＷＮ【大】
+Defense Up (S);;Défense +1;;Verteidigung +;防御力UP【小】;防御力ＵＰ【小】
+Defense Up (M);;Défense +2;;Verteidigung ++;防御力UP【中】;防御力ＵＰ【中】
+Defense Up (L);;Défense +3;;Verteidigung +++;防御力UP【大】;防御力ＵＰ【大】
+Defense Down (S);;Défense -1;;Verteidigung -;防御力DOWN【小】;防御力ＤＯＷＮ【小】
+Defense Down (M);;Défense -2;;Verteidigung --;防御力DOWN【中】;防御力ＤＯＷＮ【中】
+Defense Down (L);;Défense -3;;Verteidigung ---;防御力DOWN【大】;防御力ＤＯＷＮ【大】
+Health +20;;Vie +20;;Gesundheit +20;体力+20;体力+20
+Health +50;;Vie +50;;Gesundheit +50;体力+50;体力+50
+Health -10;;Vie -10;;Gesundheit -10;体力-10;体力-10
+Health -30;;Vie -30;;Gesundheit -30;体力-30;体力-30
+Recovery Spd +1;;Récupération +1;;ErholGeschw +1;回復速度+1;回復速度+1
+Recovery Spd +2;;Récupération +2;;ErholGeschw +2;回復速度+2;回復速度+2
+Recovery Spd -1;;Récupération -1;;ErholGeschw -1;回復速度-1;回復速度-1
+Recovery Spd -2;;Récupération -2;;ErholGeschw -2;回復速度-2;回復速度-2
+Divine Blessing;;Bénédiction;;Göttl. Schutz;精霊の加護;精灵的加护
+Demonic Blessing;;Malédiction;;Dämon. Schutz;悪霊の加護;恶灵的加护
+Quick Sheath;;Rengain. éclair;;Schn. Wegstecken;納刀術;收刀术
+Focus;;Concentration;;Fokus;集中;集中
+Distraction;;Distraction;;Ablenkung;雑念;杂念
+Critical Eye +1;;Œil critique +1;;Krit. Auge +1;見切り+1;看破+1
+Critical Eye +2;;Œil critique +2;;Krit. Auge +2;見切り+2;看破+2
+Critical Eye +3;;Œil critique +3;;Krit. Auge +3;見切り+3;看破+3
+Critical Eye -1;;Œil critique -1;;Krit. Auge -1;見切り-1;看破-1
+Critical Eye -2;;Œil critique -2;;Krit. Auge -2;見切り-2;看破-2
+Critical Eye -3;;Œil critique -3;;Krit. Auge -3;見切り-3;看破-3
+Weakness Exploit;;Point faible;;Schwächeausnutzg;弱点特効;弱点特效
+Partbreaker;;Destructeur;;Teilebrechen;破壊王;破坏王
+Knockout King;;Roi du KO;;Knockout König;KO術;ＫＯ术
+Stamina Thief;;Vol de stamina;;Ausdauerdieb;スタミナ奪取;耐力夺取
+Constitution +1;;Ninja +1;;Konstitution +1;体術+1;体术+1
+Constitution +2;;Ninja +2;;Konstitution +2;体術+2;体术+2
+Constitution -1;;Ninja -1;;Konstitution -1;体術-1;体术-1
+Constitution -2;;Ninja -2;;Konstitution -2;体術-2;体术-2
+Earplugs;;Protège-tympan;;Ohrstöpsel;耳栓;耳栓
+HG Earplugs;;Bouche-oreille;;Best. Ohrstöpsel;高級耳栓;高级耳栓
+Windproof (Lo);;Vent +1;;Windsicher[H];風圧【小】無効;风圧【小】无效
+Windproof (Hi);;Vent +2;;Windsicher[N];風圧完全無効;风圧【大】无效
+Tremor Res;;Anti-séisme;;Bebensicher;耐震;耐震
+Heat Cancel;;Chaleur +;;Hitze beenden;暑さ無効;暑气无效
+Heat Surge;;Chaleur -;;Hitze erhöhen;暑さ倍加;暑气倍加
+Cold Cancel;;Froid +;;Kälte beenden;寒さ無効;寒气无效
+Cold Surge;;Froid -;;Kälte erhöhen;寒さ倍加;寒气倍加
+Marathon Runner;;Marathonien;;Läufer;ランナー;飞人
+Short Sprinter;;Sprinter;;Sprinter;鈍足;钝足
+Stam Recov Up;;Récup. stamina +;;Ausdauererhlg. +;スタミナ急速回復;耐力急速回复
+Stam Recov Down;;Récup. stamina -;;Ausdauererhlg. -;スタミナ回復遅延;耐力回復延迟
+Evasion +1;;Évasion +1;;Ausweichen +1;回避性能+1;回避性能+1
+Evasion +2;;Évasion +2;;Ausweichen +2;回避性能+2;回避性能+2
+Evasion Down;;Évasion -;;Ausweichen -1;回避性能DOWN;回避性能ＤＯＷＮ
+Evade Extender;;Longue évasion;;Ausweichen hoch;回避距離UP;回避距离ＵＰ
+Dive Enhancer;;Sauve-qui-peut;;Taucherweiterung;飛距離強化;飞距离强化
+Sneak;;Furtivité;;Schleichen;隠密;隐秘
+Taunt;;Provocation;;Provokation;挑発;挑衅
+Guard +1;;Garde +1;;Block +1;ガード性能+1;防御性能+1
+Guard +2;;Garde +2;;Block +2;ガード性能+2;防御性能+2
+Guard -1;;Garde -1;;Block -1;ガード性能-1;防御性能-1
+Guard Boost;;Paladin;;Blockstärkung;ガード強化;防御强化
+Auto-Guard;;Garde auto;;Auto-Guard;オートガード;自动防御
+Status Atk +1;;Statut +1;;Statusangriff +1;状態異常攻撃+1;状态异常攻击+1
+Status Atk +2;;Statut +2;;Statusangriff +2;状態異常攻撃+2;状态异常攻击+2
+Status Atk Down;;Statut -;;Statusa. runter;状態異常攻撃弱化;状态异常攻击-1
+Fire Atk +1;;Att. Feu +1;;Feuerangriff +1;火属性攻撃強化+1;火属性攻击强化+1
+Fire Atk +2;;Att. Feu +2;;Feuerangriff +2;火属性攻撃強化+2;火属性攻击强化+2
+Fire Atk Down;;Att. Feu -;;Feuerang. runter;火属性攻撃弱化;火属性攻击弱化-1
+Water Atk +1;;Att. Eau +1;;Wasserangriff +1;水属性攻撃強化+1;水属性攻击强化+1
+Water Atk +2;;Att. Eau +2;;Wasserangriff +2;水属性攻撃強化+2;水属性攻击强化+2
+Water Atk Down;;Att. Eau -;;Wasserang. runter;水属性攻撃弱化;水属性攻击弱化-1
+Thunder Atk +1;;Att. Foudre +1;;Donnerangriff +1;雷属性攻撃強化+1;雷属性攻击强化+1
+Thunder Atk +2;;Att. Foudre +2;;Donnerangriff +2;雷属性攻撃強化+2;雷属性攻击强化+2
+Thunder Atk Down;;Att. Foudre -;;Donnerang. runter;雷属性攻撃弱化;雷属性攻击弱化-1
+Ice Atk +1;;Att. Glace +1;;Eisangriff +1;氷属性攻撃強化+1;冰属性攻击强化+1
+Ice Atk +2;;Att. Glace +2;;Eisangriff +2;氷属性攻撃強化+2;冰属性攻击强化+2
+Ice Atk Down;;Att. Glace -;;Eisangr. runter;氷属性攻撃弱化;冰属性攻击弱化-1
+Dragon Atk +1;;Att. Dragon +1;;Drachenangriff +1;龍属性攻撃強化+1;龍属性攻击强化+1
+Dragon Atk +2;;Att. Dragon +2;;Drachenangriff +2;龍属性攻撃強化+2;龍属性攻击强化+2
+Dragon Atk Down;;Att. Dragon -;;Drachenang. runter;龍属性攻撃弱化;龍属性攻击弱化-1
+Element Atk Up;;Élémental +;;Elementang. hoch;属性攻撃強化;属性攻击强化
+Element Atk Down;;Élémental -;;Elementa. runter;属性攻撃弱化;属性攻击弱化
+Fire Res +15;;Feu +15;;Feuerabwehr +15;火耐性【小】;火耐性【小】
+Fire Res +20;;Feu +20;;Feuerabwehr +20;火耐性【大】;火耐性【大】
+Fire Res -20;;Feu -20;;Feuerabwehr -20;火耐性弱化;火耐性弱化
+Water Res +15;;Eau +15;;Wasserabwehr +15;水耐性【小】;水耐性【小】
+Water Res +20;;Eau +20;;Wasserabwehr +20;水耐性【大】;水耐性【大】
+Water Res -20;;Eau -20;;Wasserabwehr -20;水耐性弱化;水耐性弱化
+Thunder Res +15;;Foudre +15;;Donnerabwehr +15;雷耐性【小】;雷耐性【小】
+Thunder Res +20;;Foudre +20;;Donnerabwehr +20;雷耐性【大】;雷耐性【大】
+Thunder Res -20;;Foudre -20;;Donnerabwehr -20;雷耐性弱化;雷耐性弱化
+Ice Res +15;;Glace +15;;Eisabwehr +15;氷耐性【小】;冰耐性【小】
+Ice Res +20;;Glace +20;;Eisabwehr +20;氷耐性【大】;冰耐性【大】
+Ice Res -20;;Glace -20;;Eisabwehr -20;氷耐性弱化;冰耐性弱化
+Dragon Res +15;;Dragon +15;;Drachenabwehr +15;龍耐性【小】;龍耐性【小】
+Dragon Res +20;;Dragon +20;;Drachenabwehr +20;龍耐性【大】;龍耐性【大】
+Dragon Res -20;;Dragon -20;;Drachenabwehr -20;龍耐性弱化;龍耐性弱化
+Razor Sharp;;Samouraï;;Scharfschwert;業物;業物
+Blunt Edge;;Barbare;;Stumpf;なまくら;钝刀
+Sharpness +1;;Tranchant +1;;Schärfe +1;斬れ味レベル+1;锋利度等级+1
+Mind's Eye;;Œil de l'esprit;;Übersinn. Kraft;心眼;心眼
+Speed Sharpening;;Aiguisage rapide;;Schn. Schärfen;砥石使用高速化;砥石使用高速化
+Slow Sharpening;;Aiguisage lent;;Langs. Schärfen;砥石使用低速化;砥石使用低速化
+Punishing Draw;;Punition;;Strafender Hieb;抜刀術【力】;抜刀术【力】
+Critical Draw;;Critique;;Kritischer Hieb;抜刀術【技】;抜刀术【技】
+Reload Speed +1;;Rechargement +1;;NachlGesch +1;装填速度+1;装填速度+1
+Reload Speed +2;;Rechargement +2;;NachlGesch +2;装填速度+2;装填速度+2
+Reload Speed +3;;Rechargement +3;;NachlGesch +3;装填速度+3;装填速度+3
+Reload Speed -1;;Rechargement -1;;NachlGesch -1;装填速度-1;装填速度-1
+Reload Speed -2;;Rechargement -2;;NachlGesch -2;装填速度-2;装填速度-2
+Reload Speed -3;;Rechargement -3;;NachlGesch -3;装填速度-3;装填速度-3
+Load Up;;Munitions +;;Kapazität hoch;装填数UP;装填数UP
+Bonus Shot;;Sniper+;;Bonus-Schuss;連発数+1;速射数+1
+Recoil Down +1;;Recul +1;;Rück. runter +1;反動軽減+1;后坐力减轻+1
+Recoil Down +2;;Recul +2;;Rück. runter +2;反動軽減+2;后坐力减轻+2
+Recoil Down +3;;Recul +3;;Rück. runter +3;反動軽減+3;后坐力减轻+3
+Recoil Down -1;;Recul -1;;Rück. runter -1;反動軽減-1;后坐力减轻-1
+Recoil Down -2;;Recul -2;;Rück. runter -2;反動軽減-2;后坐力减轻-2
+Recoil Down -3;;Recul -3;;Rück. runter -3;反動軽減-3;后坐力减轻-3
+Steadiness +1;;Précision +1;;Ruhige Hand +1;ブレ抑制+1;摇晃抑制+1
+Steadiness +2;;Précision +2;;Ruhige Hand +2;ブレ抑制+2;摇晃抑制+2
+Steadiness -1;;Précision -1;;Ruhige Hand -1;ブレ抑制-1;摇晃抑制-1
+Steadiness -2;;Précision -2;;Ruhige Hand -2;ブレ抑制-2;摇晃抑制-2
+Normal/Rapid Up;;Normale/Rapide +;;Norm./Schn. hoch;通常弾・連射矢UP;通常弹・连射箭UP
+Pierce/Pierce Up;;Perçante/Perç.+;;Pierc/Pierc hoch;貫通弾・貫通矢UP;貫通弹・贯通箭UP
+Pellet/Spread Up;;Plomb/Dispers. +;;Schr/StrPf hoch;散弾・拡散矢UP;散弹・扩散箭UP
+Use Any Normal S;;Toute Mn Normale;;Alle Normal S vw;通常弾全LV追加;通常弹全LV追加
+Use Lv1 Pierce S;;Mn Perçante Nv1;;Pierce S St1 vw;貫通弾LV1追加;貫通弹LV1追加
+Use Any Pierce S;;Toute Mn Perç.;;Alle Pierce S vw;貫通弾全LV追加;貫通弹全LV追加
+Use Lv1 Pellet S;;Mn Plomb Nv1;;Schrot S St1 vw;散弾LV1追加;散弹LV1追加
+Use Any Pellet S;;Toute Mn Plomb;;Alle Schrot S vw;散弾全LV追加;散弹全LV追加
+Use Lv1 Crag S;;Mn Explos. Nv1;;Crag S St1 vw;徹甲榴弾LV1追加;徹甲榴弹LV1追加
+Use Any Crag S;;Toute Mn Explos.;;Alle Crag S vw;徹甲榴弾全LV追加;徹甲榴弹全LV追加
+Use Lv1 Clust S;;Mn Frag. Nv 1;;Streu S St1 vw;拡散弾LV1追加;扩散弹LV1追加
+Use Any Clust S;;Toute Mn Frag.;;Alle Streu S vw;拡散弾全LV追加;扩散弹全LV追加
+Use Slicing S;;Us. Mn Tranch.;;Schnitt S vw;斬裂弾追加;斬裂弹追加
+Use Slime S;;Us. Mn Poisseuse;;Schleim S vw;爆破弾追加;爆破弹追加
+Use Poison Coat;;Us. end. poison;;Giftbeschtg vw;毒ビン追加;毒瓶追加
+Use Para Coat;;Us. end. para.;;Lähmbeschtg vw;麻痺ビン追加;麻痹瓶追加
+Use Sleep Coat;;Us. end. sommeil;;Schlafbschtg vw;睡眠ビン追加;睡眠瓶追加
+Use Power Coat;;Us. end. énergie;;Kraftbesch vw;強撃ビン追加;强击瓶追加
+Use C.Range Coat;;Us. end. càc;;Nahmkampfbesch vw;接撃ビン追加;接击瓶追加
+Use Exhaust Coat;;Us. end. épuis.;;Ermüdbeschtg vw;減気ビン追加;灭气瓶追加
+Use Slime Coat;;Us. end. Poisseux;;Schleimbschtg vw;爆破ビン追加;爆破瓶追加
+Horn Maestro;;Maestro;;Horn-Maestro;笛吹き名人;吹笛名人
+Artillery Novice;;Artilleur novice;;Artillerienovize;砲術師;炮术师
+Artillery Expert;;Artilleur expert;;Artillerieexper.;砲術王;炮术王
+Bombardier;;Bombardier;;Bombardier;ボマー;炸弹人
+Recovery Up;;Restauration +;;Erholung hoch;体力回復量UP;体力回復量UP
+Recovery Down;;Restauration -;;Erholung runter;体力回復量DOWN;体力回復量DOWN
+Wide-Range +1;;Soutien +1;;Großraum +1;広域化+1;广域+1
+Wide-Range +2;;Soutien +2;;Großraum +2;広域化+2;广域+2
+Item Use Up;;Habile;;Obj.nutz. hoch;アイテム使用強化;道具使用强化
+Item Use Down;;Maladroit;;Obj.nutz runter;アイテム使用弱化;道具使用弱化
+Negate Hunger;;Spartiate;;Hunger nichtig;腹減り無効;饥饿无效
+Halve Hunger;;Ascète;;Halber Hunter;腹減り半減;饥饿减半
+Raise Hunger;;Glouton;;Mehr Hunger;腹減り倍加【小】;饥饿倍加【小】
+Double Hunger;;Gargantua;;Doppelter Hunger;腹減り倍加【大】;饥饿倍加【大】
+Gourmand;;Gourmet;;Feinschmecker;まんぷく;满腹
+Scavenger;;Goinfre;;Allesfresser;拾い食い;乞丐
+Speed Eating +1;;Carnassier +1;;Schnellessen +1;早食い+1;速食者+1
+Speed Eating +2;;Carnassier +2;;Schnellessen +2;早食い+2;速食者+2
+Slow Eater;;Végétarien;;Langsamer Esser;スローライフ;慢食者
+Meat Lover;;Carnassier;;Fleischfan;お肉大好き;最喜欢肉
+Combination +20%;;Combinaison +20%;;Kombination +20%;調合成功率+20%;调合成功率+20%
+Combination +45%;;Combinaison +45%;;Kombination +45%;調合成功率+45%;调合成功率+45%
+Combination -10%;;Combinaison -10%;;Kombination -10%;調合成功率-10%;调合成功率-10%
+Combination -20%;;Combinaison -20%;;Kombination -20%;調合成功率-20%;调合成功率-20%
+Combination Pro;;Alchimiste;;Kombi-Profi;最大数生産;最大数生产
+Gathering +1;;Collecte +1;;Sammeln +1;採取+1;采集+1
+Gathering +2;;Collecte +2;;Sammeln +2;採取+2;采集+2
+Gathering -1;;Collecte -1;;Sammeln -1;採取-1;采集-1
+Speed Gatherer;;Chapardeur;;Schnellsammler;高速収集;高速収集
+Spirit's Whim;;Lubie esprit;;Seelenlaune;精霊の気まぐれ;精灵的反复无常
+Divine Whim;;Lubie divine;;Göttliche Laune;神の気まぐれ;神的反复无常
+Spectre's Whim;;Lubie du spectre;;Gespensterlaune;悪霊の気まぐれ;恶灵的反复无常
+Devil's Whim;;Lubie du démon;;Teufelslaune;悪魔の気まぐれ;恶魔的反复无常
+Honey Hunter;;Mielleux;;Honigjäger;ハニーハンター;甜心猎人
+Charm Chaser;;Chasse-charme;;Amulettjäger;お守りハンター;护符猎人
+Good Luck;;Chance;;Glück;幸運;幸运
+Great Luck;;Bonne fortune;;Glücksverstärker;激運;激运
+Bad Luck;;Malchance;;Pech;不運;不运
+Horrible Luck;;Mauvaise fortune;;Unglück;災難;灾难
+Carving Pro;;Dépeceur pro;;Zerleger-Profi;剥ぎ取り鉄人;剥取铁人
+Carving Master;;Expert dépeceur;;Zerlegemeister;剥ぎ取り達人;剥取达人
+Capture Expert;;Expert capture;;Fang-Experte;捕獲達人;捕获达人
+Capture Master;;Maître capture;;Fangmeister;捕獲名人;捕获名人
+Capture Guru;;Gourou capture;;Fang-Guru;捕獲の見極め;捕获的极致
+Detect;;Détection;;Aufspüren;探知;探知
+Autotracker;;Traqueur auto;;Auto-Aufspürer;自動マーキング;自动标记
+Pro Transporter;;Transporteur;;Rucksackexperte;運搬の達人;搬运达人
+Outdoorsman;;Plein air;;Naturbursche;ハンター生活;猎人生活
+Anti-Theft;;Antivol;;Anti-Dieb;盗み無効;偷盗无效
+Trap Master;;Maître piégeur;;Fallenmeister;罠師;陷阱师
+Flame Aura;;Aura de feu;;Flammenaura;燃鱗;燃鳞
+Endless Oxygen;;Oxygène infini;;Endlossauerstoff;酸素無限;氧气无限
+Short Breath;;Souffle coupé;;kurzer Atem;息継ぎ倍加;呼吸倍加
+Current Res (Lo);;Courant +1;;Stromabw [N];水流【小】無効;水流【小】无效
+Current Res (Hi);;Courant +2;;Stromabw [H];水流【大】無効;水流【大】无效
+Olympic Swimmer;;Requin;;Schwimm-Profi;スイマー;水魔
+Doggy Paddler;;Caniche;;Hundepaddler;カナヅチ;金槌（旱鸭子）
+Ocean's Blessing;;Maître-nageur;;Ozeansegen;水神の加護;水神的加护
+Adrenaline +1;;Adrénaline +1;;Adrenalin +1;火事場力+1;火事场力+1
+Adrenaline +2;;Adrénaline +2;;Adrenalin +2;火事場力+2;火事场力+2
+Worrywart;;Inquiétude;;Pessimist;心配性;胆小
+Fortify;;Ténacité;;Kräftigen;不屈;不屈
+Latent Power +1;;Pouv. latent +1;;Latente Kraft +1;力の解放+1;力解放+1
+Latent Power +2;;Pouv. latent +2;;Latente Kraft +2;力の解放+2;力解放+2
+Challenger +1;;Challenger +1;;Herausforder. +1;挑戦者+1;挑战者+1
+Challenger +2;;Challenger +2;;Herausforder. +2;挑戦者+2;挑战者+2
+Peak Performance;;Pic performance;;Spitzenleistung;フルチャージ;充满
+Awaken;;Réveil;;Erwachen;覚醒;觉醒
+Blightproof;;Anti-fléau;;Brandsicher;属性やられ無効;属性异常无效
+Guts;;Bravoure;;Mut;根性;根性
+Shakalaka Rally;;Ralliement Shak.;;Shakalaka-Rallye;奇面王の采配;奇面王的指令
+Shakalaka Cheer;;Exultation Shak.;;Shakalaka-Jubel;奇面王の呼び声;奇面王的呼声
+Wellness;;Bien-être;;Wohlbefinden;護法;护法
+Wrath Awoken;;Courroucé;;Erwachter Zorn;逆鱗;逆鱗
+Honed Blade;;Lame affûtée;;Geschl. Klinge;真打;真打
+Silver Bullet;;Mun. d'argent;;Silberkugel;剛弾;钢弹
+Rock Steady;;Stabilisation;;Felsenfest;金剛体;金刚体

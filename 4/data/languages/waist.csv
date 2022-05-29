@@ -1,0 +1,352 @@
+english;spanish;french;italian;german;japanese;chinese
+Brave's Belt;Cinturon de Valiente;;;;ブレイブベルト;勇气扣带
+Leather Belt;Cinturon de Cuero;;;;レザーベルト;皮制扣带
+Chainmail Belt;Cinturon de Malla;;;;チェーンベルト;锁链扣带
+Loc Lac Coil;Faja de Loc Lac ;;;;ロックラックコイル;洛克拉克腿甲
+Hunter's Faulds;Muslera de Cazador;;;;ハンターフォールド;猎人腿甲
+Hunter's Coat;Cota de Cazador;;;;ハンターコート;猎人裙甲
+Bone Faulds;Muslera de Hueso;;;;ボーンフォールド;骨制腿甲
+Bone Coat;Cota de Hueso;;;;ボーンコート;骨制裙甲
+Alloy Coil;Faja de Aleacion;;;;アロイコイル;合金腿甲
+Alloy Coat;Cota de Aleacion;;;;アロイコート;合金裙甲
+Rhenoplos Coil;Faja de Rhenoplos;;;;リノプロコイル;草食龙腿甲
+Rhenoplos Coat;Cota de Rhenoplos;;;;リノプロコート;草食龙裙甲
+Bnahabra Coil;Faja de Bnahabra;;;;ブナハコイル;飞甲虫腿甲
+Bnahabra Coat;Cota de Bnahabra;;;;ブナハコート;飞甲虫裙甲
+Jaggi Faulds;Muslera de Jaggi;;;;ジャギィフォールド;狗龙腿甲
+Jaggi Coat;Cota de Jaggi;;;;ジャギィコート;狗龙裙甲
+Genprey Faulds;Muslera de Genprey;;;;ゲネポスフォールド;黄速龙腿甲
+Genprey Coat;Cota de Genprey;;;;ゲネポスコート;黄速龙裙甲
+Velociprey Faulds;Muslera de Velociprey;;;;ランポスフォールド;蓝速龙腿甲
+Velociprey Coat;Cota de Velociprey;;;;ランポスコート;蓝速龙裙甲
+Arzuros Faulds;Muslera de Arzuros;;;;アシラフォールド;青熊兽腿甲
+Arzuros Coat;Cota de Arzuros;;;;アシラコート;青熊兽裙甲
+High-Metal Faulds;Muslera de Metal de Calidad;;;;ハイメタフォールド;矿石腿甲
+High-Metal Coat;Cota de Metal de Calidad;;;;ハイメタコート;矿石裙甲
+Battle Faulds;Muslera de Batalla;;;;バトルフォールド;战斗腿甲
+Battle Coat;Cota de Batalla;;;;バトルコート;战斗裙甲
+Kecha Faulds;Muslera de Kecha;;;;ケチャフォールド;奇猿狐腿甲
+Kecha Coat;Cota de Kecha;;;;ケチャコート;奇猿狐裙甲
+Gypceros Faulds;Muslera de Gypceros;;;;ゲリョスフォールド;毒怪鸟腿甲
+Gypceros Coat;Cota de Gypceros;;;;ゲリョスコート;毒怪鸟裙甲
+Conga Faulds;Muslera de Conga;;;;コンガフォールド;桃毛兽腿甲
+Conga Coat;Cota de Conga;;;;コンガコート;桃毛兽裙甲
+Ludroth Faulds;Muslera de Ludroth;;;;ルドロスフォールド;水兽腿甲
+Ludroth Coat;Cota de Ludroth;;;;ルドロスコート;水兽裙甲
+Lagombi Faulds;Muslera de Lagombi;;;;ウルクフォールド;白兔兽腿甲
+Lagombi Coat;Cota de Lagombi;;;;ウルクコート;白兔兽裙甲
+Ioprey Faulds;Muslera de Ioprey;;;;イーオスフォールド;红速龙腿甲
+Ioprey Coat;Cota de Ioprey;;;;イーオスコート;红速龙裙甲
+Remobra Belt;Cinturon de Remobre;;;;ガブラスーツベルト;翼蛇龙套扣带
+Remobra Band;Banda de Remobra;;;;ガブラスーツバンド;翼蛇龙套之箍
+Tetsukabra Faulds;Muslera de Tetsukabra ;;;;カブラフォールド;鬼蛙腿甲
+Tetsukabra Coat;Cota de Tetsukabra ;;;;カブラコート;鬼蛙裙甲
+Kut-Ku Faulds;Muslera de Kut-Ku;;;;クックフォールド;大怪鸟腿甲
+Kut-Ku Coat;Cota de Kut-Ku;;;;クックコート;大怪鸟裙甲
+King LobsterCoil;Faja de Rey Langosta;;;;Ｋ・ロブスタコイル;龙虾王腿甲
+King LobsterCoat;Cota de Rey Langosta;;;;Ｋ・ロブスタコート;龙虾王裙甲
+Barroth Faulds;Muslera de Barroth;;;;ボロスフォールド;土砂龙腿甲
+Barroth Coat;Cota de Barroth;;;;ボロスコート;土砂龙裙甲
+Ingot Coil;Faja de Lingote;;;;インゴットコイル;铸锭腿甲
+Ingot Coat;Cota de Lingote;;;;インゴットコート;铸锭裙甲
+Basarios Faulds;Muslera de Basarios;;;;バサルフォールド;岩龙腿甲
+Basarios Coat;Cota de Basarios;;;;バサルコート;岩龙裙甲
+Guardian Coil;Faja de Guardian;;;;ガーディアンコイル;守护者腿甲
+Guardian Coat;Cota de Guardian;;;;ガーディアンコート;守护者裙甲
+Helper Skirt;Falda de Ayudante;;;;ヘルパースカート;护工装褶裙
+Helper Frill;Volante de Ayudante;;;;ヘルパーフリル;护工装迷你裙
+Rouaga Anka;Elitro de Aelucanth;;;;ロワーガアンカ;锹虫腿甲
+Rouaga Cocuso;Ala de Aelucanth;;;;ロワーガコクサ;锹虫裙甲
+Falmer Anka;Elitro de Rhopessa;;;;ファルメルアンカ;蝴蝶腿甲
+Falmer Cocuso;Ala de Rhopessa;;;;ファルメルコクサ;蝴蝶裙甲
+Nightmare Oha;Hoja Mosgharl;;;;マギュルオッハ;南瓜裙腰
+Nightmareブラット;Fronda Mosgharl ;;;;マギュルブラット;南瓜裙甲
+Nerusukyura Faulds;Muslera de Nerusukyura;;;;スキュラフォールド;影蜘蛛腿甲
+Nerusukyura Coat;Cota de Nerusukyura;;;;スキュラコート;影蜘蛛裙甲
+Khezu Faulds;Muslera de Khezu;;;;フルフルフォールド;电龙腿甲
+Khezu Coat;Cota de Khezu;;;;フルフルコート;电龙裙甲
+Rathian Faulds;Muslera de Rathian;;;;レイアフォールド;雌火龙腿甲
+Rathian Coat;Cota de Rathian;;;;レイアコート;雌火龙裙甲
+Zaboazagiru Faulds;Muslera de Zaboazagiru;;;;ザボアフォールド;鬼鲛腿甲
+Zaboazagiru Coat;Cota de Zaboazagiru;;;;ザボアコート;鬼鲛裙甲
+Garara Faulds;Muslera de Garara;;;;ガララフォールド;绞蛇龙腿甲
+Garara Coat;Cota de Garara;;;;ガララコート;绞蛇龙裙甲
+Guild Bard Coil;Faja Bardo Gremio;;;;ギルドバードコイル;工会精英腿甲
+Guild Bard Coat;Cota Bardo Gremio;;;;ギルドバードコート;工会精英裙甲
+Scholar Skirt;Falda de Escolar;;;;スカラースカート;售货员褶裙
+Scholar Frill;Volante de Escolar;;;;スカラーフリル;售货员迷你裙
+Zinogre Faulds;Muslera de Zinogre;;;;ジンオウフォールド;雷狼龙腿甲
+Zinogre Coat;Cota de Zinogre;;;;ジンオウコート;雷狼龙裙甲
+Generu Faulds;Muslera de Generu;;;;セルタスフォールド;重甲虫腿甲
+Generu Coat;Cota de Generu;;;;セルタスコート;重甲虫裙甲
+Nibelsnarf Faulds;Muslera de Nibelsnarf;;;;ハプルフォールド;潜口龙腿甲
+Nibelsnarf Coat;Cota de Nibelsnarf;;;;ハプルコート;潜口龙裙甲
+Ceanataur Faulds;Muslera de Ceanataur;;;;ギザミフォールド;镰蟹腿甲
+Ceanataur Coat;Cota de Ceanataur;;;;ギザミコート;镰蟹裙甲
+Goa Faulds;Muslera de Gao;;;;ゴアフォールド;黑蚀龙腿甲
+Goa Coat;Cota de Gao;;;;ゴアコート;黑蚀龙裙甲
+Tigrex Faulds;Muslera de Tigrex;;;;レックスフォールド;轰龙腿甲
+Tigrex Coat;Cota de Tigrex;;;;レックスコート;轰龙裙甲
+Brachydios Faulds;Muslera de Brachydios;;;;ブラキフォールド;碎龙腿甲
+Brachydios Coat;Cota de Brachydios;;;;ブラキコート;碎龙裙甲
+Nargacuga Faulds;Muslera de Nargacuga;;;;ナルガフォールド;迅龙腿甲
+Nargacuga Coat;Cota de Nargacuga;;;;ナルガコート;迅龙裙甲
+Gravios Faulds;Muslera de Gravios;;;;グラビドフォールド;铠龙腿甲
+Gravios Coat;Cota de Gravios;;;;グラビドコート;铠龙裙甲
+Rathalos Faulds;Muslera de Rathalos;;;;レウスフォールド;雄火龙腿甲
+Rathalos Coat;Cota de Rathalos;;;;レウスコート;雄火龙裙甲
+Lavasioth Faulds;Muslera de Lavasioth;;;;ラヴァフォールド;溶岩龙腿甲
+Lavasioth Coat;Cota de Lavasioth;;;;ラヴァコート;溶岩龙裙甲
+Diablos Coil;Faja de Diablos;;;;ディアブロコイル;角龙腿甲
+Diablos Coat;Cota de Diablos;;;;ディアブロコート;角龙裙甲
+Garuga Faulds;Muslera de Garuga;;;;ガルルガフォールド;黑狼鸟腿甲
+Garuga Coat;Cota de Garuga;;;;ガルルガコート;黑狼鸟裙甲
+Uragaan Faulds;Muslera de Uragaan;;;;ガンキンフォールド;爆锤龙腿甲
+Uragaan Coat;Cota de Uragaan;;;;ガンキンコート;爆锤龙裙甲
+Duramboros Faulds;Muslera de Duramboros;;;;ドボルフォールド;尾槌龙腿甲
+Duramboros Coat;Cota de Duramboros;;;;ドボルコート;尾槌龙裙甲
+Arc Faulds;Muslera de Arco;;;;アークフォールド;弧光腿甲
+Arc Coat;Cota de Arco;;;;アークコート;弧光裙甲
+Philia Faulds;Muslera de Philia;;;;フィリアフォールド;友爱腿甲
+Philia Coat;Cota de Philia;;;;フィリアコート;友爱裙甲
+Zannyo Koshiate;Koshiate Zannyo;;;;残陽【腰当て】;残阳【腰甲】
+Shinonome Koshiate;Koshiate Shinonome ;;;;東雲【腰当て】;东云【腰甲】
+Tokiwa Koshiate;Koshiate Tokiwa ;;;;常磐【腰当て】;常磐【腰甲】
+Yachiyo Koshiate;Koshiate Yachiyo ;;;;八千代【腰当て】;八千代【腰甲】
+Kirin Hoop;Aro de Kirin;;;;キリンフープ;麒麟裙箍
+Kirin Shorts;Calzoncillos de Kirin;;;;キリンショルト;麒麟饰带
+Akatsuki Koshiate;Koshiate Akatsuki ;;;;暁丸【腰当て】;晓丸【腰甲】
+Akebono Koshiate;Koshiate Akebono ;;;;曙丸【腰当て】;曙丸【腰甲】
+Rin Koshiate;Koshiate Rin ;;;;凛【腰当て】;凛【腰甲】
+Tsuya Koshiate;Koshiate Tsuya ;;;;艶【腰当て】;妖艳【腰甲】
+Light Skin Belt;Cinturo Piel de Luz;;;;スキンライトベルト;轻皮扣带
+Iron Belt;Cinturon de Hierro;;;;アイアンベルト;矿石扣带
+Blue Star Coil;Faja Estrella Azul;;;;ブルースターコイル;蓝星花腿甲
+Blue Star Coat;Cota Estrella Azul;;;;ブルースターコート;蓝星花裙甲
+Brave's Faulds S;Muslera de Valiente S;;;;ブレイブＳフォールド;勇气腿甲Ｓ
+Brave's Coat S;Cota de Valiente S;;;;ブレイブＳコート;勇气裙甲Ｓ
+Leather Faulds S;Muslera de Cuero S;;;;レザーＳフォールド;皮质腿甲Ｓ
+Leather Coat S;Cota de Cuero S;;;;レザーＳコート;皮质裙甲Ｓ
+Chainmail Faulds S;Muslera de Malla S;;;;チェーンＳフォールド;锁链腿甲Ｓ
+Chainmail Coat S;Cota de Malla S;;;;チェーンＳコート;锁链裙甲Ｓ
+Hunter's Faulds S;Muslera de Cazador S;;;;ハンターＳフォールド;猎人腿甲Ｓ
+Hunter's Coat S;Cota de Cazador S;;;;ハンターＳコート;猎人裙甲Ｓ
+Bone Faulds S;Muslera de Hueso S;;;;ボーンＳフォールド;骨制腿甲Ｓ
+Bone Coat S;Cota de Hueso S;;;;ボーンＳコート;骨制裙甲Ｓ
+Alloy Coil S;Faja de Aleacion S;;;;アロイＳコイル;合金腿甲Ｓ
+Alloy Coat S;Cota de Aleacion S;;;;アロイＳコート;合金裙甲Ｓ
+Rhenoplos Coil S;Faja de Rhenoplos S;;;;リノプロＳコイル;草食龙腿甲Ｓ
+Rhenoplos Coat S;Cota de Rhenoplos S;;;;リノプロＳコート;草食龙裙甲Ｓ
+Bnahabra Coil S;Faja de Bnahabra S;;;;ブナハＳコイル;飞甲虫腿甲Ｓ
+Bnahabra Coat S;Cota de Bnahabra S;;;;ブナハＳコート;飞甲虫裙甲Ｓ
+Jaggi Faulds S;Muslera de Jaggi S;;;;ジャギィＳフォールド;狗龙腿甲Ｓ
+Jaggi Coat S;Cota de Jaggi S;;;;ジャギィＳコート;狗龙裙甲Ｓ
+Genprey Faulds S;Muslera de Genprey Ｓ;;;;ゲネポスＳフォールド;黄速龙腿甲Ｓ
+Genprey Coat S;Cota de Genprey Ｓ;;;;ゲネポスＳコート;黄速龙裙甲Ｓ
+Volvidon Faulds;Muslera de Volvidon;;;;ランゴフォールド;飞虫腿甲
+Volvidon Coat;Cota de Volvidon ;;;;ランゴコート;飞虫裙甲
+Qurupeco Coil;Faja de Qurupeco;;;;ペッココイル;彩鸟腿甲
+Qurupeco Coat;Cota de Qurupeco;;;;ペッココート;彩鸟裙甲
+Conga Faulds S;Muslera de Conga Ｓ;;;;コンガＳフォールド;桃毛兽腿甲Ｓ
+Conga Coat S;Cota de Conga Ｓ;;;;コンガＳコート;桃毛兽裙甲Ｓ
+Conga Faulds U;Muslera de Conga Ｕ;;;;コンガＵフォールド;绿毛兽腿甲Ｕ
+Conga Coat U;Cota de Conga Ｕ;;;;コンガＵコート;绿毛兽裙甲Ｕ
+Velociprey Faulds S;Muslera de Velociprey Ｓ;;;;ランポスＳフォールド;蓝速龙腿甲Ｓ
+Velociprey Coat S;Cota de Velociprey Ｓ;;;;ランポスＳコート;蓝速龙裙甲Ｓ
+Chrome Metal Coil;Faja de Metal Cromado;;;;クロムメタルコイル;铬合金腿甲
+Chrome Metal Coat;Cota de Metal Cromado;;;;クロムメタルコート;铬合金裙甲
+Cephalos Faulds;Muslera de Cephalos;;;;ガレオスフォールド;砂龙腿甲
+Cephalos Coat;Cota de Cephalos ;;;;ガレオスコート;砂龙裙甲
+Hermitaur Faulds;Muslera de Hermitaur ;;;;ザザミフォールド;盾蟹腿甲
+Hermitaur Coat;Cota de Hermitaur;;;;ザザミコート;盾蟹裙甲
+Remobra Belt S;Cinturon de Remobra S;;;;ガブラスーツＳベルト;翼蛇龙扣带Ｓ
+Remobra Band S;Banda de Remobra S;;;;ガブラスーツＳバンド;翼蛇龙之箍Ｓ
+Kecha Faulds S;Muslera de Kecha Ｓ;;;;ケチャＳフォールド;奇猿狐腿甲Ｓ
+Kecha Coat S;Cota de Kecha Ｓ;;;;ケチャＳコート;奇猿狐裙甲Ｓ
+Kut-Ku Faulds S;Muslera de Kut-Ku Ｓ;;;;クックＳフォールド;大怪鸟腿甲Ｓ
+Kut-Ku Coat S;Cota de Kut-Ku Ｓ;;;;クックＳコート;大怪鸟裙甲Ｓ
+Kut-Ku Faulds U;Muslera de Kut-Ku Ｕ;;;;クックＵフォールド;青怪鸟腿甲Ｕ
+Kut-Ku Coat U;Cota de Kut-Ku Ｕ;;;;クックＵコート;青怪鸟裙甲Ｕ
+Obituary Anka;Elitro de Obituario;;;;オウビートアンカ;独角仙腿甲
+Obituary Cocuso;Cocussa de Obituario;;;;オウビートコクサ;独角仙裙甲
+Butterfly Anka;Elitro de Mariposa;;;;パピメルアンカ;彩蝶腿甲
+Butterfly Cocuso;Cocussa de Mariposa;;;;パピメルコクサ;彩蝶裙甲
+Ioprey Faulds S;Muslera de Ioprey Ｓ;;;;イーオスＳフォールド;红速龙腿甲Ｓ
+Ioprey Coat S;Cota de Ioprey Ｓ;;;;イーオスＳコート;红速龙裙甲Ｓ
+Dober Coil;Faja de Dober;;;;ドーベルコイル;远古龙腿甲
+Dober Coat;Cota de Dober;;;;ドーベルコート;远古龙裙甲
+Lagombi Faulds S;Muslera de Lagombi S;;;;ウルクＳフォールド;白兔兽腿甲Ｓ
+Lagombi Coat S;Cota de Lagombi S;;;;ウルクＳコート;白兔兽裙甲Ｓ
+Hawk Coil;Faja de Halcon;;;;ホークコイル;餐叉腿甲
+Hawk Coat;Cota de Halcon;;;;ホークコート;餐叉裙甲
+Ecole Skirt;Falda de Ecole;;;;エコールスカート;校服褶裙
+Ecole Frill;Volante Ecole;;;;エコールフリル;校服迷你裙
+Gypceros Faulds S;Muslera de Gypceros Ｓ;;;;ゲリョスＳフォールド;毒怪鸟腿甲Ｓ
+Gypceros Coat S;Cota de Gypceros Ｓ;;;;ゲリョスＳコート;毒怪鸟裙甲Ｓ
+Gypceros Faulds U;Muslera de Gypceros Ｕ;;;;ゲリョスＵフォールド;紫毒怪鸟腿甲Ｕ
+Gypceros Coat U;Cota de Gypceros Ｕ;;;;ゲリョスＵコート;紫毒怪鸟裙甲Ｕ
+Volvidon Faulds;Muslera de Volvidon;;;;ラングロフォールド;赤甲兽腿甲
+Volvidon Coat;Cota de Volvidon;;;;ラングロコート;赤甲兽裙甲
+Tetsukabra Faulds S;Muslera de Tetsukabra  Ｓ;;;;カブラＳフォールド;鬼蛙腿甲Ｓ
+Tetsukabra Coat S;Cota de Tetsukabra  Ｓ;;;;カブラＳコート;鬼蛙裙甲Ｓ
+Nerusukyura Faulds S;Muslera de Nerusukyura S;;;;スキュラＳフォールド;影蜘蛛腿甲Ｓ
+Nerusukyura Coat S;Cota de Nerusukyura S;;;;スキュラＳコート;影蜘蛛裙甲Ｓ
+Khezu Faulds S;Muslera de Khezu Ｓ;;;;フルフルＳフォールド;电龙腿甲Ｓ
+Khezu Coat S;Cota de Khezu Ｓ;;;;フルフルＳコート;电龙裙甲Ｓ
+Khezu Faulds U;Muslera de Khezu Ｕ;;;;フルフルＵフォールド;赤电龙腿甲Ｕ
+Khezu Coat U;Cota de Khezu Ｕ;;;;フルフルＵコート;赤电龙裙甲Ｕ
+Rathian Faulds S;Muslera de Rathian S;;;;レイアＳフォールド;雌火龙腿甲Ｓ
+Rathian Coat S;Cota de Rathian S;;;;レイアＳコート;雌火龙裙甲Ｓ
+Rathian Heart Coil;Faja de Rathian Rosa;;;;リオハートコイル;樱火龙腿甲
+Rathian Heart Coat;Cota de Rathian Rosa;;;;リオハートコート;樱火龙裙甲
+Golden Luna Coil;Faja de Luna Dorada;;;;ゴールドルナコイル;金火龙腿甲
+Golden Luna Coat;Cota de Luna Dorada;;;;ゴールドルナコート;金火龙裙甲
+Rathian EX Faulds;Muslera de Rathian EX;;;;EXレイアフォールド;EX雌火龙腿甲
+Rathian EX Coat;Cota de Rathian EX;;;;EXレイアコート;EX雌火龙裙甲
+Basarios Faulds S;Muslera de Basarios Ｓ;;;;バサルＳフォールド;岩龙腿甲Ｓ
+Basarios Coat S;Cota de Basarios Ｓ;;;;バサルＳコート;岩龙裙甲Ｓ
+Basarios Faulds U;Muslera de Basarios Ｕ;;;;バサルＵフォールド;桃岩龙腿甲Ｕ
+Basarios Coat U;Cota de Basarios Ｕ;;;;バサルＵコート;桃岩龙裙甲Ｕ
+Artian Coil S;Faja de Artesano Ｓ;;;;アーティアＳコイル;神秘腿甲Ｓ
+Artian Coat S;Cota de Artesano Ｓ;;;;アーティアＳコート;神秘裙甲Ｓ
+Zinogre Faulds S;Muslera de Zinogre Ｓ;;;;ジンオウＳフォールド;雷狼龙腿甲Ｓ
+Zinogre Coat S;Cota de Zinogre Ｓ;;;;ジンオウＳコート;雷狼龙裙甲Ｓ
+Zinogre Faulds U;Muslera de Zinogre Ｕ;;;;ジンオウＵフォールド;狱狼龙腿甲Ｕ
+Zinogre Coat U;Cota de Zinogre Ｕ;;;;ジンオウＵコート;狱狼龙裙甲Ｕ
+Goa Faulds S;Muslera de Gao Ｓ;;;;ゴアＳフォールド;黑蚀龙腿甲Ｓ
+Goa Coat S;Cota de Gao Ｓ;;;;ゴアＳコート;黑蚀龙裙甲Ｓ
+Gobul Faulds;Muslera de Gobul;;;;ガブルフォールド;灯鱼龙腿甲
+Gobul Coat;Cota de Gobul;;;;ガブルコート;灯鱼龙裙甲
+Guild Knight Coil;Faja de Caballero de Gremio;;;;ギルドナイトコイル;工会骑士腿甲
+Guild Knight Skirt;Falda de Caballero de Gremio;;;;ギルドナイトスカート;工会骑士褶裙
+Maid Skirt;Falda de Mucama;;;;メイドスカート;女仆装褶裙
+Maid Frill;Volante de Mucama;;;;メイドフリル;女仆装迷你裙
+Ranger's Faulds;Muslera de Explorador;;;;城塞遊撃隊【鎖帯】;城塞游击队【锁带】
+Archer's Faulds;Muslera de Arquero;;;;城塞弓撃隊【弾帯】;城塞弓击队【弹带】
+Generu Faulds S;Muslera de Generu Ｓ;;;;セルタスＳフォールド;重甲虫腿甲Ｓ
+Generu Coat S;Cota de Generu Ｓ;;;;セルタスＳコート;重甲虫裙甲Ｓ
+Zaboazagiru Faulds S;Muslera de Zaboazagiru Ｓ;;;;ザボアＳフォールド;鬼鲛腿甲Ｓ
+Zaboazagiru Coat S;Cota de Zaboazagiru Ｓ;;;;ザボアＳコート;鬼鲛裙甲Ｓ
+Garara Faulds S;Muslera de Garara Ｓ;;;;ガララＳフォールド;绞蛇龙腿甲Ｓ
+Garara Coat S;Cota de Garara Ｓ;;;;ガララＳコート;绞蛇龙裙甲Ｓ
+Tigrex Faulds S;Muslera de Tigrex Ｓ;;;;レックスＳフォールド;轰龙腿甲Ｓ
+Tigrex Coat S;Cota de Tigrex Ｓ;;;;レックスＳコート;轰龙裙甲Ｓ
+Tigrex Faulds U;Muslera de Tigrex Ｕ;;;;レックスＵフォールド;黑轰龙腿甲Ｕ
+Tigrex Coat U;Cota de Tigrex Ｕ;;;;レックスＵコート;黑轰龙裙甲Ｕ
+X-Zero Coil;Faja de X-Zero;;;;エクスゼロコイル;大轰龙腿甲
+X-Zero Coat;Cota de X-Zero;;;;エクスゼロコート;大轰龙裙甲
+Tigrex EX Faulds;Muslera de Tigrex EX;;;;EXレックスフォールド;EX轰龙腿甲
+Tigrex EX Coat;Cota de Tigrex EX;;;;EXレックスコート;EX轰龙裙甲
+Blango Faulds;Muslera de Blango;;;;ブランゴフォールド;雪狮子腿甲
+Blango Coat;Cota de Blango;;;;ブランゴコート;雪狮子裙甲
+Black Belt Faulds;Muslera de Cinturon Negro;;;;クロオビフォールド;教官腿甲
+Black Belt Coat;Cota de Cinturon Negro;;;;クロオビコート;教官裙甲
+Rathalos Faulds S;Muslera de Rathalos S;;;;レウスＳフォールド;雄火龙腿甲Ｓ
+Rathalos Coat S;Cota de Rathalos S;;;;レウスＳコート;雄火龙裙甲Ｓ
+Rathalos Soul Coil;Faja de alma de Rathalos;;;;リオソウルコイル;苍火龙腿甲
+Rathalos Soul Coat;Cota de alma de Rathalos;;;;リオソウルコート;苍火龙裙甲
+Silver Sol Coil;Faja de Sol Plateado;;;;シルバーソルコイル;银火龙腿甲
+Silver Sol Coat;Cota de Sol Plateado;;;;シルバーソルコート;银火龙裙甲
+Rathalos EX Faulds;Muslera de Rathalos EX;;;;EXレウスフォールド;EX雄火龙腿甲
+Rathalos EX Coat;Cota de Rathalos EX;;;;EXレウスコート;EX雄火龙裙甲
+Gravios Faulds S;Muslera de Gravios S;;;;グラビドＳフォールド;铠龙腿甲Ｓ
+Gravios Coat S;Cota de Gravios S;;;;グラビドＳコート;铠龙裙甲Ｓ
+Gravios Faulds U;Muslera de Gravios U;;;;グラビドＵフォールド;黑铠龙腿甲Ｕ
+Gravios Coat U;Cota de Gravios U;;;;グラビドＵコート;黑铠龙裙甲Ｕ
+Barioth Faulds;Muslera de Barioth;;;;ベリオフォールド;冰牙龙腿甲
+Barioth Coat;Cota de Barioth;;;;ベリオコート;冰牙龙裙甲
+Brachydios Faulds S;Muslera de Brachydios Ｓ;;;;ブラキＳフォールド;碎龙腿甲Ｓ
+Brachydios Coat S;Cota de Brachydios Ｓ;;;;ブラキＳコート;碎龙裙甲Ｓ
+Agnaktor Faulds;Muslera de Agnaktor;;;;アグナフォールド;炎戈龙腿甲
+Agnaktor Coat;Cota de Agnaktor;;;;アグナコート;炎戈龙裙甲
+Garuga Faulds S;Muslera de Garuga Ｓ;;;;ガルルガＳフォールド;黑狼鸟腿甲Ｓ
+Garuga Coat S;Cota de Garuga Ｓ;;;;ガルルガＳコート;黑狼鸟裙甲Ｓ
+Lagiacrus Faulds;Muslera de Lagiacrus;;;;ラギアフォールド;海龙腿甲
+Lagiacrus Coat;Cota de Lagiacrus;;;;ラギアコート;海龙裙甲
+Kirin Hoop S;Aro de Kirin S;;;;キリンＳフープ;麒麟裙箍Ｓ
+Kirin Shorts S;Calzoncillos de Kirin S;;;;キリンＳショルト;麒麟饰带Ｓ
+Kirin Hoop U;Aro de Kirin U;;;;キリンＵフープ;冰麒麟裙箍Ｕ
+Kirin Shorts U;Calzoncillos de Kirin U;;;;キリンＵショルト;冰麒麟饰带Ｕ
+Yukumo Obi (Sky);Obi Yukumo (Cielo);;;;ユクモノオビ・天;结云腰带・天
+Yukumo Obi (Earth);Obi Yukumo (Tierra);;;;ユクモノオビ・地;结云腰带・地
+Sailor Skirt;Falda de Marinero;;;;セイラースカート;水手服褶裙
+Sailor Frill;Volante de Marinero;;;;セイラーフリル;水手服迷你裙
+Vangis Coil;Faja de Vangis;;;;バンギスコイル;恐暴龙腿甲
+Vangis Coat;Cota de Vangis;;;;バンギスコート;恐暴龙裙甲
+Greed Faulds;Muslera de Codicia;;;;グリードフォールド;贪婪腿甲
+Greed Coat;Cota de Codicia;;;;グリードコート;贪婪裙甲
+Zannyo Koshiate Ha;Zannyo Ha [Cinturon];;;;残陽・覇【腰当て】;残阳・霸【腰甲】
+Shinonome Koshiate Ha;Shinonome Ha [Cinturon];;;;東雲・覇【腰当て】;东云・霸【腰甲】
+Tokiwa Koshiate Ha;Tokiwa Ha [Cinturon];;;;常磐・覇【腰当て】;常磐・霸【腰甲】
+Yachiyo Koshiate Ha;Yachiyo Ha [Cinturon];;;;八千代・覇【腰当て】;八千代・霸【腰甲】
+Yamato Koshiate;Yamato [Cinturon];;;;大和【腰当て】;大和【腰甲】
+Mutsu Koshiate;Mutsu [Cinturon];;;;陸奥【腰当て】;陆奥【腰甲】
+Hinata Koshiate;Hinata [Cinturon];;;;日向【腰当て】;日向【腰甲】
+Amagi Koshiate;Amagi [Cinturon];;;;天城【腰当て】;天成【腰甲】
+Arc Faulds S;Muslera de Arco S;;;;アークＳフォールド;弧光腿甲Ｓ
+Arc Coat S;Cota de Arco S;;;;アークＳコート;弧光裙甲Ｓ
+Philia Faulds S;Muslera de Philia S;;;;フィリアＳフォールド;友爱腿甲Ｓ
+Philia Coat S;Cota de Philia S;;;;フィリアＳコート;友爱裙甲Ｓ
+Golden Obi;Obi Dorado;;;;金色ノ帯;金色的系带
+Puppet Master Obi;Obi de Maestro Marioneta;;;;黒子ノ帯;黑子的系带
+Rapture Obi;Obi Furia;;;;怒天ノ帯;怒天的系带
+Heartbeat Obi;Obi Latido Cecorazon;;;;心滅ノ帯;心灭的系带
+Dark Akantor Cincture;Cincho Akantor Oscuro;;;;アカムトイッケク;霸龙腿甲
+Dark Akantor Sash;Fajin Akantor Oscuro;;;;アカムトイッケタリ;霸龙甲裙
+Dark Ukanlos Cincture;Cincho Ukanlos Oscuro;;;;ウカムルイッケク;崩龙腿甲
+Dark Ukanlos Sash;Fajin Ukanlos Oscuro;;;;ウカムルイッケタリ;崩龙甲裙
+Kaiser Faulds;Muslera de Kaiser;;;;カイザーフォールド;炎王龙腿甲
+Kaiser Coat;Cota de Kaiser;;;;カイザーコート;炎王龙裙甲
+Kaiser EX Coil;Faja de Kaiser EX;;;;EXカイザーコイル;EX炎王龙腿甲
+Kaiser EX Coat;Cota de Kaiser EX;;;;EXカイザーコート;EX炎王龙裙甲
+Empress Faulds;Muslera de Emperatriz;;;;エンプレスフォールド;炎妃龙腿甲
+Empress Coat;Cota de Emperatriz;;;;エンプレスコート;炎妃龙裙甲
+Kushala Cocoon;Capullo Kushala;;;;クシャナアンダ;钢龙腿甲
+Kushala Wind Wrap;Cinta Viento Kushala;;;;クシャナアドミ;钢龙甲裙
+Kushala EX Cocoon;Capullo Kushala EX;;;;EXクシャナアンダ;EX钢龙腿甲
+Kushala EX Wind Wrap;Cinta Viento Kushala EX;;;;EXクシャナアドミ;EX钢龙甲裙
+Demon Sash;Yasha [Taparrabo];;;;夜叉【腰巻】;夜叉【腰卷】
+Carnage Sash;Shura [Taparrabo];;;;修羅【腰巻】;修罗【腰卷】
+Rebellion Coil;Faja de Rebelion;;;;リベリオンコイル;逆乱腿甲
+Riot Coat;Cota de Motin;;;;ライオットコート;暴乱裙甲
+MizuhaObi;Midzuha [Faja];;;;ミヅハ【丸帯】;罔象【丸带】
+ExtravagantObi;Toyotama [Faja];;;;トヨタマ【丸帯】;丰玉【丸带】
+Shinobi Obi (Sky);Cinturon Shinobi (Cielo);;;;忍の帯・天;忍之带・天
+Shinobi Obi (Earth);Cinturon Shinobi (Tierra);;;;忍の帯・地;忍之带・地
+Kongo Koshiate;Koshiate Kongo ;;;;金剛【腰当て】;金刚【腰甲】
+Fudou Koshiate;Koshiate Fudou ;;;;不動【腰当て】;不动【腰甲】
+Dragon Spine;Espinazo de Dragon;;;;ドラゴンスパイン;恶龙斜袴
+Dragon Scale;Escamas de Dragon;;;;ドラゴンスケイル;恶龙尾
+Helios Coil;Faja de Helios;;;;ヘリオスコイル;太阳神腿甲
+Helios Coat;Cota de Helios;;;;ヘリオスコート;太阳神裙甲
+Selene Coil;Faja de Selene;;;;セレネコイル;月神腿甲
+Selene Coat;Cota de Selene;;;;セレネコート;月神裙甲
+Escadora Might;Fuerza Escadora;;;;エスカドラマイト;煌黑龙意志
+Escadora Force;Poder Escadora;;;;エスカドラフォルス;煌黑龙力量
+Chakra Waistlet;Cadena de Cintura de Chakra;;;;三眼の腰飾り;三孔腰饰
+Kirin EX Hoop U;Aro de Kirin EX U;;;;EXキリンＵフープ;EX麒麟裙箍Ｕ
+Kirin EX Shorts U;Calzoncillos de Kirin EX U;;;;EXキリンＵショルト;EX麒麟饰带Ｕ
+Captain Coil J;Faja Capitan J ;;;;キャプテンＪコイル;船长腿甲Ｊ
+Captain Skirt J;Falda Capitan J ;;;;キャプテンＪスカート;船长褶裙Ｊ
+Ingot EX Coil;Faja de Lingote EX;;;;EXインゴットコイル;EX高合金腿甲
+Ingot EX Coat;Cota de Lingote EX;;;;EXインゴットコート;EX高合金裙甲
+Legend Coil J;Faja Leyenda J;;;;伝説Ｊコイル;传说腿甲Ｊ
+Legend Skirt J;Falda Leyenda J;;;;伝説Ｊスカート;传说褶裙Ｊ
+Bouya Belt;Correa Tienda Bow;;;;坊屋ベルト;坊屋扣带
+Bouya Buckle;Hebilla Tienda Bow;;;;坊屋バックル;坊屋裤袋
+UNIQLO Pouch;Bolsa UNIQLO;;;;ユニクロポーチ;优衣库裤袋
+UNIQLO Pocket;Pochette UNIQLO;;;;ユニクロポシェット;优衣库挎包
+Star Rook Coil;Faja Estrella Suerte;;;;スタールークコイル;路克星腿甲
+Star Rook Coat;Cota Estrella Suerte;;;;スタールークコート;路克星裙甲
+Zodias Coil;Faja de Zodiaco;;;;ゾディアスコイル;黄道腿甲
+Zodias Coat;Cota de Zodiaco;;;;ゾディアスコート;黄道裙甲
+Hero's Belt;Cinturon de Valiente;;;;勇者のベルト;勇者的扣带
+Hero's Band;Faja de Valiente;;;;勇者のバンド;勇者的之箍
+Artian EX Coil;Faja de Artesano EX;;;;EXアーティアコイル;EX神秘腿甲
+Artian EX Coat;Cota de Artesano EX;;;;EXアーティアコート;EX神秘裙甲
+Goa EX Faulds;Muslera de Gao EX;;;;EXゴアフォールド;EX黑蚀龙腿甲
+Goa EX Coat;Cota de Gao EX;;;;EXゴアコート;EX黑蚀龙裙甲
+Rebellion EX Coil;Faja de Rebelion EX;;;;EXリベリオンコイル;EX逆乱腿甲
+Riot EX Coat;Cota de Motin EX;;;;EXライオットコート;EX暴乱裙甲
+Miralis Wing;Ala de Fatalis Carmesi;;;;ミラバルウイング;红黑龙之翼
+Miralis Tail;Cola de Fatalis Carmesi;;;;ミラバルテイル;红黑龙之尾
