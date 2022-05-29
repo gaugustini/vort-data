@@ -60,9 +60,6 @@ Dragon Res
 Torso +1
 Torso +2
 Torso Inc
-;the following blank line separates the two kinds of armor skills.
-
-;Resulting Skills:
 ESP
 Sharpness +1
 Sharpness -1
@@ -226,5 +223,5 @@ Dragon Res +3
 Dragon Res -3
 Dragon Res -5
 Dragon Res -10
-Add +1 to all Torso Skill Points
-Add +2 to all Torso Skill Points
+Torso +1
+Torso +2

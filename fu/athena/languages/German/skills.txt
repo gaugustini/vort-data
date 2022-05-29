@@ -97,9 +97,6 @@ KameradLtg
 KameradAng
 KameradVer
 RumpfVerst
-;the following blank line separates the two kinds of armor skills.
-
-;Resulting Skills:
 Angriff hoch (sehr)
 Angriff hoch(mittel)
 Angriff hoch (wenig)

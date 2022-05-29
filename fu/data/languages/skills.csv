@@ -98,8 +98,6 @@ ComrdGuide;GuiaCamrda;GuideComp.;GuidaCompa;KameradLtg;;
 ComradeAtk;AtqCamrda;Att. Comp.;Att. Compa;KameradAng;;
 ComradeDef;DefCamrda;Déf. Comp.;Dif. Compa;KameradVer;;
 Torso Inc;AumenTorso;Aug. Torse;Torso aum.;RumpfVerst;;
-";the following blank line separates the two kinds of armor skills.";";the following blank line separates the two kinds of armor skills.";";the following blank line separates the two kinds of armor skills.";";the following blank line separates the two kinds of armor skills.";";the following blank line separates the two kinds of armor skills.";;
-";Resulting Skills:";";Resulting Skills:";";Resulting Skills:";";Resulting Skills:";";Resulting Skills:";;
 Attack Up (Large);Sub ataque (grande);Attaque augm. (gd);Attacco aum.(gran.);Angriff hoch (sehr);;
 Attack Up (Medium);Sub ataque (medio);Attaque augm. (my);Attacco aum.(medio);Angriff hoch(mittel);;
 Attack Up (Small);Sub ataque (peq.);Attaque augm. (pt);Attacco aum.(picc.);Angriff hoch (wenig);;

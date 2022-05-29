@@ -97,9 +97,6 @@ GuidaCompa
 Att. Compa
 Dif. Compa
 Torso aum.
-;the following blank line separates the two kinds of armor skills.
-
-;Resulting Skills:
 Attacco aum.(gran.)
 Attacco aum.(medio)
 Attacco aum.(picc.)

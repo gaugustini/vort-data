@@ -97,9 +97,6 @@ ComrdGuide
 ComradeAtk
 ComradeDef
 Torso Inc
-;the following blank line separates the two kinds of armor skills.
-
-;Resulting Skills:
 Attack Up (Large)
 Attack Up (Medium)
 Attack Up (Small)

@@ -97,9 +97,6 @@ GuiaCamrda
 AtqCamrda
 DefCamrda
 AumenTorso
-;the following blank line separates the two kinds of armor skills.
-
-;Resulting Skills:
 Sub ataque (grande)
 Sub ataque (medio)
 Sub ataque (peq.)

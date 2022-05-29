@@ -97,9 +97,6 @@ GuideComp.
 Att. Comp.
 Déf. Comp.
 Aug. Torse
-;the following blank line separates the two kinds of armor skills.
-
-;Resulting Skills:
 Attaque augm. (gd)
 Attaque augm. (my)
 Attaque augm. (pt)
