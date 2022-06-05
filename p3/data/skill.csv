@@ -1,0 +1,210 @@
+name;family;points;type
+Attack Up [Sm];Attack;10;0
+Attack Up [Med];Attack;15;0
+Attack Up [Lg];Attack;20;0
+Attack Down [Sm];Attack;-10;0
+Attack Down [Med];Attack;-15;0
+Attack Down [Lg];Attack;-20;0
+Reckless Abandon +1;Expert;10;0
+Reckless Abandon +2;Expert;15;0
+Reckless Abandon +3;Expert;20;0
+Reckless Abandon -1;Expert;-10;0
+Reckless Abandon -2;Expert;-15;0
+Reckless Abandon -3;Expert;-20;0
+Sharp Sword;Sharpness;10;1
+Blunt;Sharpness;-10;1
+Speed Sharpening;Sharpener;10;1
+Slow Sharpening;Sharpener;-10;1
+Sharpness +1;Artisan;15;1
+Unsheathe Stun;PunishDraw;10;1
+Unsheathe Critical;Crit Draw;10;1
+Concentration;FastCharge;10;0
+Distraction;FastCharge;-10;0
+ESP;Fencing;10;1
+Exploiter;Debilitate;10;0
+Ruiner;Slam;10;0
+Improved KO;KO;10;0
+Enfeebler;FatigueAtk;10;0
+Flute Expert;Horn;10;0
+Gunnery Master;Gunnery;10;0
+Gunnery King;Gunnery;15;0
+Unleashed +1;Awaken;10;0
+Unleashed +2;Awaken;15;0
+Adrenaline +1;Potential;10;0
+Adrenaline +2;Potential;15;0
+Worry;Potential;-10;0
+Resilience;Adversity;10;0
+Load Up;Loading;15;0
+Rapid Shot +1;Rapid Fire;10;2
+Reload Speed +1;Reload Spd;10;2
+Reload Speed +2;Reload Spd;15;2
+Reload Speed +3;Reload Spd;20;2
+Reload Speed -1;Reload Spd;-10;2
+Reload Speed -2;Reload Spd;-15;2
+Reload Speed -3;Reload Spd;-20;2
+Recoil Reduction +1;Recoil;10;2
+Recoil Reduction +2;Recoil;15;2
+Recoil Reduction +3;Recoil;20;2
+Recoil Reduction -1;Recoil;-10;2
+Recoil Reduction -2;Recoil;-15;2
+Recoil Reduction -3;Recoil;-20;2
+Accuracy+1;Precision;10;2
+Accuracy+2;Precision;15;2
+Accuracy-1;Precision;-10;2
+Accuracy-2;Precision;-15;2
+NormalS/RapidBowUp;NormalS Up;10;2
+PierceS/PierceBowUp;PierceS Up;10;2
+PelletS/ScatterBowUp;PelletS Up;10;2
+Normal S All Add;NormalSAdd;10;2
+Pierce S LV1 Add;PierceSAdd;10;2
+Pierce S All Add;PierceSAdd;15;2
+Pellet S LV1 Add;PelletSAdd;10;2
+Pellet S All Add;PelletSAdd;15;2
+Crag S LV1 Add;Crag S Add;10;2
+Crag S All Add;Crag S Add;15;2
+Clust S LV1 Add;ClustS Add;10;2
+Clust S All Add;ClustS Add;15;2
+Cutter S Add;CutterSAdd;10;2
+Poison Coating Add;PoisonCAdd;10;2
+Parlysis Coating Add;ParalyCAdd;10;2
+Sleep Coating Add;SleepCAdd;10;2
+Power Coating Add;PowerCAdd;10;2
+Close Range Coating Add;RazorCAdd;10;2
+Fatigue Coating Add;FatigeCAdd;10;2
+Abnormal Status Atk +1;Status;10;0
+Abnormal Status Atk +2;Status;15;0
+Abnormal Status Atk Down;Status;-10;0
+Element Atk Up;Elemental;10;0
+Elemnt Atk Down;Elemental;-10;0
+Fire Element +1;Fire Atk;10;0
+Fire Element +2;Fire Atk;15;0
+Fire Elment Down;Fire Atk;-10;0
+Water Element +1;Water Atk;10;0
+Water Element +2;Water Atk;15;0
+Water Element Down;Water Atk;-10;0
+Thunder Element +1;Thundr Atk;10;0
+Thunder Element +2;Thundr Atk;15;0
+Thunder Element Down;Thundr Atk;-10;0
+Ice Element +1;Ice Attack;10;0
+Ice Element +2;Ice Attack;15;0
+Ice Element Down;Ice Attack;-10;0
+Dragon Element +1;Dragon Atk;10;0
+Dragon Element +2;Dragon Atk;15;0
+Dragon Element Down;Dragon Atk;-10;0
+Constitution +1;Constitutn;10;0
+Constitution +2;Constitutn;15;0
+Constitution -1;Constitutn;-10;0
+Constitution -2;Constitutn;-15;0
+Runner;Stamina;10;0
+Flat Footed;Stamina;-10;0
+Stamina Recov Up;Will Recov;10;0
+Stamina Recov Down;Will Recov;-10;0
+Hunger Halved;Hunger;10;0
+Hunger Negated;Hunger;15;0
+Hunger Inc [Lo];Hunger;-10;0
+Hunger Inc [Hi];Hunger;-15;0
+Evade +1;Evasion;10;0
+Evade +2;Evasion;15;0
+Evade Down;Evasion;-10;0
+Evasion Up;Evade Dist;15;0
+Fast Sheathe;Sheathe;10;0
+Sneak;Sense;10;0
+Taunt;Sense;-10;0
+Recovery Speed +1;Rec Speed;10;0
+Recovery Speed +2;Rec Speed;15;0
+Recovery Spd -1;Rec Speed;-10;0
+Recovery Spd -2;Rec Speed;-15;0
+Guard +1;Guard;10;1
+Guard +2;Guard;15;1
+Guard -1;Guard;-10;1
+Guard Inc;Guard Up;10;0
+Auto-Guard;Auto-Guard;10;0
+Divine Protection;Protection;10;0
+Demonic Protection;Protection;-10;0
+Poison Negated;Poison;10;0
+Poison [x2];Poison;-10;0
+Parlysis Negated;Paralysis;10;0
+Paralysis [x2];Paralysis;-10;0
+Sleep Negated;Sleep;10;0
+Sleep [x2];Sleep;-10;0
+Stun Halved;Stun;10;0
+Stun Negated;Stun;15;0
+Stun [x2];Stun;-10;0
+Mud/Snow Res;Mud/Snow;10;0
+Quake Res;Quake Res;10;0
+Wind Breaker;WindPress;10;0
+Wind Anchor;WindPress;15;0
+Antiseptic;Antiseptic;10;0
+Steal No Effect;Anti-Theft;10;0
+Blightproof;Blight Res;10;0
+Def Down Negate;Fortitude;10;0
+Earplug;HearProtct;10;0
+HighGradeEarplug;HearProtct;15;0
+Health +20;Health;10;0
+Health +50;Health;15;0
+Health -10;Health;-10;0
+Health -30;Health;-15;0
+Def Up (S);Defense;10;0
+Def Up (M);Defense;15;0
+Def Up (L);Defense;20;0
+Def Down (S);Defense;-10;0
+Def Down (M);Defense;-15;0
+Def Down (L);Defense;-20;0
+Fire Res (S);Fire Res;10;0
+Fire Res (L);Fire Res;15;0
+Fire Res Weakened;Fire Res;-10;0
+Water Res (S);Water Res;10;0
+Water Res (L);Water Res;15;0
+Water Res Weakened;Water Res;-10;0
+Thunder Res (S);ThunderRes;10;0
+Thunder Res (L);ThunderRes;15;0
+Thunder Res Weakened;ThunderRes;-10;0
+Ice Res (S);Ice Res;10;0
+Ice Res (L);Ice Res;15;0
+Ice Res Weakened;Ice Res;-10;0
+Dragon Res (S);Dragon Res;10;0
+Dragon Res (L);Dragon Res;15;0
+Dragon Res Weakened;Dragon Res;-10;0
+Wide Area +1;Wide Area;10;0
+Wide Area +2;Wide Area;20;0
+Bombardier;BombStrUp;10;0
+Trap Master;SpeedSetup;10;0
+Trnquilizr Guru;Perception;10;0
+Detect;Psychic;10;0
+Autotracker;Psychic;15;0
+DungBombExpert;DungMaster;10;0
+Recovery Up;Rec Level;10;0
+Recovery Down;Rec Level;-10;0
+Item Use Up;LastingPwr;10;0
+Item Use Down;LastingPwr;-10;0
+Filled Up;Gluttony;10;0
+Picky Eater;Gluttony;15;0
+Quick Eating +1;Eating;10;0
+Quick Eating +2;Eating;15;0
+Slow Life;Eating;-10;0
+Huntsman's Life;Huntsman;10;0
+Backpacking Expert;Backpackng;10;0
+Heat Cancel;Heat Res;10;0
+Heat Inc;Heat Res;-10;0
+Cold Eliminate;Cold Res;10;0
+Cold Increase;Cold Res;-10;0
+Gathering +1;Gathering;10;0
+Gathering +2;Gathering;15;0
+Gathering -1;Gathering;-10;0
+Hi-SpdGathering;HiSpdGathr;10;0
+Spirit's Whim;Whim;10;0
+Divine Whim;Whim;15;0
+Spectre's Whim;Whim;-10;0
+Devil's Whim;Whim;-15;0
+Good Luck;Fate;10;0
+Luck Booster;Fate;15;0
+Bad Luck;Fate;-10;0
+Calamity;Fate;-15;0
+Carving Expert;Carving;15;0
+Rewards Expert;Rewards;10;0
+Rewards Celeb;Rewards;15;0
+Combine Success +20%;Combo Rate;10;0
+Combine Success+45%;Combo Rate;15;0
+Combine Success -10%;Combo Rate;-10;0
+Combine Success-20%;Combo Rate;-15;0
+Bullet Limit;Shot Mix;10;0

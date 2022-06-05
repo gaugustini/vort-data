@@ -1,0 +1,257 @@
+name;hr;village;slots;gender;type;rarity;defense;fire;thunder;dragon;water;ice;skill_one;skill_one_points;skill_two;skill_two_points;skill_three;skill_three_points;skill_four;skill_four_points;skill_five;skill_five_points;material_one;amount_one;material_two;amount_two;material_three;amount_three;material_four;amount_four
+Green Pants;1;1;0;0;0;1;1;2;0;0;0;150;Throw;5;Whim;2;Health;2;Defense;2;;;Kelbi Hide;1;Sm Monster Bone;1;;;;
+(Torso Inc) Blue Pants;1;1;0;0;0;1;2;2;-2;0;2;300;Torso Inc;;;;;;;;;;Iron Ore;2;Kelbi Hide;3;;;;
+Hunter's Greaves;1;1;0;0;1;1;4;0;-4;0;0;450;Fishing;4;Health;2;Defense;2;PsychicVis;3;;;Iron Ore;3;Bullfango Pelt;1;Earth Crystal;1;;
+Hunter's Leggings;1;1;0;0;2;1;3;2;-2;0;2;450;Fishing;4;Health;2;Defense;2;PsychicVis;3;;;Iron Ore;3;Bullfango Pelt;1;Earth Crystal;1;;
+Velociprey Greaves;1;1;0;0;1;2;8;1;1;-1;1;750;Faint;5;PsychicVis;2;Worry;-2;Poison;-2;;;Velociprey Scale;2;Iron Ore;3;;;;
+Velociprey Leggings;1;1;0;0;2;2;4;3;3;0;3;750;Faint;5;PsychicVis;2;Worry;-2;Poison;-2;;;Velociprey Scale;2;Iron Ore;3;;;;
+Genprey Greaves;1;1;0;0;1;2;11;2;3;-1;-2;1350;Paralysis;5;PsychicVis;2;Worry;-2;Poison;-2;;;Genprey Scale;4;Iron Ore;3;Disk Stone;2;;
+Genprey Leggings;1;1;0;0;2;2;6;4;5;0;0;1350;Paralysis;5;PsychicVis;2;Worry;-2;Poison;-2;;;Genprey Scale;4;Iron Ore;3;Disk Stone;2;;
+Ioprey Greaves;1;1;0;0;1;2;13;3;-2;-1;2;1950;Poison;5;ThunderRes;2;Paralysis;2;Water Res;-2;;;Ioprey Scale;3;Iron Ore;6;Earth Crystal;3;Sm Monster Bone;5
+Ioprey Leggings;1;1;0;0;2;2;7;5;0;0;4;1950;Poison;5;ThunderRes;2;Paralysis;2;Water Res;-2;;;Ioprey Scale;3;Iron Ore;6;Earth Crystal;3;Sm Monster Bone;5
+Rathian Greaves;1;1;0;0;1;3;16;2;-2;-4;0;3350;Health;3;Fire Res;2;Water Res;-2;ThunderRes;-2;Worry;-2;Rathian Scale;3;Rathian Shell;3;Machalite Ore;3;Iron Ore;8
+Rathian Leggings;1;1;0;0;2;3;8;4;0;-2;2;3350;Health;3;Fire Res;2;Water Res;-2;ThunderRes;-2;Worry;-2;Rathian Scale;3;Rathian Shell;3;Machalite Ore;3;Iron Ore;8
+(Torso Inc) Cephalos Greaves;1;1;0;0;1;3;14;-3;-4;0;2;2350;Torso Inc;;;;;;;;;;Cephalos Fin;1;Cephalos Scale;4;Piscine Fang;3;Machalite Ore;2
+(Torso Inc) Cephalos Leggings;1;1;0;0;2;3;8;-1;-2;1;5;2350;Torso Inc;;;;;;;;;;Cephalos Fin;1;Cephalos Scale;4;Piscine Fang;3;Machalite Ore;2
+Battle Greaves;1;1;0;0;1;2;8;2;-2;0;-2;750;Guard;2;Health;2;Defense;2;Backpackng;3;;;Kut-Ku Scale;2;Iron Ore;3;Earth Crystal;3;Whetstone;5
+Battle Leggings;1;1;0;0;2;2;5;4;0;2;0;750;Load;3;Backpackng;3;;;;;;;Kut-Ku Scale;2;Bullfango Pelt;3;Huskberry;20;Small Bone Husk;5
+Bone Greaves;1;1;0;0;1;2;7;2;-2;-2;2;650;StealNoEff;5;Hunger;2;Alchemy;2;Worry;-2;;;Sm Monster Bone;7;Bullfango Pelt;1;Kelbi Hide;2;;
+Bone Leggings;1;1;0;0;2;2;4;5;0;0;5;650;StealNoEff;5;Hunger;2;Alchemy;2;Worry;-2;;;Sm Monster Bone;7;Bullfango Pelt;1;Kelbi Hide;2;;
+Gypceros Greaves;1;1;0;0;1;3;14;-4;4;0;1;2350;Wide Cntr;5;ThunderRes;2;Paralysis;2;Water Res;-2;;;Rubbery Hide;3;Antiseptic Stone;2;Genprey Hide;3;;
+Gypceros Leggings;1;1;0;0;2;3;7;-1;6;0;4;2350;Wide Cntr;5;ThunderRes;2;Paralysis;2;Water Res;-2;;;Rubbery Hide;3;Antiseptic Stone;2;Genprey Hide;3;;
+Rathalos Greaves;1;1;0;0;1;3;17;2;2;-4;-1;4150;Attack;5;Fate;2;Worry;-2;Dragon Res;-2;;;Rathalos Shell;1;Rathalos Scale;3;Rathalos Webbing;3;Machalite Ore;2
+Rathalos Leggings;1;1;0;0;2;3;9;4;5;-2;2;4150;Attack;5;Fate;2;Worry;-2;Dragon Res;-2;;;Rathalos Shell;2;Rathalos Scale;3;Rathalos Webbing;3;Machalite Ore;2
+Gravios Greaves+;1;1;0;0;1;4;30;2;2;-2;-2;23250;Health;2;Heat Res;3;Cold Res;3;PsychicVis;1;Faint;-2;Gravios Carapace;3;Flame Sac;1;Monster Fluid;4;Iodrome Hide;2
+Gravios Leggings+;1;1;0;0;2;4;15;4;3;0;1;23250;Health;2;Heat Res;3;Load;3;Faint;-3;;;Gravios Carapace;3;Flame Sac;1;Monster Fluid;4;Iodrome Hide;2
+Hi-Metal Greaves+;1;1;0;0;1;4;20;-2;3;0;-2;7750;Health;3;Map;3;Backpackng;4;PsychicVis;1;;;Dragonite Ore;8;Machalite Ore;15;Monster Bone+;1;Velociprey Hide;10
+Hi-Metal Leggings+;1;1;0;0;2;4;13;0;5;0;0;7750;Health;3;Map;3;Backpackng;4;PsychicVis;1;;;Dragonite Ore;8;Machalite Ore;15;Monster Bone+;1;Velociprey Hide;10
+Auroros Pants;1;1;0;1;1;5;22;-2;0;-4;2;16125;Rec Speed;2;Guard;4;;;;;;;Lao-Shan's Spine;1;Lao-Shan's Scale;5;Rathian Spike;2;Commendation;1
+Genesis Pants;1;1;0;1;2;5;11;1;2;-2;3;16125;Rec Speed;2;Load;4;;;;;;;Lao-Shan's Spine;1;Lao-Shan's Scale;5;Rathian Spike;2;Commendation;1
+Borealis Pants;1;1;0;2;1;5;22;-2;0;-4;2;16125;Rec Speed;2;Guard;4;;;;;;;Lao-Shan's Spine;1;Lao-Shan's Scale;5;Rathian Spike;2;Commendation;1
+Glyph Pants;1;1;0;2;2;5;11;1;2;-2;3;16125;Rec Speed;2;Load;4;;;;;;;Lao-Shan's Spine;1;Lao-Shan's Scale;5;Rathian Spike;2;Commendation;1
+Vespoid Greaves+;1;1;0;0;1;4;20;-6;2;2;-5;7750;Sleep;5;Poison;2;Paralysis;2;Faint;-2;;;Vespoid Bladefin;1;Vespoid Wing;12;Monster Bone+;1;Genprey Hide;10
+Vespoid Leggings+;1;1;0;0;2;4;13;-5;5;2;-4;7750;Sleep;5;Poison;2;Paralysis;2;Faint;-2;;;Vespoid Bladefin;1;Vespoid Shell;8;Monster Bone+;1;Genprey Hide;10
+Khezu Greaves+;1;1;0;0;1;4;26;-3;4;0;3;16750;Rec Speed;3;Wide Rec;2;Recovery;2;Faint;-2;Fate;-2;Pale Bone;1;Flabby Hide;4;Monster Fluid;3;Lifepowder;2
+Khezu Leggings+;1;1;0;0;2;4;15;-1;6;0;5;16750;Rec Speed;3;Wide Rec;3;Recovery;2;Faint;-2;Fate;-1;Pale Bone;1;Flabby Hide;4;Monster Fluid;3;Lifepowder;2
+Plesioth Greaves+;1;1;0;0;1;4;27;-4;-4;0;4;18250;Heat Res;3;Hunger;2;Water Res;2;Sleep;2;Fire Res;-2;Monster Bone+;2;Plesioth Scale;5;Plesioth Fin;2;Scatterfish;5
+Plesioth Leggings+;1;1;0;0;2;4;15;-2;-2;1;6;18250;Heat Res;3;Hunger;2;Water Res;2;Sleep;2;Fire Res;-2;Monster Bone+;2;Plesioth Scale;5;Plesioth Fin;2;Scatterfish;5
+Hornet Greaves+;1;1;0;0;1;4;20;-6;-5;2;-1;7750;Poison;3;Paralysis;2;Backpackng;4;Faint;-2;;;Hornet Bladefin;1;Hornetaur Head;2;Hornetaur Shell;10;Monster Bone+;1
+Hornet Leggings+;1;1;0;0;2;4;13;-5;-3;3;2;7750;Poison;3;Paralysis;2;Backpackng;4;Faint;-2;;;Hornet Bladefin;1;Hornetaur Head;2;Hornetaur Shell;10;Monster Bone+;1
+Dragonfeet;1;1;0;0;1;5;24;0;2;-5;2;22222;Rec Speed;2;Attack;1;WindPress;2;PsychicVis;3;;;Fatalis' Scale;3;Fatalis' Shell;2;Fatalis' Webbing;1;Pnk Rthian Plate;1
+Dragonlegs;1;1;0;0;2;5;12;2;4;-2;4;22222;Rec Speed;2;Attack;1;WindPress;2;PsychicVis;3;;;Fatalis' Scale;3;Fatalis' Shell;2;Fatalis' Webbing;1;Pnk Rthian Plate;1
+Guild Knight Boots;1;1;0;1;0;5;10;0;0;0;0;16125;Gathering;2;Whim;3;PsychicVis;3;;;;;Light Crystal;1;Hammer Ticket;3;Egg Ticket;1;Kut-Ku Coin;3
+Guild Knight Tights;1;1;0;1;0;5;10;0;0;0;0;16125;Gathering;2;Whim;3;PsychicVis;3;;;;;Light Crystal;1;Hammer Ticket;3;Egg Ticket;1;Gypceros Coin;3
+Maiden's Stockings;1;1;0;2;0;5;10;0;0;0;0;16125;Gathering;2;Whim;3;PsychicVis;3;;;;;Light Crystal;1;Hammer Ticket;3;Egg Ticket;1;Kut-Ku Coin;3
+Personal Tights;1;1;0;2;0;5;10;0;0;0;0;16125;Gathering;2;Whim;3;PsychicVis;3;;;;;Light Crystal;1;Hammer Ticket;3;Egg Ticket;1;Gypceros Coin;3
+Silver Boots(BuyShopOnly);1;1;0;0;0;2;9;0;-2;0;2;1900;;;;;;;;;;;Iron Ore;10;Machalite Ore;2;;;;
+Dark Metal Boots(BuyShopOnly);1;1;0;0;0;2;10;0;2;0;-2;2300;;;;;;;;;;;Iron Ore;15;Disk Stone;30;;;;
+Pink Metal Boots(BuyShopOnly);1;1;0;2;0;2;12;2;0;0;-2;3300;;;;;;;;;;;Iron Ore;20;Machalite Ore;7;Dosbiscus;2;;
+Shinobi Boots (Sun);1;1;0;0;0;5;10;0;2;1;-6;16125;Poison;2;Worry;2;Hunger;2;PsychicVis;4;;;Sm Lao-Shan Claw;1;Lance Ticket;3;Monster Fluid;2;Pnk Rathian Scl;5
+Shinobi Boots (Moon);1;1;0;0;0;5;10;2;4;2;-5;16125;Poison;2;Worry;2;Hunger;2;PsychicVis;4;;;Sm Lao-Shan Claw;1;Lance Ticket;3;Monster Fluid;2;Pnk Rathian Scl;5
+Red Borealis Pants;1;1;0;2;1;5;22;2;0;-4;-2;16125;Rec Speed;2;Fire Res;5;PsychicVis;2;;;;;Lao-Shan's Spine;1;Lao-Shan's Scale;5;Rathian Spike;2;Commendation;1
+Red Glyph Pants;1;1;0;2;2;5;11;3;2;-2;1;16125;Rec Speed;2;Fire Res;5;PsychicVis;2;;;;;Lao-Shan's Spine;1;Lao-Shan's Scale;5;Rathian Spike;2;Commendation;1
+Hi-Metal Greaves;1;1;0;0;1;3;10;-2;3;0;-2;1150;Health;3;Map;3;Gluttony;3;Backpackng;2;;;Machalite Ore;6;Iron Ore;6;Thunderbug;1;;
+Hi-Metal Leggings;1;1;0;0;2;3;5;0;5;0;0;1150;Health;2;Map;3;Gluttony;3;Backpackng;2;;;Machalite Ore;6;Iron Ore;6;Thunderbug;1;;
+Khezu Greaves;1;1;0;0;1;3;16;-3;4;0;3;3350;Rec Speed;3;Wide Rec;2;Recovery;2;Faint;-2;Fate;-2;Flabby Hide;3;Machalite Ore;2;Bullfango Pelt;3;;
+Khezu Leggings;1;1;0;0;2;3;9;-1;6;0;5;3350;Rec Speed;3;Wide Rec;2;Recovery;2;Faint;-2;Fate;-2;Flabby Hide;3;Machalite Ore;2;Bullfango Pelt;3;;
+Plesioth Greaves;1;1;0;0;1;3;17;-4;-4;0;4;4150;Hunger;3;Water Res;2;Sleep;2;PsychicVis;2;Fire Res;-2;Plesioth Scale;3;Machalite Ore;2;Cephalos Scale;3;Plesioth Fin;1
+Plesioth Leggings;1;1;0;0;2;3;9;-2;-2;1;6;4150;Hunger;3;Water Res;2;Sleep;2;PsychicVis;2;Fire Res;-2;Plesioth Scale;3;Machalite Ore;2;Cephalos Scale;3;Plesioth Fin;1
+Vespoid Greaves;1;1;0;0;1;3;10;-6;2;2;-5;1150;Sleep;5;PsychicVis;6;;;;;;;Vespoid Wing;5;Disk Stone;5;Monster Fluid;1;;
+Vespoid Leggings;1;1;0;0;2;3;5;-5;5;2;-4;1150;Sleep;5;PsychicVis;6;;;;;;;Vespoid Shell;2;Disk Stone;5;Monster Fluid;1;;
+Hornet Greaves;1;1;0;0;1;3;10;-6;-5;2;-1;1150;Poison;5;;;;;;;;;Hornetaur Wing;8;Hornetaur Shell;1;Earth Crystal;4;Monster Fluid;1
+Hornet Leggings;1;1;0;0;2;3;5;-5;-3;3;2;1150;Poison;5;;;;;;;;;Hornetaur Wing;8;Hornetaur Shell;1;Earth Crystal;4;Monster Fluid;1
+Gravios Greaves;1;1;0;0;1;3;20;2;2;-2;-2;7750;Health;2;Heat Res;3;Guard;3;Faint;-3;;;Gravios Shell;5;Med Monster Bone;3;Machalite Ore;5;Ioprey Hide;5
+Gravios Leggings;1;1;0;0;2;3;10;4;3;0;1;7750;Health;2;Heat Res;3;Load;3;Faint;-3;;;Gravios Shell;5;Med Monster Bone;3;Machalite Ore;5;Ioprey Hide;5
+Rathian Greaves+;1;1;0;0;1;4;26;2;-2;-4;0;16750;Health;5;Rec Speed;2;Fire Res;2;ThunderRes;-2;;;Rathian Plate;1;Rathian Scale;5;Rathian Spike;1;Union Ore;2
+Rathian Leggings+;1;1;0;0;2;4;14;4;0;-2;2;16750;Health;5;Rec Speed;2;Fire Res;2;ThunderRes;-2;;;Rathian Plate;1;Rathian Scale;5;Rathian Spike;1;Union Ore;2
+Rathalos Greaves+;1;1;0;0;1;4;27;2;2;-4;-1;18250;Attack;5;Rec Speed;2;Fate;2;Dragon Res;-2;;;Rathalos Plate;1;Rathalos Shell;3;Rathalos Webbing;3;Union Ore;2
+Rathalos Leggings+;1;1;0;0;2;4;15;4;5;-2;2;18250;Attack;5;Rec Speed;2;Fate;2;Worry;-2;;;Rathalos Plate;1;Rathalos Shell;3;Rathalos Webbing;3;Union Ore;2
+Chrome Metal Boots(BuyShopOnly);1;1;0;0;0;3;12;2;0;0;-2;3630;;;;;;;;;;;Iron Ore;20;Machalite Ore;5;Small Goldenfish;5;;
+Blue Pants+;1;1;0;0;0;4;11;2;0;0;0;1350;Throw;5;Backpackng;3;Worry;-3;;;;;Dragonite Ore;1;Kelbi Hide;5;Lg Monster Bone;1;Monster Bone+;1
+(Torso Inc) Green Pants+;1;1;0;0;0;4;12;2;-2;0;2;1650;Torso Inc;;;;;;;;;;Dragonite Ore;1;Iron Ore;6;Kelbi Hide;3;Monster Bone+;1
+Hunter's Greaves+;1;1;0;0;1;4;14;0;-4;0;0;2350;Fishing;4;Guard Up;2;Health;2;Defense;-3;;;Dragonite Ore;1;Bullfango Pelt;5;Earth Crystal;6;Monster Bone+;1
+Hunter's Leggings+;1;1;0;0;2;4;13;2;-2;0;2;2350;Fishing;4;NormalSAdd;2;Health;2;Defense;-3;;;Dragonite Ore;1;Bullfango Pelt;5;Earth Crystal;6;Monster Bone+;1
+Bone Greaves+;1;1;0;0;1;4;17;2;-2;-2;2;4150;StealNoEff;5;Hunger;2;Flute;2;Worry;-2;;;Dragonite Ore;2;Sm Monster Bone;7;Velociprey Hide;3;Monster Bone+;1
+Bone Leggings+;1;1;0;0;2;4;13;5;0;0;5;4150;StealNoEff;5;Hunger;2;Flute;2;Worry;-2;;;Dragonite Ore;2;Sm Monster Bone;7;Velociprey Hide;3;Monster Bone+;1
+Velociprey Greaves+;1;1;0;0;1;4;18;1;1;-1;1;4950;Faint;5;PsychicVis;2;Worry;-2;Poison;-2;;;Dragonite Ore;2;Velociprey Scale;4;Earth Crystal;6;Monster Bone+;1
+Velociprey Leggings+;1;1;0;0;2;4;13;3;3;0;3;4950;Faint;5;PsychicVis;2;Worry;-2;Poison;-2;;;Dragonite Ore;2;Velociprey Scale;4;Earth Crystal;6;Monster Bone+;1
+Battle Greaves+;1;1;0;0;1;4;18;2;-2;0;-2;4950;Guard;4;Health;2;Defense;2;Faint;-3;;;Dragonite Ore;4;Kut-Ku Scale;3;Earth Crystal;3;Monster Bone+;1
+Battle Leggings+;1;1;0;0;2;4;13;4;0;2;0;4950;Load;4;PsychicVis;2;Health;-3;Protection;-2;;;Dragonite Ore;4;Kut-Ku Scale;3;Small Bone Husk;6;Monster Bone+;1
+Silver Boots+(BuyShopOnly);1;1;0;0;0;4;14;0;-2;0;2;4700;;;;;;;;;;;Iron Ore;50;Machalite Ore;20;King Scarab;4;;
+Dark Metal Boots+(BuyShopOnly);1;1;0;0;0;4;15;0;2;0;-2;5700;;;;;;;;;;;Iron Ore;60;Dragonite Ore;10;Basarios Shell;2;;
+Genprey Greaves+;1;1;0;0;1;4;21;2;3;-1;-2;9250;Paralysis;5;PsychicVis;2;Worry;-2;Poison;-2;;;Dragonite Ore;2;Genprey Scale;6;Genprey Hide;6;Monster Bone+;1
+Genprey Leggings+;1;1;0;0;2;4;14;4;5;0;0;9250;Paralysis;5;PsychicVis;2;Worry;-2;Poison;-2;;;Dragonite Ore;2;Genprey Scale;6;Genprey Hide;6;Monster Bone+;1
+Pink Metal Boots+(BuyShopOnly);1;1;0;2;0;4;17;2;0;0;-2;8300;;;;;;;;;;;Machalite Ore;20;Union Ore;10;Pnk Rathian Scl;2;;
+Chrome Metal Boots+(BuyShopOnly);1;1;0;0;0;4;17;2;0;0;-2;9130;;;;;;;;;;;Dragonite Ore;15;Blk Gravios Crst;3;Small Goldenfish;5;;
+Ioprey Greaves+;1;1;0;0;1;4;23;3;-2;-1;2;12250;Poison;5;ThunderRes;2;Paralysis;2;Water Res;-2;;;Union Ore;1;Ioprey Scale;6;Machalite Ore;5;Monster Bone+;2
+Ioprey Leggings+;1;1;0;0;2;4;14;5;0;0;4;12250;Poison;5;ThunderRes;2;Paralysis;2;Water Res;-2;;;Union Ore;1;Ioprey Scale;6;Machalite Ore;5;Monster Bone+;2
+Gypceros Greaves+;1;1;0;0;1;4;24;-4;4;0;1;13750;Wide Cntr;5;Paralysis;2;ThunderRes;2;Water Res;-2;;;Monster Bone+;2;Rubbery Hide;4;Antiseptic Stone;4;Gendrome Hide;1
+Gypceros Leggings+;1;1;0;0;2;4;14;-1;6;0;4;13750;Wide Cntr;5;Paralysis;2;ThunderRes;2;Water Res;-2;;;Monster Bone+;2;Rubbery Hide;4;Antiseptic Stone;4;Gendrome Hide;1
+(Torso Inc) Cephalos Greaves+;1;1;0;0;1;4;24;-3;-4;0;2;13750;Torso Inc;;;;;;;;;;Union Ore;1;Cephalos Scale;5;Bomb Arrowana;5;Monster Bone+;2
+(Torso Inc) Cephalos Leggings+;1;1;0;0;2;4;14;-1;-2;1;5;13750;Torso Inc;;;;;;;;;;Union Ore;1;Cephalos Scale;5;Bomb Arrowana;5;Monster Bone+;2
+Green Pants S;1;1;0;0;0;6;16;2;0;0;0;3350;HearProtct;3;Gathering;2;PsychicVis;3;Faint;-3;;;Carbalite Ore;1;Machalite Ore;7;Kelbi Hide;1;Monster Bone+;1
+(Torso Inc) Blue Pants S;1;1;0;0;0;6;17;2;-2;0;2;4150;Torso Inc;;;;;;;;;;Pure Crystal;2;Carbalite Ore;2;Kelbi Hide;2;;
+Hunter's Greaves S;1;1;0;0;1;6;24;0;-4;0;0;13750;Rec Speed;2;Fate;3;Sleep;-2;;;;;Carbalite Ore;4;Dragonite Ore;3;Lg Monster Bone;2;Bullfango Pelt;2
+Hunter's Leggings S;1;1;0;0;2;6;18;2;-2;0;2;13750;Rec Speed;2;Fate;3;PelletS Up;3;Load;-1;;;Carbalite Ore;4;Dragonite Ore;3;Lg Monster Bone;2;Bullfango Pelt;2
+Bone Greaves S;1;1;0;0;1;6;27;2;-2;-2;2;18250;StealNoEff;2;Heat Res;2;SwdShrpner;3;PsychicVis;2;Faint;-2;Joiner Grasshppr;2;Bullfango Pelt;4;King Scarab;4;Monster Bone+;3
+Bone Leggings S;1;1;0;0;2;6;18;5;0;0;5;18250;StealNoEff;2;Heat Res;3;MixSucRate;2;PsychicVis;3;Paralysis;-1;Joiner Grasshppr;2;Bullfango Pelt;4;King Scarab;4;Monster Bone+;3
+Velociprey Greaves S;1;1;0;0;1;6;28;1;1;-1;1;19750;Faint;4;Sleep;2;Health;2;Guard;-3;;;Velociprey Scle+;3;Velociprey Hide+;3;Machalite Ore;12;Monster Bone+;1
+Velociprey Leggings S;1;1;0;0;2;6;18;3;3;0;3;19750;Faint;4;Sleep;2;PelletS Up;2;Load;-3;;;Velociprey Scle+;3;Velociprey Hide+;3;Machalite Ore;12;Monster Bone+;1
+Battle Greaves S;1;1;0;0;1;6;28;2;-2;0;-2;19750;PsychicVis;4;Map;2;Guard Up;3;Recovery;-2;;;Kut-Ku Carapace;3;Pure Crystal;1;King Scarab;5;Disk Stone;10
+Battle Leggings S;1;1;0;0;2;6;18;4;0;2;0;19750;Load;5;PsychicVis;2;Defense;-4;;;;;Kut-Ku Carapace;3;Pure Crystal;1;King Scarab;5;Dragon Seed;2
+Silver Boots S(BuyShopOnly);1;1;0;0;0;6;19;0;-2;0;2;17250;Health;5;Attack;-2;;;;;;;Machalite Ore;25;Nova Crystal;1;Cephalos Scale+;3;;
+Vespoid Greaves S;1;1;0;0;1;6;30;-6;2;2;-5;23250;Poison;3;WideEffect;2;PsychicVis;1;Hunger;-5;;;Vspoid Razorwing;3;Vespoid Carapace;4;Vespoid Wing;9;Joiner Grasshppr;2
+Vespoid Leggings S;1;1;0;0;2;6;16;-5;5;2;-4;23250;Poison;3;WideEffect;2;PsychicVis;3;Hunger;-3;;;Vspoid Razorwing;3;Vespoid Carapace;4;Vespoid Wing;6;Monster Broth;3
+Hornet Greaves S;1;1;0;0;1;6;30;-6;-5;2;-1;23250;Dragon Res;5;Fate;2;Hunger;-4;;;;;Hornet Razorwing;2;Hornet Carapace;3;Hornet Bladefin;4;Joiner Grasshppr;2
+Hornet Leggings S;1;1;0;0;2;6;15;-5;-3;3;2;23250;Dragon Res;5;Fate;2;Defense;-4;;;;;Hornet Razorwing;2;Hornet Carapace;3;Hornet Bladefin;4;Monster Broth;3
+Hi-Metal Greaves S;1;1;0;0;1;6;30;-2;3;0;-2;23250;Health;3;Throw;3;Cold Res;-5;;;;;Carbalite Ore;4;Nova Crystal;1;Dragonite Ore;10;Machalite Ore;15
+Hi-Metal Leggings S;1;1;0;0;2;6;18;0;5;0;0;23250;Health;2;PierceS Up;3;Cold Res;-4;Load;-2;;;Carbalite Ore;4;Nova Crystal;1;Dragonite Ore;10;Machalite Ore;15
+Dark Metal Boots S(BuyShopOnly);1;1;0;0;0;6;20;0;2;0;-2;23250;Worry;10;Gluttony;-1;;;;;;;Carbalite Ore;5;Dragonite Ore;10;Basarios Wing;1;;
+Genprey Greaves S;1;1;0;0;1;6;31;2;3;-1;-2;24750;Paralysis;4;Faint;2;BombStrUp;2;MixSucRate;-3;;;Genprey Scale+;4;Genprey Hide+;6;Carbalite Ore;5;Monster Bone+;3
+Genprey Leggings S;1;1;0;0;2;6;19;4;5;0;0;24750;Paralysis;4;Faint;2;NormalS Up;2;Load;-3;;;Genprey Scale+;4;Genprey Hide+;6;Carbalite Ore;5;Monster Bone+;3
+Pink Metal Boots S(BuyShopOnly);1;1;0;2;0;6;22;2;0;0;-2;43000;StealNoEff;9;Spc Attack;2;;;;;;;Firecell Stone;1;Union Ore;10;Pnk Rathian Scl+;2;;
+Chrome Metal Boots S(BuyShopOnly);1;1;0;0;0;6;22;2;0;0;-2;45150;WindPress;3;PsychicVis;4;Defense;-3;;;;;Carbalite Ore;10;Blk Gravios Shl;5;Small Goldenfish;5;;
+Ioprey Greaves S;1;1;0;0;1;6;33;3;-2;-1;2;27750;Poison;5;Paralysis;1;Protection;2;MixSucRate;-3;;;Ioprey Scale+;4;Ioprey Hide+;6;Carbalite Ore;6;Monster Bone+;3
+Ioprey Leggings S;1;1;0;0;2;6;19;5;0;0;4;27750;Poison;4;Paralysis;3;PelletS Up;2;Load;-2;;;Ioprey Scale+;4;Ioprey Hide+;6;Carbalite Ore;6;Monster Bone+;3
+Gypceros Greaves S;1;1;0;0;1;6;34;-4;4;0;1;29250;Gluttony;5;Spc Attack;4;Defense;-2;;;;;Rubbery Hide+;4;Monster Broth;2;Antiseptic Stone;10;Genprey Hide+;5
+Gypceros Leggings S;1;1;0;0;2;6;19;-1;6;0;4;29250;Gluttony;3;PelletSAdd;3;Load;-2;Defense;-3;;;Rubbery Hide+;4;Monster Broth;2;Antiseptic Stone;10;Genprey Hide+;5
+(Torso Inc) Blue Pants;1;1;0;0;1;6;34;-3;-4;0;2;29250;Torso Inc;;;;;;;;;;Cephalos Scale+;5;Cephalos Fin+;4;Nova Crystal;2;Mega Armorskin;2
+(Torso Inc) Blue Pants;1;1;0;0;2;6;19;-1;-2;1;5;29250;Torso Inc;;;;;;;;;;Cephalos Scale+;5;Cephalos Fin+;4;Nova Crystal;2;Mega Armorskin;2
+CephalosS/U;1;1;0;0;1;6;34;-3;-4;0;2;29250;Torso Inc;;;;;;;;;;Cephalos Scale+;5;Cephalos Fin+;4;Nova Crystal;2;Mega Armorskin;2
+CephalosS/U;1;1;0;0;2;6;19;-1;-2;1;5;29250;Torso Inc;;;;;;;;;;Cephalos Scale+;5;Cephalos Fin+;4;Nova Crystal;2;Mega Armorskin;2
+(IopreyU);1;1;0;0;1;6;34;-3;-4;0;2;29250;Torso Inc;;;;;;;;;;Cephalos Scale+;5;Cephalos Fin+;4;Nova Crystal;2;Mega Armorskin;2
+IopreyU;1;1;0;0;2;6;19;-1;-2;1;5;29250;Torso Inc;;;;;;;;;;Cephalos Scale+;5;Cephalos Fin+;4;Nova Crystal;2;Mega Armorskin;2
+Rathian Greaves S;1;1;0;0;1;6;36;2;-2;-4;0;32250;Health;3;Protection;2;Guard;3;Hunger;-3;;;Rathian Ruby;1;Rathian Scale+;3;Inferno Sac;2;Carbalite Ore;3
+Rathian Leggings S;1;1;0;0;2;6;19;4;0;-2;2;32250;Protection;3;Recovery;2;Defense;3;MixSucRate;-3;;;Rathian Ruby;1;Rathian Scale+;3;Inferno Sac;2;Carbalite Ore;3
+Khezu Greaves S;1;1;0;0;1;6;36;-3;4;0;3;32250;Wide Rec;3;HearProtct;3;PsychicVis;1;Faint;-2;Protection;-2;Pale Khezu Steak;1;Khezu Hide - Tan;3;King Scarab;4;Lifepowder;3
+Khezu Leggings S;1;1;0;0;2;6;20;-1;6;0;5;32250;Wide Rec;4;Defense;2;Poison;-3;Protection;-2;;;Pale Khezu Steak;1;Khezu Hide - Tan;3;King Scarab;4;Lifepowder;3
+Rathalos Greaves S;1;1;0;0;1;6;37;2;2;-4;-1;33750;Artisan;4;Rec Speed;1;Protection;1;Hunger;-5;;;Rathalos Ruby;1;Rathlos Carapace;3;Rathalos Webbing;4;Joiner Grasshppr;2
+Rathalos Leggings S;1;1;0;0;2;6;20;4;5;-2;2;33750;PierceS Up;3;Rec Speed;2;PsychicVis;2;Load;-2;Fate;-2;Rathalos Ruby;1;Rathlos Carapace;3;Rathalos Webbing;4;Joiner Grasshppr;2
+Plesioth Greaves S;1;1;0;0;1;6;37;-4;-4;0;4;33750;Fishing;3;Heat Res;3;Hunger;3;Faint;-2;;;Plesioth Scale+;4;Plesioth Top Fin;2;Carbalite Ore;3;Cephalos Scale+;1
+Plesioth Leggings S;1;1;0;0;2;6;20;-2;-2;1;6;33750;Fishing;3;Heat Res;3;Hunger;3;Faint;-2;;;Plesioth Scale+;4;Plesioth Top Fin;2;Carbalite Ore;3;Cephalos Scale+;1
+Gravios Greaves S;1;1;0;0;1;6;40;2;2;-2;-2;38250;Health;3;Attack;3;Defense;-3;Protection;-2;;;GraviosHeavyShl;2;StrngGraviosWing;1;Gravios Shell;6;Hrd Monster Bone;2
+Gravios Leggings S;1;1;0;0;2;6;20;4;3;0;1;38250;ClustS Add;3;PsychicVis;2;Load;-3;;;;;GraviosHeavyShl;2;StrngGraviosWing;1;Gravios Shell;6;Hrd Monster Bone;2
+(Torso+1)Cream Pants;1;1;0;0;0;6;16;3;3;1;3;3350;Torso +1;14;Spc Attack;1;;;;;;;Rathian Carapace;1;Carbalite Ore;3;WhtVelopry Scale;2;Monster Bone+;3
+Hunter's Greaves U;1;1;0;0;1;6;24;0;-4;0;0;13750;Map;2;SwdShrpner;2;All Res Up;3;Faint;-1;;;Rathlos Carapace;1;Carbalite Ore;1;Blk Gravios Shl;3;Bullfango Pelt;2
+Hunter's Leggings U;1;1;0;0;2;6;18;2;-2;0;2;13750;Map;2;PsychicVis;5;Faint;-4;;;;;Rathlos Carapace;1;Carbalite Ore;1;Blk Gravios Shl;3;Bullfango Pelt;2
+Bone Greaves U;1;1;0;0;1;6;27;2;-2;-2;2;18250;Alchemy;3;All Res Up;3;Attack;3;Defense;-2;;;Firecell Stone;1;Hrd Monster Bone;1;Crimson Horn;2;King Scarab;2
+Bone Leggings U;1;1;0;0;2;6;18;5;0;0;5;18250;Alchemy;3;All Res Up;2;PsychicVis;3;Protection;-2;;;Firecell Stone;1;Hrd Monster Bone;1;Crimson Horn;2;King Scarab;2
+Velociprey Greaves U;1;1;0;0;1;6;40;1;1;-1;1;38250;Gluttony;2;All Res Up;3;PsychicVis;3;Poison;-3;;;WhtVelopry Scale;3;Wht Velopry Hide;5;Blk Gravios Cpc;3;Joiner Grasshppr;4
+Velociprey LeggingsU;1;1;0;0;2;6;20;3;3;0;3;38250;Gluttony;2;All Res Up;2;Health;-2;;;;;WhtVelopry Scale;3;Wht Velopry Hide;5;Blk Gravios Cpc;3;Joiner Grasshppr;4
+Hi-Metal Greaves U;1;1;0;0;1;6;30;-2;3;0;-2;23250;Health;6;Sharpness;2;Faint;-3;;;;;Basarios Tears;1;Pure Crystal;1;Carbalite Ore;3;Nova Crystal;1
+Hi-Metal Leggings U;1;1;0;0;2;6;18;0;5;0;0;23250;Health;2;Shot Mix;2;PsychicVis;3;Heat Res;-2;MixSucRate;-2;Basarios Tears;1;Pure Crystal;1;Carbalite Ore;3;Nova Crystal;1
+Gypceros Greaves U;1;1;0;0;1;6;34;-4;4;0;1;29250;Poison;3;Recovery;2;PsychicVis;2;Wide Cntr;2;Defense;-2;Pur Rubbery Hide;3;Monster Broth;2;Antiseptic Stone;10;Genprey Hide+;5
+Gypceros Leggings U;1;1;0;0;2;6;19;-1;6;0;4;29250;BmbShotAdd;6;Health;-5;;;;;;;Pur Rubbery Hide;3;Monster Broth;2;Antiseptic Stone;10;Genprey Hide+;5
+(Torso Inc) Cephalos Greaves U;1;1;0;0;1;6;0;-3;-4;0;2;29250;Torso Inc;;;;;;;;;;Coral Cphlos Scl;4;Coral Cphlos Fin;4;Nova Crystal;2;Mega Demondrug;2
+(Torso Inc) Cephalos Leggings U;1;1;0;0;2;6;0;-1;-2;1;5;29250;Torso Inc;;;;;;;;;;Coral Cphlos Scl;4;Coral Cphlos Fin;4;Nova Crystal;2;Mega Demondrug;2
+Khezu Greaves U;1;1;0;0;1;6;36;3;4;0;-3;32250;Rec Speed;6;Recovery;3;SwdShrpner;-2;;;;;Alluring Hide;2;Pale Khezu Steak;1;Monster Broth;2;Joiner Grasshppr;3
+Khezu Leggings U;1;1;0;0;2;6;20;5;6;0;-1;32250;Wide Rec;4;Recovery;2;Load;-3;Worry;-2;;;Alluring Hide;2;Pale Khezu Steak;1;Monster Broth;2;Joiner Grasshppr;3
+Plesioth Greaves U;1;1;0;0;1;6;37;-4;-4;0;4;33750;Attack;4;Protection;2;Fate;3;Guard;-2;;;Grn Plesioth Scl;2;Grn Plesioth Fin;3;Cephalos Scale+;2;Genprey Scale+;5
+Plesioth Leggings U;1;1;0;0;2;6;20;-2;-2;1;6;33750;Attack;4;Protection;2;Fate;3;Health;-2;;;Grn Plesioth Scl;2;Grn Plesioth Fin;3;Cephalos Scale+;2;Genprey Scale+;5
+Gravios Greaves U;1;1;0;0;1;6;40;2;2;0;-2;38250;Health;2;Heat Res;3;Fate;4;Fencing;1;Recovery;-1;Blk Gravios Cpc;2;Blk Gravios Shl;5;Hrd Monster Bone;4;Rubbery Hide+;3
+Gravios Leggings U;1;1;0;0;2;6;24;4;3;0;1;38250;Heat Res;3;PsychicVis;2;Load;2;Health;-4;;;Blk Gravios Cpc;2;Blk Gravios Shl;5;Hrd Monster Bone;4;Rubbery Hide+;3
+Black Belt Greaves;1;1;0;0;0;5;12;2;2;2;2;3300;Artisan;1;PierceS Up;3;Faint;-2;;;;;Khezu Coin;13;Grt Sword Ticket;4;Saber Ticket;4;Monoblos Coin;12
+Rathian HeartGreaves;1;1;0;0;1;5;16;2;-2;-4;0;5025;Health;2;Fate;2;Alchemy;3;PsychicVis;2;Paralysis;-2;Pnk Rathian Scl;4;Pnk Rathian Shl;2;Pnk Rathian Claw;1;Machalite Ore;5
+RathianHeartLeggings;1;1;0;0;2;5;8;4;0;-2;2;5025;Health;2;Fate;2;Alchemy;2;PsychicVis;3;Hunger;-2;Pnk Rathian Scl;4;Pnk Rathian Shl;2;Pnk Rathian Claw;1;Machalite Ore;5
+Rathalos SoulGreaves;1;1;0;0;1;5;17;2;-1;-4;2;6225;HearProtct;3;SwdShrpner;2;Whim;-2;;;;;Azure Rthlos Shl;2;Azure Rthlos Clw;1;Azr Rthls Webbng;2;Machalite Ore;5
+RathalosSoulLeggings;1;1;0;0;2;5;9;4;2;-2;5;6225;HearProtct;2;Shot Mix;3;Whim;-2;;;;;Azure Rthlos Shl;2;Azure Rthlos Clw;1;Azr Rthls Webbng;2;Machalite Ore;5
+Shinobi Boots(White);1;1;0;0;0;5;15;0;2;1;-6;39375;Poison;3;Worry;2;Hunger;2;PsychicVis;4;;;Fatalis' Wing;1;Guild Ticket;1;Monster Broth;2;Pnk Rthian Thorn;2
+Shinobi Boots(Black);1;1;0;0;0;5;15;2;4;2;-5;39375;Poison;3;Worry;2;Hunger;2;PsychicVis;4;;;Fatalis' Wing;1;Guild Ticket;1;Monster Broth;2;Pnk Rthian Thorn;2
+Guild Knight Boots+;1;1;0;1;0;5;15;0;0;0;0;39375;Gathering;2;Whim;3;Fate;3;PsychicVis;3;;;King Scarab;3;Guild Ticket;1;Egg Ticket;2;Blk Gravios Shl;3
+Guild Knight Tights+;1;1;0;1;0;5;15;0;0;0;0;39375;Gathering;2;Whim;3;Fate;3;PsychicVis;3;;;King Scarab;3;Guild Ticket;1;Egg Ticket;2;Blk Gravios Shl;3
+Maiden's Stockings+;1;1;0;2;0;5;15;0;0;0;0;39375;Gathering;2;Whim;3;Fate;3;PsychicVis;3;;;King Scarab;3;Guild Ticket;1;Egg Ticket;2;Blk Gravios Shl;3
+Personal Tights+;1;1;0;2;0;5;15;0;0;0;0;39375;Gathering;2;Whim;3;Fate;3;PsychicVis;3;;;King Scarab;3;Guild Ticket;1;Egg Ticket;2;Blk Gravios Shl;3
+RathianHeartGreaves+;1;1;0;0;1;5;26;2;-2;-4;0;25125;Health;3;Fate;2;PsychicVis;1;Worry;-2;Hunger;-3;Pnk Rthian Plate;1;Pnk Rathian Shl;4;Pnk Rthian Thorn;1;Light Crystal;2
+RathianHeartLegging+;1;1;0;0;2;5;14;4;0;-2;2;25125;Health;3;Fate;2;PsychicVis;1;Worry;-2;Hunger;-3;Pnk Rthian Plate;1;Pnk Rathian Shl;4;Pnk Rthian Thorn;1;Light Crystal;2
+RathalosSoulGreaves+;1;1;0;0;1;5;27;2;-1;-4;2;27375;Faint;3;Attack;2;PsychicVis;4;Defense;-2;;;Azre Rthls Plate;1;Azure Rthlos Shl;4;Azure Rthlos Clw;2;Nova Crystal;1
+RathalosSoulLegging+;1;1;0;0;2;5;15;4;2;-2;5;27375;Faint;2;Attack;2;PsychicVis;2;Defense;-2;Whim;-3;Azre Rthls Plate;1;Azure Rthlos Shl;4;Azure Rthlos Clw;2;Nova Crystal;1
+Auroros Pants Mai;1;1;0;1;1;5;32;-2;0;-4;2;39375;Rec Speed;2;Map;2;Guard;4;Faint;-3;;;LaoShan Thoracic;1;Lao-Shan's Scale;5;Rathian Plate;1;Commendation;3
+Genesis Pants Mai;1;1;0;1;2;5;16;1;2;-2;3;39375;Rec Speed;2;Map;2;Load;4;Health;-3;;;LaoShan Thoracic;1;Lao-Shan's Scale;5;Rathian Plate;1;Commendation;3
+Borealis Pants Mai;1;1;0;2;1;5;32;-2;0;-4;2;39375;Rec Speed;2;Map;2;Guard;4;Faint;-3;;;LaoShan Thoracic;1;Lao-Shan's Scale;5;Rathian Plate;1;Commendation;3
+Glyph Pants Mai;1;1;0;2;2;5;16;1;2;-2;3;39375;Rec Speed;2;Map;2;Load;4;Health;-3;;;LaoShan Thoracic;1;Lao-Shan's Scale;5;Rathian Plate;1;Commendation;3
+Red Borealis Mai;1;1;0;2;1;5;32;2;0;-4;-2;39375;Rec Speed;2;Map;2;Fire Res;5;PsychicVis;2;;;LaoShan Thoracic;1;Lao-Shan's Scale;5;Rathian Plate;1;Commendation;3
+Red Glyph Mai;1;1;0;2;2;5;16;3;2;-2;1;39375;Rec Speed;2;Map;2;Fire Res;5;PsychicVis;2;;;LaoShan Thoracic;1;Lao-Shan's Scale;5;Rathian Plate;1;Commendation;3
+Dragonfeet+;1;1;0;0;1;5;34;0;2;-5;2;55555;Attack;2;WindPress;3;PsychicVis;1;Defense;-2;Hunger;-3;Fatalis' Scale+;3;Fatalis Carapace;2;Fatalis' Wing;1;Pnk Rthian Plate;1
+Dragonlegs+;1;1;0;0;2;5;17;2;4;-2;4;55555;Attack;2;WindPress;3;PsychicVis;1;Health;-2;Hunger;-3;Fatalis' Scale+;3;Fatalis Carapace;2;Fatalis' Wing;1;Pnk Rthian Plate;1
+(Torso+2)ShinobiBoots(Heaven);1;1;0;0;0;7;10;0;2;1;-6;61875;Torso +2;10;;;;;;;;;Fatalis Strg Wng;1;Guild Ticket;1;Monster Broth;5;Pnk Rathian Scl+;5
+(Torso+2)Shinobi Boots(Earth);1;1;0;0;0;7;10;2;4;2;-5;61875;Torso +2;10;;;;;;;;;Fatalis Strg Wng;1;Guild Ticket;1;Monster Broth;5;Pnk Rathian Scl+;5
+Guild Knight Boots S;1;1;0;1;0;7;20;0;0;0;0;61875;Protection;2;Fate;3;Gluttony;2;Alchemy;2;Poison;-2;Pure Crystal;1;Guild Ticket;1;Egg Ticket;5;Black Blos Spine;2
+Guild Knight TightsS;1;1;0;1;0;7;20;0;0;0;0;61875;Protection;2;Fate;3;Gluttony;2;Alchemy;2;Poison;-2;Pure Crystal;1;Guild Ticket;1;Egg Ticket;5;Black Blos Spine;2
+Maiden's Stockings S;1;1;0;2;0;7;20;0;0;0;0;61875;Protection;2;Fate;3;Gluttony;2;Alchemy;2;Poison;-2;Pure Crystal;1;Guild Ticket;1;Egg Ticket;5;Black Blos Spine;2
+Personal Tights S;1;1;0;2;0;7;20;0;0;0;0;61875;Protection;2;Fate;3;Gluttony;2;Alchemy;2;Poison;-2;Pure Crystal;1;Guild Ticket;1;Egg Ticket;5;Black Blos Spine;2
+RathianHeartGreavesS;1;1;0;0;1;7;36;2;-2;-4;0;48375;Health;3;Recovery;2;PsychicVis;2;Faint;-2;Hunger;-2;Pnk Rathian Rby;1;Pnk Rathian Scl+;3;Pnk Rathian Shl;5;Pure Crystal;1
+RathianHeartLeggings;1;1;0;0;2;7;19;4;0;-2;2;48375;Health;3;Recovery;2;Shot Mix;2;Faint;-2;MixSucRate;-2;Pnk Rathian Rby;1;Pnk Rathian Scl+;3;Pnk Rathian Shl;5;Pure Crystal;1
+RathalosSoulGreavesS;1;1;0;0;1;7;37;2;-1;-4;2;50625;Sharpness;3;WindPress;2;Hunger;-3;Faint;-3;;;Azure Rthlos Rby;1;Azre Rthlos Scl+;1;Azure Rthlos Scl;4;Pure Crystal;1
+RathalosSoulLeggingS;1;1;0;0;2;7;20;4;2;-2;5;50625;NormalS Up;3;Fate;3;Load;-3;Whim;-2;;;Azure Rthlos Rby;1;Azre Rthlos Scl+;1;Azure Rthlos Scl;4;Pure Crystal;1
+Auroros Pants Haku;1;1;0;1;1;7;42;-2;0;-4;2;61875;Rec Speed;2;Attack;3;SwdShrpner;2;Defense;-4;;;LaoS Heavy Shell;1;Lao-Shan Scale+;5;Rathian Ruby;1;Commendation;3
+Genesis Pants Haku;1;1;0;1;2;7;21;1;2;-2;3;61875;Rec Speed;3;Load;3;Defense;-5;;;;;LaoS Heavy Shell;1;Lao-Shan Scale+;5;Rathian Ruby;1;Commendation;3
+Borealis Pants Haku;1;1;0;2;1;7;42;-2;0;-4;2;61875;Rec Speed;2;Attack;3;SwdShrpner;2;Defense;-4;;;LaoS Heavy Shell;1;Lao-Shan Scale+;5;Rathian Ruby;1;Commendation;3
+Glyph Pants Haku;1;1;0;2;2;7;21;1;2;-2;3;61875;Rec Speed;3;Load;3;Defense;-5;;;;;LaoS Heavy Shell;1;Lao-Shan Scale+;5;Rathian Ruby;1;Commendation;3
+Red Borealis Haku;1;1;0;2;1;7;42;2;0;-4;-2;61875;Rec Speed;2;All Res Up;3;PsychicVis;2;Defense;-4;;;LaoS Heavy Shell;1;Lao-Shan Scale+;5;Rathian Ruby;1;Commendation;3
+Red Glyph Haku;1;1;0;2;2;7;21;3;2;-2;1;61875;Rec Speed;2;All Res Up;2;PsychicVis;5;Load;-2;;;LaoS Heavy Shell;1;Lao-Shan Scale+;5;Rathian Ruby;1;Commendation;3
+Dragonfeet S;1;1;0;0;1;7;44;0;2;-5;2;111111;Rec Speed;2;Attack;3;Sharpness;2;Faint;-4;;;Thck Fatalis Scl;3;Fatalis Hvy Shl;2;Fatalis Strg Wng;1;Pnk Rathian Rby;1
+Dragonlegs S;1;1;0;0;2;7;22;2;4;-2;4;111111;Rec Speed;2;Load;4;Protection;3;Defense;-2;;;Thck Fatalis Scl;3;Fatalis Hvy Shl;2;Fatalis Strg Wng;1;Pnk Rathian Rby;1
+Auroros Pants Ten;1;1;0;1;1;7;42;-2;0;-4;2;123750;Fencing;3;Attack;3;Recovery;-2;Guard;-3;;;Azure LaoS Spine;1;Azure LaoS Scale;5;Azure Rthlos Rby;1;Commendation;3
+Genesis Pants Ten;1;1;0;1;2;7;21;1;2;-2;3;123750;Recoil;3;Load;-5;Defense;-3;;;;;Azure LaoS Spine;1;Azure LaoS Scale;5;Azure Rthlos Rby;1;Commendation;3
+Borealis Pants Ten;1;1;0;2;1;7;42;-2;0;-4;2;123750;Fencing;3;Attack;3;Recovery;-2;Guard;-3;;;Azure LaoS Spine;1;Azure LaoS Scale;5;Pnk Rathian Rby;1;Commendation;3
+Glyph Pants Ten;1;1;0;2;2;7;21;1;2;-2;3;123750;Recoil;3;Load;-5;Defense;-3;;;;;Azure LaoS Spine;1;Azure LaoS Scale;5;Pnk Rathian Rby;1;Commendation;3
+Golden Moon Greaves;1;1;0;0;1;7;40;2;-2;0;0;57375;Fate;3;Sharpness;2;PsychicVis;2;SwdShrpner;-2;Faint;-2;Gld Rathian Rby;1;Gld Rathian Shl;3;Gld Rathian Claw;3;Gld Rthian Spike;3
+Golden Moon Leggings;1;1;0;0;2;7;20;4;0;0;2;57375;Fate;3;NormalS Up;2;PsychicVis;2;Load;-2;Worry;-2;Gld Rathian Rby;1;Gld Rathian Shl;3;Gld Rathian Claw;3;Gld Rthian Spike;3
+Silver Sol Greaves;1;1;0;0;1;7;42;2;2;0;-1;61875;Fencing;3;Sharpness;2;Faint;-3;Fate;-3;;;Slvr Rthalos Rby;1;Slvr Rthalos Clw;3;Slvr Rthalos Shl;3;Slv Rthls Webbng;2
+Silver Sol Leggings;1;1;0;0;2;7;21;4;5;0;2;61875;PierceSAdd;5;Flute;3;Health;-3;;;;;Slvr Rthalos Rby;1;Slvr Rthalos Clw;3;Slvr Rthalos Shl;3;Slv Rthls Webbng;2
+Fatalis Feet;1;1;0;0;1;7;44;0;2;-5;2;222222;Artisan;2;All Res Up;2;Protection;3;Hunger;-2;Faint;-2;Fatlis Crmsn Scl;3;Fatlis Crmsn Shl;2;Fatalis Strg Wng;1;Rathian Plate;1
+Fatalis Legs;1;1;0;0;2;7;22;2;4;-2;4;222222;Rapid Fire;2;PsychicVis;1;All Res Up;-3;Defense;-5;;;Fatlis Crmsn Scl;3;Fatlis Crmsn Shl;2;Fatalis Strg Wng;1;Rathian Plate;3
+Battle Greaves U;1;1;0;0;1;6;28;2;-2;0;-2;19750;PsychicVis;2;Sharpness;3;Sleep;-3;Faint;-3;;;Firecell Stone;2;Kut-Ku Carapace;3;Joiner Grasshppr;3;Disk Stone;15
+Battle Leggings U;1;1;0;0;2;6;18;4;0;2;0;19750;PsychicVis;3;PierceSAdd;2;Map;2;Health;-3;Faint;-1;Firecell Stone;2;Kut-Ku Carapace;3;Joiner Grasshppr;3;Dragon Seed;2
+Green Pants*;1;1;0;0;0;1;1;2;0;0;0;150;;;;;;;;;;;;;;;;;;
+Basarios Greaves;1;1;0;0;1;3;16;0;2;-2;2;3350;Defense;2;Sleep;2;PsychicVis;3;Protection;-2;;;Basarios Shell;3;Machalite Ore;5;Poison Sac;3;Genprey Hide;5
+Basarios Leggings;1;1;0;0;2;3;8;2;4;0;4;3350;Defense;2;Sleep;2;PsychicVis;3;Protection;-2;;;Basarios Shell;3;Machalite Ore;5;Poison Sac;3;Genprey Hide;5
+Velociprey Feet;1;1;0;0;0;5;8;0;0;0;0;750;Faint;3;Fate;3;PsychicVis;2;Whim;-2;;;Velocidrome Claw;2;Rubbery Hide;2;Velociprey Hide;10;Velociprey Scale;10
+Genprey Feet;1;1;0;0;0;5;8;0;0;0;0;750;Paralysis;3;Whim;3;PsychicVis;2;MixSucRate;-2;;;Genprey Fang;10;Rubbery Hide;2;Genprey Hide;10;Genprey Scale;10
+Ioprey Feet;1;1;0;0;0;5;8;0;0;0;0;750;Poison;3;PsychicVis;3;Backpackng;3;Health;-2;;;Ioprey Fang;10;Rubbery Hide;2;Ioprey Hide;10;Ioprey Scale;10
+Mosswine Feet;1;1;0;0;0;5;1;0;0;0;0;100;Gluttony;5;Health;2;Hunger;-2;;;;;Gypceros Coin;1;Bullfango Pelt;2;;;;
+Kirin Leg Guards;1;1;0;0;1;5;21;0;4;0;0;13875;All Res Up;2;Recovery;2;Protection;2;Hunger;1;;;Kirin Hide;1;Flabby Hide;2;Rubbery Hide;3;Electro Sac;3
+Kirin Boots;1;1;0;0;2;5;10;2;6;0;2;13875;All Res Up;2;Recovery;2;Protection;2;Defense;1;;;Kirin Hide;1;Flabby Hide;2;Rubbery Hide;3;Electro Sac;3
+Garuga Greaves;1;1;0;0;1;5;26;2;2;0;0;16750;Sharpness;3;Spc Attack;2;PsychicVis;2;SwdShrpner;-3;;;Garuga Scale;5;Garuga Shell;5;Garuga Wing;1;Genprey Hide;5
+Garuga Boots;1;1;0;0;2;5;14;3;3;0;2;16750;PelletS Up;2;Health;2;PsychicVis;2;MixSucRate;-2;;;Garuga Scale;5;Garuga Shell;5;Garuga Wing;1;Genprey Hide;5
+Velociprey Greaves D;1;1;0;0;1;3;20;1;1;-1;1;7750;Gluttony;2;WideEffect;3;PsychicVis;2;Poison;-3;;;WhtVeloprySclPc;3;Disk Stone;3;Kelbi Hide;1;Blk Gravios Crst;3
+Velociprey LeggingsD;1;1;0;0;2;3;10;3;3;0;3;7750;Gluttony;2;WideEffect;3;PsychicVis;2;Health;-2;;;WhtVeloprySclPc;3;Disk Stone;3;Kelbi Hide;1;Blk Gravios Crst;3
+Plesioth Greaves D;1;1;0;0;1;3;17;-4;-4;0;4;4150;Attack;4;Fishing;3;Whim;3;PsychicVis;1;;;GrnPlesiothSclPc;3;Monster Fluid;1;Earth Crystal;4;GrnPlesiothFinPc;1
+Plesioth Leggings D;1;1;0;0;2;3;9;-2;-2;1;6;4150;Attack;4;Fishing;3;Whim;3;PsychicVis;1;;;GrnPlesiothSclPc;3;Monster Fluid;1;Earth Crystal;4;GrnPlesiothFinPc;1
+Gravios Greaves D;1;1;0;0;1;3;20;2;2;0;-2;7750;Health;2;Heat Res;3;Map;2;PsychicVis;2;Gathering;-1;Blk Gravios Crst;6;Med Monster Bone;2;Machalite Ore;5;Rubbery Hide;2
+Gravios Leggings D;1;1;0;0;2;3;10;4;3;0;1;7750;Health;2;Heat Res;2;Protection;2;PsychicVis;2;;;Blk Gravios Crst;6;Med Monster Bone;2;Machalite Ore;5;Rubbery Hide;2
+Basarios Greaves+;1;1;0;0;1;4;26;0;2;-2;2;16750;Defense;2;Poison;2;Worry;2;PsychicVis;3;Protection;-2;Basarios Wing;1;Basarios Shell;3;Genprey Hide;5;Earth Crystal;10
+Basarios Leggings+;1;1;0;0;2;4;14;2;4;0;4;16750;Defense;2;Poison;2;Worry;2;PsychicVis;3;Protection;-2;Basarios Wing;1;Basarios Shell;3;Genprey Hide;5;Earth Crystal;10
+Velociprey Feet+;1;1;0;0;0;5;13;0;0;0;0;1950;Faint;4;Fate;2;PsychicVis;2;Whim;-2;;;Monster Bone+;1;Velocidrome Claw;3;Rubbery Hide;2;BmboFlynMealPass;1
+Genprey Feet+;1;1;0;0;0;5;13;0;0;0;0;1950;Paralysis;4;Whim;2;PsychicVis;2;MixSucRate;-2;;;Monster Bone+;1;Genprey Fang;10;Rubbery Hide;2;Genprey Scale;10
+Ioprey Feet+;1;1;0;0;0;5;13;0;0;0;0;1950;Poison;4;PsychicVis;3;Map;3;Health;-1;;;Monster Bone+;1;King Scarab;4;Rubbery Hide;2;Ioprey Scale;10
+Mosswine Feet+;1;1;0;0;0;5;11;0;0;0;0;1350;Gluttony;3;Health;3;Hunger;-2;;;;;Monster Bone+;1;Mosswine Hide;1;Bullfango Pelt;8;;
+Kirin Leg Guards+;1;1;0;0;1;5;31;0;4;0;0;37125;All Res Up;2;Recovery;2;Fate;2;Cold Res;-2;;;Kirin Hide+;1;Kirin Hide;3;Rubbery Hide;3;Electro Sac;3
+Kirin Boots+;1;1;0;0;2;5;15;2;6;0;2;37125;All Res Up;2;Recovery;2;Fate;2;Cold Res;-2;;;Kirin Hide+;1;Kirin Hide;3;Rubbery Hide;3;Electro Sac;3
+Plesioth Greaves K;1;1;0;0;1;4;27;-4;-4;0;4;18250;Attack;3;Protection;2;Fate;2;PsychicVis;2;Guard;-2;Grn Plesioth Fin;2;Union Ore;3;King Scarab;3;GrnPlesiothSclPc;4
+Plesioth Leggings K;1;1;0;0;2;4;15;-2;-2;1;6;18250;Attack;3;Protection;2;Fate;3;PsychicVis;1;Health;-2;Grn Plesioth Fin;2;Union Ore;3;King Scarab;3;GrnPlesiothSclPc;4
+Gravios Greaves K;1;1;0;0;1;4;30;2;2;0;-2;23250;Health;2;Heat Res;3;Flute;2;Sharpness;1;Gathering;-2;Blk Gravios Shl;2;Blk Gravios Crst;5;Lg Monster Bone;5;Ioprey Hide;3
+Gravios Leggings K;1;1;0;0;2;4;15;4;3;0;1;23250;Health;3;Heat Res;2;Protection;2;PsychicVis;2;Gathering;-2;Blk Gravios Shl;2;Blk Gravios Crst;5;Lg Monster Bone;5;Ioprey Hide;3
+Basarios Greaves S;1;1;0;0;1;6;36;0;2;-2;2;32250;Defense;3;Worry;2;WindPress;2;Protection;-2;Faint;-1;Basrios Carapace;3;Carbalite Ore;5;Toxin Sac;3;Genprey Hide+;5
+Basarios Leggings S;1;1;0;0;2;6;19;2;4;0;4;32250;Defense;3;Worry;2;PierceSAdd;2;Protection;-2;Load;-1;Basrios Carapace;3;Carbalite Ore;5;Toxin Sac;3;Genprey Hide+;5
+Velociprey Feet S;1;1;0;0;0;7;18;0;0;0;0;4950;Faint;4;Fate;2;Flute;2;Whim;-3;;;Velociprey Scle+;6;Velociprey Hide+;10;Rubbery Hide+;2;Velocidrome Claw;3
+Genprey Feet S;1;1;0;0;0;7;18;0;0;0;0;4950;Paralysis;4;Whim;2;WideEffect;3;MixSucRate;-2;;;Genprey Scale+;6;Genprey Hide+;10;Rubbery Hide+;2;Gendrome Hide;2
+Ioprey Feet S;1;1;0;0;0;7;18;0;0;0;0;4950;Poison;4;PsychicVis;2;Map;2;Health;-3;;;Ioprey Scale+;6;Ioprey Hide+;10;Rubbery Hide+;2;Iodrome Hide;2
+Mosswine Feet S;1;1;0;0;0;7;16;0;0;0;0;3350;Gluttony;5;Health;3;Hunger;-2;;;;;Carbalite Ore;1;Mosswine Hide;2;Bullfango Pelt;3;;
+Kirin Leg Guards S;1;1;0;0;1;7;41;0;4;0;0;59625;All Res Up;2;Recovery;2;Artisan;2;PsychicVis;2;Cold Res;-2;SpecialKirinHide;1;Kirin Hide+;3;Rubbery Hide+;2;Thunder Sac;3
+Kirin Boots S;1;1;0;0;2;7;21;2;6;0;2;59625;All Res Up;2;Recovery;2;PierceS Up;2;PsychicVis;2;Cold Res;-2;SpecialKirinHide;1;Kirin Hide+;3;Rubbery Hide+;2;Thunder Sac;3
+Garuga Greaves S;1;1;0;0;1;7;36;2;2;0;0;32250;Sharpness;3;HearProtct;3;PsychicVis;2;Recovery;-3;;;Garuga Carapace;5;StrongGarugaWing;1;Garuga Shell;5;Genprey Hide+;5
+Garuga Leggings S;1;1;0;0;2;7;19;3;3;0;2;32250;NormalS Up;2;Spc Attack;2;PsychicVis;2;MixSucRate;-2;;;Garuga Carapace;5;StrongGarugaWing;1;Garuga Shell;5;Genprey Hide+;5
+(Torso Inc) Coffee Pants;1;1;0;0;0;6;17;2;-2;0;2;4150;Torso Inc;;;;;;;;;;Rainbow Ore;2;Pure Crystal;2;Carbalite Ore;2;Kelbi Hide;2
+Vespoid Greaves U;1;1;0;0;1;6;30;-6;2;2;-5;23250;Poison;2;Wide Rec;2;Sleep;1;Whim;-2;;;Rainbow Insect;2;Vspoid Razorwing;3;Vespoid Carapace;3;Union Ore;4
+Vespoid Leggings U;1;1;0;0;2;6;16;-5;5;2;-4;23250;Poison;2;Recovery;2;Sleep;1;Whim;-2;;;Rainbow Insect;2;Vspoid Razorwing;3;Vespoid Carapace;3;Union Ore;4
+Hornet Greaves U;1;1;0;0;1;6;30;-6;-5;2;-1;23250;Fate;2;Guard;3;Dragon Res;2;Gathering;2;Worry;-2;Rainbow Insect;2;Hornet Razorwing;3;Hornet Carapace;3;Carbalite Ore;2
+Hornet Leggings U;1;1;0;0;2;6;15;-5;-3;3;2;23250;Fate;2;Health;3;Dragon Res;2;Gathering;2;Worry;-2;Rainbow Insect;2;Hornet Razorwing;3;Hornet Carapace;3;Carbalite Ore;2
+Shinobi Boots (Sky);1;1;0;0;0;7;20;0;2;1;-6;61875;PsychicVis;3;Hunger;2;Spc Attack;2;Whim;-2;;;Rainbow Ore;2;Fatalis Strg Wng;1;Guild Ticket;1;Pnk Rathian Cpc;3
+Shinobi Boots (Sea);1;1;0;0;0;7;20;2;4;2;-5;61875;PsychicVis;3;Hunger;2;Spc Attack;2;Whim;-2;;;Rainbow Ore;2;Fatalis Strg Wng;1;Guild Ticket;1;Pnk Rathian Cpc;3
+Genprey Greaves U;1;1;0;0;1;6;31;2;3;-1;-2;24750;Paralysis;3;SwdShrpner;2;Protection;2;Recovery;-2;;;Rainbow Insect;3;Genprey Scale+;4;Small Goldenfish;6;King Scarab;6
+Genprey Leggings U;1;1;0;0;2;6;19;4;5;0;0;24750;Paralysis;3;PelletS Up;2;PsychicVis;2;Load;-2;;;Rainbow Insect;3;Genprey Scale+;4;Small Goldenfish;6;King Scarab;6
+(Torso Inc) Ioprey Greaves U;1;1;0;0;1;6;33;3;-2;-1;2;27750;Torso Inc;;;;;;;;;;Rainbow Insect;2;Ioprey Scale+;3;Ioprey Hide+;5;Pur Rubbery Hide;2
+(Torso Inc) Ioprey Leggings U;1;1;0;0;2;6;0;5;0;0;4;27750;Torso Inc;;;;;;;;;;Rainbow Insect;2;Ioprey Scale+;3;Ioprey Hide+;5;Pur Rubbery Hide;2
+Basarios Greaves U;1;1;0;0;1;6;36;0;2;-2;2;32250;Defense;2;Sleep;2;Guard;2;PsychicVis;3;Protection;-2;Basrios Carapace;3;Carbalite Ore;5;Gendrome Hide;2;Machalite Ore;20
+Basarios Leggings U;1;1;0;0;2;6;19;2;4;0;4;32250;Defense;2;Shot Mix;2;PelletSAdd;2;Protection;-2;Load;-1;Basrios Carapace;3;Carbalite Ore;5;Gendrome Hide;2;Machalite Ore;20

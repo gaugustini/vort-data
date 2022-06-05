@@ -1,0 +1,64 @@
+Armor
+
+#engname = #engname
+名前 = name
+性別(0=両,1=男,2=女) = Gender (0 = both, 1 = male, 2 = female)
+タイプ(0=両方,1=剣士,2=ガンナー) = Type (0 = both, 1 = swordfighter, 2 = gunner)
+レア度 = Rarity
+スロット数 = Number of slots
+入手時期／HR（99=集会場入手不可） = Acquisition time / HR (99 = Not available at the meeting place)
+入手時期／村☆（99=村入手不可） = Acquisition time / Village ☆ (99 = Village not available)
+初期防御力 = Initial defense
+最終防御力 = Final defense
+火耐性 = Fire resistance
+水耐性 = Water resistance
+氷耐性 = Ice resistance
+雷耐性 = Lightning resistance
+龍耐性 = Dragon resistance
+スキル系統1 = Skill system 1
+スキル値1 = Skill value 1
+スキル系統2 = Skill system 2
+スキル値2 = Skill value 2
+スキル系統3 = Skill system 3
+スキル値3 = Skill value 3
+スキル系統4 = Skill system 4
+スキル値4 = Skill value 4
+スキル系統5 = Skill system 5
+スキル値5 = Skill value 5
+生産素材1 = Production material 1
+個数 = Quantity
+生産素材2 = Production material 2
+個数 = Quantity
+生産素材3 = Production material 3
+個数 = Quantity
+生産素材4 = Production material 4
+個数 = Quantity
+
+Decoration
+
+#engname = 
+名前 = name
+レア度 = Rarity
+スロット = slot
+入手時期／HR = Acquisition time / HR
+入手時期／村☆ = Acquisition time / village ☆
+スキル系統1 = Skill system 1
+スキル値1 = Skill value 1
+スキル系統2 = Skill system 2
+スキル値2 = Skill value 2
+生産素材A1 = Production material A1
+個数 = Quantity
+生産素材A2 = Production material A2
+個数 = Quantity
+生産素材A3 = Production material A3
+個数 = Quantity
+生産素材A4 = Production material A4
+個数 = Quantity
+生産素材B1 = Production material B1
+個数 = Quantity
+生産素材B2 = Production material B2
+個数 = Quantity
+生産素材B3 = Production material B3
+個数 = Quantity
+生産素材B4 = Production material B4
+個数 = Quantity
