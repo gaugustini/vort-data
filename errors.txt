@@ -1,4 +1,0 @@
-f1 - language: names with some description
-f1 - armor: ice resistance values are wrong
-
-p3 - language: skill names in different order (french, spanish)
