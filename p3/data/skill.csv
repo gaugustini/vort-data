@@ -1,210 +1,210 @@
 name;family;points;type
-Attack Up [Sm];Attack;10;0
-Attack Up [Med];Attack;15;0
-Attack Up [Lg];Attack;20;0
-Attack Down [Sm];Attack;-10;0
-Attack Down [Med];Attack;-15;0
-Attack Down [Lg];Attack;-20;0
-Reckless Abandon +1;Expert;10;0
-Reckless Abandon +2;Expert;15;0
-Reckless Abandon +3;Expert;20;0
-Reckless Abandon -1;Expert;-10;0
-Reckless Abandon -2;Expert;-15;0
-Reckless Abandon -3;Expert;-20;0
-Sharp Sword;Sharpness;10;1
-Blunt;Sharpness;-10;1
+Attack Up (S);Attack;10;0
+Attack Up (M);Attack;15;0
+Attack Up (L);Attack;20;0
+Attack Down (S);Attack;-10;0
+Attack Down (M);Attack;-15;0
+Attack Down (L);Attack;-20;0
+Critical Eye +1;Expert;10;0
+Critical Eye +2;Expert;15;0
+Critical Eye +3;Expert;20;0
+Critical Eye -1;Expert;-10;0
+Critical Eye -2;Expert;-15;0
+Critical Eye -3;Expert;-20;0
+Razor Sharp;Sharpness;10;1
+Blunt Edge;Sharpness;-10;1
 Speed Sharpening;Sharpener;10;1
 Slow Sharpening;Sharpener;-10;1
-Sharpness +1;Artisan;15;1
-Unsheathe Stun;PunishDraw;10;1
-Unsheathe Critical;Crit Draw;10;1
-Concentration;FastCharge;10;0
+Sharpness +1;Handicraft;15;1
+Punishing Draw;PunishDraw;10;1
+Critical Draw;Crit Draw;10;1
+Focus;FastCharge;10;0
 Distraction;FastCharge;-10;0
-ESP;Fencing;10;1
-Exploiter;Debilitate;10;0
-Ruiner;Slam;10;0
-Improved KO;KO;10;0
-Enfeebler;FatigueAtk;10;0
-Flute Expert;Horn;10;0
-Gunnery Master;Gunnery;10;0
-Gunnery King;Gunnery;15;0
-Unleashed +1;Awaken;10;0
-Unleashed +2;Awaken;15;0
+Mind's Eye;Fencing;10;1
+Weakness Exploit;Tenderizer;10;0
+Partbreaker;Destroyer;10;0
+Knockout King;KO;10;0
+Stamina Thief;Stam Drain;10;0
+Horn Maestro;Maestro;10;0
+Artillery Novice;Artillery;10;0
+Artillery King;Artillery;15;0
+Latent Power +1;Gloves Off;10;0
+Latent Power +2;Gloves Off;15;0
 Adrenaline +1;Potential;10;0
 Adrenaline +2;Potential;15;0
-Worry;Potential;-10;0
-Resilience;Adversity;10;0
+Worrywort;Potential;-10;0
+Fortify;Survivor;10;0
 Load Up;Loading;15;0
-Rapid Shot +1;Rapid Fire;10;2
-Reload Speed +1;Reload Spd;10;2
-Reload Speed +2;Reload Spd;15;2
-Reload Speed +3;Reload Spd;20;2
-Reload Speed -1;Reload Spd;-10;2
-Reload Speed -2;Reload Spd;-15;2
-Reload Speed -3;Reload Spd;-20;2
-Recoil Reduction +1;Recoil;10;2
-Recoil Reduction +2;Recoil;15;2
-Recoil Reduction +3;Recoil;20;2
-Recoil Reduction -1;Recoil;-10;2
-Recoil Reduction -2;Recoil;-15;2
-Recoil Reduction -3;Recoil;-20;2
-Accuracy+1;Precision;10;2
-Accuracy+2;Precision;15;2
-Accuracy-1;Precision;-10;2
-Accuracy-2;Precision;-15;2
-NormalS/RapidBowUp;NormalS Up;10;2
-PierceS/PierceBowUp;PierceS Up;10;2
-PelletS/ScatterBowUp;PelletS Up;10;2
-Normal S All Add;NormalSAdd;10;2
-Pierce S LV1 Add;PierceSAdd;10;2
-Pierce S All Add;PierceSAdd;15;2
-Pellet S LV1 Add;PelletSAdd;10;2
-Pellet S All Add;PelletSAdd;15;2
-Crag S LV1 Add;Crag S Add;10;2
-Crag S All Add;Crag S Add;15;2
-Clust S LV1 Add;ClustS Add;10;2
-Clust S All Add;ClustS Add;15;2
-Cutter S Add;CutterSAdd;10;2
-Poison Coating Add;PoisonCAdd;10;2
-Parlysis Coating Add;ParalyCAdd;10;2
-Sleep Coating Add;SleepCAdd;10;2
-Power Coating Add;PowerCAdd;10;2
-Close Range Coating Add;RazorCAdd;10;2
-Fatigue Coating Add;FatigeCAdd;10;2
-Abnormal Status Atk +1;Status;10;0
-Abnormal Status Atk +2;Status;15;0
-Abnormal Status Atk Down;Status;-10;0
-Element Atk Up;Elemental;10;0
-Elemnt Atk Down;Elemental;-10;0
-Fire Element +1;Fire Atk;10;0
-Fire Element +2;Fire Atk;15;0
-Fire Elment Down;Fire Atk;-10;0
-Water Element +1;Water Atk;10;0
-Water Element +2;Water Atk;15;0
-Water Element Down;Water Atk;-10;0
-Thunder Element +1;Thundr Atk;10;0
-Thunder Element +2;Thundr Atk;15;0
-Thunder Element Down;Thundr Atk;-10;0
-Ice Element +1;Ice Attack;10;0
-Ice Element +2;Ice Attack;15;0
-Ice Element Down;Ice Attack;-10;0
-Dragon Element +1;Dragon Atk;10;0
-Dragon Element +2;Dragon Atk;15;0
-Dragon Element Down;Dragon Atk;-10;0
+Bonus Shot;Rapid Fire;10;2
+Reload Speed +1;Reload Speed;10;2
+Reload Speed +2;Reload Speed;15;2
+Reload Speed +3;Reload Speed;20;2
+Reload Speed -1;Reload Speed;-10;2
+Reload Speed -2;Reload Speed;-15;2
+Reload Speed -3;Reload Speed;-20;2
+Recoil Down +1;Recoil;10;2
+Recoil Down +2;Recoil;15;2
+Recoil Down +3;Recoil;20;2
+Recoil Down -1;Recoil;-10;2
+Recoil Down -2;Recoil;-15;2
+Recoil Down -3;Recoil;-20;2
+Steadiness +1;Precision;10;2
+Steadiness +2;Precision;15;2
+Steadiness -1;Precision;-10;2
+Steadiness -2;Precision;-15;2
+Normal/Rapid Up;Normal Up;10;2
+Pierce/Pierce Up;Pierce Up;10;2
+Pellet/Spread Up;Pellet Up;10;2
+Use Any Normal;Normal S+;10;2
+Use Lv1 Pierce S;Pierce S+;10;2
+Use Any Pierce S;Pierce S+;15;2
+Use Lv1 Pellet S;Pellet S+;10;2
+Use Any Pellet S;Pellet S+;15;2
+Use Lv1 Crag S;Crag S+;10;2
+Use Any Crag S;Crag S+;15;2
+Use Lv1 Clust S;Clust S+;10;2
+Use Any Clust S;Clust S+;15;2
+Use Slicing S;Slice S+;10;2
+Use Poison Coat;Poison C+;10;2
+Use Para Coat;Para C+;10;2
+Use Sleep Coat;Sleep C+;10;2
+Use Power Coat;Power C+;10;2
+Use C. Range Coat;C. Range C+;10;2
+Use Exhaust Coat;Exhaust C+;10;2
+Status Atk +1;Status;10;0
+Status Atk +2;Status;15;0
+Status Atk Down;Status;-10;0
+Element Atk +1;ElementAtk;10;0
+Element Atk Down;ElementAtk;-10;0
+Fire Atk +1;Fire Atk;10;0
+Fire Atk +2;Fire Atk;15;0
+Fire Atk Down;Fire Atk;-10;0
+Water Atk +1;Water Atk;10;0
+Water Atk +2;Water Atk;15;0
+Water Atk Down;Water Atk;-10;0
+Thunder Atk +1;Thundr Atk;10;0
+Thunder Atk +2;Thundr Atk;15;0
+Thunder Atk Down;Thundr Atk;-10;0
+Ice Atk +1;Ice Atk;10;0
+Ice Atk +2;Ice Atk;15;0
+Ice Atk Down;Ice Atk;-10;0
+Dragon Atk +1;Dragon Atk;10;0
+Dragon Atk +2;Dragon Atk;15;0
+Dragon Atk Down;Dragon Atk;-10;0
 Constitution +1;Constitutn;10;0
 Constitution +2;Constitutn;15;0
 Constitution -1;Constitutn;-10;0
 Constitution -2;Constitutn;-15;0
-Runner;Stamina;10;0
-Flat Footed;Stamina;-10;0
-Stamina Recov Up;Will Recov;10;0
-Stamina Recov Down;Will Recov;-10;0
-Hunger Halved;Hunger;10;0
-Hunger Negated;Hunger;15;0
-Hunger Inc [Lo];Hunger;-10;0
-Hunger Inc [Hi];Hunger;-15;0
-Evade +1;Evasion;10;0
-Evade +2;Evasion;15;0
+Marathon Runner;Stamina;10;0
+Short Sprinter;Stamina;-10;0
+Stam Recov Up;Stam Recov;10;0
+Stam Recov Down;Stam Recov;-10;0
+Halve Hunger;Hunger;10;0
+Negate Hunger;Hunger;15;0
+Raise Hunger;Hunger;-10;0
+Double Hunger;Hunger;-15;0
+Evasion +1;Evasion;10;0
+Evasion +2;Evasion;15;0
 Evade Down;Evasion;-10;0
-Evasion Up;Evade Dist;15;0
-Fast Sheathe;Sheathe;10;0
+Evade Extender;Evade Dist;15;0
+Quick Sheathe;Sheathing;10;0
 Sneak;Sense;10;0
 Taunt;Sense;-10;0
-Recovery Speed +1;Rec Speed;10;0
-Recovery Speed +2;Rec Speed;15;0
+Recovery Spd +1;Rec Speed;10;0
+Recovery Spd +2;Rec Speed;15;0
 Recovery Spd -1;Rec Speed;-10;0
 Recovery Spd -2;Rec Speed;-15;0
 Guard +1;Guard;10;1
 Guard +2;Guard;15;1
 Guard -1;Guard;-10;1
-Guard Inc;Guard Up;10;0
+Guard Boost;Guard Up;10;0
 Auto-Guard;Auto-Guard;10;0
-Divine Protection;Protection;10;0
-Demonic Protection;Protection;-10;0
-Poison Negated;Poison;10;0
-Poison [x2];Poison;-10;0
-Parlysis Negated;Paralysis;10;0
-Paralysis [x2];Paralysis;-10;0
-Sleep Negated;Sleep;10;0
-Sleep [x2];Sleep;-10;0
-Stun Halved;Stun;10;0
-Stun Negated;Stun;15;0
-Stun [x2];Stun;-10;0
-Mud/Snow Res;Mud/Snow;10;0
-Quake Res;Quake Res;10;0
-Wind Breaker;WindPress;10;0
-Wind Anchor;WindPress;15;0
+Divine Blessing;Protection;10;0
+Demonic Blessing;Protection;-10;0
+Negate Poison;Poison;10;0
+Double Poison;Poison;-10;0
+Negate Paralysis;Paralysis;10;0
+Double Paralysis;Paralysis;-10;0
+Negate Sleep;Sleep;10;0
+Double Sleep;Sleep;-10;0
+Halve Stun;Stun;10;0
+Negate Stun;Stun;15;0
+Double Stun;Stun;-10;0
+Negate Mud/Snow;Mud/Snow;10;0
+Tremor Resistance;Tremor Resistance;10;0
+Windproof (Lo);Wind Res;10;0
+Windproof (Hi);Wind Res;15;0
 Antiseptic;Antiseptic;10;0
-Steal No Effect;Anti-Theft;10;0
-Blightproof;Blight Res;10;0
-Def Down Negate;Fortitude;10;0
-Earplug;HearProtct;10;0
-HighGradeEarplug;HearProtct;15;0
+Anti-Theft;Anti-Theft;10;0
+Blights Negated;Blight Res;10;0
+Iron Skin;Def Lock;10;0
+Earplugs;Hearing;10;0
+HG Earplugs;Hearing;15;0
 Health +20;Health;10;0
 Health +50;Health;15;0
 Health -10;Health;-10;0
 Health -30;Health;-15;0
-Def Up (S);Defense;10;0
-Def Up (M);Defense;15;0
-Def Up (L);Defense;20;0
-Def Down (S);Defense;-10;0
-Def Down (M);Defense;-15;0
-Def Down (L);Defense;-20;0
-Fire Res (S);Fire Res;10;0
-Fire Res (L);Fire Res;15;0
-Fire Res Weakened;Fire Res;-10;0
-Water Res (S);Water Res;10;0
-Water Res (L);Water Res;15;0
-Water Res Weakened;Water Res;-10;0
-Thunder Res (S);ThunderRes;10;0
-Thunder Res (L);ThunderRes;15;0
-Thunder Res Weakened;ThunderRes;-10;0
-Ice Res (S);Ice Res;10;0
-Ice Res (L);Ice Res;15;0
-Ice Res Weakened;Ice Res;-10;0
-Dragon Res (S);Dragon Res;10;0
-Dragon Res (L);Dragon Res;15;0
-Dragon Res Weakened;Dragon Res;-10;0
-Wide Area +1;Wide Area;10;0
-Wide Area +2;Wide Area;20;0
-Bombardier;BombStrUp;10;0
+Defense Up (S);Defense;10;0
+Defense Up (M);Defense;15;0
+Defense Up (L);Defense;20;0
+Defense Down (S);Defense;-10;0
+Defense Down (M);Defense;-15;0
+Defense Down (L);Defense;-20;0
+Fire Res +5;Fire Res;10;0
+Fire Res +10;Fire Res;15;0
+Fire Res -10;Fire Res;-10;0
+Water Res +5;Water Res;10;0
+Water Res +10;Water Res;15;0
+Water Res -10;Water Res;-10;0
+Thunder Res +5;ThunderRes;10;0
+Thunder Res +10;ThunderRes;15;0
+Thunder Res -10;ThunderRes;-10;0
+Ice Res +5;Ice Res;10;0
+Ice Res +10;Ice Res;15;0
+Ice Res -10;Ice Res;-10;0
+Dragon Res +5;Dragon Res;10;0
+Dragon Res +10;Dragon Res;15;0
+Dragon Res -10;Dragon Res;-10;0
+Wide-Range +1;Wide-Range;10;0
+Wide-Range +2;Wide-Range;20;0
+Bombardier;Bomb Boost;10;0
 Trap Master;SpeedSetup;10;0
-Trnquilizr Guru;Perception;10;0
+Capture Guru;Perception;10;0
 Detect;Psychic;10;0
 Autotracker;Psychic;15;0
-DungBombExpert;DungMaster;10;0
+Dung Bomb Expert;Dungmaster;10;0
 Recovery Up;Rec Level;10;0
 Recovery Down;Rec Level;-10;0
 Item Use Up;LastingPwr;10;0
 Item Use Down;LastingPwr;-10;0
-Filled Up;Gluttony;10;0
-Picky Eater;Gluttony;15;0
-Quick Eating +1;Eating;10;0
-Quick Eating +2;Eating;15;0
-Slow Life;Eating;-10;0
-Huntsman's Life;Huntsman;10;0
-Backpacking Expert;Backpackng;10;0
+Scavenger;Gluttony;10;0
+Gourmand;Gluttony;15;0
+Speed Eating +1;Eating;10;0
+Speed Eating +2;Eating;15;0
+Slow Eater;Eating;-10;0
+Outdoorsman;Ranger;10;0
+Pro Transporter;Transportr;10;0
 Heat Cancel;Heat Res;10;0
-Heat Inc;Heat Res;-10;0
-Cold Eliminate;Cold Res;10;0
-Cold Increase;Cold Res;-10;0
+Heat Surge;Heat Res;-10;0
+Cold Cancel;Cold Res;10;0
+Cold Surge;Cold Res;-10;0
 Gathering +1;Gathering;10;0
 Gathering +2;Gathering;15;0
 Gathering -1;Gathering;-10;0
-Hi-SpdGathering;HiSpdGathr;10;0
+Speed Gatherer;Spd Gather;10;0
 Spirit's Whim;Whim;10;0
 Divine Whim;Whim;15;0
 Spectre's Whim;Whim;-10;0
 Devil's Whim;Whim;-15;0
 Good Luck;Fate;10;0
-Luck Booster;Fate;15;0
+Great Luck;Fate;15;0
 Bad Luck;Fate;-10;0
-Calamity;Fate;-15;0
-Carving Expert;Carving;15;0
-Rewards Expert;Rewards;10;0
-Rewards Celeb;Rewards;15;0
-Combine Success +20%;Combo Rate;10;0
-Combine Success+45%;Combo Rate;15;0
-Combine Success -10%;Combo Rate;-10;0
-Combine Success-20%;Combo Rate;-15;0
-Bullet Limit;Shot Mix;10;0
+Carving Pro;Fate;-15;0
+Carving Master;Carving;15;0
+Capture Expert;Tranquilzr;10;0
+Capture Master;Tranquilzr;15;0
+Combination +20%;Combo Rate;10;0
+Combination +45%;Combo Rate;15;0
+Combination -10%;Combo Rate;-10;0
+Combination -20%;Combo Rate;-15;0
+Combination Pro;Combo Plus;10;0

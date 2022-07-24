@@ -2,27 +2,27 @@ name;family;points;type
 Attack Up (Large);Attack;20;0
 Attack Up (Medium);Attack;15;0
 Attack Up (Small);Attack;10;0
-Attack Dwn (Small);Attack;-10;0
-Attack Dwn (Medium);Attack;-15;0
-Attack Dwn (Large);Attack;-20;0
-Defence +40;Defence;20;0
-Defence +30;Defence;15;0
-Defence +20;Defence;10;0
-Defence -20;Defence;-10;0
-Defence -30;Defence;-15;0
-Defence -40;Defence;-20;0
+Attack Down (Small);Attack;-10;0
+Attack Down (Medium);Attack;-15;0
+Attack Down (Large);Attack;-20;0
+Defense +40;Defense;20;0
+Defense +30;Defense;15;0
+Defense +20;Defense;10;0
+Defense -20;Defense;-10;0
+Defense -30;Defense;-15;0
+Defense -40;Defense;-20;0
 Health +50;Health;20;0
 Health +30;Health;15;0
 Health +20;Health;10;0
 Health -10;Health;-10;0
 Health -20;Health;-15;0
 Health -30;Health;-20;0
-All Resist +10;All Resist;20;0
-All Resist +5;All Resist;15;0
-All Resist +3;All Resist;10;0
-All Resist -3;All Resist;-10;0
-All Resist -5;All Resist;-15;0
-All Resist -10;All Resist;-20;0
+All Res +10;All Resist;20;0
+All Res +5;All Resist;15;0
+All Res +3;All Resist;10;0
+All Res -3;All Resist;-10;0
+All Res -5;All Resist;-15;0
+All Res -10;All Resist;-20;0
 Ice Res +10;Ice Res;15;0
 Ice Res +5;Ice Res;10;0
 Ice Res -5;Ice Res;-10;0
@@ -39,22 +39,22 @@ Dragon Res +10;Dragon Res;15;0
 Dragon Res +5;Dragon Res;10;0
 Dragon Res -5;Dragon Res;-10;0
 Dragon Res -10;Dragon Res;-15;0
-Fire Resist +10;Fire Res;15;0
-Fire Resist +5;Fire Res;10;0
-Fire Resist -5;Fire Res;-10;0
-Fire Resist -10;Fire Res;-15;0
+Fire Res +10;Fire Res;15;0
+Fire Res +5;Fire Res;10;0
+Fire Res -5;Fire Res;-10;0
+Fire Res -10;Fire Res;-15;0
 Faint Negated;Faint;15;0
 Faint Prob Halved;Faint;10;0
-Faint Duration [x2];Faint;-10;0
+Faint Duration[x2];Faint;-10;0
 Poison Negated;Poison;15;0
 Poison Dur Halved;Poison;10;0
-Poison Duration[x2];Poison;-10;0
+Poison Dur[x2];Poison;-10;0
 Paralysis Negated;Paralysis;15;0
 Para Duration Halved;Paralysis;10;0
 Para Duration[x2];Paralysis;-10;0
 Sleep Negated;Sleep;15;0
 Sleep Dur Halved;Sleep;10;0
-Sleep Duration[x2];Sleep;-10;0
+Sleep Dur[x2];Sleep;-10;0
 Antiseptic;Antiseptic;10;0
 Fatigue Cancellation;Fatigue;10;0
 Snow Res;Snow Res;10;0
@@ -65,50 +65,50 @@ Dragon Wind Breaker;WindPress;20;0
 High Wind Res;WindPress;15;0
 Low Wind Res;WindPress;10;0
 Steal No Effect;Anti-Theft;10;0
-Abnormal Sts Negated;Status Res;10;0
-Daora Ward;FireDrgRes;10;0
-Chameleos Ward;Daora Res;10;0
-Fire Dragon Ward;ChmleosRes;10;0
+Self-Defense;ResistSts;10;0
+Metallic Protection;AntiFirDrg;10;0
+Frosty Protection;AntiDaora;10;0
+Fiery Protection;AntiChamel;10;0
 Sharpness +1;Artisan;10;1
 Sharp Sword;Sharpness;10;1
-Blunt Edge;Sharpness;-10;1
+Blunt;Sharpness;-10;1
 ESP;Fencing;10;1
 Guard +2;Guard;20;0
 Guard +1;Guard;10;0
 Guard -1;Guard;-10;0
 Guard -2;Guard;-20;0
 Auto-Guard;Auto-Guard;10;0
-Unsheathed Atk Crit;Drawn Crit;10;1
-True Strike;SwdMastery;10;1
+Art of Unsheathing;Sword Draw;10;1
+Stellar Hunter;Edgemaster;10;1
 NormalS/RapidBow Up;NormalS Up;10;2
 PierceS/PierceBow Up;PierceS Up;10;2
 PelletS/ScattrBow Up;PelletS Up;10;2
-All Shots Up;NormalSAdd;10;2
-All Pierce Lvls Up;PierceSAdd;15;2
+Normal S All LV Add;NormalSAdd;10;2
+Pierce S All LV Add;PierceSAdd;15;2
 Pierce S LV1 Add;PierceSAdd;10;2
-All Scatter Lvls Up;PelletSAdd;15;2
-Scatter Lvl1 Up;PelletSAdd;10;2
-All Crag Lvls Up;CragS Add;15;2
-Crag Lvl1 Up;CragS Add;10;2
-All Clust Lvl Up;ClustS Add;15;2
-Clust Lvl1 Up;ClustS Add;10;2
-Reloading Speed +3;Load;20;2
-Reloading Speed +2;Load;15;2
-Reloading Speed +1;Load;10;2
-Reloading Speed -1;Load;-10;2
-Reloading Speed -2;Load;-15;2
-Reloading Speed -3;Load;-20;2
-Speed Fire;Speed Fire;10;2
+Pellet S All LV Add;PelletSAdd;15;2
+Pellet S LV1 Add;PelletSAdd;10;2
+Crag S All LV Add;Crag S Add;15;2
+Crag S LV1 Add;Crag S Add;10;2
+Clust S All LV Add;ClustS Add;15;2
+Clust S LV1 Add;ClustS Add;10;2
+Reloading Speed +3;Reload;20;2
+Reloading Speed +2;Reload;15;2
+Reloading Speed +1;Reload;10;2
+Reloading Speed -1;Reload;-10;2
+Reloading Speed -2;Reload;-15;2
+Reloading Speed -3;Reload;-20;2
+AutoReload;AutoReload;10;2
 Recoil Reduction +2;Recoil;20;2
 Recoil Reduction +1;Recoil;10;2
-Target Range Down;Precision;10;2
-Target Range Up;Precision;-10;2
-Poison Coat Add;PoisnCtAdd;10;2
-Paralysis Coat Add;Para CtAdd;10;2
-Sleep Coat Add;SleepCtAdd;10;2
-Power Coat Add;PowerCtAdd;10;2
-Razor Coat Add;RazorCtAdd;10;2
-Shot Damage Up;Marksman;10;2
+Shell Deviation Down;Precision;10;2
+Shell Deviation Up;Precision;-10;2
+Poison Coating Add;PoisonCAdd;10;2
+Paralysis Coat Add;ParalyCAdd;10;2
+Sleep Coating Add;SleepCAdd;10;2
+Power Coating Add;PowerCAdd;10;2
+ClsRngCAdd;ClsRngCAdd;10;2
+Straight & True;SteadyHand;10;2
 Reckless Abandon+3;Expert;20;0
 Reckless Abandon+2;Expert;15;0
 Reckless Abandon+1;Expert;10;0
@@ -116,7 +116,7 @@ Reckless Abandon-1;Expert;-10;0
 Reckless Abandon-2;Expert;-15;0
 Reckless Abandon-3;Expert;-20;0
 Abnormal Sts Atk Up;Spc Attack;10;0
-Element Atk Up;ElementAtk;10;0
+Element Attack Up;ElementAtk;10;0
 Damage Rec Speed +2;Rec Speed;20;0
 Damage Rec Speed +1;Rec Speed;10;0
 Damage Rec Speed -1;Rec Speed;-10;0
@@ -126,17 +126,17 @@ Demonic Protection;Protection;-10;0
 Guard Inc;Guard Up;10;0
 Evade +2;Evade;15;0
 Evade +1;Evade;10;0
-Evade Distance Up;Evade Inc;10;0
+Evade Distance Up;Evade Dist;10;0
 Adrenaline +2;Potential;15;0
 Adrenaline +1;Potential;10;0
 Worry;Potential;-10;0
 Gunnery King;Gunnery;15;0
 Gunnery Master;Gunnery;10;0
-Load Up;Loading;10;2
-Concentration;Fast Chrge;10;0
-Distraction;Fast Chrge;-10;0
-Survival;Survival;10;0
-Rampage;Rage;10;0
+Capacity Up;Capacity;10;2
+Focus;ShortCharg;10;0
+Distracted;ShortCharg;-10;0
+Guts;Guts;10;0
+Emboldened;Fury;10;0
 Farsight;Map;10;0
 Map Unavailable;Map;-10;0
 Autotracker;PsychicVis;15;0
@@ -152,7 +152,7 @@ Backpacking Expert;Backpackng;10;0
 Spirit's Whim;Whim;15;0
 Divine Whim;Whim;10;0
 Spectre's Whim;Whim;-10;0
-Demon Whim;Whim;-15;0
+Devil's Whim;Whim;-15;0
 Fishing Expert;Fishing;10;0
 Heat Cancel [Hi];Heat Res;15;0
 Heat Cancel [Lo];Heat Res;10;0
@@ -162,16 +162,16 @@ Cold Elimination[Hi];Cold Res;15;0
 Cold Elimination[Lo];Cold Res;10;0
 Cold Increase [Lo];Cold Res;-10;0
 Cold Increase [Hi];Cold Res;-15;0
-TrrainDmgeReduce[Hi];Terrain;15;0
-TrrainDmgeReduce[Lo];Terrain;10;0
+TerrainDamageNegate;Terrain;15;0
+TerrainDamageHalf;Terrain;10;0
 TerrainDamageInc[Lo];Terrain;-10;0
 TerrainDamageInc[Hi];Terrain;-15;0
 Runner;Stamina;10;0
 Flat Footed;Stamina;-10;0
-Defensive Maneuvers +2;Technique;15;0
-Defensive Maneuvers +1;Technique;10;0
-Defensive Maneuvers -1;Technique;-10;0
-Defensive Maneuvers -2;Technique;-15;0
+Constitution +2;Constitutn;15;0
+Constitution +1;Constitutn;10;0
+Constitution -1;Constitutn;-10;0
+Constitution -2;Constitutn;-15;0
 Hunger Negated;Hunger;15;0
 Hunger Halved;Hunger;10;0
 Hunger Increase [Lo];Hunger;-10;0
@@ -182,19 +182,19 @@ Luck Booster;Fate;15;0
 Good Luck;Fate;10;0
 Bad Luck;Fate;-10;0
 Calamity;Fate;-20;0
-Trap Expert;Set Trap;10;0
-Reward Celebrity;Trapper;15;0
-Reward Specialist;Trapper;10;0
-Eagle Eye;Observance;10;0
+Trap Master;SpeedSetup;10;0
+Tranquilizing Celeb;Tranquilzr;15;0
+Tranquilizing Whiz;Tranquilzr;10;0
+Tranquilizing Guru;Perceive;10;0
 HealthRecItemsImprvd;Recovery;10;0
-HealthRecItemsWeak;Recovery;-10;0
+HealthRecItemsWeaknd;Recovery;-10;0
 Item Usage Improve;Everlastng;10;0
 Item Usage Decline;Everlastng;-10;0
 Wide Area +2;Wide Area;20;0
 Wide Area +1;Wide Area;10;0
 Throwing Skill Up;Throw;10;0
 Bomber;BombStrUp;10;0
-Picky Eater;Gluttony;15;0
+Scavenger;Gluttony;15;0
 Filled Up;Gluttony;10;0
 Quick Eating;Cooking;10;0
 Slow Life;Cooking;-10;0
@@ -208,7 +208,7 @@ Combine Success -5%;MixSucRate;-10;0
 Combine Success -10%;MixSucRate;-15;0
 Combine Success -15%;MixSucRate;-20;0
 Alchemy;Alchemy;10;0
-Felyne Mentor;FlyneGuide;15;0
-Felyne Tutor;FlyneGuide;10;0
-Felyne Attack Up;Flyne Atk;10;0
-Felyne Defence Up;Flyne Def;10;0
+ComradGuidance&Trade;ComrdGuide;15;0
+Comrade Guidance;ComrdGuide;10;0
+Comrade Attack Up;ComradeAtk;10;0
+Comrade Defense Up;ComradeDef;10;0

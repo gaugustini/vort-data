@@ -1,259 +1,259 @@
 name;family;points;type
-毒無効;毒;10;0
-毒倍加;毒;-10;0
-麻痺無効;麻痺;10;0
-麻痺倍加;麻痺;-10;0
-睡眠無効;睡眠;10;0
-睡眠倍加;睡眠;-10;0
-気絶確率半減;気絶;10;0
-気絶無効;気絶;15;0
-気絶倍加;気絶;-10;0
-泥＆雪無効;耐泥耐雪;10;0
-鉄面皮;対防御DOWN;10;0
-細菌研究家;細菌学;10;0
-バイオドクター;細菌学;15;0
-攻撃力UP【小】;攻撃;10;0
-攻撃力UP【中】;攻撃;15;0
-攻撃力UP【大】;攻撃;20;0
-攻撃力UP【超】;攻撃;25;0
-攻撃力DOWN【小】;攻撃;-10;0
-攻撃力DOWN【中】;攻撃;-15;0
-攻撃力DOWN【大】;攻撃;-20;0
-防御力UP【小】;防御;10;0
-防御力UP【中】;防御;15;0
-防御力UP【大】;防御;20;0
-防御力UP【超】;防御;25;0
-防御力DOWN【小】;防御;-10;0
-防御力DOWN【中】;防御;-15;0
-防御力DOWN【大】;防御;-20;0
-体力+20;体力;10;0
-体力+50;体力;15;0
-体力-10;体力;-10;0
-体力-30;体力;-15;0
-回復速度+1;回復速度;10;0
-回復速度+2;回復速度;15;0
-回復速度-1;回復速度;-10;0
-回復速度-2;回復速度;-15;0
-精霊の加護;加護;10;0
-悪霊の加護;加護;-10;0
-納刀術;納刀;10;0
-集中;溜め短縮;10;0
-雑念;溜め短縮;-10;0
-見切り+1;達人;10;0
-見切り+2;達人;15;0
-見切り+3;達人;20;0
-見切りマスター;達人;30;0
-見切り-1;達人;-10;0
-見切り-2;達人;-15;0
-見切り-3;達人;-20;0
-弱点特効;痛撃;10;0
-破壊王;重撃;10;0
-KO術;KO;10;0
-スタミナ奪取;減気攻撃;10;0
-体術+1;体術;10;0
-体術+2;体術;15;0
-体術-1;体術;-10;0
-体術-2;体術;-15;0
-耳栓;聴覚保護;10;0
-高級耳栓;聴覚保護;15;0
-風圧【小】無効;風圧;10;0
-風圧【大】無効;風圧;15;0
-耐震;耐震;10;0
-暑さ無効;耐暑;10;0
-暑さ倍加;耐暑;-10;0
-寒さ無効;耐寒;10;0
-寒さ倍加;耐寒;-10;0
-ランナー;スタミナ;10;0
-鈍足;スタミナ;-10;0
-スタミナ急速回復;気力回復;10;0
-スタミナ回復遅延;気力回復;-10;0
-回避性能+1;回避性能;10;0
-回避性能+2;回避性能;15;0
-回避性能+3;回避性能;20;0
-回避性能DOWN;回避性能;-10;0
-回避距離UP;回避距離;10;0
-隠密;気配;10;0
-挑発;気配;-10;0
-ガード性能+1;ガード性能;10;0
-ガード性能+2;ガード性能;15;0
-ガード性能-1;ガード性能;-10;0
-ガード強化;ガード強化;10;0
-状態異常攻撃+1;特殊攻撃;10;0
-状態異常攻撃+2;特殊攻撃;15;0
-状態異常攻撃弱化;特殊攻撃;-10;0
-属性攻撃強化;属性攻撃;10;0
-属性攻撃弱化;属性攻撃;-10;0
-火属性攻撃強化+1;火属性攻撃;10;0
-火属性攻撃強化+2;火属性攻撃;15;0
-火属性攻撃強化+3;火属性攻撃;20;0
-火属性攻撃弱化;火属性攻撃;-10;0
-水属性攻撃強化+1;水属性攻撃;10;0
-水属性攻撃強化+2;水属性攻撃;15;0
-水属性攻撃強化+3;水属性攻撃;20;0
-水属性攻撃弱化;水属性攻撃;-10;0
-雷属性攻撃強化+1;雷属性攻撃;10;0
-雷属性攻撃強化+2;雷属性攻撃;15;0
-雷属性攻撃強化+3;雷属性攻撃;20;0
-雷属性攻撃弱化;雷属性攻撃;-10;0
-氷属性攻撃強化+1;氷属性攻撃;10;0
-氷属性攻撃強化+2;氷属性攻撃;15;0
-氷属性攻撃強化+3;氷属性攻撃;20;0
-氷属性攻撃弱化;氷属性攻撃;-10;0
-龍属性攻撃強化+1;龍属性攻撃;10;0
-龍属性攻撃強化+2;龍属性攻撃;15;0
-龍属性攻撃強化+3;龍属性攻撃;20;0
-龍属性攻撃弱化;龍属性攻撃;-10;0
-火耐性【小】;火耐性;10;0
-火耐性【大】;火耐性;15;0
-火耐性弱化;火耐性;-10;0
-水耐性【小】;水耐性;10;0
-水耐性【大】;水耐性;15;0
-水耐性弱化;水耐性;-10;0
-雷耐性【小】;雷耐性;10;0
-雷耐性【大】;雷耐性;15;0
-雷耐性弱化;雷耐性;-10;0
-氷耐性【小】;氷耐性;10;0
-氷耐性【大】;氷耐性;15;0
-氷耐性弱化;氷耐性;-10;0
-龍耐性【小】;龍耐性;10;0
-龍耐性【大】;龍耐性;15;0
-龍耐性弱化;龍耐性;-10;0
-業物;斬れ味;10;1
-なまくら;斬れ味;-10;1
-斬れ味レベル+1;匠;10;1
-砥石使用高速化;研ぎ師;10;1
-砥石使用低速化;研ぎ師;-10;1
-抜刀術【力】;抜刀減気;10;1
-抜刀術【技】;抜刀会心;10;1
-心眼;剣術;10;1
-装填速度+1;装填速度;10;2
-装填速度+2;装填速度;15;2
-装填速度+3;装填速度;20;2
-装填速度-1;装填速度;-10;2
-装填速度-2;装填速度;-15;2
-装填速度-3;装填速度;-20;2
-装填数UP;装填数;10;0
-連発数+1;速射;10;2
-反動軽減+1;反動;10;2
-反動軽減+2;反動;15;2
-反動軽減+3;反動;20;2
-反動軽減-1;反動;-10;2
-反動軽減-2;反動;-15;2
-反動軽減-3;反動;-20;2
-ブレ抑制+1;精密射撃;10;2
-ブレ抑制+2;精密射撃;15;2
-ブレ抑制-1;精密射撃;-10;2
-ブレ抑制-2;精密射撃;-15;2
-通常弾・連射矢UP;通常弾強化;10;2
-貫通弾・貫通矢UP;貫通弾強化;10;2
-散弾・拡散矢UP;散弾強化;10;2
-通常弾全LV追加;通常弾追加;10;2
-貫通弾LV1追加;貫通弾追加;10;2
-貫通弾全LV追加;貫通弾追加;15;2
-散弾LV1追加;散弾追加;10;2
-散弾全LV追加;散弾追加;15;2
-徹甲榴弾LV1追加;榴弾追加;10;2
-徹甲榴弾全LV追加;榴弾追加;15;2
-拡散弾LV1追加;拡散弾追加;10;2
-拡散弾全LV追加;拡散弾追加;15;2
-斬裂弾追加;斬裂弾追加;10;2
-爆破弾追加;爆破弾追加;10;2
-毒ビン追加;毒瓶追加;10;2
-麻痺ビン追加;麻痺瓶追加;10;2
-睡眠ビン追加;睡眠瓶追加;10;2
-強撃ビン追加;強撃瓶追加;10;2
-接撃ビン追加;接撃瓶追加;10;2
-減気ビン追加;減気瓶追加;10;2
-爆破ビン追加;爆破瓶追加;10;2
-笛吹き名人;笛;10;0
-砲術師;砲術;10;0
-砲術王;砲術;15;0
-砲術マスター;砲術;20;0
-ボマー;爆弾強化;10;0
-体力回復量UP;回復量;10;0
-体力回復量DOWN;回復量;-10;0
-広域化+1;広域;10;0
-広域化+2;広域;15;0
-アイテム使用強化;効果持続;10;0
-アイテム使用弱化;効果持続;-10;0
-腹減り無効;腹減り;15;0
-腹減り半減;腹減り;10;0
-腹減り倍加【小】;腹減り;-10;0
-腹減り倍加【大】;腹減り;-15;0
-まんぷく;食いしん坊;10;0
-拾い食い;食いしん坊;15;0
-早食い+1;食事;10;0
-早食い+2;食事;15;0
-スローライフ;食事;-10;0
-お肉大好き;肉食;10;0
-調合成功率+20%;調合成功率;10;0
-調合成功率+45%;調合成功率;15;0
-調合成功率-10%;調合成功率;-10;0
-調合成功率-20%;調合成功率;-15;0
-最大数生産;調合数;10;0
-採取+1;採取;10;0
-採取+2;採取;15;0
-採取マスター;採取;20;0
-採取-1;採取;-10;0
-高速収集;高速収集;10;0
-精霊の気まぐれ;気まぐれ;10;0
-神の気まぐれ;気まぐれ;15;0
-悪霊の気まぐれ;気まぐれ;-10;0
-悪魔の気まぐれ;気まぐれ;-15;0
-ハニーハンター;ハチミツ;10;0
-お守り収集;護石王;10;0
-お守りハンター;護石王;15;0
-お守りマスター;護石王;20;0
-幸運;運気;10;0
-強運;運気;15;0
-激運;運気;20;0
-不運;運気;-10;0
-災難;運気;-15;0
-剥ぎ取り鉄人;剥ぎ取り;10;0
-剥ぎ取り名人;剥ぎ取り;15;0
-剥ぎ取りマスター;剥ぎ取り;20;0
-捕獲達人;捕獲;10;0
-捕獲名人;捕獲;15;0
-捕獲マスター;捕獲;20;0
-捕獲の見極め;観察眼;10;0
-探知;千里眼;10;0
-自動マーキング;千里眼;15;0
-運搬の達人;運搬;10;0
-ハンター生活;狩人;10;0
-盗み無効;盗み無効;10;0
-罠師;高速設置;10;0
-燃鱗;燃鱗;10;0
-火事場力+1;底力;10;0
-火事場力+2;底力;15;0
-心配性;底力;-10;0
-不屈;逆境;10;0
-力の解放+1;本気;10;0
-力の解放+2;本気;15;0
-挑戦者+1;闘魂;10;0
-挑戦者+2;闘魂;15;0
-フルチャージ;無傷;10;0
-覚醒;属性解放;10;0
-根性;根性;10;0
-オトモへの采配;采配;10;0
-オトモへの号令;号令;10;0
-オートガード;自動防御;10;1
-属性やられ無効;属性耐性;10;0
-護法;状態耐性;10;0
-逆鱗;怒;10;0
-真打;刀匠;10;1
-剛弾;射手;10;2
-金剛体;不動;10;0
-精神力;一心;10;0
-鉄壁;頑強;10;0
-増収;強欲;10;0
-無我の境地;狂撃耐性;10;0
-無慈悲;剛撃;10;0
-オトモ指揮官;指揮;10;0
-乗り名人;乗り;10;0
-乗り下手;乗り;-10;0
-居合術【力】;居合;10;1
-軽業師;回避術;10;0
-盾使い;盾持;10;0
-舞闘家;潔癖;10;0
-お守りマニア;護石収集;10;0
-属物強化;増幅;10;0
+Negate Poison;Poison;10;0
+Double Poison;Poison;-10;0
+Negate Paralysis;Paralysis;10;0
+Double Paralysis;Paralysis;-10;0
+Negate Sleep;Sleep;10;0
+Double Sleep;Sleep;-10;0
+Halve Stun;Faint;10;0
+Negate Stun;Faint;15;0
+Double Stun;Faint;-10;0
+Negate Mud/Snow;Snow/Mud Res;10;0
+Iron Skin;Defense Lock;10;0
+Bio Student;Biology;10;0
+Bio Master;Biology;15;0
+Attack Up (S);Attack;10;0
+Attack Up (M);Attack;15;0
+Attack Up (L);Attack;20;0
+Attack Up (U);Attack;25;0
+Attack Down (S);Attack;-10;0
+Attack Down (M);Attack;-15;0
+Attack Down (L);Attack;-20;0
+Defense Up (S);Defense;10;0
+Defense Up (M);Defense;15;0
+Defense Up (L);Defense;20;0
+Defense Up (U);Defense;25;0
+Defense Down (S);Defense;-10;0
+Defense Down (M);Defense;-15;0
+Defense Down (L);Defense;-20;0
+Health +20;Health;10;0
+Health +50;Health;15;0
+Health -10;Health;-10;0
+Health -30;Health;-15;0
+Rec Speed +1;Rec Speed;10;0
+Rec Speed +2;Rec Speed;15;0
+Rec Speed -1;Rec Speed;-10;0
+Rec Speed -2;Rec Speed;-15;0
+Divine Protection;Protection;10;0
+Demonic Protection;Protection;-10;0
+Quick Sheath;Sheathing;10;0
+Focus;Fast Charge;10;0
+Distraction;Fast Charge;-10;0
+Critical Eye +1;Expert;10;0
+Critical Eye +2;Expert;15;0
+Critical Eye +3;Expert;20;0
+Critical Master;Expert;30;0
+Critical Eye -1;Expert;-10;0
+Critical Eye -2;Expert;-15;0
+Critical Eye -3;Expert;-20;0
+Weakness Exploit;Tenderizer;10;0
+Part Breaker;Destroyer;10;0
+Knockout King;KO;10;0
+Stamina Thief;Stamina Drain;10;0
+Constitution +1;Constitution;10;0
+Constitution +2;Constitution;15;0
+Constitution -1;Constitution;-10;0
+Constitution -2;Constitution;-15;0
+Earplugs;Hearing;10;0
+HG Earplugs;Hearing;15;0
+Windproof (Lo);Wind Res;10;0
+Windproof (Hi);Wind Res;15;0
+Tremor Resistence;Tremor Resistence;10;0
+Heat Cancel;Heat Res;10;0
+Heat Surge;Heat Res;-10;0
+Cold Cancel;Cold Res;10;0
+Cold Surge;Cold Res;-10;0
+Marathon Runner;Stamina;10;0
+Short Sprinter;Stamina;-10;0
+Stamina Recovery Up;Stamina Recovery;10;0
+Stamina Recovery Down;Stamina Recovery;-10;0
+Evasion +1;Evasion;10;0
+Evasion +2;Evasion;15;0
+Evasion +3;Evasion;20;0
+Evasion Down;Evasion;-10;0
+Evade Extender;Evade Distance;10;0
+Sneak;Sense;10;0
+Taunt;Sense;-10;0
+Guard +1;Guard;10;0
+Guard +2;Guard;15;0
+Guard -1;Guard;-10;0
+Guard Boost;Guard Boost;10;0
+Status Attack +1;Status;10;0
+Status Attack +2;Status;15;0
+Status Attack Down;Status;-10;0
+Elemental Attack Up;Elemental Attack;10;0
+Elemental Attack Down;Elemental Attack;-10;0
+Fire Attack +1;Fire Attack;10;0
+Fire Attack +2;Fire Attack;15;0
+Fire Attack +3;Fire Attack;20;0
+Fire Attack Down;Fire Attack;-10;0
+Water Attack +1;Water Attack;10;0
+Water Attack +2;Water Attack;15;0
+Water Attack +3;Water Attack;20;0
+Water Attack Down;Water Attack;-10;0
+Thunder Attack +1;Thunder Attack;10;0
+Thunder Attack +2;Thunder Attack;15;0
+Thunder Attack +3;Thunder Attack;20;0
+Thunder Attack Down;Thunder Attack;-10;0
+Ice Attack +1;Ice Attack;10;0
+Ice Attack +2;Ice Attack;15;0
+Ice Attack +3;Ice Attack;20;0
+Ice Attack Down;Ice Attack;-10;0
+Dragon Attack +1;Dragon Attack;10;0
+Dragon Attack +2;Dragon Attack;15;0
+Dragon Attack +3;Dragon Attack;20;0
+Dragon Attack Down;Dragon Attack;-10;0
+Fire Res (S);Fire Res;10;0
+Fire Res (L);Fire Res;15;0
+Fire Res Down;Fire Res;-10;0
+Water Res (S);Water Res;10;0
+Water Res (L);Water Res;15;0
+Water Res Down;Water Res;-10;0
+Thunder Res (S);Thunder Res;10;0
+Thunder Res (L);Thunder Res;15;0
+Thunder Res Down;Thunder Res;-10;0
+Ice Res (S);Ice Res;10;0
+Ice Res (L);Ice Res;15;0
+Ice Res Down;Ice Res;-10;0
+Dragon Res (S);Dragon Res;10;0
+Dragon Res (L);Dragon Res;15;0
+Dragon Res Down;Dragon Res;-10;0
+Razor Sharp;Sharpness;10;1
+Blunt Edge;Sharpness;-10;1
+Sharpness +1;Handicraft;10;1
+Speed Sharpening;Sharpening Speed;10;1
+Slow Sharpening;Sharpening Speed;-10;1
+Punishing Draw;Punishing Draw;10;1
+Critical Draw;Critical Draw;10;1
+Mind's Eye;Fencing;10;1
+Reload Speed +1;Reload Speed;10;2
+Reload Speed +2;Reload Speed;15;2
+Reload Speed +3;Reload Speed;20;2
+Reload Speed -1;Reload Speed;-10;2
+Reload Speed -2;Reload Speed;-15;2
+Reload Speed -3;Reload Speed;-20;2
+Load Up;Loading;10;0
+Bonus Shot;Rapid Fire;10;2
+Recoil Reduction +1;Recoil;10;2
+Recoil Reduction +2;Recoil;15;2
+Recoil Reduction +3;Recoil;20;2
+Recoil Reduction -1;Recoil;-10;2
+Recoil Reduction -2;Recoil;-15;2
+Recoil Reduction -3;Recoil;-20;2
+Steadiness +1;Precision;10;2
+Steadiness +2;Precision;15;2
+Steadiness -1;Precision;-10;2
+Steadiness -2;Precision;-15;2
+Normal/Rapid Up;Normal Up;10;2
+Pierce/Pierce Up;Pierce Up;10;2
+Pellet/Scatter Up;Pellet Up;10;2
+NormalS All Add;Normal S+;10;2
+PierceS Lv1 Add;Pierce S+;10;2
+PierceS All Add;Pierce S+;15;2
+PelletS Lv1 Add;Pellet S+;10;2
+PelletS All Add;Pellet S+;15;2
+CragS Lv1 Add;Crag S+;10;2
+CragS All Add;Crag S+;15;2
+ClustS Lv1 Add;Clust S+;10;2
+ClustS All Add;Clust S+;15;2
+SlicingS Add;SlicingS Add;10;2
+SlimeS Add;SlimeS Add;10;2
+Poison Coat Add;Poison C+;10;2
+Paralysis Coat Add;Paralysis C+;10;2
+Sleep Coat Add;Sleep C+;10;2
+Power Coat Add;Power C+;10;2
+C.Range Coat Add;C.Range C+;10;2
+Exhaust Coat Add;Exhaust C+;10;2
+Slime Coat Add;Slime C+;10;2
+Horn Maestro;Maestro;10;0
+Artillery Novice;Artillery;10;0
+Artillery Expert;Artillery;15;0
+Artillery Master;Artillery;20;0
+Bombardier;Bomb Boost;10;0
+Recovery Up;Recovery Level;10;0
+Recovery Down;Recovery Level;-10;0
+Wide Range +1;Wide Range;10;0
+Wide Range +2;Wide Range;15;0
+Item Use Up;Lasting Power;10;0
+Item Use Down;Lasting Power;-10;0
+Negate Hunger;Hunger;15;0
+Halve Hunger;Hunger;10;0
+Raise Hunger;Hunger;-10;0
+Double Hunger;Hunger;-15;0
+Gourmand;Gluttony;10;0
+Scavenger;Gluttony;15;0
+Speed Eating +1;Eating;10;0
+Speed Eating +2;Eating;15;0
+Slow Eater;Eating;-10;0
+Meat Lover;Carnivore;10;0
+Combination +20%;Combo Rate;10;0
+Combination +45%;Combo Rate;15;0
+Combination -10%;Combo Rate;-10;0
+Combination -20%;Combo Rate;-15;0
+Combination Pro;Combo Plus;10;0
+Gathering +1;Gathering;10;0
+Gathering +2;Gathering;15;0
+Gathering Master;Gathering;20;0
+Gathering -1;Gathering;-10;0
+Speed Gatherer;Speed Gatherer;10;0
+Divine Whim;Whim;10;0
+Spirit's Whim;Whim;15;0
+Spectre's Whim;Whim;-10;0
+Devil's Whim;Whim;-15;0
+Honey Hunter;Honey;10;0
+Charm Chaser;Charmer;10;0
+Charm Hunter;Charmer;15;0
+Charm Master;Charmer;20;0
+Good Luck;Fate;10;0
+Great Luck;Fate;15;0
+Super Luck;Fate;20;0
+Bad Luck;Fate;-10;0
+Horrible Luck;Fate;-15;0
+Carving Pro;Carving;10;0
+Carving Expert;Carving;15;0
+Carving Master;Carving;20;0
+Capture Pro;Tranquilizer;10;0
+Capture Expert;Tranquilizer;15;0
+Capture Master;Tranquilizer;20;0
+Capture Guru;Perception;10;0
+Detect;Psychic;10;0
+Autotracker;Psychic;15;0
+Pro Transporter;Transporter;10;0
+Outdoorsman;Ranger;10;0
+Anti-Theft;Anti-Theft;10;0
+Trap Master;Speed Setup;10;0
+Flame Aura;Flame Aura;10;0
+Adrenaline +1;Potential;10;0
+Adrenaline +2;Potential;15;0
+Worrywart;Potential;-10;0
+Fortify;Survivor;10;0
+Latent Power +1;Gloves Off;10;0
+Latent Power +2;Gloves Off;15;0
+Challenger +1;Spirit;10;0
+Challenger +2;Spirit;15;0
+Peak Performance;Unscathed;10;0
+Awaken;Free Element;10;0
+Guts;Guts;10;0
+Felyne Rally;Team Player;10;0
+Felyne Cheer;Team Leader;10;0
+Auto-Guard;Auto-Guard;10;1
+Blightproof;Blight Res;10;0
+Wellness;Status Res;10;0
+Wrath Awoken;Fury;10;0
+Honed Blade;Edgemaster;10;1
+Silver Bullet;Steadyhand;10;2
+Rock Steady;Unshakable;10;0
+Predatory Focus;Single-Minded;10;0
+Impregnable;Firm Defence;10;0
+Filthy Rich;Greedy;10;0
+Infection Resist;Infection Res;10;0
+Ruthless;Precise Attack;10;0
+Felyne Commander;Commander;10;0
+Ride Master;Rider;10;0
+Poor Rider;Rider;-10;0
+Punishing Skill;Martial Arts;10;1
+Acrobatics;Acrobat;10;0
+Shields Up;Shielder;10;0
+Dancer;Finesse;10;0
+Charm Mania;Charm Collector;10;0
+Amplification;Amplifier;10;0

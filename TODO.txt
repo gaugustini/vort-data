@@ -1,1 +1,0 @@
-- replace names[armor, decoration, skill] with names[language: english]

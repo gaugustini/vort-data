@@ -1,214 +1,214 @@
 name;hr;village;slots;gender;type;rarity;defense;fire;thunder;dragon;water;ice;skill_one;skill_one_points;skill_two;skill_two_points;skill_three;skill_three_points;skill_four;skill_four_points;skill_five;skill_five_points;material_one;amount_one;material_two;amount_two;material_three;amount_three;material_four;amount_four
-Yukumo Sash;1;1;1;0;0;1;1;0;3;0;0;0;Protection;2;Whim;2;Expert;1;;;;;Yukumo Wood;1;Iron Ore;2;;;;
-Leather Belt;1;1;0;0;0;1;1;-1;0;1;0;0;HiSpdGathr;2;Gathering;4;Whim;3;;;;;Bullfango Pelt;1;Iron Ore;1;;;;
-Chain Belt;1;1;1;0;0;1;2;2;-2;0;1;1;Health;1;Combo Rate;3;Shot Mix;3;;;;;Iron Ore;1;Warm Pelt;2;;;;
-Hunter's Tasset;1;1;1;0;1;1;6;0;-4;0;1;0;Huntsman;1;Psychic;4;SpeedSetup;2;Poison;-2;;;Bullfango Pelt;2;Iron Ore;1;Carpenterbug;1;;
-Hunter's Coat;1;1;1;0;2;1;3;1;-2;1;2;0;Huntsman;2;Psychic;2;SpeedSetup;3;Poison;-2;;;Bullfango Pelt;2;Iron Ore;1;Carpenterbug;1;;
-Loc Lac Coil;1;1;1;0;0;1;4;2;1;0;-3;0;Backpackng;4;Hunger;5;;;;;;;Altarth Abdomen;2;Altaroth Jaw;2;Ice Crystal;3;;
-Bone Tasset;1;2;1;0;1;1;8;2;-1;0;0;-2;Horn;3;Gathering;1;KO;3;Sleep;-2;;;Sm Monster Bone;3;Bone;3;Sharp Fang;2;;
-Bone Coat;1;2;1;0;2;1;4;4;0;0;0;-1;Horn;1;Gathering;4;KO;3;Sleep;-1;;;Sm Monster Bone;3;Bone;3;Sharp Fang;2;;
-Alloy Coil;1;2;2;0;1;1;8;-1;-2;-1;1;-2;WindPress;2;Expert;3;Sharpener;1;Gathering;-1;;;Machalite Ore;2;Pelagicite Ore;2;Iron Ore;3;;
-Alloy Coat;1;2;2;0;2;1;4;0;-1;0;2;-1;PelletS Up;1;Reload Spd;1;PelletSAdd;2;Gathering;-3;;;Machalite Ore;2;Pelagicite Ore;2;Iron Ore;3;;
-Bnahabra Coil;1;2;1;0;1;2;10;-5;2;4;-2;-2;Status;3;Sheathe;1;Sense;3;Attack;-2;;;Bnahabra Wing;3;Bnahabra Shell;2;Monster Fluid;1;Killer Beetle;2
-Bnahabra Coat;1;2;1;0;2;2;5;-3;3;5;-1;-1;Status;2;Sheathe;3;Sense;2;Attack;-2;;;Bnahabra Wing;3;Bnahabra Shell;2;Monster Fluid;1;Killer Beetle;2
-Rhenoplos Coil;1;3;1;0;1;2;10;2;-2;1;-2;-2;Will Recov;3;Gunnery;3;Mud/Snow;2;Ice Res;-1;;;Rhenoplos Shell;2;Rhnplos Skl Shl;1;Earth Crystal;2;;
-Rhenoplos Coat;1;3;1;0;2;2;5;3;-1;2;-1;-1;Will Recov;2;Gunnery;4;Precision;1;Ice Res;-2;;;Rhenoplos Shell;2;Rhnplos Skl Shl;1;Earth Crystal;2;;
-Jaggi Tasset;1;2;1;0;1;2;12;-4;-2;1;-2;-2;Attack;3;Perception;1;Rec Speed;4;LastingPwr;-1;;;Grt Jaggi Hide;2;Regal Frill;1;Jaggi Hide;3;Earth Crystal;1
-Jaggi Coat;1;2;1;0;2;2;6;-2;-1;2;-1;-1;Attack;2;Perception;3;Rec Speed;2;LastingPwr;-2;;;Grt Jaggi Hide;2;Regal Frill;1;Jaggi Hide;3;Earth Crystal;1
-Aoashira Tasset;1;1;1;0;1;2;12;-3;-1;1;1;-2;Gluttony;3;Defense;2;Stun;3;Paralysis;-1;;;Aoashira Pelt;2;Aoashira Shell;1;Giant Bone;1;Carpenterbug;3
-Aoashira Coat;1;1;1;0;2;2;6;-2;0;3;2;-1;Gluttony;2;Defense;1;Stun;3;Paralysis;-3;;;Aoashira Pelt;2;Aoashira Shell;1;Giant Bone;1;Carpenterbug;3
-Steel Belt;1;3;0;0;1;2;14;2;-2;0;0;2;Defense;2;Sharpener;4;Antiseptic;5;;;;;Isisium Ore;4;Bealite Ore;2;Pelagicite Ore;1;Iron Ore;5
-Froggi Tasset;1;2;1;0;1;2;14;2;1;0;-2;-4;Constitutn;3;Perception;3;Stun;-1;Status;2;;;Froggi Hide;3;Froggi Scale;2;Sm Monster Bone;6;Killer Beetle;3
-Froggi Coat;1;2;1;0;2;2;7;4;2;0;-1;-2;Constitutn;1;Perception;3;Stun;-3;Status;2;;;Froggi Hide;3;Froggi Scale;2;Sm Monster Bone;6;Killer Beetle;3
-Urukusu Tasset;2;3;1;0;1;2;14;-4;-2;1;2;2;Evasion;3;Ice Res;3;Cold Res;2;Heat Res;-1;;;Urukusu Pelt;3;Urukusu Claw;1;Giant Bone;2;Killer Beetle;3
-Urukusu Coat;2;3;1;0;2;2;7;-2;-1;3;3;4;Evasion;1;Ice Res;4;Cold Res;2;Heat Res;-2;;;Urukusu Pelt;3;Urukusu Claw;1;Giant Bone;2;Killer Beetle;3
-Qurupeco Coil;1;3;1;0;1;2;12;2;-1;2;-2;-4;Wide Area;3;Rec Level;1;Eating;-2;Horn;3;;;Qurupeco Feathr;2;Qurupeco Scale;3;Sm Monster Bone;4;Killer Beetle;2
-Qurupeco Coat;1;3;1;0;2;2;6;4;0;4;-1;-3;Wide Area;1;Rec Level;2;Eating;-3;Horn;3;;;Qurupeco Feathr;2;Qurupeco Scale;3;Sm Monster Bone;4;Killer Beetle;2
-Ludroth Tasset;1;3;1;0;1;2;14;-4;-2;1;2;-2;Stamina;3;Hunger;2;Water Atk;3;ThunderRes;-1;;;Ludroth Hide;3;Juvenile Sponge;5;Sm Monster Bone;4;Killer Beetle;2
-Ludroth Coat;1;3;1;0;2;2;7;-2;-1;2;4;-1;Stamina;1;Hunger;2;Water Atk;4;ThunderRes;-2;;;Ludroth Hide;3;Juvenile Sponge;5;Sm Monster Bone;4;Killer Beetle;2
-Barroth Tasset;1;3;1;0;1;2;16;4;2;0;-4;-3;Guard;3;KO;1;Defense;3;Constitutn;-2;;;Barroth Shell;2;Barroth Claw;1;Barroth Spine;2;Med Mnster Bone;5
-Barroth Coat;1;3;1;0;2;2;8;4;4;0;-4;-1;NormalS Up;1;Precision;3;Defense;2;Constitutn;-3;;;Barroth Shell;2;Barroth Claw;1;Barroth Spine;2;Med Mnster Bone;5
-Ingot Coil;2;4;0;0;1;2;20;-2;1;0;-2;-2;WindPress;3;Thundr Atk;1;Sharpener;5;Whim;-2;;;Dragonite Ore;4;Fire Stone;1;Isisium Ore;3;Machalite Ore;5
-Ingot Coat;2;4;0;0;2;2;10;-1;2;0;-1;-1;PelletS Up;4;Thundr Atk;1;Reload Spd;4;Whim;-2;;;Dragonite Ore;4;Fire Stone;1;Isisium Ore;3;Machalite Ore;5
-Baggi Coil;2;4;1;0;1;2;16;-4;-1;1;-1;2;Attack;2;Ice Attack;4;Rec Speed;2;Fire Res;-1;;;Grt Baggi Hide;2;Regal Crest;1;Sleep Sac;3;Pelagicite Ore;2
-Baggi Coat;2;4;1;0;2;2;8;-2;0;2;0;4;Attack;2;Ice Attack;1;Rec Speed;4;Fire Res;-2;;;Grt Baggi Hide;2;Regal Crest;1;Sleep Sac;3;Pelagicite Ore;2
-Ranguro Tasset;2;4;1;0;1;2;16;2;-1;2;-4;-2;Evasion;4;Heat Res;2;Cold Res;-1;Quake Res;2;;;Rangurotora Shl;3;Paralysis Sac;4;Monster Fluid;1;Fire Stone;1
-Ranguro Coat;2;4;1;0;2;2;8;4;0;4;-2;-1;Evasion;2;Heat Res;2;Cold Res;-3;Shot Mix;2;;;Rangurotora Shl;3;Paralysis Sac;4;Monster Fluid;1;Fire Stone;1
-Rathian Tasset;2;4;1;0;1;2;18;2;-2;-4;0;0;Health;1;Protection;4;Fire Atk;2;Rec Speed;-2;;;Rathian Webbing;2;Rathian Plate;1;Flame Sac;2;Machalite Ore;5
+Yukumo Obi;1;1;1;0;0;1;1;0;3;0;0;0;Protection;2;Whim;2;Expert;1;;;;;Yukumo Wood;1;Iron Ore;2;;;;
+Leather Belt;1;1;0;0;0;1;1;-1;0;1;0;0;Spd Gather;2;Gathering;4;Whim;3;;;;;Bullfango Pelt;1;Iron Ore;1;;;;
+Chainmail Belt;1;1;1;0;0;1;2;2;-2;0;1;1;Health;1;Combo Rate;3;Combo Plus;3;;;;;Iron Ore;1;Warm Pelt;2;;;;
+Hunter's Faulds;1;1;1;0;1;1;6;0;-4;0;1;0;Ranger;1;Psychic;4;SpeedSetup;2;Poison;-2;;;Bullfango Pelt;2;Iron Ore;1;Carpenterbug;1;;
+Hunter's Coat;1;1;1;0;2;1;3;1;-2;1;2;0;Ranger;2;Psychic;2;SpeedSetup;3;Poison;-2;;;Bullfango Pelt;2;Iron Ore;1;Carpenterbug;1;;
+Loc Lac Kilt;1;1;1;0;0;1;4;2;1;0;-3;0;Transportr;4;Hunger;5;;;;;;;Altaroth Stomach;2;Altaroth Jaw;2;Ice Crystal;3;;
+Bone Faulds;1;2;1;0;1;1;8;2;-1;0;0;-2;Maestro;3;Gathering;1;KO;3;Sleep;-2;;;Monster Bone S;3;Bone;3;Sharpened Fang;2;;
+Bone Coat;1;2;1;0;2;1;4;4;0;0;0;-1;Maestro;1;Gathering;4;KO;3;Sleep;-1;;;Monster Bone S;3;Bone;3;Sharpened Fang;2;;
+Alloy Coil;1;2;2;0;1;1;8;-1;-2;-1;1;-2;Wind Res;2;Expert;3;Sharpener;1;Gathering;-1;;;Machalite Ore;2;Pelagicite Ore;2;Iron Ore;3;;
+Alloy Coat;1;2;2;0;2;1;4;0;-1;0;2;-1;Pellet Up;1;Reload Speed;1;Pellet S+;2;Gathering;-3;;;Machalite Ore;2;Pelagicite Ore;2;Iron Ore;3;;
+Bnahabra Coil;1;2;1;0;1;2;10;-5;2;4;-2;-2;Status;3;Sheathing;1;Sense;3;Attack;-2;;;Bnahabra Wing;3;Bnahabra Shell;2;Monster Fluid;1;Killer Beetle;2
+Bnahabra Coat;1;2;1;0;2;2;5;-3;3;5;-1;-1;Status;2;Sheathing;3;Sense;2;Attack;-2;;;Bnahabra Wing;3;Bnahabra Shell;2;Monster Fluid;1;Killer Beetle;2
+Rhenoplos Coil;1;3;1;0;1;2;10;2;-2;1;-2;-2;Stam Recov;3;Artillery;3;Mud/Snow;2;Ice Res;-1;;;Rhenoplos Shell;2;Rhenoplos Scalp;1;Earth Crystal;2;;
+Rhenoplos Coat;1;3;1;0;2;2;5;3;-1;2;-1;-1;Stam Recov;2;Artillery;4;Precision;1;Ice Res;-2;;;Rhenoplos Shell;2;Rhenoplos Scalp;1;Earth Crystal;2;;
+Jaggi Faulds;1;2;1;0;1;2;12;-4;-2;1;-2;-2;Attack;3;Perception;1;Rec Speed;4;LastingPwr;-1;;;G.Jaggi Hide;2;King's Frill;1;Jaggi Hide;3;Earth Crystal;1
+Jaggi Coat;1;2;1;0;2;2;6;-2;-1;2;-1;-1;Attack;2;Perception;3;Rec Speed;2;LastingPwr;-2;;;G.Jaggi Hide;2;King's Frill;1;Jaggi Hide;3;Earth Crystal;1
+Arzuros Faulds;1;1;1;0;1;2;12;-3;-1;1;1;-2;Gluttony;3;Defense;2;Stun;3;Paralysis;-1;;;Arzuros Pelt;2;Arzuros Shell;1;Jumbo Bone;1;Carpenterbug;3
+Arzuros Coat;1;1;1;0;2;2;6;-2;0;3;2;-1;Gluttony;2;Defense;1;Stun;3;Paralysis;-3;;;Arzuros Pelt;2;Arzuros Shell;1;Jumbo Bone;1;Carpenterbug;3
+Steel Belt;1;3;0;0;1;2;14;2;-2;0;0;2;Defense;2;Sharpener;4;Antiseptic;5;;;;;Isisium;4;Bealite Ore;2;Pelagicite Ore;1;Iron Ore;5
+Wroggi Faulds;1;2;1;0;1;2;14;2;1;0;-2;-4;Constitutn;3;Perception;3;Stun;-1;Status;2;;;Wroggi Hide;3;Wroggi Scale;2;Monster Bone S;6;Killer Beetle;3
+Wroggi Coat;1;2;1;0;2;2;7;4;2;0;-1;-2;Constitutn;1;Perception;3;Stun;-3;Status;2;;;Wroggi Hide;3;Wroggi Scale;2;Monster Bone S;6;Killer Beetle;3
+Lagombi Faulds;2;3;1;0;1;2;14;-4;-2;1;2;2;Evasion;3;Ice Res;3;Cold Res;2;Heat Res;-1;;;Lagombi Pelt;3;Lagombi Claw;1;Jumbo Bone;2;Killer Beetle;3
+Lagombi Coat;2;3;1;0;2;2;7;-2;-1;3;3;4;Evasion;1;Ice Res;4;Cold Res;2;Heat Res;-2;;;Lagombi Pelt;3;Lagombi Claw;1;Jumbo Bone;2;Killer Beetle;3
+Qurupeco Coil;1;3;1;0;1;2;12;2;-1;2;-2;-4;Wide-Range;3;Rec Level;1;Eating;-2;Maestro;3;;;Qurupeco Feather;2;Qurupeco Scale;3;Monster Bone S;4;Killer Beetle;2
+Qurupeco Coat;1;3;1;0;2;2;6;4;0;4;-1;-3;Wide-Range;1;Rec Level;2;Eating;-3;Maestro;3;;;Qurupeco Feather;2;Qurupeco Scale;3;Monster Bone S;4;Killer Beetle;2
+Ludroth Faulds;1;3;1;0;1;2;14;-4;-2;1;2;-2;Stamina;3;Hunger;2;Water Atk;3;ThunderRes;-1;;;Hydro Hide;3;Immature Sponge;5;Monster Bone S;4;Killer Beetle;2
+Ludroth Coat;1;3;1;0;2;2;7;-2;-1;2;4;-1;Stamina;1;Hunger;2;Water Atk;4;ThunderRes;-2;;;Hydro Hide;3;Immature Sponge;5;Monster Bone S;4;Killer Beetle;2
+Barroth Faulds;1;3;1;0;1;2;16;4;2;0;-4;-3;Guard;3;KO;1;Defense;3;Constitutn;-2;;;Barroth Shell;2;Barroth Claw;1;Barroth Ridge;2;Monster Bone M;5
+Barroth Coat;1;3;1;0;2;2;8;4;4;0;-4;-1;Normal Up;1;Precision;3;Defense;2;Constitutn;-3;;;Barroth Shell;2;Barroth Claw;1;Barroth Ridge;2;Monster Bone M;5
+Ingot Coil;2;4;0;0;1;2;20;-2;1;0;-2;-2;Wind Res;3;Thundr Atk;1;Sharpener;5;Whim;-2;;;Dragonite Ore;4;Firestone;1;Isisium;3;Machalite Ore;5
+Ingot Coat;2;4;0;0;2;2;10;-1;2;0;-1;-1;Pellet Up;4;Thundr Atk;1;Reload Speed;4;Whim;-2;;;Dragonite Ore;4;Firestone;1;Isisium;3;Machalite Ore;5
+Baggi Coil;2;4;1;0;1;2;16;-4;-1;1;-1;2;Attack;2;Ice Atk;4;Rec Speed;2;Fire Res;-1;;;G.Baggi Hide;2;King's Crest;1;Sleep Sac;3;Pelagicite Ore;2
+Baggi Coat;2;4;1;0;2;2;8;-2;0;2;0;4;Attack;2;Ice Atk;1;Rec Speed;4;Fire Res;-2;;;G.Baggi Hide;2;King's Crest;1;Sleep Sac;3;Pelagicite Ore;2
+Volvidon Faulds;2;4;1;0;1;2;16;2;-1;2;-4;-2;Evasion;4;Heat Res;2;Cold Res;-1;Tremor Resistance;2;;;Volvidon Shell;3;Paralysis Sac;4;Monster Fluid;1;Firestone;1
+Volvidon Coat;2;4;1;0;2;2;8;4;0;4;-2;-1;Evasion;2;Heat Res;2;Cold Res;-3;Combo Plus;2;;;Volvidon Shell;3;Paralysis Sac;4;Monster Fluid;1;Firestone;1
+Rathian Faulds;2;4;1;0;1;2;18;2;-2;-4;0;0;Health;1;Protection;4;Fire Atk;2;Rec Speed;-2;;;Rathian Webbing;2;Rathian Plate;1;Flame Sac;2;Machalite Ore;5
 Rathian Coat;2;4;1;0;2;2;9;4;-1;-3;0;1;Health;3;Protection;2;Fire Atk;1;Rec Speed;-3;;;Rathian Webbing;2;Rathian Plate;1;Flame Sac;2;Machalite Ore;5
-Hapuru Tasset;2;4;2;0;1;2;18;2;-2;0;-1;-3;Eating;2;Water Atk;1;Gluttony;3;Hunger;-1;;;Hapurbokka Hide;3;Hprbkka Skl Shl;1;Lg Monster Bone;3;Altarth Abdomen;4
-Hapuru Coat;2;4;2;0;2;2;9;4;-1;0;0;-2;Eating;3;Water Atk;1;Gluttony;1;Hunger;-2;;;Hapurbokka Hide;3;Hprbkka Skl Shl;1;Lg Monster Bone;3;Altarth Abdomen;4
-Nebula Tasset;2;4;1;0;1;2;18;-4;3;-2;0;3;Status;4;ThunderRes;1;Stun;3;Health;-1;;;Gigginox Hide;4;Uncanny Hide;1;Glossy Hide;4;Grt Baggi Hide;2
-Nebula Coat;2;4;1;0;2;2;9;-2;4;-1;0;4;Status;4;ThunderRes;1;Stun;2;Health;-2;;;Gigginox Hide;4;Uncanny Hide;1;Glossy Hide;4;Grt Baggi Hide;2
-Narga Tasset;2;5;1;0;1;3;20;-3;-4;-1;1;0;Evade Dist;3;Will Recov;1;Sense;3;Attack;-2;;;Black Narga Plt;3;Nargacuga Tail;1;Narga Scale;3;Killer Beetle;6
-Narga Coat;2;5;1;0;2;3;10;-1;-2;0;3;1;Evade Dist;2;Will Recov;2;Sense;3;Attack;-2;;;Black Narga Plt;3;Nargacuga Tail;1;Narga Scale;3;Killer Beetle;6
-Barioth Tasset;2;5;2;0;1;3;20;-4;-3;-1;1;2;Stamina;1;Constitutn;4;Ice Attack;1;Will Recov;-1;;;Amber Fang;1;Barioth Spike;1;Monster Bone+;2;Urukusu Belly;4
-Barioth Coat;2;5;2;0;2;3;10;-2;-1;0;2;4;Stamina;3;Constitutn;1;Ice Attack;1;Will Recov;-2;;;Amber Fang;1;Barioth Spike;1;Monster Bone+;2;Urukusu Belly;4
-Rathalos Tasset;3;5;2;0;1;3;22;2;-2;-4;-1;-1;Debilitate;2;Attack;1;Fire Atk;2;Rec Level;-2;;;Rathalos Webbng;3;Rathalos Plate;1;Monster Bone+;3;Fire Stone;1
-Rathalos Coat;3;5;2;0;2;3;11;4;-1;-2;0;0;Debilitate;2;Attack;1;Fire Atk;2;Rec Level;-2;;;Rathalos Webbng;3;Rathalos Plate;1;Monster Bone+;3;Fire Stone;1
-Uragaan Tasset;2;5;0;0;1;3;22;2;1;-3;-5;-2;PunishDraw;1;Defense;5;Fire Res;2;Water Res;-3;;;Uragaan Shield;2;Uragaan Scale;3;Monster Bone+;2;Rangurotora Shl;3
-Uragaan Coat;2;5;0;0;2;3;11;4;2;-2;-4;-1;PierceS Up;1;Defense;4;Fire Res;4;Water Res;-2;;;Uragaan Shield;2;Uragaan Scale;3;Monster Bone+;2;Rangurotora Shl;3
-Jinouga Tasset;3;5;1;0;1;3;22;-1;3;0;-2;-3;Awaken;3;Thundr Atk;2;Sharpness;1;Sense;-3;;;Jinouga Shell;3;Jinouga Pelt;2;Jinouga Tail;1;Bulldrome Hide;3
-Jinouga Coat;3;5;1;0;2;3;11;0;5;0;-1;-1;Awaken;2;Thundr Atk;2;NormalS Up;3;Sense;-2;;;Jinouga Shell;3;Jinouga Pelt;2;Jinouga Tail;1;Bulldrome Hide;3
-Diablos Coil;3;6;1;0;1;3;24;2;-1;-1;-1;-3;Crit Draw;2;FatigueAtk;3;Quake Res;3;Status;-1;;;Diablos Shell;4;Blos Fang;4;Majestic Horn;1;Rhnplos Skl Shl;4
-Diablos Coat;3;6;1;0;2;3;12;4;0;0;0;-2;PierceS Up;3;NormalSAdd;2;FatigueAtk;1;Status;-3;;;Diablos Shell;4;Blos Fang;4;Majestic Horn;1;Rhnplos Skl Shl;4
-Tigrex Tasset;3;6;0;0;1;3;24;2;-4;-2;-1;0;HearProtct;3;Psychic;5;Gluttony;1;Protection;-2;;;Tigrex Shell;4;Tigrex Scale;4;Monster Bone+;2;Grt Jaggi Claw;3
-Tigrex Coat;3;6;0;0;2;3;12;3;-2;-1;0;0;HearProtct;2;Psychic;5;Gluttony;3;Protection;-1;;;Tigrex Shell;4;Tigrex Scale;4;Monster Bone+;2;Grt Jaggi Claw;3
-Agnaktor Tasset;3;6;2;0;1;3;24;4;0;-4;-4;-2;Guard;1;Sharpness;2;Expert;2;Potential;-2;;;Agnaktor Scale;6;Agnaktor Fin;2;Agnaktor Claw;1;Agnaktor Tail;1
-Agnaktor Coat;3;6;2;0;2;3;12;5;0;-2;-2;-1;NormalS Up;2;PierceSAdd;2;Precision;1;Potential;-2;;;Agnaktor Scale;6;Agnaktor Fin;2;Agnaktor Claw;1;Agnaktor Tail;1
-Doboru Tasset;3;6;2;0;1;3;24;-3;-2;0;1;-2;Slam;1;Potential;3;Attack;1;Expert;-2;;;Mossy Carapace;4;Doboru Shell;4;Doboru Tailbone;1;Zuwaroposu Hide;6
-Doboru Coat;3;6;2;0;2;3;12;-2;-1;0;3;-1;Slam;1;Potential;2;Recoil;1;Expert;-3;;;Mossy Carapace;4;Doboru Shell;4;Doboru Tailbone;1;Zuwaroposu Hide;6
-Guild Bard Coil;3;5;1;1;1;3;20;0;0;0;0;0;Rewards;2;Perception;2;Wide Area;4;Fate;-1;;;Commendation;1;Drink Ticket;1;Magma Shard;1;Fertile Mud;3
-Guild Bard Coat;3;5;1;1;2;3;10;0;0;0;0;0;Rewards;1;Perception;3;Wide Area;4;Fate;-1;;;Commendation;1;Drink Ticket;1;Magma Shard;1;Fertile Mud;3
-Scholar Skirt;3;5;1;2;1;3;20;0;0;0;0;0;Rewards;2;Perception;2;Wide Area;4;Fate;-1;;;Commendation;1;Drink Ticket;1;Magma Shard;1;Fertile Mud;3
-Scholar Frills;3;5;1;2;2;3;10;0;0;0;0;0;Rewards;1;Perception;3;Wide Area;4;Fate;-1;;;Commendation;1;Drink Ticket;1;Magma Shard;1;Fertile Mud;3
-Nightmare Oha;1;2;1;0;1;3;16;-4;0;0;1;2;FastCharge;2;LastingPwr;2;SpeedSetup;3;Guard;-2;;;Pepipo Pumpkin;3;Killer Beetle;3;Needleberry;10;Snow Herb;10
-Nightmare Oha;1;2;1;0;1;3;16;-4;0;0;1;2;FastCharge;2;LastingPwr;2;SpeedSetup;3;Guard;-2;;;Pepipo Pumpkin;3;Killer Beetle;3;Needleberry;10;Snow Herb;10
-Nightmare Buratto;1;2;1;0;2;3;8;-2;0;0;2;4;FastCharge;2;LastingPwr;3;SpeedSetup;2;Precision;-2;;;Pepipo Pumpkin;3;Killer Beetle;3;Needleberry;10;Snow Herb;10
-Nightmare Buratto;1;2;1;0;2;3;8;-2;0;0;2;4;FastCharge;2;LastingPwr;3;SpeedSetup;2;Precision;-2;;;Pepipo Pumpkin;3;Killer Beetle;3;Needleberry;10;Snow Herb;10
-Viking Tasset;1;3;1;0;1;3;14;0;-2;0;3;-2;Sharpness;3;Rec Speed;3;Water Res;1;Sharpener;-2;;;Armord Beakfish;3;Isisium Ore;2;Sm Goldenfish;4;Sleepyfish;5
-Viking Coat;1;3;1;0;2;3;7;0;-1;0;5;-4;NormalS Up;3;Rec Speed;3;Water Res;1;Reload Spd;-2;;;Armord Beakfish;3;Isisium Ore;2;Sm Goldenfish;4;Sleepyfish;5
-Rouage Anca;3;3;1;1;1;3;18;-5;3;1;0;-1;HearProtct;3;Expert;4;ThunderRes;1;Protection;-1;;;Swallowtail;2;Hercudrome;2;Killer Beetle;4;Bombhopper;10
-Rouage Cocusa;3;3;1;1;2;3;9;-4;5;3;0;0;HearProtct;2;Expert;1;ThunderRes;4;Protection;-2;;;Swallowtail;2;Hercudrome;2;Killer Beetle;4;Bombhopper;10
-Falmer Anca;3;3;1;2;1;3;18;-5;3;1;0;-1;HearProtct;3;Expert;4;ThunderRes;1;Protection;-1;;;Swallowtail;2;Hercudrome;2;Killer Beetle;4;Bombhopper;10
-Falmer Cocusa;3;3;1;2;2;3;9;-4;5;3;0;0;HearProtct;2;Expert;1;ThunderRes;4;Protection;-2;;;Swallowtail;2;Hercudrome;2;Killer Beetle;4;Bombhopper;10
-Yamato Waistcoat;3;6;0;1;1;3;26;3;0;-3;0;-3;Artisan;4;FastCharge;2;Expert;2;Sharpness;-3;;;Jhen Mohran Arm;3;Jhen Mohran Shl;5;EldrDragonBlood;3;Doboru Horn;1
-Courtier Waistcoat;3;6;0;1;2;3;13;5;1;-2;1;-2;Loading;3;FastCharge;3;Expert;4;Recoil;-1;;;Jhen Mohran Arm;3;Jhen Mohran Shl;5;EldrDragonBlood;3;Doboru Horn;1
-Solar Waistcoat;3;6;0;2;1;3;26;3;0;-3;0;-3;Artisan;4;FastCharge;2;Expert;2;Sharpness;-3;;;Jhen Mohran Arm;3;Jhen Mohran Shl;5;EldrDragonBlood;3;Doboru Horn;1
-Divine Waistcoat;3;6;0;2;2;3;13;5;1;-2;1;-2;Loading;3;FastCharge;3;Expert;3;Recoil;-2;;;Jhen Mohran Arm;3;Jhen Mohran Shl;5;EldrDragonBlood;3;Doboru Horn;1
-Yukumo Sash [Ten];4;6;2;0;1;4;28;0;3;0;0;0;Protection;2;Whim;2;Rec Level;3;Sharpener;2;;;Yukumo Wood+;1;Yukumo Wood;5;Carbalite Ore;2;;
-Yukumo Sash [Chi];4;6;2;0;2;4;14;0;4;0;0;0;Protection;3;Whim;1;Rec Level;3;Precision;2;;;Yukumo Wood+;1;Yukumo Wood;5;Carbalite Ore;2;;
-Leather Tasset S;4;6;1;0;1;4;28;-1;0;1;0;0;HiSpdGathr;1;Gathering;3;Whim;4;Hunger;3;;;Carbalite Ore;1;Bulldrome Hide;2;Bullfango Pelt;3;;
-Leather Coat S;4;6;1;0;2;4;14;0;0;2;0;0;HiSpdGathr;3;Gathering;1;Whim;4;Hunger;3;;;Carbalite Ore;1;Bulldrome Hide;2;Bullfango Pelt;3;;
-Chain Tasset S;4;6;2;0;1;4;28;2;-2;0;1;1;Health;2;Combo Rate;4;FatigueAtk;3;;;;;Carbalite Ore;1;Pelagicite Ore;1;Earth Crystal;2;Yukumo Wood+;2
-Chain Coat S;4;6;2;0;2;4;14;3;-1;0;2;2;Health;2;Combo Rate;4;Shot Mix;3;;;;;Carbalite Ore;1;Pelagicite Ore;1;Earth Crystal;2;Yukumo Wood+;2
-Hunter's Tasset S;4;-1;1;0;1;4;30;0;-4;0;1;0;Huntsman;3;Psychic;3;Poison;-2;Perception;3;;;Bulldrome Hide+;1;High Qualty Plt;3;Bullfango Pelt;5;Dragonite Ore;5
-Hunter's Coat S;4;-1;1;0;2;4;15;1;-2;1;2;0;Huntsman;4;Psychic;3;Poison;-1;Perception;3;;;Bulldrome Hide+;1;High Qualty Plt;3;Bullfango Pelt;5;Dragonite Ore;5
-Loc Lac Coil S;4;-1;2;0;1;4;30;2;1;0;-3;0;Backpackng;4;Psychic;5;;;;;;;Quality Abdomen;2;Altaroth Jaw;3;Monster Fluid;4;;
-Loc Lac Coat S;4;-1;2;0;2;4;15;3;2;0;-2;0;Backpackng;4;Psychic;5;;;;;;;Quality Abdomen;2;Altaroth Jaw;3;Monster Fluid;4;;
-Bone Tasset S;4;-1;1;0;1;4;30;2;-1;0;0;-2;Rec Level;3;Gathering;4;KO;3;Sleep;-1;;;Stout Bone;1;Med Mnster Bone;2;Mystery Bone;10;;
-Bone Coat S;4;-1;1;0;2;4;15;4;0;0;0;-1;Rec Level;3;Gathering;4;KO;1;Sleep;-3;;;Stout Bone;1;Med Mnster Bone;2;Mystery Bone;10;;
-Alloy Coil S;4;-1;2;0;1;4;30;-1;-2;-1;1;-2;WindPress;2;Expert;4;Sharpener;1;Gathering;-2;;;Depthlite Ore;1;Carbalite Ore;2;Dragonite Ore;5;Bealite Ore;5
-Alloy Coat S;4;-1;2;0;2;4;15;0;-1;0;2;-1;PelletS Up;1;PelletSAdd;3;Expert;3;Gathering;-2;;;Depthlite Ore;1;Carbalite Ore;2;Dragonite Ore;5;Bealite Ore;5
-Bnahabra Coil S;4;-1;1;0;1;4;32;-5;2;4;-2;-2;Status;2;Fencing;2;Paralysis;5;Attack;-2;;;Bnahabra Carpce;2;Bnahabra Wing;4;Monster Broth;1;King Scarab;2
-Bnahabra Coat S;4;-1;1;0;2;4;16;-3;3;5;-1;-1;Status;4;Reload Spd;1;Paralysis;2;Attack;-4;;;Bnahabra Carpce;2;Bnahabra Wing;4;Monster Broth;1;King Scarab;2
-Rhenoplos Coil S;4;-1;1;0;1;4;32;2;-2;1;-2;-2;Will Recov;1;Gunnery;4;Stun;-2;Defense;4;;;Rhenoplos Crpce;1;Rhnplos Skl Shl;1;Ice Crystal;3;;
-Rhenoplos Coat S;4;-1;1;0;2;4;16;3;-1;2;-1;-1;Will Recov;1;Precision;4;Stun;-2;Defense;4;;;Rhenoplos Crpce;1;Rhnplos Skl Shl;1;Ice Crystal;3;;
-Jaggi Tasset S;4;-1;1;0;1;4;35;-4;-2;1;-2;-2;Attack;2;Expert;3;Rec Speed;4;LastingPwr;-2;;;Grt Jaggi Hide+;4;Regal Frill;2;Jaggi Scale+;4;Dragonite Ore;2
-Jaggi Coat S;4;-1;1;0;2;4;18;-2;-1;2;-1;-1;Attack;1;Expert;3;Rec Speed;4;LastingPwr;-3;;;Grt Jaggi Hide+;4;Regal Frill;2;Jaggi Scale+;4;Dragonite Ore;2
-Grove Tasset S;4;-1;1;0;1;4;35;-3;-1;1;1;-2;Protection;4;Defense;3;Stun;3;Paralysis;-1;;;Aoashira Pelt+;5;Stout Bone;2;Aoashira Shell;3;Hercudrome;3
-Grove Coat S;4;-1;1;0;2;4;18;-2;0;3;2;-1;Protection;3;Defense;3;Stun;3;Paralysis;-2;;;Aoashira Pelt+;5;Stout Bone;2;Aoashira Shell;3;Hercudrome;3
-Steel Belt S;5;-1;2;0;1;4;41;2;-2;0;0;2;Guard;2;Sharpener;4;Antiseptic;3;;;;;Gracium Ore;4;Carbalite Ore;7;Dragonite Ore;5;Machalite Ore;8
-Froggi Tasset S;4;-1;2;0;1;4;38;2;1;0;-2;-4;Constitutn;2;Eating;2;Defense;-2;Status;3;;;Froggi Scale+;4;Froggi Hide;7;Bird Wyvrn Bone;5;Depthlite Ore;3
-Froggi Coat S;4;-1;2;0;2;4;20;4;2;0;-1;-2;Constitutn;2;Eating;2;Defense;-2;Status;3;;;Froggi Scale+;4;Froggi Hide;7;Bird Wyvrn Bone;5;Depthlite Ore;3
-Urukusu Tasset S;5;-1;0;0;1;4;38;-4;-2;1;2;2;Evasion;4;Attack;3;Fire Res;-2;Ice Attack;4;;;Urukusu Pelt+;3;Urukusu Claw+;2;Stout Bone;3;Hercudrome;8
-Urukusu Coat S;5;-1;0;0;2;4;20;-2;-1;3;3;4;Evasion;4;Attack;2;Fire Res;-3;Ice Attack;4;;;Urukusu Pelt+;3;Urukusu Claw+;2;Stout Bone;3;Hercudrome;8
-Qurupeco Coil S;4;-1;2;0;1;5;35;2;-1;2;-2;-4;Wide Area;3;Psychic;3;Fire Atk;1;Ice Res;-2;;;Qurupeco Wing;2;Qurupeco Scale+;3;Shrp Mnster Bne;1;Killer Beetle;5
-Qurupeco Coat S;4;-1;2;0;2;5;18;4;0;4;-1;-3;Wide Area;4;Psychic;2;Fire Atk;1;Ice Res;-2;;;Qurupeco Wing;2;Qurupeco Scale+;3;Shrp Mnster Bne;1;Killer Beetle;5
-Ludroth Tasset S;4;-1;2;0;1;5;38;-4;-2;1;2;-2;Stamina;2;Water Atk;2;Stun;4;Thundr Atk;-1;;;Ludroth Hide+;4;Juvenile Sponge;6;Shrp Mnster Bne;2;King Scarab;2
-Ludroth Coat S;4;-1;2;0;2;5;20;-2;-1;2;4;-1;Stamina;2;Water Atk;2;Stun;3;Thundr Atk;-2;;;Ludroth Hide+;4;Juvenile Sponge;6;Shrp Mnster Bne;2;King Scarab;2
-Barroth Tasset S;4;-1;2;0;1;5;41;4;2;0;-4;-3;Guard;2;Constitutn;1;Hunger;-3;Attack;3;;;Barroth Carapce;2;Barroth Thracic;3;Monster Bone+;2;Bulldrome Hide;5
-Barroth Coat S;4;-1;2;0;2;5;22;4;4;0;-4;-1;NormalS Up;2;Recoil;1;Hunger;-3;Attack;3;;;Barroth Carapce;2;Barroth Thracic;3;Monster Bone+;2;Bulldrome Hide;5
-Ingot Coil S;5;-1;1;0;1;5;47;-2;1;0;-2;-2;WindPress;2;Expert;3;Whim;-2;Quake Res;4;;;Union Ore;2;Firecell Stone;2;Carbalite Ore;5;Magma Shard;2
-Ingot Coat S;5;-1;1;0;2;5;26;-1;2;0;-1;-1;PelletS Up;2;PelletSAdd;3;Whim;-2;PierceSAdd;4;;;Union Ore;2;Firecell Stone;2;Carbalite Ore;5;Magma Shard;2
-Baggi Coil S;5;-1;0;0;1;5;41;-4;-1;1;-1;2;Rec Speed;4;Rec Level;3;Fire Res;-2;Ice Res;4;;;Grt Baggi Hide+;3;Regal Crest;1;Baggi Scale+;6;Lightcrystal;2
-Baggi Coat S;5;-1;1;0;2;5;22;-2;0;2;0;4;Rec Speed;2;Rec Level;2;Fire Res;-3;Ice Res;4;;;Grt Baggi Hide+;3;Regal Crest;1;Baggi Scale+;6;Lightcrystal;2
-Ranguro Tasset S;5;-1;2;0;1;5;41;2;-1;2;-4;-2;Evasion;2;Fire Res;1;Water Res;-2;Defense;4;;;Rangurotora Cpc;3;Rangrtora Belly;4;Monster Broth;3;Fire Stone;2
-Rangura Coat S;5;-1;2;0;2;5;22;4;0;4;-2;-1;Evasion;1;Fire Res;1;Water Res;-3;Defense;4;;;Rangurotora Cpc;3;Rangrtora Belly;4;Monster Broth;3;Fire Stone;2
-Rathian Tasset S;5;-1;1;0;1;5;44;2;-2;-4;0;0;Health;4;Rec Speed;2;Water Atk;-2;Protection;3;;;Rathian Scale+;3;Rathian Webbing;4;Rathian Ruby;1;Fire Stone;2
-Rathian Coat S;5;-1;1;0;2;5;24;4;-1;-3;0;1;Health;2;Rec Speed;3;Water Atk;-3;Protection;3;;;Rathian Scale+;3;Rathian Webbing;4;Rathian Ruby;1;Fire Stone;2
-Hapuru Tasset S;5;-1;2;0;1;5;44;2;-2;0;-1;-3;Eating;2;Sheathe;1;Thundr Atk;-3;Gluttony;3;;;Hapurbokka Clw+;2;Haprbokka Hide+;3;Brilliant Fluid;4;Grt Frggi Arm+;3
-Hapuru Coat S;5;-1;2;0;2;5;24;4;-1;0;0;-2;Eating;1;Sheathe;2;Thundr Atk;-3;Gluttony;3;;;Hapurbokka Clw+;2;Haprbokka Hide+;3;Brilliant Fluid;4;Grt Frggi Arm+;3
-Nebula Tasset S;5;-1;1;0;1;5;44;-4;3;-2;0;3;Status;3;Sharpness;2;Combo Rate;-2;Hunger;4;;;Gigginox Hide+;5;Venom Gland;3;Uncanny Hide;2;Isisium Ore;6
-Nebula Coat S;5;-1;1;0;2;5;24;-2;4;-1;0;4;Status;2;PierceSAdd;3;Combo Rate;-2;Hunger;4;;;Gigginox Hide+;5;Venom Gland;3;Uncanny Hide;2;Isisium Ore;6
-Narga Tasset S;5;-1;2;0;1;5;47;-3;-4;-1;1;0;Evade Dist;3;Sense;1;Stamina;-2;SpeedSetup;3;;;BlackNargaPelt+;5;Nargacuga Tail;1;Nargacuga Wing+;3;Aoashira Carpce;4
-Narga Coat S;5;-1;2;0;2;5;26;-1;-2;0;3;1;Evade Dist;1;Sense;2;Stamina;-3;SpeedSetup;3;;;BlackNargaPelt+;5;Nargacuga Tail;1;Nargacuga Wing+;3;Aoashira Carpce;4
-Barioth Tasset S;5;-1;0;0;1;5;47;-4;-3;-1;1;2;Evasion;5;Ice Attack;3;Will Recov;-2;Stamina;3;;;Amber Fang+;2;Barioth Spike;4;Shrp Mnster Bne;4;Urukusu Belly;4
-Barioth Coat S;5;-1;0;0;2;5;26;-2;-1;0;2;4;Evasion;2;Ice Attack;5;Will Recov;-3;Stamina;3;;;Amber Fang+;2;Barioth Spike;4;Shrp Mnster Bne;4;Urukusu Belly;4
-Rathalos Tasset S;5;-1;2;0;1;5;50;2;-2;-4;-1;-1;Debilitate;1;Sharpener;3;Rec Level;-2;Fire Atk;3;;;Rathalos Carpce;6;Rathalos Webbng;4;Rathalos Plate;1;Union Ore;2
-Rathalos Coat S;5;-1;2;0;2;5;28;4;-1;-2;0;0;Debilitate;1;Rapid Fire;2;Rec Level;-3;Fire Atk;3;;;Rathalos Carpce;6;Rathalos Webbng;4;Rathalos Plate;1;Union Ore;2
-Uragaan Tasset S;5;-1;3;0;1;5;50;2;1;-3;-5;-2;PunishDraw;1;Crit Draw;1;Water Res;-3;Fire Res;2;;;Uragaan Scale+;6;Uragaan Ruby;1;Uragaan Shell;4;Rangurotora Shl;5
-Uragaan Coat S;5;-1;3;0;2;5;28;4;2;-2;-4;-1;PierceS Up;2;Recoil;1;Water Res;-2;Fire Res;2;;;Uragaan Scale+;6;Uragaan Ruby;1;Uragaan Shell;4;Rangurotora Shl;5
-Dober Coil;6;-1;0;0;1;6;50;-2;0;4;0;0;Will Recov;5;Dragon Atk;3;Evasion;2;Hunger;-3;;;Ancnt Drgn Bone;3;Jinouga Claw+;3;Stout Bone;5;Med Mnster Bone;10
-Dober Coat;6;-1;0;0;2;6;28;-1;0;5;0;0;Will Recov;4;Dragon Atk;5;Evasion;2;Hunger;-2;;;Ancnt Drgn Bone;3;Jinouga Claw+;3;Stout Bone;5;Med Mnster Bone;10
-Jinouga Tasset S;6;-1;1;0;1;5;53;-1;4;0;-2;-3;Awaken;2;Thundr Atk;6;Evade Dist;1;Sense;-2;;;Jinouga Carapce;5;Jinouga Pelt+;3;Jinouga Tail;1;Jinouga Plate;1
-Jinouga Coat S;6;-1;1;0;2;5;30;0;5;0;-1;-1;Awaken;4;Thundr Atk;3;Evade Dist;2;Sense;-2;;;Jinouga Carapce;5;Jinouga Pelt+;3;Jinouga Tail;1;Jinouga Plate;1
-Diablos Coil S;6;-1;2;0;1;5;53;2;-1;-1;-1;-3;Crit Draw;2;Sheathe;4;Quake Res;2;Status;-1;;;Diablos Thorcic;6;Blos Fang;6;Diablos Brnstm;1;Rhenoplos Crpce;6
-Diablos Coat S;6;-1;2;0;2;5;30;4;0;0;0;-2;PierceS Up;1;NormalSAdd;3;Sheathe;2;Status;-3;;;Diablos Thorcic;6;Blos Fang;6;Diablos Brnstm;1;Rhenoplos Crpce;6
-Tigrex  Tasset S;6;-1;2;0;1;5;53;2;-4;-2;-1;0;HearProtct;2;Stamina;3;Gluttony;2;Protection;-2;;;Tigrex Carapace;6;Tigrex Scale+;5;Wyvern Stone;1;Ludroth Hide+;3
-Tigrex Coat S;6;-1;2;0;2;5;30;3;-2;-1;0;0;HearProtct;2;Stamina;1;Gluttony;5;Protection;-1;;;Tigrex Carapace;6;Tigrex Scale+;5;Wyvern Stone;1;Ludroth Hide+;3
-Agnaktor Tasset S;6;-1;1;0;1;5;53;4;0;-4;-4;-2;Constitutn;3;Sharpness;2;Water Atk;-2;Fire Res;4;;;Agnaktor Fin+;3;Agnaktor Scale;5;Uroktor Scale+;8;Grt Froggi Hide;5
-Agnaktor Coat S;6;-1;1;0;2;5;30;5;0;-2;-2;-1;NormalS Up;2;Precision;4;Water Atk;-1;Fire Res;4;;;Agnaktor Fin+;3;Agnaktor Scale;5;Uroktor Scale+;8;Grt Froggi Hide;5
-Doboru Tasset S;6;-1;1;0;1;5;53;-3;-2;0;1;-2;Slam;2;Potential;5;Expert;-1;Health;3;;;Mossy Carapace+;4;Doboru Carapace;6;Doboru Sacrum;1;Zuwaroposu Hide;6
-Doburu Coat S;6;-1;1;0;2;5;30;-2;-1;0;3;-1;Slam;2;Potential;5;Expert;-1;Health;3;;;Mossy Carapace+;4;Doboru Carapace;6;Doboru Sacrum;1;Zuwaroposu Hide;6
-Qurupeco Coil U;5;-1;1;0;1;6;38;-3;4;2;-1;-5;Wide Area;1;Eating;3;Thundr Atk;5;Ice Attack;-2;;;Red Qurpeco Wng;3;Red Qurpeco Scl;3;Shrp Mnster Bne;1;Hercudrome;3
-Qurupeco Coat U;5;-1;1;0;2;6;20;-2;5;3;0;-3;Wide Area;1;Eating;2;Thundr Atk;5;Ice Attack;-3;;;Red Qurpeco Wng;3;Red Qurpeco Scl;3;Shrp Mnster Bne;1;Hercudrome;3
-Ludroth Tasset U;4;-1;3;0;1;6;41;-4;-2;1;2;0;Stamina;2;Status;1;Water Res;1;ThunderRes;-3;;;SpongyPurplHide;3;Juvenile Sponge;6;Shrp Mnster Bne;2;King Scarab;2
-Ludroth Coat U;4;-1;3;0;2;6;22;-2;-1;2;4;1;Stamina;2;Status;2;Water Res;1;ThunderRes;-2;;;SpongyPurplHide;3;Juvenile Sponge;6;Shrp Mnster Bne;2;King Scarab;2
-Barroth Tasset U;5;-1;0;0;1;6;44;-5;-2;0;2;3;KO;4;Ice Attack;2;Fire Atk;-2;FatigueAtk;5;;;Ice Barroth Shl;3;IceBarrothSpine;4;Shrp Mnster Bne;2;Urukusu Pelt+;4
-Barroth Coat U;5;-1;0;0;2;6;24;-4;-1;0;3;5;PierceS Up;3;Ice Attack;5;Fire Atk;-3;KO;2;;;Ice Barroth Shl;3;IceBarrothSpine;4;Shrp Mnster Bne;2;Urukusu Pelt+;4
-Nebula Tasset U;5;-1;2;0;1;6;47;0;4;-2;-4;3;FastCharge;1;FatigueAtk;2;Ice Attack;-2;Stamina;4;;;ThdrGiggnoxHide;4;ThndrGiggnoxClw;1;Thunder Sac;4;Isisium Ore;6
-Nebula Coat U;5;-1;2;0;2;6;26;0;5;-1;-2;4;FastCharge;1;FatigueAtk;2;Ice Attack;-2;Stamina;4;;;ThdrGiggnoxHide;4;ThndrGiggnoxClw;1;Thunder Sac;4;Isisium Ore;6
-Narga Tasset U;5;-1;0;0;1;6;50;-3;-4;-1;1;0;Stamina;2;Perception;6;Constitutn;-2;Evasion;3;;;Grn Narga Pelt;6;Narga TailSpike;5;Wyvern Stone;1;King Scarab;6
-Narga Coat U;5;-1;1;0;2;6;28;-1;-2;0;3;1;Stamina;2;Perception;4;Constitutn;-2;Evasion;3;;;Grn Narga Pelt;6;Narga TailSpike;5;Wyvern Stone;1;King Scarab;6
-Barioth Tasset U;5;-1;3;0;1;6;50;2;-3;0;1;-4;Evade Dist;1;Constitutn;3;Sense;1;Evasion;-2;;;Sapphire Fang;2;Hard Pleura;5;Wyvern Stone;1;Rhenoplos Crpce;6
-Barioth Coat U;5;-1;3;0;2;6;28;4;-1;0;2;-2;Evade Dist;1;Constitutn;3;Sense;1;Evasion;-2;;;Sapphire Fang;2;Hard Pleura;5;Wyvern Stone;1;Rhenoplos Crpce;6
-Uragaan Tasset U;5;-1;0;0;1;6;53;3;1;-3;-5;-2;Guard;1;Will Recov;4;BombStrUp;5;Dragon Res;-3;;;SteelUrgnShield;3;SteelUragaanScl;4;SteelUragaanCpc;4;Firecell Stone;1
-Uragaan Coat U;5;-1;0;0;2;6;30;5;2;-2;-4;-1;PelletS Up;4;Will Recov;3;BombStrUp;4;Dragon Res;-2;;;SteelUrgnShield;3;SteelUragaanScl;4;SteelUragaanCpc;4;Firecell Stone;1
-Diablos Coil U;6;-1;3;0;1;6;56;2;-1;-1;-1;-3;PunishDraw;1;KO;2;FatigueAtk;2;Dragon Atk;-2;;;Blk Blos Spine;6;Black Blos Shl;5;Blos Fang;6;Quality Abdomen;3
-Diablos Coat U;6;-1;3;0;2;6;32;4;0;0;0;-2;Recoil;1;Reload Spd;1;NormalSAdd;3;Dragon Atk;-2;;;Blk Blos Spine;6;Black Blos Shl;5;Blos Fang;6;Quality Abdomen;3
-Tigrex Tasset U;6;-1;3;0;1;6;56;2;-2;-1;-4;0;HearProtct;2;FastCharge;2;Psychic;1;Protection;-2;;;Blk Tigrex Shl;4;Blk Tigrex Scl;6;Wyvern Stone;1;Uroktor Scale;8
-Tigrex Coat U;6;-1;3;0;2;6;32;4;-1;0;-2;0;HearProtct;1;FastCharge;2;Psychic;2;Protection;-2;;;Blk Tigrex Shl;4;Blk Tigrex Scl;6;Wyvern Stone;1;Uroktor Scale;8
-Agnaktor Tasset U;6;-1;3;0;1;6;56;-4;-2;-4;2;3;Guard;1;Guard Up;1;Fire Atk;-3;Water Res;2;;;Ice Agnktor Fin;2;Ice Agnktr Tail;1;Ice Agnktr Hide;4;Grt Baggi Claw;3
-Agnaktor Coat U;6;-1;3;0;2;6;32;-2;-1;-2;4;5;Reload Spd;1;PierceSAdd;1;Fire Atk;-3;Water Res;2;;;Ice Agnktor Fin;2;Ice Agnktr Tail;1;Ice Agnktr Hide;4;Grt Baggi Claw;3
-Golden Moon Tasset;6;-1;3;0;1;7;56;2;-4;3;-2;0;Slam;1;Protection;1;Fate;3;ThunderRes;-2;;;Gld Rathian Scl;5;Rathian Webbing;5;FireWyvernFluid;3;Firecell Stone;2
-Golden Moon Coat;6;-1;3;0;2;7;32;4;-3;4;-1;0;Slam;1;Protection;1;Fate;3;ThunderRes;-2;;;Gld Rathian Scl;5;Rathian Webbing;5;FireWyvernFluid;3;Firecell Stone;2
-Silver Sol Tasset;6;-1;2;0;1;7;56;2;-4;3;-2;0;Debilitate;3;Sharpness;3;Attack;2;Health;-1;;;Slvr Rthlos Cpc;5;Rathalos Webbng;3;Rathalos Plate;2;Inferno Sac;3
-Silver Sol Coat;6;-1;2;0;2;7;32;4;-3;4;-1;0;Debilitate;3;NormalS Up;3;Attack;2;Health;-1;;;Slvr Rthlos Cpc;5;Rathalos Webbng;3;Rathalos Plate;2;Inferno Sac;3
-Vangis Tasset;6;-1;0;0;1;7;59;0;-4;-4;0;1;Torso Inc;1;;;;;;;;;Deviljho Hide;4;Deviljho Jewel;1;Deviljho Scale;6;Doboru Tailbone;1
-Vangis Coat;6;-1;0;0;2;7;34;0;-2;-2;0;3;Torso Inc;1;;;;;;;;;Deviljho Hide;4;Deviljho Jewel;1;Deviljho Scale;6;Doboru Tailbone;1
-Ranger Belt;6;-1;2;0;1;5;47;0;0;0;0;0;Carving;4;Expert;2;Rec Level;1;Fate;-2;;;Jhen Mhran Scl+;6;Jhen Mohran Shl;2;Hydro Sac;4;Yukumo Ticket;3
-Scout Belt;6;-1;2;0;2;5;26;0;0;0;0;0;Carving;3;Expert;1;Rec Level;2;Fate;-3;;;Jhen Mhran Scl+;6;Jhen Mohran Shl;2;Hydro Sac;4;Yukumo Ticket;3
-Guild Bard Coil S;6;-1;3;1;1;5;44;0;0;0;0;0;Rewards;1;Perception;2;Wide Area;2;Fate;-2;;;Commendation G;1;Drink Ticket;2;Gracium Ore;4;Hard Pleura;4
-Guild Bard Coat S;6;-1;3;1;2;5;24;0;0;0;0;0;Rewards;1;Perception;1;Wide Area;2;Fate;-3;;;Commendation G;1;Drink Ticket;2;Gracium Ore;4;Hard Pleura;4
-Scholar Skirt S;6;-1;3;2;1;5;44;0;0;0;0;0;Rewards;1;Perception;2;Wide Area;2;Fate;-2;;;Commendation G;1;Drink Ticket;2;Gracium Ore;4;Hard Pleura;4
-Scholar Frills S;6;-1;3;2;2;5;24;0;0;0;0;0;Rewards;1;Perception;1;Wide Area;2;Fate;-3;;;Commendation G;1;Drink Ticket;2;Gracium Ore;4;Hard Pleura;4
-Nightmare Oha S;4;-1;0;0;1;5;32;-4;0;0;1;2;FastCharge;4;SpeedSetup;2;Guard;-1;LastingPwr;6;;;King Scarab;4;Pepipo Pumpkin;5;Bnahabra Carpce;4;Snow Herb;15
-Nightmare Oha S;4;-1;0;0;1;5;32;-4;0;0;1;2;FastCharge;4;SpeedSetup;2;Guard;-1;LastingPwr;6;;;King Scarab;4;Pepipo Pumpkin;5;Bnahabra Carpce;4;Snow Herb;15
-Nightmare Buratto S;4;-1;0;0;2;5;16;-2;0;0;2;4;FastCharge;4;SpeedSetup;1;Precision;-2;LastingPwr;6;;;King Scarab;4;Pepipo Pumpkin;5;Bnahabra Carpce;4;Snow Herb;15
-Nightmare Buratto S;4;-1;0;0;2;5;16;-2;0;0;2;4;FastCharge;4;SpeedSetup;1;Precision;-2;LastingPwr;6;;;King Scarab;4;Pepipo Pumpkin;5;Bnahabra Carpce;4;Snow Herb;15
-Viking Tasset S;4;-1;1;0;1;5;38;0;-2;0;3;-2;Sharpness;2;Sheathe;1;Sharpener;-3;Rec Speed;5;;;Depthlite Ore;2;Armord Beakfish;5;Scatterfish;5;Sushifish;20
-Viking Coat S;4;-1;1;0;2;5;20;0;-1;0;5;-4;NormalS Up;2;Sheathe;3;Reload Spd;-1;Rec Speed;5;;;Depthlite Ore;2;Armord Beakfish;5;Scatterfish;5;Sushifish;20
-Rouage Anca S;5;-1;1;1;1;5;44;-5;3;1;0;-1;HearProtct;3;ThunderRes;3;Protection;-1;Stun;4;;;Rare Scarab;2;Swallowtail;3;Flashbug;10;Bombhopper;10
-Rouage Cocusa S;5;-1;1;1;2;5;24;-4;5;3;0;0;HearProtct;2;ThunderRes;4;Protection;-1;Stun;4;;;Rare Scarab;2;Swallowtail;3;Flashbug;10;Bombhopper;10
-Falmer Anca S;5;-1;1;2;1;5;44;-5;3;1;0;-1;HearProtct;3;ThunderRes;3;Protection;-1;Stun;4;;;Rare Scarab;2;Swallowtail;3;Flashbug;10;Bombhopper;10
-Falmer Cocusa S;5;-1;1;2;2;5;24;-4;5;3;0;0;HearProtct;2;ThunderRes;4;Protection;-1;Stun;4;;;Rare Scarab;2;Swallowtail;3;Flashbug;10;Bombhopper;10
-Dianthus Skirt;4;6;1;2;1;5;38;0;0;0;0;0;Wide Area;4;Psychic;4;Perception;1;Poison;-2;;;Yukumo Wood+;3;Comrade Ticket;2;Armord Beakfish;5;Shellfish;3
-Bellflower Skirt;4;6;1;2;2;5;20;0;0;0;0;0;Wide Area;5;Psychic;2;Perception;3;Poison;-1;;;Yukumo Wood+;3;Comrade Ticket;2;Armord Beakfish;5;Shellfish;3
-Damascus Coil;6;-1;3;0;1;6;59;-2;-3;-1;2;1;Artisan;2;Thundr Atk;1;Sharpener;2;Sharpness;-2;;;Jhen Mohran Cpc;6;Gld Rathian Scl;4;Slvr Rthlos Scl;4;Jhen Mhran Fang;1
-Damascus Coat;6;-1;3;0;2;6;34;-1;-2;0;3;3;Loading;2;PelletS Up;2;Thundr Atk;1;Recoil;-2;;;Jhen Mohran Cpc;6;Gld Rathian Scl;4;Slvr Rthlos Scl;4;Jhen Mhran Fang;1
-Hi Yamato Waistcoat;6;-1;0;1;1;7;59;3;0;-3;0;-3;FastCharge;3;Fencing;3;Expert;6;Rec Speed;-1;;;Jhen Mhran Arm+;4;Jhen Mohran Cpc;6;Jhen Mohran Scl;5;Rathalos Plate;1
-Hi Courtier Waistcoat;6;-1;0;1;2;7;34;5;1;-2;1;-2;FastCharge;1;PierceS Up;4;Expert;6;Rec Speed;-2;;;Jhen Mhran Arm+;4;Jhen Mohran Cpc;6;Jhen Mohran Scl;5;Rathalos Plate;1
-Hi Solar Waistcoat;6;-1;0;2;1;7;59;3;0;-3;0;-3;FastCharge;3;Fencing;3;Expert;6;Rec Speed;-1;;;Jhen Mhran Arm+;4;Jhen Mohran Cpc;6;Jhen Mohran Scl;5;Rathalos Plate;1
-Hi Divine Waistcoat;6;-1;0;2;2;7;34;5;1;-2;1;-2;FastCharge;1;PierceS Up;4;Expert;6;Rec Speed;-2;;;Jhen Mhran Arm+;4;Jhen Mohran Cpc;6;Jhen Mohran Scl;5;Rathalos Plate;1
-DarkAkantor Cincture;6;-1;0;0;1;7;62;4;-3;-5;0;2;Slam;4;HearProtct;5;Fire Atk;2;Protection;-2;;;Akantor Shell;5;Akantor Fang;3;Akantor Tail;1;Rathian Ruby;1
-Dark Akantor Sash;6;-1;0;0;2;7;36;5;-2;-4;-1;4;Slam;4;HearProtct;4;Fire Atk;3;Protection;-2;;;Akantor Shell;5;Akantor Fang;3;Akantor Tail;1;Rathian Ruby;1
-Ukanlos Cincture;6;-1;1;0;1;7;62;-5;-3;-2;0;4;Debilitate;4;Fencing;2;FastCharge;-1;Sharpness;4;;;Ukanlos Shell;6;Ukanlos Claw;3;Ukanlos Jewel;1;Barioth Claw+;1
-Ukanlos Sash;6;-1;1;0;2;7;36;-4;-1;-1;0;5;Debilitate;2;Rapid Fire;3;FastCharge;-2;NormalS Up;4;;;Ukanlos Shell;6;Ukanlos Claw;3;Ukanlos Jewel;1;Barioth Claw+;1
-Escadora Might;6;-1;3;0;1;7;62;3;1;-4;0;-3;Elemental;1;Blight Res;2;Evade Dist;2;Potential;-2;;;Alatreon Webbng;1;Alatreon Tail;1;Alatreon Plate;5;Tigrex Skl Shl;3
-Escadora Force;6;-1;3;0;2;7;36;3;3;-2;1;-3;Elemental;1;Blight Res;2;Evade Dist;2;Potential;-2;;;Alatreon Webbng;1;Alatreon Tail;1;Alatreon Plate;5;Tigrex Skl Shl;3
-Storm Waist;6;-1;3;0;1;7;62;-3;0;-5;4;0;Awaken;2;Artisan;1;Water Atk;2;Eating;-2;;;Amatsu Tail;1;Amatsu Patagium;4;Amatsu Shell;5;Narga Brain Stm;1
-Sky Sash;6;-1;3;0;2;7;36;-2;0;-4;5;0;Awaken;2;Loading;1;Water Atk;3;Eating;-2;;;Amatsu Tail;1;Amatsu Patagium;4;Amatsu Shell;5;Narga Brain Stm;1
-Crystal Sash;4;6;3;0;0;5;14;0;3;0;0;-3;;;;;;;;;;;Carbalite Ore;3;Lightcrystal;2;;;;
-Jolly Roger Coil;6;-1;0;0;1;7;26;-3;-3;-3;-3;-3;Carving;4;Fate;3;Rewards;3;Protection;-3;;;Legend J Ticket;1;ThndrGiggnoxClw;2;SteelUrgnShield;3;Agnaktor Hide+;4
-Jolly Roger Skirt;6;-1;0;0;2;7;13;-2;-2;-2;-2;-2;Carving;3;Fate;3;Rewards;4;Protection;-3;;;Legend J Ticket;1;ThndrGiggnoxClw;2;SteelUrgnShield;3;Agnaktor Hide+;4
-Snake Belt;6;-1;2;1;1;7;47;1;1;1;1;1;FastCharge;2;Constitutn;3;SpeedSetup;2;Hunger;-2;;;Big Boss Title;1;Hapurbokka Clw+;1;Wyvern Stone;1;Doboru Carapace;3
-Snake Band;6;-1;1;1;2;7;26;2;2;2;2;2;Loading;3;Precision;4;SpeedSetup;2;Hunger;-2;;;Big Boss Title;1;Hapurbokka Clw+;1;Wyvern Stone;1;Doboru Carapace;3
-The Boss Belt;6;-1;2;2;1;7;47;1;1;1;1;1;Sense;2;FastCharge;2;Psychic;3;Elemental;-2;;;Big Boss Title;1;Hapurbokka Clw+;1;Wyvern Stone;1;Doboru Carapace;3
-The Boss Band;6;-1;1;2;2;7;26;2;2;2;2;2;Sense;2;Loading;3;Psychic;4;Elemental;-2;;;Big Boss Title;1;Hapurbokka Clw+;1;Wyvern Stone;1;Doboru Carapace;3
-Uniqlo Belt;6;-1;2;0;1;7;47;-3;0;0;1;4;HearProtct;2;Evade Dist;3;Cold Res;2;Eating;-2;;;Uniqlo Ticket;1;Blk Tigrex Scl;4;LightningCarpce;1;Jinouga Jewel;1
-Uniqlo Pouch;6;-1;2;0;2;7;26;-4;0;0;2;5;HearProtct;1;Evade Dist;4;Cold Res;2;Eating;-2;;;Uniqlo Ticket;1;Blk Tigrex Scl;4;LightningCarpce;1;Jinouga Jewel;1
-Street Belt;4;-1;0;0;1;7;47;0;0;0;0;0;Attack;5;Will Recov;4;Sense;-4;;;;;Lily Proof;2;Rathalos Tail;2;Tigrex Tail;2;Nargacuga Tail;2
-Street Buckle;4;-1;0;0;2;7;26;1;1;1;1;1;Attack;5;Will Recov;4;Sense;-4;;;;;Lily Proof;2;Rathalos Tail;2;Tigrex Tail;2;Nargacuga Tail;2
-Street Belt;4;-1;0;0;1;7;47;0;0;0;0;0;Attack;5;Will Recov;4;Sense;-4;;;;;Lily Proof;2;Rathalos Tail;2;Tigrex Tail;2;Nargacuga Tail;2
-Street Buckle;4;-1;0;0;2;7;26;1;1;1;1;1;Attack;5;Will Recov;4;Sense;-4;;;;;Lily Proof;2;Rathalos Tail;2;Tigrex Tail;2;Nargacuga Tail;2
+Nibelsnarf Faulds;2;4;2;0;1;2;18;2;-2;0;-1;-3;Eating;2;Water Atk;1;Gluttony;3;Hunger;-1;;;Nibelsnarf Hide;3;Nibelsnarf Scalp;1;Monster Bone L;3;Altaroth Stomach;4
+Nibelsnarf Coat;2;4;2;0;2;2;9;4;-1;0;0;-2;Eating;3;Water Atk;1;Gluttony;1;Hunger;-2;;;Nibelsnarf Hide;3;Nibelsnarf Scalp;1;Monster Bone L;3;Altaroth Stomach;4
+Gigginox Faulds;2;4;1;0;1;2;18;-4;3;-2;0;3;Status;4;ThunderRes;1;Stun;3;Health;-1;;;Gigginox Hide;4;Uncanny Hide;1;Velvety Hide;4;G.Baggi Hide;2
+Gigginox Coat;2;4;1;0;2;2;9;-2;4;-1;0;4;Status;4;ThunderRes;1;Stun;2;Health;-2;;;Gigginox Hide;4;Uncanny Hide;1;Velvety Hide;4;G.Baggi Hide;2
+Nargacuga Faulds;2;5;1;0;1;3;20;-3;-4;-1;1;0;Evade Dist;3;Stam Recov;1;Sense;3;Attack;-2;;;Nargacuga Pelt;3;Nargacuga Tail;1;Nargacuga Scale;3;Killer Beetle;6
+Nargacuga Coat;2;5;1;0;2;3;10;-1;-2;0;3;1;Evade Dist;2;Stam Recov;2;Sense;3;Attack;-2;;;Nargacuga Pelt;3;Nargacuga Tail;1;Nargacuga Scale;3;Killer Beetle;6
+Barioth Faulds;2;5;2;0;1;3;20;-4;-3;-1;1;2;Stamina;1;Constitutn;4;Ice Atk;1;Stam Recov;-1;;;Amber Tusks;1;Barioth Spike;1;Monster Bone+;2;Lagombi Plastron;4
+Barioth Coat;2;5;2;0;2;3;10;-2;-1;0;2;4;Stamina;3;Constitutn;1;Ice Atk;1;Stam Recov;-2;;;Amber Tusks;1;Barioth Spike;1;Monster Bone+;2;Lagombi Plastron;4
+Rathalos Faulds;3;5;2;0;1;3;22;2;-2;-4;-1;-1;Tenderizer;2;Attack;1;Fire Atk;2;Rec Level;-2;;;Rathalos Webbing;3;Rathalos Plate;1;Monster Bone+;3;Firestone;1
+Rathalos Coat;3;5;2;0;2;3;11;4;-1;-2;0;0;Tenderizer;2;Attack;1;Fire Atk;2;Rec Level;-2;;;Rathalos Webbing;3;Rathalos Plate;1;Monster Bone+;3;Firestone;1
+Uragaan Faulds;2;5;0;0;1;3;22;2;1;-3;-5;-2;PunishDraw;1;Defense;5;Fire Res;2;Water Res;-3;;;Uragaan Scute;2;Uragaan Scale;3;Monster Bone+;2;Volvidon Shell;3
+Uragaan Coat;2;5;0;0;2;3;11;4;2;-2;-4;-1;Pierce Up;1;Defense;4;Fire Res;4;Water Res;-2;;;Uragaan Scute;2;Uragaan Scale;3;Monster Bone+;2;Volvidon Shell;3
+Zinogre Faulds;3;5;1;0;1;3;22;-1;3;0;-2;-3;Gloves Off;3;Thundr Atk;2;Sharpness;1;Sense;-3;;;Zinogre Shell;3;Zin Electrofur;2;Zinogre Tail;1;Bulldrome Hide;3
+Zinogre Coat;3;5;1;0;2;3;11;0;5;0;-1;-1;Gloves Off;2;Thundr Atk;2;Normal Up;3;Sense;-2;;;Zinogre Shell;3;Zin Electrofur;2;Zinogre Tail;1;Bulldrome Hide;3
+Diablos Coil;3;6;1;0;1;3;24;2;-1;-1;-1;-3;Crit Draw;2;Stam Drain;3;Tremor Resistance;3;Status;-1;;;Diablos Shell;4;Diablos Fang;4;Majestic Horn;1;Rhenoplos Scalp;4
+Diablos Coat;3;6;1;0;2;3;12;4;0;0;0;-2;Pierce Up;3;Normal S+;2;Stam Drain;1;Status;-3;;;Diablos Shell;4;Diablos Fang;4;Majestic Horn;1;Rhenoplos Scalp;4
+Tigrex Faulds;3;6;0;0;1;3;24;2;-4;-2;-1;0;Hearing;3;Psychic;5;Gluttony;1;Protection;-2;;;Tigrex Shell;4;Tigrex Scale;4;Monster Bone+;2;G.Jaggi Claw;3
+Tigrex Coat;3;6;0;0;2;3;12;3;-2;-1;0;0;Hearing;2;Psychic;5;Gluttony;3;Protection;-1;;;Tigrex Shell;4;Tigrex Scale;4;Monster Bone+;2;G.Jaggi Claw;3
+Agnaktor Faulds;3;6;2;0;1;3;24;4;0;-4;-4;-2;Guard;1;Sharpness;2;Expert;2;Potential;-2;;;Agnaktor Scale;6;Agnaktor Fin;2;Agnaktor Claw;1;Agnaktor Tail;1
+Agnaktor Coat;3;6;2;0;2;3;12;5;0;-2;-2;-1;Normal Up;2;Pierce S+;2;Precision;1;Potential;-2;;;Agnaktor Scale;6;Agnaktor Fin;2;Agnaktor Claw;1;Agnaktor Tail;1
+Duramboros Faulds;3;6;2;0;1;3;24;-3;-2;0;1;-2;Destroyer;1;Potential;3;Attack;1;Expert;-2;;;Duram Mossplate;4;Duramboros Shell;4;Duram Tailbone;1;Slagtoth Hide;6
+Duramboros Coat;3;6;2;0;2;3;12;-2;-1;0;3;-1;Destroyer;1;Potential;2;Recoil;1;Expert;-3;;;Duram Mossplate;4;Duramboros Shell;4;Duram Tailbone;1;Slagtoth Hide;6
+Guild Bard Coil;3;5;1;1;1;3;20;0;0;0;0;0;Tranquilzr;2;Perception;2;Wide-Range;4;Fate;-1;;;Commendation;1;Drink Ticket;1;Lava Nugget;1;Fertile Mud;3
+Guild Bard Coat;3;5;1;1;2;3;10;0;0;0;0;0;Tranquilzr;1;Perception;3;Wide-Range;4;Fate;-1;;;Commendation;1;Drink Ticket;1;Lava Nugget;1;Fertile Mud;3
+Scholar's Skirt;3;5;1;2;1;3;20;0;0;0;0;0;Tranquilzr;2;Perception;2;Wide-Range;4;Fate;-1;;;Commendation;1;Drink Ticket;1;Lava Nugget;1;Fertile Mud;3
+Scholar's Mini;3;5;1;2;2;3;10;0;0;0;0;0;Tranquilzr;1;Perception;3;Wide-Range;4;Fate;-1;;;Commendation;1;Drink Ticket;1;Lava Nugget;1;Fertile Mud;3
+Mosgharl Folia;1;2;1;0;1;3;16;-4;0;0;1;2;FastCharge;2;LastingPwr;2;SpeedSetup;3;Guard;-2;;;Bumblepumpkin;3;Killer Beetle;3;Needleberry;10;Snow Herb;10
+Mosgharl Folia;1;2;1;0;1;3;16;-4;0;0;1;2;FastCharge;2;LastingPwr;2;SpeedSetup;3;Guard;-2;;;Bumblepumpkin;3;Killer Beetle;3;Needleberry;10;Snow Herb;10
+Mosgharl Fronds;1;2;1;0;2;3;8;-2;0;0;2;4;FastCharge;2;LastingPwr;3;SpeedSetup;2;Precision;-2;;;Bumblepumpkin;3;Killer Beetle;3;Needleberry;10;Snow Herb;10
+Mosgharl Fronds;1;2;1;0;2;3;8;-2;0;0;2;4;FastCharge;2;LastingPwr;3;SpeedSetup;2;Precision;-2;;;Bumblepumpkin;3;Killer Beetle;3;Needleberry;10;Snow Herb;10
+Viking Faulds;1;3;1;0;1;3;14;0;-2;0;3;-2;Sharpness;3;Rec Speed;3;Water Res;1;Sharpener;-2;;;Armored Beakfish;3;Isisium;2;Small Goldenfish;4;Sleepyfish;5
+Viking Coat;1;3;1;0;2;3;7;0;-1;0;5;-4;Normal Up;3;Rec Speed;3;Water Res;1;Reload Speed;-2;;;Armored Beakfish;3;Isisium;2;Small Goldenfish;4;Sleepyfish;5
+Aelucanth Elytra;3;3;1;1;1;3;18;-5;3;1;0;-1;Hearing;3;Expert;4;ThunderRes;1;Protection;-1;;;Butterfly Beetle;2;Hercudrome;2;Killer Beetle;4;Stinkhopper;10
+Aelucanth Alae;3;3;1;1;2;3;9;-4;5;3;0;0;Hearing;2;Expert;1;ThunderRes;4;Protection;-2;;;Butterfly Beetle;2;Hercudrome;2;Killer Beetle;4;Stinkhopper;10
+Rhopessa Elytra;3;3;1;2;1;3;18;-5;3;1;0;-1;Hearing;3;Expert;4;ThunderRes;1;Protection;-1;;;Butterfly Beetle;2;Hercudrome;2;Killer Beetle;4;Stinkhopper;10
+Rhopessa Alae;3;3;1;2;2;3;9;-4;5;3;0;0;Hearing;2;Expert;1;ThunderRes;4;Protection;-2;;;Butterfly Beetle;2;Hercudrome;2;Killer Beetle;4;Stinkhopper;10
+Yamato Koshiate;3;6;0;1;1;3;26;3;0;-3;0;-3;Handicraft;4;FastCharge;2;Expert;2;Sharpness;-3;;;Mohran Brace;3;Mohran Shell;5;ElderDragonBlood;3;Duramboros Horn;1
+Mutsu Koshiate;3;6;0;1;2;3;13;5;1;-2;1;-2;Loading;3;FastCharge;3;Expert;4;Recoil;-1;;;Mohran Brace;3;Mohran Shell;5;ElderDragonBlood;3;Duramboros Horn;1
+Hyuga Koshiate;3;6;0;2;1;3;26;3;0;-3;0;-3;Handicraft;4;FastCharge;2;Expert;2;Sharpness;-3;;;Mohran Brace;3;Mohran Shell;5;ElderDragonBlood;3;Duramboros Horn;1
+Amagi Koshiate;3;6;0;2;2;3;13;5;1;-2;1;-2;Loading;3;FastCharge;3;Expert;3;Recoil;-2;;;Mohran Brace;3;Mohran Shell;5;ElderDragonBlood;3;Duramboros Horn;1
+Yukumo Sky Obi;4;6;2;0;1;4;28;0;3;0;0;0;Protection;2;Whim;2;Rec Level;3;Sharpener;2;;;Yukumo Wood+;1;Yukumo Wood;5;Carbalite Ore;2;;
+Yukumo Land Obi;4;6;2;0;2;4;14;0;4;0;0;0;Protection;3;Whim;1;Rec Level;3;Precision;2;;;Yukumo Wood+;1;Yukumo Wood;5;Carbalite Ore;2;;
+Leather Faulds S;4;6;1;0;1;4;28;-1;0;1;0;0;Spd Gather;1;Gathering;3;Whim;4;Hunger;3;;;Carbalite Ore;1;Bulldrome Hide;2;Bullfango Pelt;3;;
+Leather Coat S;4;6;1;0;2;4;14;0;0;2;0;0;Spd Gather;3;Gathering;1;Whim;4;Hunger;3;;;Carbalite Ore;1;Bulldrome Hide;2;Bullfango Pelt;3;;
+Chainmail Faulds S;4;6;2;0;1;4;28;2;-2;0;1;1;Health;2;Combo Rate;4;Stam Drain;3;;;;;Carbalite Ore;1;Pelagicite Ore;1;Earth Crystal;2;Yukumo Wood+;2
+Chainmail Coat S;4;6;2;0;2;4;14;3;-1;0;2;2;Health;2;Combo Rate;4;Combo Plus;3;;;;;Carbalite Ore;1;Pelagicite Ore;1;Earth Crystal;2;Yukumo Wood+;2
+Hunter's Faulds S;4;-1;1;0;1;4;30;0;-4;0;1;0;Ranger;3;Psychic;3;Poison;-2;Perception;3;;;Bulldrome Hide+;1;High-Qualty Pelt;3;Bullfango Pelt;5;Dragonite Ore;5
+Hunter's Coat S;4;-1;1;0;2;4;15;1;-2;1;2;0;Ranger;4;Psychic;3;Poison;-1;Perception;3;;;Bulldrome Hide+;1;High-Qualty Pelt;3;Bullfango Pelt;5;Dragonite Ore;5
+Loc Lac Kilt S;4;-1;2;0;1;4;30;2;1;0;-3;0;Transportr;4;Psychic;5;;;;;;;Quality Sac;2;Altaroth Jaw;3;Monster Fluid;4;;
+Loc Lac Coat S;4;-1;2;0;2;4;15;3;2;0;-2;0;Transportr;4;Psychic;5;;;;;;;Quality Sac;2;Altaroth Jaw;3;Monster Fluid;4;;
+Bone Faulds S;4;-1;1;0;1;4;30;2;-1;0;0;-2;Rec Level;3;Gathering;4;KO;3;Sleep;-1;;;Stout Bone;1;Monster Bone M;2;Mystery Bone;10;;
+Bone Coat S;4;-1;1;0;2;4;15;4;0;0;0;-1;Rec Level;3;Gathering;4;KO;1;Sleep;-3;;;Stout Bone;1;Monster Bone M;2;Mystery Bone;10;;
+Alloy Coil S;4;-1;2;0;1;4;30;-1;-2;-1;1;-2;Wind Res;2;Expert;4;Sharpener;1;Gathering;-2;;;Bathycite Ore;1;Carbalite Ore;2;Dragonite Ore;5;Bealite Ore;5
+Alloy Coat S;4;-1;2;0;2;4;15;0;-1;0;2;-1;Pellet Up;1;Pellet S+;3;Expert;3;Gathering;-2;;;Bathycite Ore;1;Carbalite Ore;2;Dragonite Ore;5;Bealite Ore;5
+Bnahabra Coil S;4;-1;1;0;1;4;32;-5;2;4;-2;-2;Status;2;Fencing;2;Paralysis;5;Attack;-2;;;Bnaha Carapace;2;Bnahabra Wing;4;Monster Broth;1;King Scarab;2
+Bnahabra Coat S;4;-1;1;0;2;4;16;-3;3;5;-1;-1;Status;4;Reload Speed;1;Paralysis;2;Attack;-4;;;Bnaha Carapace;2;Bnahabra Wing;4;Monster Broth;1;King Scarab;2
+Rhenoplos Coil S;4;-1;1;0;1;4;32;2;-2;1;-2;-2;Stam Recov;1;Artillery;4;Stun;-2;Defense;4;;;Rheno Carapace;1;Rhenoplos Scalp;1;Ice Crystal;3;;
+Rhenoplos Coat S;4;-1;1;0;2;4;16;3;-1;2;-1;-1;Stam Recov;1;Precision;4;Stun;-2;Defense;4;;;Rheno Carapace;1;Rhenoplos Scalp;1;Ice Crystal;3;;
+Jaggi Faulds S;4;-1;1;0;1;4;35;-4;-2;1;-2;-2;Attack;2;Expert;3;Rec Speed;4;LastingPwr;-2;;;G.Jaggi Hide+;4;King's Frill;2;Jaggi Scale+;4;Dragonite Ore;2
+Jaggi Coat S;4;-1;1;0;2;4;18;-2;-1;2;-1;-1;Attack;1;Expert;3;Rec Speed;4;LastingPwr;-3;;;G.Jaggi Hide+;4;King's Frill;2;Jaggi Scale+;4;Dragonite Ore;2
+Arzuros Faulds S;4;-1;1;0;1;4;35;-3;-1;1;1;-2;Protection;4;Defense;3;Stun;3;Paralysis;-1;;;Arzuros Pelt+;5;Stout Bone;2;Arzuros Shell;3;Hercudrome;3
+Arzuros Coat S;4;-1;1;0;2;4;18;-2;0;3;2;-1;Protection;3;Defense;3;Stun;3;Paralysis;-2;;;Arzuros Pelt+;5;Stout Bone;2;Arzuros Shell;3;Hercudrome;3
+Steel Belt S;5;-1;2;0;1;4;41;2;-2;0;0;2;Guard;2;Sharpener;4;Antiseptic;3;;;;;Gracium;4;Carbalite Ore;7;Dragonite Ore;5;Machalite Ore;8
+Wroggi Faulds S;4;-1;2;0;1;4;38;2;1;0;-2;-4;Constitutn;2;Eating;2;Defense;-2;Status;3;;;Wroggi Scale+;4;Wroggi Hide;7;Avian Finebone;5;Bathycite Ore;3
+Wroggi Coat S;4;-1;2;0;2;4;20;4;2;0;-1;-2;Constitutn;2;Eating;2;Defense;-2;Status;3;;;Wroggi Scale+;4;Wroggi Hide;7;Avian Finebone;5;Bathycite Ore;3
+Lagombi Faulds S;5;-1;0;0;1;4;38;-4;-2;1;2;2;Evasion;4;Attack;3;Fire Res;-2;Ice Atk;4;;;Lagombi Pelt+;3;Lagombi Claw+;2;Stout Bone;3;Hercudrome;8
+Lagombi Coat S;5;-1;0;0;2;4;20;-2;-1;3;3;4;Evasion;4;Attack;2;Fire Res;-3;Ice Atk;4;;;Lagombi Pelt+;3;Lagombi Claw+;2;Stout Bone;3;Hercudrome;8
+Qurupeco Coil S;4;-1;2;0;1;5;35;2;-1;2;-2;-4;Wide-Range;3;Psychic;3;Fire Atk;1;Ice Res;-2;;;Qurupeco Wing;2;Qurupeco Scale+;3;Monster Keenbone;1;Killer Beetle;5
+Qurupeco Coat S;4;-1;2;0;2;5;18;4;0;4;-1;-3;Wide-Range;4;Psychic;2;Fire Atk;1;Ice Res;-2;;;Qurupeco Wing;2;Qurupeco Scale+;3;Monster Keenbone;1;Killer Beetle;5
+Ludroth Faulds S;4;-1;2;0;1;5;38;-4;-2;1;2;-2;Stamina;2;Water Atk;2;Stun;4;Thundr Atk;-1;;;Hydro Hide+;4;Immature Sponge;6;Monster Keenbone;2;King Scarab;2
+Ludroth Coat S;4;-1;2;0;2;5;20;-2;-1;2;4;-1;Stamina;2;Water Atk;2;Stun;3;Thundr Atk;-2;;;Hydro Hide+;4;Immature Sponge;6;Monster Keenbone;2;King Scarab;2
+Barroth Faulds S;4;-1;2;0;1;5;41;4;2;0;-4;-3;Guard;2;Constitutn;1;Hunger;-3;Attack;3;;;Barroth Carapace;2;Barroth Ridge+;3;Monster Bone+;2;Bulldrome Hide;5
+Barroth Coat S;4;-1;2;0;2;5;22;4;4;0;-4;-1;Normal Up;2;Recoil;1;Hunger;-3;Attack;3;;;Barroth Carapace;2;Barroth Ridge+;3;Monster Bone+;2;Bulldrome Hide;5
+Ingot Coil S;5;-1;1;0;1;5;47;-2;1;0;-2;-2;Wind Res;2;Expert;3;Whim;-2;Tremor Resistance;4;;;Fucium Ore;2;Firecell Stone;2;Carbalite Ore;5;Lava Nugget;2
+Ingot Coat S;5;-1;1;0;2;5;26;-1;2;0;-1;-1;Pellet Up;2;Pellet S+;3;Whim;-2;Pierce S+;4;;;Fucium Ore;2;Firecell Stone;2;Carbalite Ore;5;Lava Nugget;2
+Baggi Coil S;5;-1;0;0;1;5;41;-4;-1;1;-1;2;Rec Speed;4;Rec Level;3;Fire Res;-2;Ice Res;4;;;G.Baggi Hide+;3;King's Crest;1;Baggi Scale+;6;Lightcrystal;2
+Baggi Coat S;5;-1;1;0;2;5;22;-2;0;2;0;4;Rec Speed;2;Rec Level;2;Fire Res;-3;Ice Res;4;;;G.Baggi Hide+;3;King's Crest;1;Baggi Scale+;6;Lightcrystal;2
+Volvidon Faulds S;5;-1;2;0;1;5;41;2;-1;2;-4;-2;Evasion;2;Fire Res;1;Water Res;-2;Defense;4;;;Volvi Carapace;3;Volvi Rickrack;4;Monster Broth;3;Firestone;2
+Rangura Coat S;5;-1;2;0;2;5;22;4;0;4;-2;-1;Evasion;1;Fire Res;1;Water Res;-3;Defense;4;;;Volvi Carapace;3;Volvi Rickrack;4;Monster Broth;3;Firestone;2
+Rathian Faulds S;5;-1;1;0;1;5;44;2;-2;-4;0;0;Health;4;Rec Speed;2;Water Atk;-2;Protection;3;;;Rathian Scale+;3;Rathian Webbing;4;Rathian Ruby;1;Firestone;2
+Rathian Coat S;5;-1;1;0;2;5;24;4;-1;-3;0;1;Health;2;Rec Speed;3;Water Atk;-3;Protection;3;;;Rathian Scale+;3;Rathian Webbing;4;Rathian Ruby;1;Firestone;2
+Nibelsnarf Faulds S;5;-1;2;0;1;5;44;2;-2;0;-1;-3;Eating;2;Sheathing;1;Thundr Atk;-3;Gluttony;3;;;Nibelsnarf Claw+;2;Nibelsnarf Hide+;3;Vivid Fluid;4;G.Wroggi Brace+;3
+Nibelsnarf Coat S;5;-1;2;0;2;5;24;4;-1;0;0;-2;Eating;1;Sheathing;2;Thundr Atk;-3;Gluttony;3;;;Nibelsnarf Claw+;2;Nibelsnarf Hide+;3;Vivid Fluid;4;G.Wroggi Brace+;3
+Gigginox Faulds S;5;-1;1;0;1;5;44;-4;3;-2;0;3;Status;3;Sharpness;2;Combo Rate;-2;Hunger;4;;;Gigginox Hide+;5;Grim Venom Gland;3;Uncanny Hide;2;Isisium;6
+Gigginox Coat S;5;-1;1;0;2;5;24;-2;4;-1;0;4;Status;2;Pierce S+;3;Combo Rate;-2;Hunger;4;;;Gigginox Hide+;5;Grim Venom Gland;3;Uncanny Hide;2;Isisium;6
+Nargacuga Faulds S;5;-1;2;0;1;5;47;-3;-4;-1;1;0;Evade Dist;3;Sense;1;Stamina;-2;SpeedSetup;3;;;Nargacuga Pelt+;5;Nargacuga Tail;1;Narga Razor+;3;Arzuros Carapace;4
+Nargacuga Coat S;5;-1;2;0;2;5;26;-1;-2;0;3;1;Evade Dist;1;Sense;2;Stamina;-3;SpeedSetup;3;;;Nargacuga Pelt+;5;Nargacuga Tail;1;Narga Razor+;3;Arzuros Carapace;4
+Barioth Faulds S;5;-1;0;0;1;5;47;-4;-3;-1;1;2;Evasion;5;Ice Atk;3;Stam Recov;-2;Stamina;3;;;Amber Tusks+;2;Barioth Spike;4;Monster Keenbone;4;Lagombi Plastron;4
+Barioth Coat S;5;-1;0;0;2;5;26;-2;-1;0;2;4;Evasion;2;Ice Atk;5;Stam Recov;-3;Stamina;3;;;Amber Tusks+;2;Barioth Spike;4;Monster Keenbone;4;Lagombi Plastron;4
+Rathalos Faulds S;5;-1;2;0;1;5;50;2;-2;-4;-1;-1;Tenderizer;1;Sharpener;3;Rec Level;-2;Fire Atk;3;;;Rath Carapace;6;Rathalos Webbing;4;Rathalos Plate;1;Fucium Ore;2
+Rathalos Coat S;5;-1;2;0;2;5;28;4;-1;-2;0;0;Tenderizer;1;Rapid Fire;2;Rec Level;-3;Fire Atk;3;;;Rath Carapace;6;Rathalos Webbing;4;Rathalos Plate;1;Fucium Ore;2
+Uragaan Faulds S;5;-1;3;0;1;5;50;2;1;-3;-5;-2;PunishDraw;1;Crit Draw;1;Water Res;-3;Fire Res;2;;;Uragaan Scale+;6;Uragaan Ruby;1;Uragaan Shell;4;Volvidon Shell;5
+Uragaan Coat S;5;-1;3;0;2;5;28;4;2;-2;-4;-1;Pierce Up;2;Recoil;1;Water Res;-2;Fire Res;2;;;Uragaan Scale+;6;Uragaan Ruby;1;Uragaan Shell;4;Volvidon Shell;5
+Dober Coil;6;-1;0;0;1;6;50;-2;0;4;0;0;Stam Recov;5;Dragon Atk;3;Evasion;2;Hunger;-3;;;Dragonbone Relic;3;Zinogre Claw+;3;Stout Bone;5;Monster Bone M;10
+Dober Coat;6;-1;0;0;2;6;28;-1;0;5;0;0;Stam Recov;4;Dragon Atk;5;Evasion;2;Hunger;-2;;;Dragonbone Relic;3;Zinogre Claw+;3;Stout Bone;5;Monster Bone M;10
+Zinogre Faulds S;6;-1;1;0;1;5;53;-1;4;0;-2;-3;Gloves Off;2;Thundr Atk;6;Evade Dist;1;Sense;-2;;;Zinogre Carapace;5;Zin Electrofur+;3;Zinogre Tail;1;Zinogre Plate;1
+Zinogre Coat S;6;-1;1;0;2;5;30;0;5;0;-1;-1;Gloves Off;4;Thundr Atk;3;Evade Dist;2;Sense;-2;;;Zinogre Carapace;5;Zin Electrofur+;3;Zinogre Tail;1;Zinogre Plate;1
+Diablos Coil S;6;-1;2;0;1;5;53;2;-1;-1;-1;-3;Crit Draw;2;Sheathing;4;Tremor Resistance;2;Status;-1;;;Diablos Ridge+;6;Diablos Fang;6;Diablos Medulla;1;Rheno Carapace;6
+Diablos Coat S;6;-1;2;0;2;5;30;4;0;0;0;-2;Pierce Up;1;Normal S+;3;Sheathing;2;Status;-3;;;Diablos Ridge+;6;Diablos Fang;6;Diablos Medulla;1;Rheno Carapace;6
+Tigrex  Tasset S;6;-1;2;0;1;5;53;2;-4;-2;-1;0;Hearing;2;Stamina;3;Gluttony;2;Protection;-2;;;Tigrex Carapace;6;Tigrex Scale+;5;Wyvern Stone;1;Hydro Hide+;3
+Tigrex Coat S;6;-1;2;0;2;5;30;3;-2;-1;0;0;Hearing;2;Stamina;1;Gluttony;5;Protection;-1;;;Tigrex Carapace;6;Tigrex Scale+;5;Wyvern Stone;1;Hydro Hide+;3
+Agnaktor Faulds S;6;-1;1;0;1;5;53;4;0;-4;-4;-2;Constitutn;3;Sharpness;2;Water Atk;-2;Fire Res;4;;;Agnaktor Fin+;3;Agnaktor Scale;5;Uroktor Scale+;8;G.Wroggi Hide;5
+Agnaktor Coat S;6;-1;1;0;2;5;30;5;0;-2;-2;-1;Normal Up;2;Precision;4;Water Atk;-1;Fire Res;4;;;Agnaktor Fin+;3;Agnaktor Scale;5;Uroktor Scale+;8;G.Wroggi Hide;5
+Duramboros Faulds S;6;-1;1;0;1;5;53;-3;-2;0;1;-2;Destroyer;2;Potential;5;Expert;-1;Health;3;;;Hard Mossplate;4;Duram Carapace;6;Duram Sacrum;1;Slagtoth Hide;6
+Doburu Coat S;6;-1;1;0;2;5;30;-2;-1;0;3;-1;Destroyer;2;Potential;5;Expert;-1;Health;3;;;Hard Mossplate;4;Duram Carapace;6;Duram Sacrum;1;Slagtoth Hide;6
+Qurupeco Coil U;5;-1;1;0;1;6;38;-3;4;2;-1;-5;Wide-Range;1;Eating;3;Thundr Atk;5;Ice Atk;-2;;;C.Peco Wing;3;C.Peco Scale+;3;Monster Keenbone;1;Hercudrome;3
+Qurupeco Coat U;5;-1;1;0;2;6;20;-2;5;3;0;-3;Wide-Range;1;Eating;2;Thundr Atk;5;Ice Atk;-3;;;C.Peco Wing;3;C.Peco Scale+;3;Monster Keenbone;1;Hercudrome;3
+Ludroth Faulds U;4;-1;3;0;1;6;41;-4;-2;1;2;0;Stamina;2;Status;1;Water Res;1;ThunderRes;-3;;;Plum Spongy Hide;3;Immature Sponge;6;Monster Keenbone;2;King Scarab;2
+Ludroth Coat U;4;-1;3;0;2;6;22;-2;-1;2;4;1;Stamina;2;Status;2;Water Res;1;ThunderRes;-2;;;Plum Spongy Hide;3;Immature Sponge;6;Monster Keenbone;2;King Scarab;2
+Barroth Faulds U;5;-1;0;0;1;6;44;-5;-2;0;2;3;KO;4;Ice Atk;2;Fire Atk;-2;Stam Drain;5;;;J.Barr Carapace;3;J.Barroth Ridge+;4;Monster Keenbone;2;Lagombi Pelt+;4
+Barroth Coat U;5;-1;0;0;2;6;24;-4;-1;0;3;5;Pierce Up;3;Ice Atk;5;Fire Atk;-3;KO;2;;;J.Barr Carapace;3;J.Barroth Ridge+;4;Monster Keenbone;2;Lagombi Pelt+;4
+Gigginox Faulds U;5;-1;2;0;1;6;47;0;4;-2;-4;3;FastCharge;1;Stam Drain;2;Ice Atk;-2;Stamina;4;;;B.Giggi Hide+;4;B.Giggi Claw+;1;Thunder Sac;4;Isisium;6
+Gigginox Coat U;5;-1;2;0;2;6;26;0;5;-1;-2;4;FastCharge;1;Stam Drain;2;Ice Atk;-2;Stamina;4;;;B.Giggi Hide+;4;B.Giggi Claw+;1;Thunder Sac;4;Isisium;6
+Nargacuga Faulds U;5;-1;0;0;1;6;50;-3;-4;-1;1;0;Stamina;2;Perception;6;Constitutn;-2;Evasion;3;;;G.Narga Pelt+;6;Narga Tailspike;5;Wyvern Stone;1;King Scarab;6
+Nargacuga Coat U;5;-1;1;0;2;6;28;-1;-2;0;3;1;Stamina;2;Perception;4;Constitutn;-2;Evasion;3;;;G.Narga Pelt+;6;Narga Tailspike;5;Wyvern Stone;1;King Scarab;6
+Barioth Faulds U;5;-1;3;0;1;6;50;2;-3;0;1;-4;Evade Dist;1;Constitutn;3;Sense;1;Evasion;-2;;;Indigo Tusks+;2;Rugged Pleura;5;Wyvern Stone;1;Rheno Carapace;6
+Barioth Coat U;5;-1;3;0;2;6;28;4;-1;0;2;-2;Evade Dist;1;Constitutn;3;Sense;1;Evasion;-2;;;Indigo Tusks+;2;Rugged Pleura;5;Wyvern Stone;1;Rheno Carapace;6
+Uragaan Faulds U;5;-1;0;0;1;6;53;3;1;-3;-5;-2;Guard;1;Stam Recov;4;Bomb Boost;5;Dragon Res;-3;;;S.Uragaan Scute;3;S.Uragaan Scale+;4;S.Urag Carapace;4;Firecell Stone;1
+Uragaan Coat U;5;-1;0;0;2;6;30;5;2;-2;-4;-1;Pellet Up;4;Stam Recov;3;Bomb Boost;4;Dragon Res;-2;;;S.Uragaan Scute;3;S.Uragaan Scale+;4;S.Urag Carapace;4;Firecell Stone;1
+Diablos Coil U;6;-1;3;0;1;6;56;2;-1;-1;-1;-3;PunishDraw;1;KO;2;Stam Drain;2;Dragon Atk;-2;;;B.Diablos Ridge+;6;B.Diab Carapace;5;Diablos Fang;6;Quality Sac;3
+Diablos Coat U;6;-1;3;0;2;6;32;4;0;0;0;-2;Recoil;1;Reload Speed;1;Normal S+;3;Dragon Atk;-2;;;B.Diablos Ridge+;6;B.Diab Carapace;5;Diablos Fang;6;Quality Sac;3
+Tigrex Faulds U;6;-1;3;0;1;6;56;2;-2;-1;-4;0;Hearing;2;FastCharge;2;Psychic;1;Protection;-2;;;B.Tigrex Shell+;4;B.Tigrex Scale+;6;Wyvern Stone;1;Uroktor Scale;8
+Tigrex Coat U;6;-1;3;0;2;6;32;4;-1;0;-2;0;Hearing;1;FastCharge;2;Psychic;2;Protection;-2;;;B.Tigrex Shell+;4;B.Tigrex Scale+;6;Wyvern Stone;1;Uroktor Scale;8
+Agnaktor Faulds U;6;-1;3;0;1;6;56;-4;-2;-4;2;3;Guard;1;Guard Up;1;Fire Atk;-3;Water Res;2;;;G.Agnak Fin+;2;G.Agnak Tail;1;G.Agnak Hide+;4;G.Baggi Claw;3
+Agnaktor Coat U;6;-1;3;0;2;6;32;-2;-1;-2;4;5;Reload Speed;1;Pierce S+;1;Fire Atk;-3;Water Res;2;;;G.Agnak Fin+;2;G.Agnak Tail;1;G.Agnak Hide+;4;G.Baggi Claw;3
+Golden Lunecoil;6;-1;3;0;1;7;56;2;-4;3;-2;0;Destroyer;1;Protection;1;Fate;3;ThunderRes;-2;;;G.Rathian Scale+;5;Rathian Webbing;5;Rath Gleem;3;Firecell Stone;2
+Golden Lunecoat;6;-1;3;0;2;7;32;4;-3;4;-1;0;Destroyer;1;Protection;1;Fate;3;ThunderRes;-2;;;G.Rathian Scale+;5;Rathian Webbing;5;Rath Gleem;3;Firecell Stone;2
+Silver Solcoil;6;-1;2;0;1;7;56;2;-4;3;-2;0;Tenderizer;3;Sharpness;3;Attack;2;Health;-1;;;S.Rath Carapace;5;Rathalos Webbing;3;Rathalos Plate;2;Inferno Sac;3
+Silver Solcoat;6;-1;2;0;2;7;32;4;-3;4;-1;0;Tenderizer;3;Normal Up;3;Attack;2;Health;-1;;;S.Rath Carapace;5;Rathalos Webbing;3;Rathalos Plate;2;Inferno Sac;3
+Vangis Coil;6;-1;0;0;1;7;59;0;-4;-4;0;1;Torso Up;1;;;;;;;;;Deviljho Hide;4;Deviljho Gem;1;Deviljho Scale;6;Duram Tailbone;1
+Vangis Coat;6;-1;0;0;2;7;34;0;-2;-2;0;3;Torso Up;1;;;;;;;;;Deviljho Hide;4;Deviljho Gem;1;Deviljho Scale;6;Duram Tailbone;1
+Ranger's Sash;6;-1;2;0;1;5;47;0;0;0;0;0;Carving;4;Expert;2;Rec Level;1;Fate;-2;;;Mohran Scale+;6;Mohran Shell;2;Torrent Sac;4;Yukumo Ticket;3
+Archer's Belt;6;-1;2;0;2;5;26;0;0;0;0;0;Carving;3;Expert;1;Rec Level;2;Fate;-3;;;Mohran Scale+;6;Mohran Shell;2;Torrent Sac;4;Yukumo Ticket;3
+Guild Bard Coil S;6;-1;3;1;1;5;44;0;0;0;0;0;Tranquilzr;1;Perception;2;Wide-Range;2;Fate;-2;;;Commendation+;1;Drink Ticket;2;Gracium;4;Rugged Pleura;4
+Guild Bard Coat S;6;-1;3;1;2;5;24;0;0;0;0;0;Tranquilzr;1;Perception;1;Wide-Range;2;Fate;-3;;;Commendation+;1;Drink Ticket;2;Gracium;4;Rugged Pleura;4
+Scholar's Skirt S;6;-1;3;2;1;5;44;0;0;0;0;0;Tranquilzr;1;Perception;2;Wide-Range;2;Fate;-2;;;Commendation+;1;Drink Ticket;2;Gracium;4;Rugged Pleura;4
+Scholar's Mini S;6;-1;3;2;2;5;24;0;0;0;0;0;Tranquilzr;1;Perception;1;Wide-Range;2;Fate;-3;;;Commendation+;1;Drink Ticket;2;Gracium;4;Rugged Pleura;4
+Mosgharl Folia S;4;-1;0;0;1;5;32;-4;0;0;1;2;FastCharge;4;SpeedSetup;2;Guard;-1;LastingPwr;6;;;King Scarab;4;Bumblepumpkin;5;Bnaha Carapace;4;Snow Herb;15
+Mosgharl Folia S;4;-1;0;0;1;5;32;-4;0;0;1;2;FastCharge;4;SpeedSetup;2;Guard;-1;LastingPwr;6;;;King Scarab;4;Bumblepumpkin;5;Bnaha Carapace;4;Snow Herb;15
+Mosgharl Fronds S;4;-1;0;0;2;5;16;-2;0;0;2;4;FastCharge;4;SpeedSetup;1;Precision;-2;LastingPwr;6;;;King Scarab;4;Bumblepumpkin;5;Bnaha Carapace;4;Snow Herb;15
+Mosgharl Fronds S;4;-1;0;0;2;5;16;-2;0;0;2;4;FastCharge;4;SpeedSetup;1;Precision;-2;LastingPwr;6;;;King Scarab;4;Bumblepumpkin;5;Bnaha Carapace;4;Snow Herb;15
+Viking Faulds S;4;-1;1;0;1;5;38;0;-2;0;3;-2;Sharpness;2;Sheathing;1;Sharpener;-3;Rec Speed;5;;;Bathycite Ore;2;Armored Beakfish;5;Scatterfish;5;Sushifish;20
+Viking Coat S;4;-1;1;0;2;5;20;0;-1;0;5;-4;Normal Up;2;Sheathing;3;Reload Speed;-1;Rec Speed;5;;;Bathycite Ore;2;Armored Beakfish;5;Scatterfish;5;Sushifish;20
+Aelucanth Elytra S;5;-1;1;1;1;5;44;-5;3;1;0;-1;Hearing;3;ThunderRes;3;Protection;-1;Stun;4;;;Rare Scarab;2;Butterfly Beetle;3;Flashbug;10;Stinkhopper;10
+Aelucanth Alae S;5;-1;1;1;2;5;24;-4;5;3;0;0;Hearing;2;ThunderRes;4;Protection;-1;Stun;4;;;Rare Scarab;2;Butterfly Beetle;3;Flashbug;10;Stinkhopper;10
+Rhopessa Elytra S;5;-1;1;2;1;5;44;-5;3;1;0;-1;Hearing;3;ThunderRes;3;Protection;-1;Stun;4;;;Rare Scarab;2;Butterfly Beetle;3;Flashbug;10;Stinkhopper;10
+Rhopessa Alae S;5;-1;1;2;2;5;24;-4;5;3;0;0;Hearing;2;ThunderRes;4;Protection;-1;Stun;4;;;Rare Scarab;2;Butterfly Beetle;3;Flashbug;10;Stinkhopper;10
+Dianthus Skirt;4;6;1;2;1;5;38;0;0;0;0;0;Wide-Range;4;Psychic;4;Perception;1;Poison;-2;;;Yukumo Wood+;3;Comrade Ticket;2;Armored Beakfish;5;Humspun Conch;3
+Bellflower Skirt;4;6;1;2;2;5;20;0;0;0;0;0;Wide-Range;5;Psychic;2;Perception;3;Poison;-1;;;Yukumo Wood+;3;Comrade Ticket;2;Armored Beakfish;5;Humspun Conch;3
+Damascus Coil;6;-1;3;0;1;6;59;-2;-3;-1;2;1;Handicraft;2;Thundr Atk;1;Sharpener;2;Sharpness;-2;;;Mohran Carapace;6;G.Rathian Scale+;4;S.Rath Scale+;4;Sturdy Fang;1
+Damascus Coat;6;-1;3;0;2;6;34;-1;-2;0;3;3;Loading;2;Pellet Up;2;Thundr Atk;1;Recoil;-2;;;Mohran Carapace;6;G.Rathian Scale+;4;S.Rath Scale+;4;Sturdy Fang;1
+Grand Y. Koshiate;6;-1;0;1;1;7;59;3;0;-3;0;-3;FastCharge;3;Fencing;3;Expert;6;Rec Speed;-1;;;Mohran Brace+;4;Mohran Carapace;6;Mohran Scale;5;Rathalos Plate;1
+Grand Mutsu Koshiate;6;-1;0;1;2;7;34;5;1;-2;1;-2;FastCharge;1;Pierce Up;4;Expert;6;Rec Speed;-2;;;Mohran Brace+;4;Mohran Carapace;6;Mohran Scale;5;Rathalos Plate;1
+Grand Hyuga Koshiate;6;-1;0;2;1;7;59;3;0;-3;0;-3;FastCharge;3;Fencing;3;Expert;6;Rec Speed;-1;;;Mohran Brace+;4;Mohran Carapace;6;Mohran Scale;5;Rathalos Plate;1
+Grand Amagi Koshiate;6;-1;0;2;2;7;34;5;1;-2;1;-2;FastCharge;1;Pierce Up;4;Expert;6;Rec Speed;-2;;;Mohran Brace+;4;Mohran Carapace;6;Mohran Scale;5;Rathalos Plate;1
+Dark A. Cincture;6;-1;0;0;1;7;62;4;-3;-5;0;2;Destroyer;4;Hearing;5;Fire Atk;2;Protection;-2;;;Akantor Shell;5;Akantor Fang;3;Akantor Tail;1;Rathian Ruby;1
+Dark Akantor Sash;6;-1;0;0;2;7;36;5;-2;-4;-1;4;Destroyer;4;Hearing;4;Fire Atk;3;Protection;-2;;;Akantor Shell;5;Akantor Fang;3;Akantor Tail;1;Rathian Ruby;1
+Ukanlos Cincture;6;-1;1;0;1;7;62;-5;-3;-2;0;4;Tenderizer;4;Fencing;2;FastCharge;-1;Sharpness;4;;;Ukanlos Shell;6;Ukanlos Claw;3;Ukanlos Jewel;1;Barioth Claw+;1
+Ukanlos Sash;6;-1;1;0;2;7;36;-4;-1;-1;0;5;Tenderizer;2;Rapid Fire;3;FastCharge;-2;Normal Up;4;;;Ukanlos Shell;6;Ukanlos Claw;3;Ukanlos Jewel;1;Barioth Claw+;1
+Escadora Might;6;-1;3;0;1;7;62;3;1;-4;0;-3;ElementAtk;1;Blight Res;2;Evade Dist;2;Potential;-2;;;Alatreon Webbing;1;Alatreon Tail;1;Alatreon Plate;5;Tigrex Scalp;3
+Escadora Force;6;-1;3;0;2;7;36;3;3;-2;1;-3;ElementAtk;1;Blight Res;2;Evade Dist;2;Potential;-2;;;Alatreon Webbing;1;Alatreon Tail;1;Alatreon Plate;5;Tigrex Scalp;3
+Storm Waist;6;-1;3;0;1;7;62;-3;0;-5;4;0;Gloves Off;2;Handicraft;1;Water Atk;2;Eating;-2;;;Amatsu Tail;1;Amatsu Patagium;4;Amatsu Shell;5;Narga Medulla;1
+Sky Sash;6;-1;3;0;2;7;36;-2;0;-4;5;0;Gloves Off;2;Loading;1;Water Atk;3;Eating;-2;;;Amatsu Tail;1;Amatsu Patagium;4;Amatsu Shell;5;Narga Medulla;1
+Chakra Waistlet;4;6;3;0;0;5;14;0;3;0;0;-3;;;;;;;;;;;Carbalite Ore;3;Lightcrystal;2;;;;
+Pirate J Coil;6;-1;0;0;1;7;26;-3;-3;-3;-3;-3;Carving;4;Fate;3;Tranquilzr;3;Protection;-3;;;Legend J Ticket;1;B.Giggi Claw+;2;S.Uragaan Scute;3;Agnaktor Hide+;4
+Pirate J Skirt;6;-1;0;0;2;7;13;-2;-2;-2;-2;-2;Carving;3;Fate;3;Tranquilzr;4;Protection;-3;;;Legend J Ticket;1;B.Giggi Claw+;2;S.Uragaan Scute;3;Agnaktor Hide+;4
+Snake Belt;6;-1;2;1;1;7;47;1;1;1;1;1;FastCharge;2;Constitutn;3;SpeedSetup;2;Hunger;-2;;;Big Boss Title;1;Nibelsnarf Claw+;1;Wyvern Stone;1;Duram Carapace;3
+Snake Band;6;-1;1;1;2;7;26;2;2;2;2;2;Loading;3;Precision;4;SpeedSetup;2;Hunger;-2;;;Big Boss Title;1;Nibelsnarf Claw+;1;Wyvern Stone;1;Duram Carapace;3
+The Boss Belt;6;-1;2;2;1;7;47;1;1;1;1;1;Sense;2;FastCharge;2;Psychic;3;ElementAtk;-2;;;Big Boss Title;1;Nibelsnarf Claw+;1;Wyvern Stone;1;Duram Carapace;3
+The Boss Band;6;-1;1;2;2;7;26;2;2;2;2;2;Sense;2;Loading;3;Psychic;4;ElementAtk;-2;;;Big Boss Title;1;Nibelsnarf Claw+;1;Wyvern Stone;1;Duram Carapace;3
+UNIQLO Belt;6;-1;2;0;1;7;47;-3;0;0;1;4;Hearing;2;Evade Dist;3;Cold Res;2;Eating;-2;;;UNIQLO Ticket;1;B.Tigrex Scale+;4;Zinogre Shocker+;1;Zinogre Jasper;1
+UNIQLO Pouch;6;-1;2;0;2;7;26;-4;0;0;2;5;Hearing;1;Evade Dist;4;Cold Res;2;Eating;-2;;;UNIQLO Ticket;1;B.Tigrex Scale+;4;Zinogre Shocker+;1;Zinogre Jasper;1
+Bouya's Belt;4;-1;0;0;1;7;47;0;0;0;0;0;Attack;5;Stam Recov;4;Sense;-4;;;;;Lily Proof;2;Rathalos Tail;2;Tigrex Tail;2;Nargacuga Tail;2
+Bouya's Buckle;4;-1;0;0;2;7;26;1;1;1;1;1;Attack;5;Stam Recov;4;Sense;-4;;;;;Lily Proof;2;Rathalos Tail;2;Tigrex Tail;2;Nargacuga Tail;2
+Bouya's Belt;4;-1;0;0;1;7;47;0;0;0;0;0;Attack;5;Stam Recov;4;Sense;-4;;;;;Lily Proof;2;Rathalos Tail;2;Tigrex Tail;2;Nargacuga Tail;2
+Bouya's Buckle;4;-1;0;0;2;7;26;1;1;1;1;1;Attack;5;Stam Recov;4;Sense;-4;;;;;Lily Proof;2;Rathalos Tail;2;Tigrex Tail;2;Nargacuga Tail;2

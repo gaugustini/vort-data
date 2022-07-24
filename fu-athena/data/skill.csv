@@ -1,0 +1,319 @@
+key;value
+";Armor Skills:";";Armor Skills:"
+Attack;Attack
+Defence;Defense
+Health;Health
+All Resist;All Resist
+Ice Res;Ice Res
+Water Res;Water Res
+ThunderRes;ThunderRes
+Dragon Res;Dragon Res
+Fire Res;Fire Res
+Faint;Faint
+Poison;Poison
+Paralysis;Paralysis
+Sleep;Sleep
+Antiseptic;Antiseptic
+Fatigue;Fatigue
+Snow Res;Snow Res
+Quake Res;Quake Res
+HearProtct;HearProtct
+WindPress;WindPress
+Anti-Theft;Anti-Theft
+Status Res;ResistSts
+FireDrgRes;AntiFirDrg
+Daora Res;AntiDaora
+ChmleosRes;AntiChamel
+Artisan;Artisan
+Sharpness;Sharpness
+Fencing;Fencing
+SwdShrpner;SwdShrpner
+Guard;Guard
+Auto-Guard;Auto-Guard
+Drawn Crit;Sword Draw
+SwdMastery;Edgemaster
+NormalS Up;NormalS Up
+PierceS Up;PierceS Up
+PelletS Up;PelletS Up
+NormalSAdd;NormalSAdd
+PierceSAdd;PierceSAdd
+PelletSAdd;PelletSAdd
+CragS Add;Crag S Add
+ClustS Add;ClustS Add
+Load;Reload
+Speed Fire;AutoReload
+Recoil;Recoil
+Precision;Precision
+PoisnCtAdd;PoisonCAdd
+Para CtAdd;ParalyCAdd
+SleepCtAdd;SleepCAdd
+PowerCtAdd;PowerCAdd
+RazorCtAdd;ClsRngCAdd
+Marksman;SteadyHand
+Expert;Expert
+Spc Attack;Spc Attack
+ElementAtk;ElementAtk
+Rec Speed;Rec Speed
+Protection;Protection
+Guard Up;Guard Up
+Evade;Evade
+Evade Inc;Evade Dist
+Potential;Potential
+Gunnery;Gunnery
+Loading;Capacity
+Fast Chrge;ShortCharg
+Survival;Guts
+Rage;Fury
+Map;Map
+PsychicVis;PsychicVis
+Gathering;Gathering
+Carving;Carving
+HiSpdGathr;HiSpdGathr
+Backpackng;Backpackng
+Whim;Whim
+Fishing;Fishing
+Heat Res;Heat Res
+Cold Res;Cold Res
+Terrain;Terrain
+Stamina;Stamina
+Technique;Constitutn
+Hunger;Hunger
+Sneak;Sneak
+Fate;Fate
+Set Trap;SpeedSetup
+Trapper;Tranquilzr
+Observance;Perceive
+Recovery;Recovery
+Everlastng;Everlastng
+Wide Area;Wide Area
+Throw;Throw
+BombStrUp;BombStrUp
+Gluttony;Gluttony
+Cooking;Cooking
+BBQ;BBQ
+Horn;Horn
+MixSucRate;MixSucRate
+Shot Mix;Shot Mix
+Alchemy;Alchemy
+FlyneGuide;ComrdGuide
+Flyne Atk;ComradeAtk
+Flyne Def;ComradeDef
+Torso Inc;Torso Inc
+";the following blank line separates the two kinds of armor skills.";";the following blank line separates the two kinds of armor skills."
+";Resulting Skills:";";Resulting Skills:"
+Attack Up (Large);Attack Up (Large)
+Attack Up (Medium);Attack Up (Medium)
+Attack Up (Small);Attack Up (Small)
+Attack Dwn (Small);Attack Down (Small)
+Attack Dwn (Medium);Attack Down (Medium)
+Attack Dwn (Large);Attack Down (Large)
+Defence +40;Defense +40
+Defence +30;Defense +30
+Defence +20;Defense +20
+Defence -20;Defense -20
+Defence -30;Defense -30
+Defence -40;Defense -40
+Health +50;Health +50
+Health +30;Health +30
+Health +20;Health +20
+Health -10;Health -10
+Health -20;Health -20
+Health -30;Health -30
+All Resist +10;All Res +10
+All Resist +5;All Res +5
+All Resist +3;All Res +3
+All Resist -3;All Res -3
+All Resist -5;All Res -5
+All Resist -10;All Res -10
+Ice Res +10;Ice Res +10
+Ice Res +5;Ice Res +5
+Ice Res -5;Ice Res -5
+Ice Res -10;Ice Res -10
+Water Res +10;Water Res +10
+Water Res +5;Water Res +5
+Water Res -5;Water Res -5
+Water Res -10;Water Res -10
+Thunder Res +10;Thunder Res +10
+Thunder Res +5;Thunder Res +5
+Thunder Res -5;Thunder Res -5
+Thunder Res -10;Thunder Res -10
+Dragon Res +10;Dragon Res +10
+Dragon Res +5;Dragon Res +5
+Dragon Res -5;Dragon Res -5
+Dragon Res -10;Dragon Res -10
+Fire Resist +10;Fire Res +10
+Fire Resist +5;Fire Res +5
+Fire Resist -5;Fire Res -5
+Fire Resist -10;Fire Res -10
+Faint Negated;Faint Negated
+Faint Prob Halved;Faint Prob Halved
+Faint Duration [x2];Faint Duration[x2]
+Poison Negated;Poison Negated
+Poison Dur Halved;Poison Dur Halved
+Poison Duration[x2];Poison Dur[x2]
+Paralysis Negated;Paralysis Negated
+Para Duration Halved;Para Duration Halved
+Para Duration[x2];Para Duration[x2]
+Sleep Negated;Sleep Negated
+Sleep Dur Halved;Sleep Dur Halved
+Sleep Duration[x2];Sleep Dur[x2]
+Antiseptic;Antiseptic
+Fatigue Cancellation;Fatigue Cancellation
+Snow Res;Snow Res
+Quake Res;Quake Res
+High Grade Earplug;High Grade Earplug
+Earplug;Earplug
+Dragon Wind Breaker;Dragon Wind Breaker
+High Wind Res;High Wind Res
+Low Wind Res;Low Wind Res
+Steal No Effect;Steal No Effect
+Abnormal Sts Negated;Self-Defense
+Daora Ward;Metallic Protection
+Chameleos Ward;Frosty Protection
+Fire Dragon Ward;Fiery Protection
+Sharpness +1;Sharpness +1
+Sharp Sword;Sharp Sword
+Blunt Edge;Blunt
+ESP;ESP
+Sharpening Skl Inc;Sharpening Skl Inc
+Sharpening Skl Halved;Sharpening Skl Half
+Guard +2;Guard +2
+Guard +1;Guard +1
+Guard -1;Guard -1
+Guard -2;Guard -2
+Auto-Guard;Auto-Guard
+Unsheathed Atk Crit;Art of Unsheathing
+True Strike;Stellar Hunter
+NormalS/RapidBow Up;NormalS/RapidBow Up
+PierceS/PierceBow Up;PierceS/PierceBow Up
+PelletS/ScattrBow Up;PelletS/ScattrBow Up
+All Shots Up;Normal S All LV Add
+All Pierce Lvls Up;Pierce S All LV Add
+Pierce S LV1 Add;Pierce S LV1 Add
+All Scatter Lvls Up;Pellet S All LV Add
+Scatter Lvl1 Up;Pellet S LV1 Add
+All Crag Lvls Up;Crag S All LV Add
+Crag Lvl1 Up;Crag S LV1 Add
+All Clust Lvl Up;Clust S All LV Add
+Clust Lvl1 Up;Clust S LV1 Add
+Reloading Speed +3;Reloading Speed +3
+Reloading Speed +2;Reloading Speed +2
+Reloading Speed +1;Reloading Speed +1
+Reloading Speed -1;Reloading Speed -1
+Reloading Speed -2;Reloading Speed -2
+Reloading Speed -3;Reloading Speed -3
+Speed Fire;AutoReload
+Recoil Reduction +2;Recoil Reduction +2
+Recoil Reduction +1;Recoil Reduction +1
+Target Range Down;Shell Deviation Down
+Target Range Up;Shell Deviation Up
+Poison Coat Add;Poison Coating Add
+Paralysis Coat Add;Paralysis Coat Add
+Sleep Coat Add;Sleep Coating Add
+Power Coat Add;Power Coating Add
+Razor Coat Add;ClsRngCAdd
+Shot Damage Up;Straight & True
+Reckless Abandon+3;Reckless Abandon+3
+Reckless Abandon+2;Reckless Abandon+2
+Reckless Abandon+1;Reckless Abandon+1
+Reckless Abandon-1;Reckless Abandon-1
+Reckless Abandon-2;Reckless Abandon-2
+Reckless Abandon-3;Reckless Abandon-3
+Abnormal Sts Atk Up;Abnormal Sts Atk Up
+Element Atk Up;Element Attack Up
+Damage Rec Speed +2;Damage Rec Speed +2
+Damage Rec Speed +1;Damage Rec Speed +1
+Damage Rec Speed -1;Damage Rec Speed -1
+Damage Rec Speed -2;Damage Rec Speed -2
+Divine Protection;Divine Protection
+Demonic Protection;Demonic Protection
+Guard Inc;Guard Inc
+Evade +2;Evade +2
+Evade +1;Evade +1
+Evade Distance Up;Evade Distance Up
+Adrenaline +2;Adrenaline +2
+Adrenaline +1;Adrenaline +1
+Worry;Worry
+Gunnery King;Gunnery King
+Gunnery Master;Gunnery Master
+Load Up;Capacity Up
+Concentration;Focus
+Distraction;Distracted
+Survival;Guts
+Rampage;Emboldened
+Farsight;Farsight
+Map Unavailable;Map Unavailable
+Autotracker;Autotracker
+Detect;Detect
+Gathering +2;Gathering +2
+Gathering +1;Gathering +1
+Gathering -1;Gathering -1
+Gathering -2;Gathering -2
+Carving Celebrity;Carving Celebrity
+Carving Iron Man;Carving Iron Man
+High Speed Gathering;High Speed Gathering
+Backpacking Expert;Backpacking Expert
+Spirit's Whim;Divine Whim
+Divine Whim;Spirit's Whim
+Spectre's Whim;Spectre's Whim
+Demon Whim;Devil's Whim
+Fishing Expert;Fishing Expert
+Heat Cancel [Hi];Heat Cancel [Hi]
+Heat Cancel [Lo];Heat Cancel [Lo]
+Heat Inc [Lo];Heat Inc [Lo]
+Heat Inc [Hi];Heat Inc [Hi]
+Cold Elimination[Hi];Cold Elimination[Hi]
+Cold Elimination[Lo];Cold Elimination[Lo]
+Cold Increase [Lo];Cold Increase [Lo]
+Cold Increase [Hi];Cold Increase [Hi]
+TrrainDmgeReduce[Hi];TerrainDamageNegate
+TrrainDmgeReduce[Lo];TerrainDamageHalf
+TerrainDamageInc[Lo];TerrainDamageInc[Lo]
+TerrainDamageInc[Hi];TerrainDamageInc[Hi]
+Runner;Runner
+Flat Footed;Flat Footed
+Defensive Maneuvers +2;Constitution +2
+Defensive Maneuvers +1;Constitution +1
+Defensive Maneuvers -1;Constitution -1
+Defensive Maneuvers -2;Constitution -2
+Hunger Negated;Hunger Negated
+Hunger Halved;Hunger Halved
+Hunger Increase [Lo];Hunger Increase [Lo]
+Hunger Increase [Hi];Hunger Increase [Hi]
+Stealth;Stealth
+Taunt;Taunt
+Luck Booster;Luck Booster
+Good Luck;Good Luck
+Bad Luck;Bad Luck
+Calamity;Calamity
+Trap Expert;Trap Master
+Reward Celebrity;Tranquilizing Celeb
+Reward Specialist;Tranquilizing Whiz
+Eagle Eye;Tranquilizing Guru
+HealthRecItemsImprvd;HealthRecItemsImprvd
+HealthRecItemsWeak;HealthRecItemsWeaknd
+Item Usage Improve;Item Usage Improve
+Item Usage Decline;Item Usage Decline
+Wide Area +2;Wide Area +2
+Wide Area +1;Wide Area +1
+Throwing Skill Up;Throwing Skill Up
+Bomber;Bomber
+Picky Eater;Scavenger
+Filled Up;Filled Up
+Quick Eating;Quick Eating
+Slow Life;Slow Life
+BBQ Celebrity;BBQ Celebrity
+So-Called BBQ King;So-Called BBQ King
+Flute Expert;Flute Expert
+Combine Success +45%;Combine Success +45%
+Combine Success +25%;Combine Success +25%
+Combine Success +15%;Combine Success +15%
+Combine Success -5%;Combine Success -5%
+Combine Success -10%;Combine Success -10%
+Combine Success -15%;Combine Success -15%
+Bullet Limit;Bullet Limit
+Alchemy;Alchemy
+Felyne Mentor;ComradGuidance&Trade
+Felyne Tutor;Comrade Guidance
+Felyne Attack Up;Comrade Attack Up
+Felyne Defence Up;Comrade Defense Up

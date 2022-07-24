@@ -1,0 +1,319 @@
+﻿;Armor Skills:
+Attack
+Defence
+Health
+All Resist
+Ice Res
+Water Res
+ThunderRes
+Dragon Res
+Fire Res
+Faint
+Poison
+Paralysis
+Sleep
+Antiseptic
+Fatigue
+Snow Res
+Quake Res
+HearProtct
+WindPress
+Anti-Theft
+Status Res
+FireDrgRes
+Daora Res
+ChmleosRes
+Artisan
+Sharpness
+Fencing
+SwdShrpner
+Guard
+Auto-Guard
+Drawn Crit
+SwdMastery
+NormalS Up
+PierceS Up
+PelletS Up
+NormalSAdd
+PierceSAdd
+PelletSAdd
+CragS Add
+ClustS Add
+Load
+Speed Fire
+Recoil
+Precision
+PoisnCtAdd
+Para CtAdd
+SleepCtAdd
+PowerCtAdd
+RazorCtAdd
+Marksman
+Expert
+Spc Attack
+ElementAtk
+Rec Speed
+Protection
+Guard Up
+Evade
+Evade Inc
+Potential
+Gunnery
+Loading
+Fast Chrge
+Survival
+Rage
+Map
+PsychicVis
+Gathering
+Carving
+HiSpdGathr
+Backpackng
+Whim
+Fishing
+Heat Res
+Cold Res
+Terrain
+Stamina
+Technique
+Hunger
+Sneak
+Fate
+Set Trap
+Trapper
+Observance
+Recovery
+Everlastng
+Wide Area
+Throw
+BombStrUp
+Gluttony
+Cooking
+BBQ
+Horn
+MixSucRate
+Shot Mix
+Alchemy
+FlyneGuide
+Flyne Atk
+Flyne Def
+Torso Inc
+;the following blank line separates the two kinds of armor skills.
+
+;Resulting Skills:
+Attack Up (Large)
+Attack Up (Medium)
+Attack Up (Small)
+Attack Dwn (Small)
+Attack Dwn (Medium)
+Attack Dwn (Large)
+Defence +40
+Defence +30
+Defence +20
+Defence -20
+Defence -30
+Defence -40
+Health +50
+Health +30
+Health +20
+Health -10
+Health -20
+Health -30
+All Resist +10
+All Resist +5
+All Resist +3
+All Resist -3
+All Resist -5
+All Resist -10
+Ice Res +10
+Ice Res +5
+Ice Res -5
+Ice Res -10
+Water Res +10
+Water Res +5
+Water Res -5
+Water Res -10
+Thunder Res +10
+Thunder Res +5
+Thunder Res -5
+Thunder Res -10
+Dragon Res +10
+Dragon Res +5
+Dragon Res -5
+Dragon Res -10
+Fire Resist +10
+Fire Resist +5
+Fire Resist -5
+Fire Resist -10
+Faint Negated
+Faint Prob Halved
+Faint Duration [x2]
+Poison Negated
+Poison Dur Halved
+Poison Duration[x2]
+Paralysis Negated
+Para Duration Halved
+Para Duration[x2]
+Sleep Negated
+Sleep Dur Halved
+Sleep Duration[x2]
+Antiseptic
+Fatigue Cancellation
+Snow Res
+Quake Res
+High Grade Earplug
+Earplug
+Dragon Wind Breaker
+High Wind Res
+Low Wind Res
+Steal No Effect
+Abnormal Sts Negated
+Daora Ward
+Chameleos Ward
+Fire Dragon Ward
+Sharpness +1
+Sharp Sword
+Blunt Edge
+ESP
+Sharpening Skl Inc
+Sharpening Skl Halved
+Guard +2
+Guard +1
+Guard -1
+Guard -2
+Auto-Guard
+Unsheathed Atk Crit
+True Strike
+NormalS/RapidBow Up
+PierceS/PierceBow Up
+PelletS/ScattrBow Up
+All Shots Up
+All Pierce Lvls Up
+Pierce S LV1 Add
+All Scatter Lvls Up
+Scatter Lvl1 Up
+All Crag Lvls Up
+Crag Lvl1 Up
+All Clust Lvl Up
+Clust Lvl1 Up
+Reloading Speed +3
+Reloading Speed +2
+Reloading Speed +1
+Reloading Speed -1
+Reloading Speed -2
+Reloading Speed -3
+Speed Fire
+Recoil Reduction +2
+Recoil Reduction +1
+Target Range Down
+Target Range Up
+Poison Coat Add
+Paralysis Coat Add
+Sleep Coat Add
+Power Coat Add
+Razor Coat Add
+Shot Damage Up
+Reckless Abandon+3
+Reckless Abandon+2
+Reckless Abandon+1
+Reckless Abandon-1
+Reckless Abandon-2
+Reckless Abandon-3
+Abnormal Sts Atk Up
+Element Atk Up
+Damage Rec Speed +2
+Damage Rec Speed +1
+Damage Rec Speed -1
+Damage Rec Speed -2
+Divine Protection
+Demonic Protection
+Guard Inc
+Evade +2
+Evade +1
+Evade Distance Up
+Adrenaline +2
+Adrenaline +1
+Worry
+Gunnery King
+Gunnery Master
+Load Up
+Concentration
+Distraction
+Survival
+Rampage
+Farsight
+Map Unavailable
+Autotracker
+Detect
+Gathering +2
+Gathering +1
+Gathering -1
+Gathering -2
+Carving Celebrity
+Carving Iron Man
+High Speed Gathering
+Backpacking Expert
+Spirit's Whim
+Divine Whim
+Spectre's Whim
+Demon Whim
+Fishing Expert
+Heat Cancel [Hi]
+Heat Cancel [Lo]
+Heat Inc [Lo]
+Heat Inc [Hi]
+Cold Elimination[Hi]
+Cold Elimination[Lo]
+Cold Increase [Lo]
+Cold Increase [Hi]
+TrrainDmgeReduce[Hi]
+TrrainDmgeReduce[Lo]
+TerrainDamageInc[Lo]
+TerrainDamageInc[Hi]
+Runner
+Flat Footed
+Defensive Maneuvers +2
+Defensive Maneuvers +1
+Defensive Maneuvers -1
+Defensive Maneuvers -2
+Hunger Negated
+Hunger Halved
+Hunger Increase [Lo]
+Hunger Increase [Hi]
+Stealth
+Taunt
+Luck Booster
+Good Luck
+Bad Luck
+Calamity
+Trap Expert
+Reward Celebrity
+Reward Specialist
+Eagle Eye
+HealthRecItemsImprvd
+HealthRecItemsWeak
+Item Usage Improve
+Item Usage Decline
+Wide Area +2
+Wide Area +1
+Throwing Skill Up
+Bomber
+Picky Eater
+Filled Up
+Quick Eating
+Slow Life
+BBQ Celebrity
+So-Called BBQ King
+Flute Expert
+Combine Success +45%
+Combine Success +25%
+Combine Success +15%
+Combine Success -5%
+Combine Success -10%
+Combine Success -15%
+Bullet Limit
+Alchemy
+Felyne Mentor
+Felyne Tutor
+Felyne Attack Up
+Felyne Defence Up

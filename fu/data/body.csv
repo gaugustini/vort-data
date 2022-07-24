@@ -9,13 +9,13 @@ Bone Vest;1;1;0;0;2;2;8;5;0;0;5;-1;Anti-Theft;3;Map;-1;PsychicVis;1;Alchemy;2;BB
 Giaprey Mail;1;2;1;0;1;2;16;0;1;-1;1;3;Snow Res;2;Guard;2;Fire Res;-1;PsychicVis;2;;;Giadrome Hide;1;Earth Crystal;3;Giaprey Scale;3;;
 Giaprey Vest;1;2;1;0;2;2;8;1;3;0;3;4;Snow Res;2;PelletS Up;2;Fire Res;-1;PsychicVis;2;;;Giadrome Hide;1;Earth Crystal;3;Giaprey Scale;3;;
 Battle Mail;1;2;0;0;1;2;16;2;-2;0;-2;-1;Health;2;SwdShrpner;3;Hunger;-2;Attack;2;;;Kelbi Hide;2;Velociprey Scale;1;Earth Crystal;3;Whetstone;5
-Battle Vest;1;2;0;0;2;2;10;4;0;2;0;0;Load;3;Hunger;-2;Attack;2;Precision;2;;;Kelbi Hide;2;Velociprey Scale;1;Huskberry;20;Sm Bone Husk;5
+Battle Vest;1;2;0;0;2;2;10;4;0;2;0;0;Reload;3;Hunger;-2;Attack;2;Precision;2;;;Kelbi Hide;2;Velociprey Scale;1;Huskberry;20;Sm Bone Husk;5
 Velociprey Mail;1;2;0;0;1;2;20;1;1;-1;1;1;Paralysis;-2;Faint;3;SwdShrpner;2;MixSucRate;2;;;Velociprey Hide;2;Velociprey Scale;3;Iron Ore;5;Bullfango Pelt;1
 Velociprey Vest;1;2;0;0;2;2;10;3;3;0;3;1;Paralysis;-2;Faint;3;PelletSAdd;2;Shot Mix;2;;;Velociprey Hide;2;Velociprey Scale;3;Iron Ore;5;Bullfango Pelt;1
 Vespoid Mail;1;1;0;0;1;3;20;-6;2;2;-5;-4;Paralysis;3;Poison;-2;MixSucRate;2;Everlastng;2;;;Vespoid Wing;5;Machalite Ore;1;Carpenterbug;3;;
 Vespoid Vest;1;1;0;0;2;3;10;-5;5;2;-4;-3;Paralysis;3;Poison;-2;MixSucRate;2;Everlastng;2;;;Vespoid Shell;6;Machalite Ore;1;Carpenterbug;3;;
 Hi-Metal Mail;1;2;1;0;1;3;20;-2;3;0;-2;-1;Health;3;Whim;1;Stamina;-1;Gunnery;2;;;Machalite Ore;3;Iron Ore;3;Velociprey Hide;2;;
-Hi-Metal Vest;1;2;1;0;2;3;10;0;5;0;0;0;Health;3;CragS Add;1;Stamina;-1;Gunnery;2;;;Machalite Ore;3;Iron Ore;3;Velociprey Hide;2;;
+Hi-Metal Vest;1;2;1;0;2;3;10;0;5;0;0;0;Health;3;Crag S Add;1;Stamina;-1;Gunnery;2;;;Machalite Ore;3;Iron Ore;3;Velociprey Hide;2;;
 Hornet Mail;1;2;1;0;1;3;22;-6;-5;2;-1;-5;Protection;-2;HearProtct;3;Dragon Res;2;;;;;Hornetaur Wing;2;Hornetaur Shell;4;Disk Stone;3;Killer Beetle;1
 Hornet Vest;1;2;1;0;2;3;11;-5;-3;3;2;-4;Protection;-2;HearProtct;3;Dragon Res;2;;;;;Hornetaur Wing;2;Hornetaur Shell;4;Disk Stone;3;Killer Beetle;1
 Genprey Mail;1;2;0;0;1;3;22;2;3;-1;-2;-2;Paralysis;3;Rec Speed;-3;Spc Attack;3;;;;;Genprey Hide;3;Genprey Scale;4;Iron Ore;3;Bullfango Pelt;2
@@ -23,8 +23,8 @@ Genprey Vest;1;2;0;0;2;3;11;4;5;0;0;0;Paralysis;3;Poison;-1;Rec Speed;-1;PelletS
 Steel Mail;1;3;0;0;1;3;24;2;-2;0;2;0;Guard;4;Map;2;Stamina;-3;;;;;Machalite Ore;12;Iron Ore;10;Rubbery Hide;2;;
 Ioprey Mail;1;3;0;0;1;3;24;3;-2;-1;2;1;Faint;-1;Poison;3;Health;4;Fatigue;1;;;Poison Sac;3;Ioprey Hide;2;Ioprey Scale;2;Machalite Ore;1
 Ioprey Vest;1;3;0;0;2;3;12;4;0;0;3;2;Faint;-1;Poison;3;PelletSAdd;4;Fatigue;1;;;Poison Sac;3;Ioprey Hide;2;Ioprey Scale;2;Machalite Ore;1
-Kut-Ku Mail;1;2;1;0;1;3;24;2;0;-1;-2;-2;Health;3;Attack;2;Defence;-1;Fire Res;1;;;Kut-Ku Scale;2;Kut-Ku Shell;3;Kut-Ku Webbing;1;Sm Monster Bone;3
-Kut-Ku Vest;1;2;1;0;2;3;12;5;3;0;1;-1;Health;3;Attack;2;Defence;-1;Fire Res;1;;;Kut-Ku Scale;2;Kut-Ku Shell;3;Kut-Ku Webbing;1;Sm Monster Bone;3
+Kut-Ku Mail;1;2;1;0;1;3;24;2;0;-1;-2;-2;Health;3;Attack;2;Defense;-1;Fire Res;1;;;Kut-Ku Scale;2;Kut-Ku Shell;3;Kut-Ku Webbing;1;Sm Monster Bone;3
+Kut-Ku Vest;1;2;1;0;2;3;12;5;3;0;1;-1;Health;3;Attack;2;Defense;-1;Fire Res;1;;;Kut-Ku Scale;2;Kut-Ku Shell;3;Kut-Ku Webbing;1;Sm Monster Bone;3
 Cephalos Mail;1;2;1;0;1;3;28;-3;-4;0;2;2;Hunger;1;Heat Res;4;Cold Res;-2;;;;;Cephalos Fin;1;Cephalos Scale;3;Machalite Ore;1;;
 Cephalos Vest;1;2;1;0;2;3;16;-1;-2;1;5;3;Hunger;1;Heat Res;4;Cold Res;-2;;;;;Cephalos Fin;1;Cephalos Scale;3;Machalite Ore;1;;
 Conga Mail;1;2;0;0;1;3;28;-3;2;0;2;-1;Antiseptic;2;BombStrUp;2;Hunger;-2;Gluttony;3;;;Congalala Pelt;2;Conga Pelt;4;Brute Bone;2;Carpenterbug;3
@@ -33,8 +33,8 @@ Gypceros Mail;1;3;1;0;1;3;30;-4;4;0;1;1;Poison;3;Hunger;-1;ThunderRes;2;Stamina;
 Gypceros Vest;1;3;1;0;2;3;16;-1;6;0;4;3;Poison;3;Hunger;-1;ThunderRes;2;Stamina;1;;;Poison Sac;1;Antiseptic Stone;1;Rubbery Hide;2;Machalite Ore;2
 Khezu Mail;1;3;1;0;1;3;32;-3;4;0;3;1;Faint;-1;Rec Speed;3;Wide Area;2;Horn;1;;;Flabby Hide;2;Iron Ore;8;Ioprey Hide;2;Monster Fluid;2
 Khezu Vest;1;3;1;0;2;3;16;-1;6;0;5;2;Faint;-1;Rec Speed;3;Wide Area;2;Precision;1;;;Flabby Hide;2;Iron Ore;8;Ioprey Hide;2;Monster Fluid;2
-Hermitaur Mail;1;3;1;0;1;3;32;-3;-4;1;3;0;Guard;2;Throw;1;Defence;2;ThunderRes;-2;;;Hermitaur Shell;3;Sm Hermitaur Shl;2;Machalite Ore;1;Brute Bone;4
-Hermitaur Vest;1;3;1;0;2;3;16;-1;-2;2;5;1;Guard Up;2;Throw;1;Defence;2;ThunderRes;-2;;;Hermitaur Shell;3;Sm Hermitaur Shl;2;Machalite Ore;1;Brute Bone;4
+Hermitaur Mail;1;3;1;0;1;3;32;-3;-4;1;3;0;Guard;2;Throw;1;Defense;2;ThunderRes;-2;;;Hermitaur Shell;3;Sm Hermitaur Shl;2;Machalite Ore;1;Brute Bone;4
+Hermitaur Vest;1;3;1;0;2;3;16;-1;-2;2;5;1;Guard Up;2;Throw;1;Defense;2;ThunderRes;-2;;;Hermitaur Shell;3;Sm Hermitaur Shl;2;Machalite Ore;1;Brute Bone;4
 Plesioth Mail;1;3;1;0;1;3;34;-4;-4;0;4;2;Paralysis;-2;Heat Res;2;Cold Res;2;Stamina;1;;;Plesioth Scale;3;Monster Fluid;1;Ioprey Hide;2;Piscine Fang;2
 Plesioth Vest;1;3;1;0;2;3;17;-2;-2;1;6;3;Paralysis;-2;Heat Res;2;Cold Res;2;Stamina;1;;;Plesioth Scale;3;Monster Fluid;1;Ioprey Hide;2;Piscine Fang;2
 Lobster Mail;1;3;1;0;1;3;34;-2;-6;-2;6;2;Guard;-2;Water Res;1;Fishing;1;Evade;3;;;Sm Lobstershell;2;Plesioth Fin;1;Machalite Ore;2;Ice Crystal;10
@@ -47,16 +47,16 @@ Khezu Mail D;2;4;1;0;1;3;30;3;4;0;-3;0;SwdShrpner;-2;Wide Area;3;Recovery;2;;;;;
 Khezu Vest D;2;4;1;0;2;3;14;5;6;0;-1;1;Wide Area;3;Recovery;2;MixSucRate;-2;;;;;Alluring Hide;2;Iron Ore;8;Ioprey Hide;2;Monster Fluid;2
 Plesioth Mail D;2;3;1;0;1;3;32;-4;-4;0;4;2;Poison;-2;Hunger;3;Everlastng;2;;;;;Grn Plesioth Scl;2;Lg Monster Bone;1;Genprey Hide;5;Grn Plesioth Fin;2
 Plesioth Vest D;2;3;1;0;2;3;15;-2;-2;1;6;3;Poison;-2;Hunger;3;Everlastng;2;;;;;Grn Plesioth Scl;2;Lg Monster Bone;1;Genprey Hide;5;Grn Plesioth Fin;2
-Basarios Mail;2;4;1;0;1;4;32;0;2;-2;2;1;Sleep;2;Faint;-1;Defence;1;Whim;1;Terrain;2;Basarios Shell;5;Machalite Ore;7;Poison Sac;3;Whetstone;20
-Basarios Vest;2;4;1;0;2;4;16;2;4;0;4;2;Sleep;2;Faint;-1;Defence;1;Whim;1;Terrain;2;Basarios Shell;5;Machalite Ore;7;Poison Sac;3;Whetstone;20
+Basarios Mail;2;4;1;0;1;4;32;0;2;-2;2;1;Sleep;2;Faint;-1;Defense;1;Whim;1;Terrain;2;Basarios Shell;5;Machalite Ore;7;Poison Sac;3;Whetstone;20
+Basarios Vest;2;4;1;0;2;4;16;2;4;0;4;2;Sleep;2;Faint;-1;Defense;1;Whim;1;Terrain;2;Basarios Shell;5;Machalite Ore;7;Poison Sac;3;Whetstone;20
 Monoblos Mail;10;4;1;0;1;4;36;2;-2;-1;-1;-1;Health;3;Attack;1;Protection;-1;Potential;2;;;Monoblos Spine;3;Blood Red Horn;2;Monoblos Shell;2;Killer Beetle;2
 Monoblos Vest;10;4;1;0;2;4;18;4;0;0;2;0;Health;3;Attack;1;Protection;-1;Potential;2;;;Monoblos Spine;3;Blood Red Horn;2;Monoblos Shell;2;Killer Beetle;2
 Yian Garuga Mail;10;4;1;0;1;4;36;2;2;0;0;0;Sharpness;2;Expert;2;HearProtct;1;Gathering;-2;;;Garuga Scale;4;Garuga Shell;5;Garuga Wing;3;Gendrome Hide;2
 Yian Garuga Vest;10;4;1;0;2;4;18;3;3;0;2;1;Expert;2;PierceSAdd;2;HearProtct;1;Gathering;-2;;;Garuga Scale;4;Garuga Shell;5;Garuga Wing;3;Gendrome Hide;2
 Blango Mail;2;4;1;0;1;4;36;-4;0;1;2;3;Snow Res;2;Cold Res;1;Terrain;-2;Quake Res;2;;;Blangonga Whiskr;1;Blango Pelt;3;Giaprey Hide;3;Velocidrome Hide;1
 Blango Vest;2;4;1;0;2;4;18;-3;1;2;4;5;Snow Res;2;Cold Res;1;Terrain;-2;Quake Res;2;;;Blangonga Whiskr;1;Blango Pelt;3;Giaprey Hide;3;Velocidrome Hide;1
-Ceanataur Mail;2;4;0;0;1;4;37;1;-1;0;2;-1;Sharpness;3;Artisan;1;SwdShrpner;2;Defence;-3;;;Ceanataur Shell;2;Sm Ceanataur Shl;3;Earth Crystal;4;Killer Beetle;1
-Ceanataur Vest;2;4;1;0;2;4;18;2;0;2;4;0;PierceS Up;2;PierceSAdd;1;Defence;-2;Precision;2;;;Ceanataur Shell;2;Sm Ceanataur Shl;3;Earth Crystal;4;Killer Beetle;1
+Ceanataur Mail;2;4;0;0;1;4;37;1;-1;0;2;-1;Sharpness;3;Artisan;1;SwdShrpner;2;Defense;-3;;;Ceanataur Shell;2;Sm Ceanataur Shl;3;Earth Crystal;4;Killer Beetle;1
+Ceanataur Vest;2;4;1;0;2;4;18;2;0;2;4;0;PierceS Up;2;PierceSAdd;1;Defense;-2;Precision;2;;;Ceanataur Shell;2;Sm Ceanataur Shl;3;Earth Crystal;4;Killer Beetle;1
 Rathian Mail;1;6;1;0;1;4;38;2;-2;-4;0;0;Faint;-1;Poison;2;Health;3;PsychicVis;1;;;Monster Bone+;1;Rathian Scale;2;Machalite Ore;1;Killer Beetle;2
 Rathian Vest;1;6;1;0;2;4;18;4;0;-2;2;2;Faint;-1;Poison;2;Health;3;PsychicVis;1;;;Monster Bone+;1;Rathian Scale;2;Machalite Ore;1;Killer Beetle;2
 Tigrex Mail;3;5;1;0;1;4;40;3;-2;-1;2;3;Protection;-1;HearProtct;1;PsychicVis;3;Cooking;2;;;Tigrex Fang;2;Tigrex Claw;3;Tigrex Shell;3;Monster Bone+;1
@@ -65,75 +65,75 @@ Rathalos Mail;1;6;0;0;1;4;40;2;2;-4;-1;-3;Paralysis;-2;Rec Speed;1;Attack;4;Psyc
 Rathalos Vest;1;6;0;0;2;4;20;4;5;-2;0;-1;Paralysis;-2;Rec Speed;1;Attack;4;PsychicVis;2;;;Rathalos Webbing;3;Rathalos Shell;3;Rathalos Scale;2;Monster Bone+;2
 Diablo Mail;3;5;1;0;1;4;40;3;1;0;-1;-2;Health;-2;Expert;2;WindPress;2;Fate;-1;;;Majestic Horn;1;Diablos Spine;1;Diablos Shell;2;Machalite Ore;2
 Diablo Vest;3;5;1;0;2;4;20;5;4;0;2;-1;Health;-2;Expert;2;WindPress;2;Fate;-1;;;Majestic Horn;1;Diablos Spine;1;Diablos Shell;2;Machalite Ore;2
-Gravios Mail;3;5;1;0;1;4;40;2;2;-2;-2;0;Sleep;2;Guard;2;Defence;1;Stamina;-2;;;Gravios Shell;5;Machalite Ore;3;Monster Bone+;3;Iodrome Hide;2
+Gravios Mail;3;5;1;0;1;4;40;2;2;-2;-2;0;Sleep;2;Guard;2;Defense;1;Stamina;-2;;;Gravios Shell;5;Machalite Ore;3;Monster Bone+;3;Iodrome Hide;2
 Gravios Vest;3;5;1;0;2;4;20;4;3;0;1;1;Sleep;3;ClustS Add;2;Stamina;-2;;;;;Gravios Shell;5;Machalite Ore;3;Monster Bone+;3;Iodrome Hide;2
-Diablo Mail D;3;5;1;0;1;4;38;3;1;0;-1;-2;Sharpness;2;Defence;-1;WindPress;3;Fate;-1;;;TwstBlkBlosHorn;1;Black Blos Spine;1;Black Blos Shell;2;Machalite Ore;2
-Diablo Vest D;3;5;1;0;2;4;18;5;4;0;2;-1;Load;2;Hunger;-1;WindPress;3;Fate;-1;;;TwstBlkBlosHorn;1;Black Blos Spine;1;Black Blos Shell;2;Machalite Ore;2
-Gravios Mail D;3;5;2;0;1;4;38;2;2;0;-2;1;Guard Up;2;Hunger;-2;Defence;1;;;;;Blk Gravios Shl;5;Machalite Ore;3;Monster Bone+;3;Rubbery Hide;2
-Gravios Vest D;3;5;1;0;2;4;18;4;3;0;1;2;Guard Up;2;Hunger;-2;Defence;3;;;;;Blk Gravios Shl;5;Machalite Ore;3;Monster Bone+;3;Rubbery Hide;2
+Diablo Mail D;3;5;1;0;1;4;38;3;1;0;-1;-2;Sharpness;2;Defense;-1;WindPress;3;Fate;-1;;;TwstBlkBlosHrn;1;Black Blos Spine;1;Black Blos Shell;2;Machalite Ore;2
+Diablo Vest D;3;5;1;0;2;4;18;5;4;0;2;-1;Reload;2;Hunger;-1;WindPress;3;Fate;-1;;;TwstBlkBlosHrn;1;Black Blos Spine;1;Black Blos Shell;2;Machalite Ore;2
+Gravios Mail D;3;5;2;0;1;4;38;2;2;0;-2;1;Guard Up;2;Hunger;-2;Defense;1;;;;;Blk Gravios Shl;5;Machalite Ore;3;Monster Bone+;3;Rubbery Hide;2
+Gravios Vest D;3;5;1;0;2;4;18;4;3;0;1;2;Guard Up;2;Hunger;-2;Defense;3;;;;;Blk Gravios Shl;5;Machalite Ore;3;Monster Bone+;3;Rubbery Hide;2
 Moss Breastplate;1;2;0;0;0;5;3;0;0;0;0;0;Health;2;Hunger;-3;Gluttony;2;Cooking;2;;;Mosswine Hide;3;Bullfango Pelt;1;Bulldrome Hide;1;Carpenterbug;1
 Giaprey Body;1;2;1;0;0;5;16;0;2;-2;2;3;Fire Res;-2;Ice Res;2;Fate;3;;;;;Giadrome Hide;2;Blango Pelt;5;Giaprey Scale;5;Kut-Ku Coin;1
 Velociprey Body;1;2;1;0;0;5;18;1;1;1;1;1;Water Res;2;ThunderRes;-2;Fate;3;;;;;Velocidrome Hide;2;Blango Pelt;5;Velociprey Scale;5;Congalala Coin;1
-Famitsu T-Shirt;6;5;0;0;0;5;20;2;2;2;2;2;Sleep;4;Protection;5;;;;;;;Famitsu Ticket;5;Pokke Ticket;2;Kut-Ku Coin;6;Blangonga Coin;3
-Hunter Soul T-Shirt;3;5;1;0;0;5;20;2;2;2;2;2;Fate;2;PsychicVis;5;;;;;;;Hunter Soul Tckt;5;Pokke Ticket;2;Fire Coin;3;Tigrex Coin;6
+(dummy)Famitsu T-Shirt;6;5;0;0;0;5;20;2;2;2;2;2;Sleep;4;Protection;5;;;;;;;(dummy)Famitsu Ticket;5;Pokke Ticket;2;Kut-Ku Coin;6;Blangonga Coin;3
+Hunting Soul T-Shirt;3;5;1;0;0;5;20;2;2;2;2;2;Fate;2;PsychicVis;5;;;;;;;Hunter Soul Tkt;5;Pokke Ticket;2;Fire Coin;3;Tigrex Coin;6
 Bistro Jacket;1;3;0;0;0;5;20;2;2;2;2;2;Gluttony;3;Cooking;3;BBQ;3;;;;;FlynMealPassReg;1;Hot Meat;10;Flabby Hide;3;;
 Genprey Body;1;3;1;0;0;5;20;1;2;1;1;1;Ice Res;-2;ThunderRes;2;Fate;3;;;;;Gendrome Hide;2;Conga Pelt;5;Genprey Scale;5;Khezu Coin;1
-Black Belt Mail;3;5;1;0;0;5;20;2;2;2;2;2;Artisan;2;Gluttony;1;Map;-2;Loading;2;;;Tigrex Coin;10;Blackbelt Ticket;8;Killer Beetle;2;Blangonga Coin;10
+Black Belt Mail;3;5;1;0;0;5;20;2;2;2;2;2;Artisan;2;Gluttony;1;Map;-2;Capacity;2;;;Tigrex Coin;10;Blackbelt Ticket;8;Killer Beetle;2;Blangonga Coin;10
 Shinobi Suit (Sun);3;6;1;0;0;5;20;2;4;2;-6;-3;Throw;2;ElementAtk;2;Cold Res;-2;Evade;1;;;Gaoren Spine;1;Blackbelt Ticket;3;Pokke Ticket;1;FireWyvern Fluid;5
 Shinobi Suit (Moon);3;6;1;0;0;5;20;2;4;2;-6;-3;Sneak;2;Hunger;2;Heat Res;-2;PsychicVis;1;;;Gaoren Spine;1;Blackbelt Ticket;3;Pokke Ticket;1;FireWyvern Fluid;5
-Guild Knight Suit;2;4;0;1;0;5;20;0;0;0;0;0;Whim;3;Fate;2;PsychicVis;2;BBQ;-2;;;Commendation;1;Chaoshroom;4;FlynMealPassReg;1;Blangonga Coin;3
-Guild Knight Vest;8;4;0;1;0;5;20;0;0;0;0;0;PelletS Up;2;Fate;-2;Precision;2;Carving;3;;;Commendation;1;Chaoshroom;4;FlynMealPassReg;1;Yian Garuga Coin;3
-Guardian Suit;1;3;1;1;0;5;20;0;0;0;0;0;Protection;2;Gathering;-1;Fate;1;Gunnery;3;;;Lightcrystal;2;Chaoshroom;4;Blackbelt Ticket;2;Daimyo Coin;3
-Guardian Vest;1;3;1;1;0;5;20;0;0;0;0;0;Protection;2;Wide Area;3;Gathering;-1;Fate;1;;;Lightcrystal;2;Chaoshroom;4;Blackbelt Ticket;2;Khezu Coin;3
-Maiden's Vest;2;4;0;2;0;5;20;0;0;0;0;0;Whim;3;Fate;2;PsychicVis;2;BBQ;-2;;;Commendation;1;Chaoshroom;4;FlynMealPassReg;1;Blangonga Coin;3
-Personal Vest;8;4;0;2;0;5;20;0;0;0;0;0;PelletS Up;2;Fate;-2;Precision;2;Carving;3;;;Commendation;1;Chaoshroom;4;FlynMealPassReg;1;Yian Garuga Coin;3
-Helper Vest;1;3;1;2;0;5;20;0;0;0;0;0;Protection;2;Gathering;-1;Fate;1;Gunnery;3;;;Lightcrystal;2;Chaoshroom;4;Blackbelt Ticket;2;Daimyo Coin;3
-Healer Vest;1;3;1;2;0;5;20;0;0;0;0;0;Protection;2;Wide Area;3;Gathering;-1;Fate;1;;;Lightcrystal;2;Chaoshroom;4;Blackbelt Ticket;2;Khezu Coin;3
+Guild Knight Suit;2;4;0;1;0;5;20;0;0;0;0;0;Whim;3;Fate;2;PsychicVis;2;BBQ;-2;;;Commendation;1;Chaos Mushroom;4;FlynMealPassReg;1;Blangonga Coin;3
+Guild Knight Vest;8;4;0;1;0;5;20;0;0;0;0;0;PelletS Up;2;Fate;-2;Precision;2;Carving;3;;;Commendation;1;Chaos Mushroom;4;FlynMealPassReg;1;Yian Garuga Coin;3
+Guardian Suit;1;3;1;1;0;5;20;0;0;0;0;0;Protection;2;Gathering;-1;Fate;1;Gunnery;3;;;Lightcrystal;2;Chaos Mushroom;4;Blackbelt Ticket;2;Daimyo Coin;3
+Guardian Vest;1;3;1;1;0;5;20;0;0;0;0;0;Protection;2;Wide Area;3;Gathering;-1;Fate;1;;;Lightcrystal;2;Chaos Mushroom;4;Blackbelt Ticket;2;Khezu Coin;3
+Maiden's Vest;2;4;0;2;0;5;20;0;0;0;0;0;Whim;3;Fate;2;PsychicVis;2;BBQ;-2;;;Commendation;1;Chaos Mushroom;4;FlynMealPassReg;1;Blangonga Coin;3
+Personal Vest;8;4;0;2;0;5;20;0;0;0;0;0;PelletS Up;2;Fate;-2;Precision;2;Carving;3;;;Commendation;1;Chaos Mushroom;4;FlynMealPassReg;1;Yian Garuga Coin;3
+Helper Vest;1;3;1;2;0;5;20;0;0;0;0;0;Protection;2;Gathering;-1;Fate;1;Gunnery;3;;;Lightcrystal;2;Chaos Mushroom;4;Blackbelt Ticket;2;Daimyo Coin;3
+Healer Vest;1;3;1;2;0;5;20;0;0;0;0;0;Protection;2;Wide Area;3;Gathering;-1;Fate;1;;;Lightcrystal;2;Chaos Mushroom;4;Blackbelt Ticket;2;Khezu Coin;3
 Ioprey Body;1;3;1;0;0;5;22;2;1;1;1;1;Fire Res;2;Water Res;-2;Fate;3;;;;;Iodrome Hide;2;Conga Pelt;5;Ioprey Scale;5;Daimyo Coin;1
 Remobra Suit;2;4;0;0;0;5;24;0;-1;-1;-1;-1;Poison;1;Artisan;2;PierceS Up;2;All Resist;-2;Stamina;2;Remobra Skin;4;FireWyvern Fluid;2;Carpenterbug;4;Dragonite Ore;2
 MelahoaFlowerJacket;1;2;1;0;1;5;20;0;1;0;1;0;Hunger;-1;Gathering;3;HiSpdGathr;2;Stamina;1;;;Dosbiscus;3;Godbug;5;Ivy;3;Monster Fluid;3
 Melahoa Stalk;1;2;1;0;2;5;10;0;1;0;2;0;Hunger;-1;Gathering;3;HiSpdGathr;2;Stamina;1;;;Dosbiscus;3;Godbug;5;Ivy;3;Monster Fluid;3
 Makluva Cover;1;2;0;0;1;5;28;0;-2;0;2;0;Spc Attack;2;Fishing;2;MixSucRate;3;Alchemy;2;;;Springnight Carp;3;Cephalos Scale;4;Burst Arrowana;10;Book of Combos 1;1
 Makluva Scale;1;2;0;0;2;5;16;0;-1;0;3;0;Spc Attack;2;Fishing;2;MixSucRate;3;Alchemy;2;;;Springnight Carp;3;Cephalos Scale;4;Burst Arrowana;10;Book of Combos 1;1
-Hypnoc Mail;7;10;1;0;1;5;32;-2;0;1;2;1;Sleep;2;Sneak;-2;Trapper;3;;;;;Hypnoc Ticket;1;Hypnoc Feather+;3;Hypnoc StrngClaw;2;Machalite Ore;8
-Hypnoc Vest;7;10;1;0;2;5;16;0;2;2;4;3;Sneak;-2;SleepCtAdd;2;Trapper;3;;;;;Hypnoc Ticket;1;Hypnoc Feather+;3;HypncFangedBeak;1;Machalite Ore;8
+Hypno Mail;7;10;1;0;1;5;32;-2;0;1;2;1;Sleep;2;Sneak;-2;Tranquilzr;3;;;;;Hypno Ticket;1;OrangeHypnoPelt+;3;Top-GrdHypnoClaw;2;Machalite Ore;8
+Hypno Vest;7;10;1;0;2;5;16;0;2;2;4;3;Sneak;-2;SleepCAdd;2;Tranquilzr;3;;;;;Hypno Ticket;1;OrangeHypnoPelt+;3;Hypno Fang;1;Machalite Ore;8
 Obituary Petto;1;4;1;1;1;5;32;3;3;2;-5;-4;Spc Attack;2;Cold Res;-1;Gathering;2;Evade;2;;;Great Hornfly;2;Hercudrome;1;Killer Beetle;4;Poison Sac;2
 Obituary Pectus;1;4;1;1;2;5;16;4;5;2;-4;-3;Spc Attack;2;Cold Res;-1;Gathering;2;Evade;2;;;Great Hornfly;2;Hercudrome;1;Killer Beetle;4;Poison Sac;2
 Butterfly Petto;1;4;1;2;1;5;32;3;3;2;-5;-4;Spc Attack;2;Cold Res;-1;Gathering;2;Evade;2;;;Great Hornfly;2;Hercudrome;1;Killer Beetle;4;Poison Sac;2
 Butterfly Pectus;1;4;1;2;2;5;16;4;5;2;-4;-3;Spc Attack;2;Cold Res;-1;Gathering;2;Evade;2;;;Great Hornfly;2;Hercudrome;1;Killer Beetle;4;Poison Sac;2
 Black Hide;10;5;2;0;1;5;36;0;2;-5;2;2;;;;;;;;;;;Dark Stone;1;Dark Piece;3;Ancient Potion;1;Flame Sac;3
 Black Skin;10;5;2;0;2;5;18;2;4;-2;4;3;;;;;;;;;;;Dark Stone;1;Dark Piece;3;Ancient Potion;1;Flame Sac;3
-Death Stench Muscle;3;4;1;0;1;5;40;2;1;0;1;-1;Sneak;2;Health;-3;Fencing;2;;;;;Sinister Cloth;2;Striped Skin;3;Unknown Skull;3;Elder Drgn Bone;3
-Death Stench Heart;3;4;1;0;2;5;20;3;2;1;2;0;Health;-3;CragS Add;2;Speed Fire;2;;;;;Sinister Cloth;2;Striped Skin;3;Unknown Skull;3;Elder Drgn Bone;3
-Volganos Mail;7;10;0;0;1;5;40;4;0;1;-3;0;Faint;-2;Rec Speed;2;Guard;2;Terrain;3;;;Lava Ticket;1;Volganos Thk Scl;3;Volganos HvyFang;2;Fire Stone;1
-Volganos Vest;7;10;0;0;2;5;20;5;2;2;-1;2;Faint;-2;Rec Speed;2;Recoil;2;Terrain;3;;;Lava Ticket;1;Volganos Thk Scl;3;Volganos HvyFang;2;Fire Stone;1
+Death Stench Muscle;3;4;1;0;1;5;40;2;1;0;1;-1;Sneak;2;Health;-3;Fencing;2;;;;;Sinister Cloth;2;Striped Skin;3;Unknown Skull;3;Eldr Dragon Bone;3
+Death Stench Heart;3;4;1;0;2;5;20;3;2;1;2;0;Health;-3;Crag S Add;2;AutoReload;2;;;;;Sinister Cloth;2;Striped Skin;3;Unknown Skull;3;Eldr Dragon Bone;3
+Lava Mail;7;10;0;0;1;5;40;4;0;1;-3;0;Faint;-2;Rec Speed;2;Guard;2;Terrain;3;;;Lavasioth Ticket;1;ThckLavasiothScl;3;HvyLavasiothFang;2;Firestone;1
+Lava Vest;7;10;0;0;2;5;20;5;2;2;-1;2;Faint;-2;Rec Speed;2;Recoil;2;Terrain;3;;;Lavasioth Ticket;1;ThckLavasiothScl;3;HvyLavasiothFang;2;Firestone;1
 Mizuha Guards;3;5;0;0;1;5;40;-4;0;-1;3;4;HearProtct;2;WindPress;4;Terrain;-3;;;;;Chameleos Hide;2;ChameleosWebbing;3;Alluring Hide;2;Lightcrystal;2
 Extravagant Camise;3;5;0;0;2;5;20;-3;1;0;4;5;HearProtct;2;WindPress;4;Terrain;-3;;;;;Chameleos Hide;2;ChameleosWebbing;3;Alluring Hide;2;Lightcrystal;2
-Kushala Cista;3;4;0;0;1;5;42;0;-2;-3;2;4;Poison;-2;Fire Res;3;Terrain;3;Fast Chrge;1;;;Daora Shell;2;Daora Webbing;1;Dragonite Ore;2;ElderDragonBlood;1
-Kushala Vise;3;4;0;0;2;5;21;2;-2;-2;3;5;Poison;-2;Fire Res;3;Terrain;3;Fast Chrge;1;;;Daora Shell;2;Daora Webbing;1;Dragonite Ore;2;ElderDragonBlood;1
+Kushala Cista;3;4;0;0;1;5;42;0;-2;-3;2;4;Poison;-2;Fire Res;3;Terrain;3;ShortCharg;1;;;Daora Shell;2;Daora Webbing;1;Dragonite Ore;2;ElderDragonBlood;1
+Kushala Vise;3;4;0;0;2;5;21;2;-2;-2;3;5;Poison;-2;Fire Res;3;Terrain;3;ShortCharg;1;;;Daora Shell;2;Daora Webbing;1;Dragonite Ore;2;ElderDragonBlood;1
 Kirin Jacket;3;5;1;0;1;5;44;0;4;-1;2;0;ElementAtk;2;All Resist;3;Everlastng;-2;;;;;Kirin Hide;1;Flabby Hide;3;Rubbery Hide;2;Lightcrystal;1
 Kirin Cape;3;5;1;0;2;5;22;1;6;0;4;1;ElementAtk;2;All Resist;3;Everlastng;-2;;;;;Kirin Hide;1;Flabby Hide;3;Rubbery Hide;2;Lightcrystal;1
 GuardianSpritRaiment;3;4;1;0;1;5;44;2;0;-2;2;-2;Fencing;2;Protection;2;All Resist;1;Potential;-2;;;Dragonmoss;2;Dragonwood;2;ElderDragonBlood;1;Pokke Ticket;1
-Carnage Raiment;3;4;1;0;2;5;22;3;2;-1;4;-1;Protection;2;All Resist;1;Potential;-2;Loading;2;;;Dragonmoss;2;Dragonwood;2;ElderDragonBlood;1;Pokke Ticket;1
-Auroros Torso;2;6;1;1;1;5;44;-2;0;-4;2;2;Rec Speed;2;Guard;3;PsychicVis;1;Stamina;-1;;;Lao-Shan's Shell;4;Fire Stone;2;Blood Red Horn;3;Commendation;1
-Genesis Torso;2;6;1;1;2;5;22;1;2;-2;3;3;Rec Speed;2;Load;3;NormalSAdd;1;Hunger;-1;;;Lao-Shan's Shell;4;Fire Stone;2;Blood Red Horn;3;Commendation;1
-Borealis Chest;2;6;1;2;1;5;44;-2;0;-4;2;2;Rec Speed;2;Guard;3;PsychicVis;1;Stamina;-1;;;Lao-Shan's Shell;4;Fire Stone;2;Blood Red Horn;3;Commendation;1
-Glyph Chest;2;6;1;2;2;5;22;1;2;-2;3;3;Rec Speed;2;Load;3;NormalSAdd;1;Hunger;-1;;;Lao-Shan's Shell;4;Fire Stone;2;Blood Red Horn;3;Commendation;1
-Empress Mail;10;5;1;0;1;5;46;5;0;-2;-1;0;Expert;2;Guard;1;Anti-Theft;2;Cold Res;-2;;;Lunastra Mane;2;Fire Drgn Wbng;2;Fire Dragon Scl;3;Fire Stone;2
-Empress Vest;10;5;1;0;2;5;23;6;2;-1;1;0;Expert;2;Guard;1;Anti-Theft;2;Cold Res;-2;;;Lunastra Mane;2;Fire Drgn Wbng;2;Fire Dragon Scl;3;Fire Stone;2
+Carnage Raiment;3;4;1;0;2;5;22;3;2;-1;4;-1;Protection;2;All Resist;1;Potential;-2;Capacity;2;;;Dragonmoss;2;Dragonwood;2;ElderDragonBlood;1;Pokke Ticket;1
+Auroros Torso;2;6;1;1;1;5;44;-2;0;-4;2;2;Rec Speed;2;Guard;3;PsychicVis;1;Stamina;-1;;;Lao-Shan's Shell;4;Firestone;2;Blood Red Horn;3;Commendation;1
+Genesis Torso;2;6;1;1;2;5;22;1;2;-2;3;3;Rec Speed;2;Reload;3;NormalSAdd;1;Hunger;-1;;;Lao-Shan's Shell;4;Firestone;2;Blood Red Horn;3;Commendation;1
+Borealis Chest;2;6;1;2;1;5;44;-2;0;-4;2;2;Rec Speed;2;Guard;3;PsychicVis;1;Stamina;-1;;;Lao-Shan's Shell;4;Firestone;2;Blood Red Horn;3;Commendation;1
+Glyph Chest;2;6;1;2;2;5;22;1;2;-2;3;3;Rec Speed;2;Reload;3;NormalSAdd;1;Hunger;-1;;;Lao-Shan's Shell;4;Firestone;2;Blood Red Horn;3;Commendation;1
+Empress Mail;10;5;1;0;1;5;46;5;0;-2;-1;0;Expert;2;Guard;1;Anti-Theft;2;Cold Res;-2;;;Lunastra Mane;2;Fire Drgn Webbng;2;Fire Dragon Scl;3;Firestone;2
+Empress Vest;10;5;1;0;2;5;23;6;2;-1;1;0;Expert;2;Guard;1;Anti-Theft;2;Cold Res;-2;;;Lunastra Mane;2;Fire Drgn Webbng;2;Fire Dragon Scl;3;Firestone;2
 Indra Vest;3;6;1;0;1;5;48;-2;2;-2;3;2;Guard;3;Cooking;-2;Quake Res;2;;;;;Gaoren Shell;2;Gaoren Spine;1;Daora Shell;1;Dragonite Ore;2
-Steadfast Vest;3;6;1;0;2;5;24;0;3;-1;5;3;Load;-1;Recoil;2;Cooking;-2;Quake Res;2;;;Gaoren Shell;2;Gaoren Spine;1;Daora Shell;1;Dragonite Ore;2
-Kaiser Mail;3;6;0;0;1;5;48;5;0;-2;-1;0;Expert;3;Cold Res;-3;Fatigue;3;;;;;Teostra Mane;1;Fire Drgn Wbng;2;Fire Stone;3;ElderDragonBlood;1
-Kaiser Vest;3;6;0;0;2;5;24;6;2;-1;1;0;Expert;3;Cold Res;-3;Fatigue;3;;;;;Teostra Mane;1;Fire Drgn Wbng;2;Fire Stone;3;ElderDragonBlood;1
-Red Lobster Mail;6;4;1;0;1;5;32;3;-2;0;0;1;Sneak;-2;Fishing;2;Evade;1;BBQ;2;;;King Lobster Shl;1;Sm Lobstershell;1;Famitsu Ticket;1;;
-Red Lobster Vest;6;4;1;0;2;5;15;3;0;1;0;1;Sneak;-2;Fishing;2;Evade;1;BBQ;2;;;King Lobster Shl;1;Sm Lobstershell;1;Famitsu Ticket;1;;
+Steadfast Vest;3;6;1;0;2;5;24;0;3;-1;5;3;Reload;-1;Recoil;2;Cooking;-2;Quake Res;2;;;Gaoren Shell;2;Gaoren Spine;1;Daora Shell;1;Dragonite Ore;2
+Kaiser Mail;3;6;0;0;1;5;48;5;0;-2;-1;0;Expert;3;Cold Res;-3;Fatigue;3;;;;;Teostra Mane;1;Fire Drgn Webbng;2;Firestone;3;ElderDragonBlood;1
+Kaiser Vest;3;6;0;0;2;5;24;6;2;-1;1;0;Expert;3;Cold Res;-3;Fatigue;3;;;;;Teostra Mane;1;Fire Drgn Webbng;2;Firestone;3;ElderDragonBlood;1
+(dummy)Red Lobster Mail;6;4;1;0;1;5;32;3;-2;0;0;1;Sneak;-2;Fishing;2;Evade;1;BBQ;2;;;(dummy)King Lobster Shl;1;Sm Lobstershell;1;(dummy)Famitsu Ticket;1;;
+(dummy)Red Lobster Vest;6;4;1;0;2;5;15;3;0;1;0;1;Sneak;-2;Fishing;2;Evade;1;BBQ;2;;;(dummy)King Lobster Shl;1;Sm Lobstershell;1;(dummy)Famitsu Ticket;1;;
 Monodevil Mail;10;4;1;0;1;5;34;2;-2;-1;-1;-1;Artisan;2;Expert;1;Protection;-3;Potential;1;;;Wht Monoblos Hrn;2;Wht Monoblos Spn;3;Wht Monoblos Shl;3;Monoblos Heart;1
-Monodevil Vest;10;4;1;0;2;5;16;4;0;0;2;0;Expert;1;Protection;-3;Potential;1;Loading;2;;;Wht Monoblos Hrn;2;Wht Monoblos Spn;3;Wht Monoblos Shl;3;Monoblos Heart;1
-Rathian Heart Mail;3;6;1;0;1;5;36;2;-2;-4;0;0;Antiseptic;2;Sneak;-2;Whim;1;Recovery;2;;;Pnk Rathian Scl;3;Pnk Rathian Shl;2;FireWyvern Claw;3;Monster Bone+;1
-Rathian Heart Vest;3;6;1;0;2;5;16;4;0;-2;2;2;Antiseptic;2;Sneak;-2;Whim;1;Recovery;2;;;Pnk Rathian Scl;3;Pnk Rathian Shl;2;FireWyvern Claw;3;Monster Bone+;1
-Rathalos Soul Mail;3;6;1;0;1;5;38;2;2;-4;-1;0;Expert;1;Attack;3;Protection;-1;HearProtct;2;;;Azre Rathlos Shl;3;Azr Rathlos Scl;2;Monster Fluid;3;Monster Bone+;2
-Rathalos Soul Vest;3;6;1;0;2;5;18;4;5;-2;2;1;Expert;1;Attack;3;Protection;-1;HearProtct;2;;;Azre Rathlos Shl;3;Azr Rathlos Scl;2;Monster Fluid;3;Monster Bone+;2
-Mafumofu Jacket S;4;7;1;0;0;6;20;0;0;0;0;3;Protection;2;Heat Res;-2;Cold Res;3;;;;;High Quality Pelt;3;Blango Pelt+;3;Rainbow Insect;1;;
+Monodevil Vest;10;4;1;0;2;5;16;4;0;0;2;0;Expert;1;Protection;-3;Potential;1;Capacity;2;;;Wht Monoblos Hrn;2;Wht Monoblos Spn;3;Wht Monoblos Shl;3;Monoblos Heart;1
+Rathian Heart Mail;3;6;1;0;1;5;36;2;-2;-4;0;0;Antiseptic;2;Sneak;-2;Whim;1;Recovery;2;;;Pnk Rathian Scl;3;Pnk Rathian Shl;2;Fire Wyvern Claw;3;Monster Bone+;1
+Rathian Heart Vest;3;6;1;0;2;5;16;4;0;-2;2;2;Antiseptic;2;Sneak;-2;Whim;1;Recovery;2;;;Pnk Rathian Scl;3;Pnk Rathian Shl;2;Fire Wyvern Claw;3;Monster Bone+;1
+Rathalos Soul Mail;3;6;1;0;1;5;38;2;2;-4;-1;0;Expert;1;Attack;3;Protection;-1;HearProtct;2;;;Azure Rthlos Shl;3;Azure Rthlos Scl;2;Monster Fluid;3;Monster Bone+;2
+Rathalos Soul Vest;3;6;1;0;2;5;18;4;5;-2;2;1;Expert;1;Attack;3;Protection;-1;HearProtct;2;;;Azure Rthlos Shl;3;Azure Rthlos Scl;2;Monster Fluid;3;Monster Bone+;2
+Mafumofu Jacket S;4;7;1;0;0;6;20;0;0;0;0;3;Protection;2;Heat Res;-2;Cold Res;3;;;;;High Qualty Pelt;3;Blango Pelt+;3;Rainbow Insect;1;;
 Leather Armor S;4;7;0;0;0;6;22;2;0;0;0;0;Backpackng;4;Gathering;5;;;;;;;Carbalite Ore;2;Kelbi Hide;2;Dragonite Ore;3;Stout Bone;1
 Chain Mail S;4;7;1;0;0;6;24;2;-2;0;2;1;Paralysis;-1;Health;2;Map;2;Whim;2;;;Carbalite Ore;3;Machalite Ore;6;Dragonite Ore;4;Velociprey Hide+;3
 Hunter's Mail S;4;7;1;0;1;6;38;0;-4;0;0;0;Faint;-2;Rec Speed;2;Attack;2;PsychicVis;1;;;Carbalite Ore;4;Ioprey Hide+;5;Rathalos Scale;2;Bulldrome Hide;2
@@ -141,22 +141,22 @@ Hunter's Vest S;4;7;1;0;2;6;26;2;-2;0;2;2;Faint;-1;Rec Speed;2;Attack;2;PsychicV
 Bone Mail S;4;7;1;0;1;6;44;2;-2;-2;2;-2;Anti-Theft;2;Map;-2;Cooking;2;Horn;1;;;Stout Bone;1;Bulldrome Hide+;3;King Scarab;3;Wyvern Skull Shl;1
 Bone Vest S;4;7;1;0;2;6;26;5;0;0;5;-1;Anti-Theft;2;Map;-2;Fishing;1;Cooking;2;;;Stout Bone;1;Bulldrome Hide+;3;King Scarab;3;Wyvern Skull Shl;1
 Battle Mail S;4;7;1;0;1;6;46;2;-2;0;-2;-1;SwdShrpner;2;Guard;2;Attack;2;Stamina;-1;;;Bulldrome Hide+;4;Genprey Scale+;2;Blango Pelt+;4;Dragonite Ore;4
-Battle Vest S;4;7;1;0;2;6;26;4;0;2;0;0;Load;2;ClustS Add;2;Hunger;-1;Attack;2;;;Bulldrome Hide+;4;Genprey Scale+;2;Blango Pelt+;4;Dragonite Ore;4
-Velociprey Mail S;4;7;1;0;1;6;50;1;1;-1;1;0;Paralysis;-2;Faint;3;SwdShrpner;2;;;;;Velociprey Scl+;4;Velociprey Hide+;6;Dragonite Ore;4;High Quality Pelt;2
-Velociprey Vest S;4;7;1;0;2;6;26;3;3;0;3;1;Paralysis;-2;Faint;3;PelletS Up;2;;;;;Velociprey Scl+;4;Velociprey Hide+;6;Dragonite Ore;4;High Quality Pelt;2
+Battle Vest S;4;7;1;0;2;6;26;4;0;2;0;0;Reload;2;ClustS Add;2;Hunger;-1;Attack;2;;;Bulldrome Hide+;4;Genprey Scale+;2;Blango Pelt+;4;Dragonite Ore;4
+Velociprey Mail S;4;7;1;0;1;6;50;1;1;-1;1;0;Paralysis;-2;Faint;3;SwdShrpner;2;;;;;Velociprey Scle+;4;Velociprey Hide+;6;Dragonite Ore;4;High Qualty Pelt;2
+Velociprey Vest S;4;7;1;0;2;6;26;3;3;0;3;1;Paralysis;-2;Faint;3;PelletS Up;2;;;;;Velociprey Scle+;4;Velociprey Hide+;6;Dragonite Ore;4;High Qualty Pelt;2
 Vespoid Mail S;4;7;2;0;1;6;50;-6;2;2;-5;-4;Paralysis;1;Poison;-2;Everlastng;2;;;;;Vespoid InnrWng;3;Vespoid Carapace;3;Vespoid Wing;2;Carpenterbug;10
 Vespoid Vest S;4;7;1;0;2;6;26;-5;5;2;-4;-3;Paralysis;3;Poison;-2;Everlastng;2;;;;;Vespoid InnrWng;3;Vespoid Carapace;3;Vespoid Shell;5;Carpenterbug;10
-Hi-Metal Mail S;4;7;2;0;1;6;50;-2;3;0;-2;-1;Defence;2;All Resist;-2;Gunnery;1;;;;;Carbalite Ore;5;Lightcrystal;1;Velociprey Hide+;3;Machalite Ore;12
-Hi-Metal Vest S;4;7;1;0;2;6;26;0;5;0;0;0;Defence;2;All Resist;-2;Gunnery;3;;;;;Carbalite Ore;5;Lightcrystal;1;Velociprey Hide+;3;Machalite Ore;12
-Steel Mail S;4;7;1;0;1;6;52;2;-2;0;2;0;Guard;5;Stamina;-2;;;;;;;Nova Crystal;1;Lightcrystal;2;Dragonite Ore;12;Rubbery Hide+;2
-Hornet Mail S;4;7;1;0;1;6;52;-6;-5;2;-1;-5;Poison;-2;Sharpness;2;Dragon Res;3;;;;;HornetaurInnrWng;3;Hornetaur Carpce;3;Hornetaur Head;1;Carpenterbug;10
-Hornet Vest S;4;7;1;0;2;6;26;-5;-3;3;2;-4;Poison;-2;PierceS Up;2;Dragon Res;3;;;;;HornetaurInnrWng;3;Hornetaur Carpce;3;Hornetaur Head;1;Carpenterbug;10
+Hi-Metal Mail S;4;7;2;0;1;6;50;-2;3;0;-2;-1;Defense;2;All Resist;-2;Gunnery;1;;;;;Carbalite Ore;5;Lightcrystal;1;Velociprey Hide+;3;Machalite Ore;12
+Hi-Metal Vest S;4;7;1;0;2;6;26;0;5;0;0;0;Defense;2;All Resist;-2;Gunnery;3;;;;;Carbalite Ore;5;Lightcrystal;1;Velociprey Hide+;3;Machalite Ore;12
+Steel Mail S;4;7;1;0;1;6;52;2;-2;0;2;0;Guard;5;Stamina;-2;;;;;;;Novacrystal;1;Lightcrystal;2;Dragonite Ore;12;Rubbery Hide+;2
+Hornet Mail S;4;7;1;0;1;6;52;-6;-5;2;-1;-5;Poison;-2;Sharpness;2;Dragon Res;3;;;;;HornetaurInnrWng;3;Hornetaur Crapce;3;Hornetaur Head;1;Carpenterbug;10
+Hornet Vest S;4;7;1;0;2;6;26;-5;-3;3;2;-4;Poison;-2;PierceS Up;2;Dragon Res;3;;;;;HornetaurInnrWng;3;Hornetaur Crapce;3;Hornetaur Head;1;Carpenterbug;10
 Genprey Mail S;4;7;2;0;1;6;52;2;3;-1;-2;-2;Paralysis;1;Poison;-2;Spc Attack;2;;;;;Gendrome Tail;3;Genprey Scale+;4;Carbalite Ore;3;Bulldrome Hide;5
 Genprey Vest S;4;7;1;0;2;6;26;4;5;0;0;0;Paralysis;3;Poison;-2;Spc Attack;2;;;;;Gendrome Tail;3;Genprey Scale+;4;Carbalite Ore;3;Bulldrome Hide;5
-Ioprey Mail S;4;7;1;0;1;6;52;3;-2;-1;2;1;Faint;-2;Poison;3;Defence;2;;;;;Ioprey Scale+;6;Ioprey Hide+;9;Carbalite Ore;4;Stout Bone;3
+Ioprey Mail S;4;7;1;0;1;6;52;3;-2;-1;2;1;Faint;-2;Poison;3;Defense;2;;;;;Ioprey Scale+;6;Ioprey Hide+;9;Carbalite Ore;4;Stout Bone;3
 Ioprey Vest S;4;7;1;0;2;6;28;4;0;0;3;2;Faint;-2;Poison;3;NormalS Up;2;;;;;Ioprey Scale+;6;Ioprey Hide+;9;Carbalite Ore;4;Stout Bone;3
-Kut-Ku Mail S;4;7;2;0;1;6;52;2;0;-1;-2;-2;Attack;1;Defence;-2;Fire Res;2;;;;;Kut-Ku Scale+;2;Kut-Ku Carapace;3;Kut-Ku Webbing;1;Monster Bone+;3
-Kut-Ku Vest S;4;7;1;0;2;6;28;5;3;0;1;-1;Attack;3;Defence;-2;Fire Res;2;;;;;Kut-Ku Scale+;2;Kut-Ku Carapace;3;Kut-Ku Webbing;1;Monster Bone+;3
+Kut-Ku Mail S;4;7;2;0;1;6;52;2;0;-1;-2;-2;Attack;1;Defense;-2;Fire Res;2;;;;;Kut-Ku Scale+;2;Kut-Ku Carapace;3;Kut-Ku Webbing;1;Monster Bone+;3
+Kut-Ku Vest S;4;7;1;0;2;6;28;5;3;0;1;-1;Attack;3;Defense;-2;Fire Res;2;;;;;Kut-Ku Scale+;2;Kut-Ku Carapace;3;Kut-Ku Webbing;1;Monster Bone+;3
 Cephalos Mail S;4;7;2;0;1;6;54;-3;-4;0;2;2;Heat Res;1;Cold Res;-1;PsychicVis;3;;;;;Cephalos Scale+;4;Cephalos Fin+;5;Lightcrystal;2;Union Ore;3
 Cephalos Vest S;4;7;1;0;2;6;28;-1;-2;1;5;3;Heat Res;3;Cold Res;-1;PsychicVis;3;;;;;Cephalos Scale+;4;Cephalos Fin+;5;Lightcrystal;2;Union Ore;3
 Conga Mail S;4;7;2;0;1;6;54;-3;2;0;2;-1;Antiseptic;2;Sneak;-1;ElementAtk;2;;;;;Congalala Pelt+;3;Conga Pelt+;4;Brute Bone;6;King Scarab;3
@@ -165,51 +165,51 @@ Gypceros Mail S;5;7;2;0;1;6;54;-4;4;0;1;1;Poison;1;Hunger;-2;Stamina;2;;;;;Rubbe
 Gypceros Vest S;5;7;1;0;2;6;28;-1;6;0;4;3;Poison;3;Hunger;-2;Stamina;2;;;;;Rubbery Hide+;5;Monster Broth;3;Antiseptic Stone;10;Gendrome Hide;3
 Khezu Mail S;5;7;2;0;1;6;56;-3;4;0;3;1;Faint;-2;Rec Speed;2;Wide Area;1;;;;;Pale Khezu Steak;1;Khezu Hide - Tan;3;Monster Broth;6;Lifepowder;3
 Khezu Vest S;5;7;2;0;2;6;28;-1;6;0;5;2;Faint;-2;Rec Speed;2;Wide Area;1;;;;;Pale Khezu Steak;1;Khezu Hide - Tan;3;Monster Broth;6;Lifepowder;3
-Hermitaur Mail S;4;7;1;0;1;6;56;-3;-4;1;3;0;Guard;2;Throw;2;Defence;2;Stamina;-1;;;Hermitaur Carpce;3;Hermitaur Shell;2;King Scarab;3;Stout Bone;3
-Hermitaur Vest S;4;7;1;0;2;6;28;-1;-2;2;5;1;Load;2;CragS Add;1;Defence;2;All Resist;-2;;;Hermitaur Carpce;3;Hermitaur Shell;2;King Scarab;3;Stout Bone;3
-Hypnoc Mail S;7;7;3;0;1;6;56;-2;0;1;2;1;Sleep;1;Hunger;-1;Stamina;1;;;;;Hypnoc Feather;3;Hypnoc Claw+;2;Rainbow Down;5;HypncGizzardStne;1
-Hypnoc Vest S;7;7;3;0;2;6;28;0;2;2;4;3;Sleep;1;Hunger;-1;Stamina;1;;;;;Hypnoc Feather;3;Hypnoc Claw+;2;Rainbow Down;5;HypncGizzardStne;1
-Basarios Mail S;5;7;1;0;1;6;56;0;2;-2;2;1;Sleep;1;Poison;2;Defence;2;Dragon Res;-2;;;Basarios Carpace;5;Fire Stone;1;Toxin Sac;3;Dragonite Ore;10
-Basarios Vest S;5;7;1;0;2;6;28;2;4;0;4;2;Sleep;1;Poison;2;Defence;2;Dragon Res;-2;;;Basarios Carpace;5;Fire Stone;1;Toxin Sac;3;Dragonite Ore;10
+Hermitaur Mail S;4;7;1;0;1;6;56;-3;-4;1;3;0;Guard;2;Throw;2;Defense;2;Stamina;-1;;;Hermitaur Carpce;3;Hermitaur Shell;2;King Scarab;3;Stout Bone;3
+Hermitaur Vest S;4;7;1;0;2;6;28;-1;-2;2;5;1;Reload;2;Crag S Add;1;Defense;2;All Resist;-2;;;Hermitaur Carpce;3;Hermitaur Shell;2;King Scarab;3;Stout Bone;3
+Hypno Mail S;7;7;3;0;1;6;56;-2;0;1;2;1;Sleep;1;Hunger;-1;Stamina;1;;;;;OrangeHypnoPelt;3;Hypno Claw+;2;RainbowTailFeath;5;Hypno Bezoar;1
+Hypno Vest S;7;7;3;0;2;6;28;0;2;2;4;3;Sleep;1;Hunger;-1;Stamina;1;;;;;OrangeHypnoPelt;3;Hypno Claw+;2;RainbowTailFeath;5;Hypno Bezoar;1
+Basarios Mail S;5;7;1;0;1;6;56;0;2;-2;2;1;Sleep;1;Poison;2;Defense;2;Dragon Res;-2;;;Basarios Carpace;5;Firestone;1;Toxin Sac;3;Dragonite Ore;10
+Basarios Vest S;5;7;1;0;2;6;28;2;4;0;4;2;Sleep;1;Poison;2;Defense;2;Dragon Res;-2;;;Basarios Carpace;5;Firestone;1;Toxin Sac;3;Dragonite Ore;10
 Plesioth Mail S;5;8;1;0;1;6;58;-4;-4;0;4;2;Hunger;-2;Heat Res;2;Cold Res;2;Stamina;1;;;Plesioth Fin+;3;Plesioth Scale+;2;Cephalos Scale+;2;King Scarab;3
 Plesioth Vest S;5;8;1;0;2;6;30;-2;-2;1;6;3;Hunger;-2;Heat Res;2;Cold Res;2;Stamina;1;;;Plesioth Fin+;3;Plesioth Scale+;2;Cephalos Scale+;2;King Scarab;3
-Monoblos Mail S;10;8;2;0;1;6;60;2;-2;-1;-1;-1;Attack;2;Protection;-1;Potential;2;;;;;Monoblos Thrcic;3;Majestic Red Hrn;1;Monoblos Carpce;3;Monoblos Heart;1
-Monoblos Vest S;10;8;2;0;2;6;30;4;0;0;2;0;Attack;2;Protection;-1;Potential;2;;;;;Monoblos Thrcic;3;Majestic Red Hrn;1;Monoblos Carpce;3;Monoblos Heart;1
-Yian Garuga Mail S;8;8;2;0;1;6;60;2;2;0;0;0;Expert;1;HearProtct;2;Gathering;-2;;;;;Garuga Scale+;4;Garuga Carapace;4;Garuga Wing;4;Gendrome Tail;2
-Yian Garuga Vest S;8;8;2;0;2;6;30;3;3;0;2;1;Expert;1;HearProtct;2;Gathering;-2;;;;;Garuga Scale+;4;Garuga Carapace;4;Garuga Wing;4;Gendrome Tail;2
+Monoblos Mail S;10;8;2;0;1;6;60;2;-2;-1;-1;-1;Attack;2;Protection;-1;Potential;2;;;;;MonoblosThoracic;3;Top-GrdRedHorn;1;MonoblosCarapace;3;Monoblos Heart;1
+Monoblos Vest S;10;8;2;0;2;6;30;4;0;0;2;0;Attack;2;Protection;-1;Potential;2;;;;;MonoblosThoracic;3;Top-GrdRedHorn;1;MonoblosCarapace;3;Monoblos Heart;1
+Garuga Mail S;8;8;2;0;1;6;60;2;2;0;0;0;Expert;1;HearProtct;2;Gathering;-2;;;;;Garuga Scale+;4;Garuga Carapace;4;Garuga Wing;4;Gendrome Tail;2
+Garuga Vest S;8;8;2;0;2;6;30;3;3;0;2;1;Expert;1;HearProtct;2;Gathering;-2;;;;;Garuga Scale+;4;Garuga Carapace;4;Garuga Wing;4;Gendrome Tail;2
 Blango Mail S;5;8;1;0;1;6;60;-4;0;1;2;3;Snow Res;2;Attack;2;Heat Res;-1;Cold Res;2;;;Blangonga Pelt+;3;Kirin Mane;2;Giaprey Hide+;3;Velociprey Hide+;3
 Blango Vest S;5;8;1;0;2;6;30;-3;1;2;4;5;Snow Res;2;Attack;2;Heat Res;-1;Cold Res;2;;;Blangonga Pelt+;3;Kirin Mane;2;Giaprey Hide+;3;Velociprey Hide+;3
-Ceanataur Mail S;5;8;1;0;1;6;61;1;-1;0;2;-1;Artisan;2;SwdShrpner;1;Attack;2;Defence;-2;;;Ceanataur Carpce;3;Sm Ceanataur Shl;6;Carbalite Ore;4;Rare Scarab;4
-Ceanataur Vest S;5;8;1;0;2;6;30;2;0;2;4;0;PierceS Up;2;PierceSAdd;3;Defence;-2;;;;;Ceanataur Carpce;3;Sm Ceanataur Shl;6;Carbalite Ore;4;Rare Scarab;4
-Rathian Mail S;5;9;1;0;1;6;62;2;-2;-4;0;0;Faint;-1;Poison;2;Health;4;;;;;Rathian Ruby;1;Rathian Scale+;3;Rathian Spike;2;Nova Crystal;1
-Rathian Vest S;5;9;1;0;2;6;30;4;0;-2;2;2;Faint;-1;Poison;2;Health;4;;;;;Rathian Ruby;1;Rathian Scale+;3;Rathian Spike;2;Nova Crystal;1
-Naruga Mail S;8;9;1;0;1;6;62;-4;-3;0;3;2;Attack;-2;Evade Inc;2;Technique;3;;;;;Naruga Pelt;3;Naruga Scale+;2;Naruga Fang+;4;Union Ore;4
-Naruga Vest S;8;9;1;0;2;6;30;-2;-1;1;4;3;Attack;-2;Evade Inc;2;Technique;3;;;;;Naruga Pelt;3;Naruga Scale+;2;Naruga Fang+;4;Union Ore;4
+Ceanataur Mail S;5;8;1;0;1;6;61;1;-1;0;2;-1;Artisan;2;SwdShrpner;1;Attack;2;Defense;-2;;;Ceanataur Carpce;3;Sm Ceanataur Shl;6;Carbalite Ore;4;Rare Scarab;4
+Ceanataur Vest S;5;8;1;0;2;6;30;2;0;2;4;0;PierceS Up;2;PierceSAdd;3;Defense;-2;;;;;Ceanataur Carpce;3;Sm Ceanataur Shl;6;Carbalite Ore;4;Rare Scarab;4
+Rathian Mail S;5;9;1;0;1;6;62;2;-2;-4;0;0;Faint;-1;Poison;2;Health;4;;;;;Rathian Ruby;1;Rathian Scale+;3;Rathian Spike;2;Novacrystal;1
+Rathian Vest S;5;9;1;0;2;6;30;4;0;-2;2;2;Faint;-1;Poison;2;Health;4;;;;;Rathian Ruby;1;Rathian Scale+;3;Rathian Spike;2;Novacrystal;1
+Narga Mail S;8;9;1;0;1;6;62;-4;-3;0;3;2;Attack;-2;Evade Dist;2;Constitutn;3;;;;;Black Narga Pelt;3;Narga Scale+;2;Nargacuga Fang+;4;Union Ore;4
+Narga Vest S;8;9;1;0;2;6;30;-2;-1;1;4;3;Attack;-2;Evade Dist;2;Constitutn;3;;;;;Black Narga Pelt;3;Narga Scale+;2;Nargacuga Fang+;4;Union Ore;4
 Tigrex Mail S;6;9;1;0;1;6;64;3;-2;-1;2;3;Protection;-2;HearProtct;2;PsychicVis;1;Cooking;2;;;Tigrex Carapace;3;Tigrex Fang+;2;Tigrex Claw+;3;Hrd Monster Bone;2
 Tigrex Vest S;6;9;1;0;2;6;30;4;-1;0;3;4;Protection;-2;HearProtct;2;PsychicVis;1;Cooking;2;;;Tigrex Carapace;3;Tigrex Fang+;2;Tigrex Claw+;3;Hrd Monster Bone;2
-Rathalos Mail S;5;9;1;0;1;6;64;2;2;-4;-1;-3;Faint;-2;Rec Speed;1;Attack;4;;;;;Rathalos Scale+;3;Rathalos Carpace;3;Hrd Monster Bone;2;Nova Crystal;1
-Rathalos Vest S;5;9;1;0;2;6;30;4;5;-2;0;-1;Faint;-2;Rec Speed;1;Attack;4;;;;;Rathalos Scale+;3;Rathalos Carpace;3;Hrd Monster Bone;2;Nova Crystal;1
+Rathalos Mail S;5;9;1;0;1;6;64;2;2;-4;-1;-3;Faint;-2;Rec Speed;1;Attack;4;;;;;Rathalos Scale+;3;Rathalos Carpace;3;Hrd Monster Bone;2;Novacrystal;1
+Rathalos Vest S;5;9;1;0;2;6;30;4;5;-2;0;-1;Faint;-2;Rec Speed;1;Attack;4;;;;;Rathalos Scale+;3;Rathalos Carpace;3;Hrd Monster Bone;2;Novacrystal;1
 Diablo Mail S;6;9;1;0;1;6;64;3;1;0;-1;-2;Health;-2;Expert;3;WindPress;2;;;;;Diablos Thoracic;1;Majestic Horn;1;Diablos Carapace;2;Hrd Monster Bone;2
 Diablo Vest S;6;9;1;0;2;6;30;5;4;0;2;-1;Health;-2;Expert;3;WindPress;2;;;;;Diablos Thoracic;1;Majestic Horn;1;Diablos Carapace;2;Hrd Monster Bone;2
-Gravios Mail S;6;9;2;0;1;6;64;2;2;-2;-2;0;Guard;2;Defence;1;Stamina;-2;;;;;Gravios Carapace;5;Gravios Shell;2;Monster Bone+;2;Fire Stone;2
-Gravios Vest S;6;9;2;0;2;6;30;4;3;0;1;1;Recoil;2;Defence;1;Stamina;-2;;;;;Gravios Carapace;5;Gravios Shell;2;Monster Bone+;2;Fire Stone;2
-Leather Armor U;4;7;2;0;0;7;20;2;0;0;0;0;Sneak;-1;Gathering;2;Alchemy;2;;;;;Giaprey Hide+;4;Iron Ore;6;High Quality Pelt;2;Bulldrome Hide+;2
+Gravios Mail S;6;9;2;0;1;6;64;2;2;-2;-2;0;Guard;2;Defense;1;Stamina;-2;;;;;Gravios Carapace;5;Gravios Shell;2;Monster Bone+;2;Firestone;2
+Gravios Vest S;6;9;2;0;2;6;30;4;3;0;1;1;Recoil;2;Defense;1;Stamina;-2;;;;;Gravios Carapace;5;Gravios Shell;2;Monster Bone+;2;Firestone;2
+Leather Armor U;4;7;2;0;0;7;20;2;0;0;0;0;Sneak;-1;Gathering;2;Alchemy;2;;;;;Giaprey Hide+;4;Iron Ore;6;High Qualty Pelt;2;Bulldrome Hide+;2
 Chain Mail U;4;7;2;0;0;7;22;2;-2;0;2;1;Backpackng;2;Map;-1;Whim;2;;;;;Carbalite Ore;2;Rainbow Ore;2;Dragonite Ore;4;Genprey Hide+;3
 Hunter's Mail U;4;7;2;0;1;7;36;0;-4;0;0;0;Sleep;-2;BombStrUp;2;PsychicVis;1;;;;;King Scarab;4;Carbalite Ore;2;Rathalos Scale;2;Black Blos Shell;3
-Hunter's Vest U;4;7;2;0;2;7;24;2;-2;0;2;2;Sleep;-2;CragS Add;2;PsychicVis;1;;;;;King Scarab;4;Carbalite Ore;2;Rathalos Scale;2;Black Blos Shell;3
+Hunter's Vest U;4;7;2;0;2;7;24;2;-2;0;2;2;Sleep;-2;Crag S Add;2;PsychicVis;1;;;;;King Scarab;4;Carbalite Ore;2;Rathalos Scale;2;Black Blos Shell;3
 Bone Mail U;4;7;2;0;1;7;42;2;-2;-2;2;-2;Guard;-1;Anti-Theft;2;Horn;1;Fatigue;1;;;Ioprey Hide+;4;Wyvern Skull Shl;1;Bulldrome Hide;4;Brute Bone;10
 Bone Vest U;4;7;1;0;2;7;24;5;0;0;5;-1;Anti-Theft;2;Precision;-2;Fatigue;3;;;;;Ioprey Hide+;4;Wyvern Skull Shl;1;Bulldrome Hide;4;Brute Bone;10
-Battle Mail U;4;7;2;0;1;7;44;2;-2;0;-2;-1;Guard;2;Defence;1;Stamina;-2;;;;;Bulldrome Hide+;4;Remobra Skin;3;Carbalite Ore;4;Rainbow Ore;5
-Battle Vest U;4;7;2;0;2;7;24;4;0;2;0;0;Load;2;Defence;1;All Resist;-2;;;;;Bulldrome Hide+;4;Remobra Skin;3;Carbalite Ore;4;Rainbow Ore;5
+Battle Mail U;4;7;2;0;1;7;44;2;-2;0;-2;-1;Guard;2;Defense;1;Stamina;-2;;;;;Bulldrome Hide+;4;Remobra Skin;3;Carbalite Ore;4;Rainbow Ore;5
+Battle Vest U;4;7;2;0;2;7;24;4;0;2;0;0;Reload;2;Defense;1;All Resist;-2;;;;;Bulldrome Hide+;4;Remobra Skin;3;Carbalite Ore;4;Rainbow Ore;5
 Giaprey Mail U;4;7;2;0;1;7;44;0;1;-1;1;3;Snow Res;1;Fire Res;-2;Evade;2;;;;;Giaprey Scale+;4;Giaprey Hide+;3;Black Blos Shell;2;Carpenterbug;10
 Giaprey Vest U;4;7;2;0;2;7;24;1;3;0;3;4;Snow Res;1;Fire Res;-2;Evade;2;;;;;Giaprey Scale+;4;Giaprey Hide+;3;Black Blos Shell;2;Carpenterbug;10
 Vespoid Mail U;4;7;2;0;1;7;48;-6;2;2;-5;-4;Sleep;2;Spc Attack;2;Water Res;-1;;;;;Vespoid InnrWng;3;Vespoid Carapace;3;Rainbow Insect;2;Sleep Sac;4
 Vespoid Vest U;4;7;2;0;2;7;24;-5;5;2;-4;-3;Sleep;2;Spc Attack;2;Water Res;-1;;;;;Vespoid InnrWng;3;Vespoid Carapace;3;Rainbow Insect;2;Sleep Sac;4
 Hi-Metal Mail U;5;7;2;0;1;7;48;-2;3;0;-2;-1;ElementAtk;1;Protection;2;Stamina;-2;;;;;Basarios Tears;1;Carbalite Ore;5;Black Pearl;1;Machalite Ore;8
 Hi-Metal Vest U;5;7;2;0;2;7;24;0;5;0;0;0;ElementAtk;1;Protection;2;Stamina;-2;;;;;Basarios Tears;1;Carbalite Ore;5;Black Pearl;1;Machalite Ore;8
-Steel Mail U;4;7;1;0;1;7;50;2;-2;0;2;0;Guard;5;Stamina;-2;;;;;;;Nova Crystal;1;Rainbow Ore;3;Lightcrystal;2;Rubbery Hide+;2
-Hornet Mail U;4;7;2;0;1;7;50;-6;-5;2;-1;-5;Protection;-2;HearProtct;1;Gathering;2;;;;;HornetaurInnrWng;3;Hornetaur Carpce;3;Rainbow Insect;2;Fire Stone;1
-Hornet Vest U;4;7;2;0;2;7;24;-5;-3;3;2;-4;Protection;-2;HearProtct;1;Gathering;2;;;;;HornetaurInnrWng;3;Hornetaur Carpce;3;Rainbow Insect;2;Fire Stone;1
+Steel Mail U;4;7;1;0;1;7;50;2;-2;0;2;0;Guard;5;Stamina;-2;;;;;;;Novacrystal;1;Rainbow Ore;3;Lightcrystal;2;Rubbery Hide+;2
+Hornet Mail U;4;7;2;0;1;7;50;-6;-5;2;-1;-5;Protection;-2;HearProtct;1;Gathering;2;;;;;HornetaurInnrWng;3;Hornetaur Crapce;3;Rainbow Insect;2;Firestone;1
+Hornet Vest U;4;7;2;0;2;7;24;-5;-3;3;2;-4;Protection;-2;HearProtct;1;Gathering;2;;;;;HornetaurInnrWng;3;Hornetaur Crapce;3;Rainbow Insect;2;Firestone;1
 Genprey Mail U;4;7;2;0;1;7;50;2;3;-1;-2;-2;Paralysis;1;Ice Res;-2;Fate;2;;;;;Genprey Scale+;6;Rainbow Insect;3;Gendrome Tail;3;Small Goldenfish;6
 Genprey Vest U;4;7;2;0;2;7;24;4;5;0;0;0;Paralysis;1;Ice Res;-2;Fate;2;;;;;Genprey Scale+;6;Rainbow Insect;3;Gendrome Tail;3;Small Goldenfish;6
 Ioprey Mail U;5;7;2;0;1;7;50;3;-2;-1;2;1;Poison;1;ThunderRes;-2;Recovery;2;;;;;Ioprey Scale+;6;Rainbow Insect;3;Rubbery Hide+;2;King Scarab;2
@@ -220,12 +220,12 @@ Cephalos Mail U;4;7;2;0;1;7;52;-3;-4;0;2;2;Hunger;2;Heat Res;2;Cold Res;-1;;;;;C
 Cephalos Vest U;4;7;2;0;2;7;26;-1;-2;1;5;3;Hunger;2;Heat Res;2;Cold Res;-1;;;;;Coral Cphlos Scl;2;Coral Cphlos Fin;3;Machalite Ore;10;Iron Ore;20
 Conga Mail U;4;7;2;0;1;7;52;-3;2;0;2;-1;BombStrUp;2;Hunger;-2;Potential;1;;;;;Congalala Pelt+;3;Conga Pelt+;4;Brute Bone;6;Rainbow Insect;3
 Conga Vest U;4;7;2;0;2;7;26;-1;4;1;4;0;PelletS Up;1;BombStrUp;2;Hunger;-2;;;;;Congalala Pelt+;3;Conga Pelt+;4;Brute Bone;6;Rainbow Insect;3
-Gypceros Mail U;5;7;2;0;1;7;52;-4;4;0;1;1;Faint;2;WindPress;2;Fate;-1;;;;;Pur GypcerosWng;4;Monster Broth;3;Antiseptic Stone;10;King Scarab;2
-Gypceros Vest U;5;7;2;0;2;7;26;-1;6;0;4;3;Faint;2;WindPress;2;Fate;-1;;;;;Pur GypcerosWng;4;Monster Broth;3;Antiseptic Stone;10;King Scarab;2
+Gypceros Mail U;5;7;2;0;1;7;52;-4;4;0;1;1;Faint;2;WindPress;2;Fate;-1;;;;;Pur Gypceros Wng;4;Monster Broth;3;Antiseptic Stone;10;King Scarab;2
+Gypceros Vest U;5;7;2;0;2;7;26;-1;6;0;4;3;Faint;2;WindPress;2;Fate;-1;;;;;Pur Gypceros Wng;4;Monster Broth;3;Antiseptic Stone;10;King Scarab;2
 Khezu Mail U;5;7;2;0;1;7;54;3;4;0;-3;0;Rec Speed;-1;Wide Area;2;Recovery;2;;;;;Alluring Webbing;3;Pale Khezu Steak;1;Hrd Monster Bone;1;Lifepowder;3
 Khezu Vest U;5;7;2;0;2;7;26;5;6;0;-1;1;Rec Speed;-1;Wide Area;2;Recovery;2;;;;;Alluring Webbing;3;Pale Khezu Steak;1;Hrd Monster Bone;1;Lifepowder;3
-Hermitaur Mail U;4;7;2;0;1;7;54;-3;-4;1;3;0;Guard Up;2;Defence;1;ThunderRes;-2;;;;;Hermitaur Carpce;4;Rainbow Insect;1;Killer Beetle;3;Genprey Hide+;4
-Hermitaur Vest U;4;7;2;0;2;7;26;-1;-2;2;5;1;Guard Up;2;Defence;1;ThunderRes;-2;;;;;Hermitaur Carpce;4;Rainbow Insect;1;Killer Beetle;3;Genprey Hide+;4
+Hermitaur Mail U;4;7;2;0;1;7;54;-3;-4;1;3;0;Guard Up;2;Defense;1;ThunderRes;-2;;;;;Hermitaur Carpce;4;Rainbow Insect;1;Killer Beetle;3;Genprey Hide+;4
+Hermitaur Vest U;4;7;2;0;2;7;26;-1;-2;2;5;1;Guard Up;2;Defense;1;ThunderRes;-2;;;;;Hermitaur Carpce;4;Rainbow Insect;1;Killer Beetle;3;Genprey Hide+;4
 Basarios Mail U;5;7;1;0;1;7;54;0;2;-2;2;1;Faint;-2;Guard;2;Terrain;3;;;;;Basarios Carpace;5;Firecell Stone;1;Toxin Sac;3;Machalite Ore;20
 Basarios Vest U;5;7;1;0;2;7;26;2;4;0;4;2;Faint;-2;PierceSAdd;3;Terrain;2;;;;;Basarios Carpace;5;Firecell Stone;1;Toxin Sac;3;Machalite Ore;20
 Plesioth Mail U;5;8;1;0;1;7;56;-4;-4;0;4;2;Poison;-2;Hunger;3;Everlastng;2;;;;;Grn Plsioth Scl+;3;Grn Plsioth Fin+;4;Monster Broth;3;Grn Plesioth Scl;3
@@ -233,188 +233,188 @@ Plesioth Vest U;5;8;1;0;2;7;28;-2;-2;1;6;3;Poison;-2;Hunger;3;Everlastng;2;;;;;G
 Blango Mail U;5;8;2;0;1;7;58;-4;0;1;2;3;Spc Attack;1;HearProtct;2;Terrain;-2;;;;;Blangonga Pelt+;3;Rathian Scale+;2;Genprey Hide+;3;Carpenterbug;8
 Blango Vest U;5;8;2;0;2;7;28;-3;1;2;4;5;Spc Attack;1;HearProtct;2;Terrain;-2;;;;;Blangonga Pelt+;3;Rathian Scale+;2;Genprey Hide+;3;Carpenterbug;8
 Ceanataur Mail U;5;8;2;0;1;7;59;1;-1;0;2;-1;Health;-1;Sharpness;2;Expert;2;;;;;Ceanataur Carpce;3;Sm Ceanataur Shl;6;Monster Bone+;3;DaoraDragonScale;2
-Ceanataur Vest U;5;8;2;0;2;7;28;2;0;2;4;0;Health;-1;Expert;2;Load;2;;;;;Ceanataur Carpce;3;Sm Ceanataur Shl;6;Monster Bone+;3;DaoraDragonScale;2
-Diablo Mail U;6;9;1;0;1;7;62;3;1;0;-1;-2;Sharpness;2;Defence;-2;WindPress;3;;;;;Blk Blos Thracic;1;Majestic Horn;1;Black Blos Cpc;2;Hrd Monster Bone;2
-Diablo Vest U;6;9;1;0;2;7;28;5;4;0;2;-1;Load;2;WindPress;3;Fate;-2;;;;;Blk Blos Thracic;1;Majestic Horn;1;Black Blos Cpc;2;Hrd Monster Bone;2
-Gravios Mail U;6;9;3;0;1;7;62;2;2;0;-2;1;Guard Up;1;Hunger;-1;Defence;1;;;;;Blk Gravios Cpc;5;Blk Gravios Shl;2;Hrd Monster Bone;2;Gravios BrainStm;1
-Gravios Vest U;6;9;3;0;2;7;28;4;3;0;1;2;Guard Up;1;Hunger;-1;Defence;1;;;;;Blk Gravios Cpc;5;Blk Gravios Shl;2;Hrd Monster Bone;2;Gravios BrainStm;1
-Famitsu T-Shirt S;6;10;1;0;0;8;30;4;4;4;4;4;Antiseptic;2;Protection;5;;;;;;;Famitsu Invoice;5;Pokke Ticket;2;Yian Garuga Coin;6;Kirin Coin;3
+Ceanataur Vest U;5;8;2;0;2;7;28;2;0;2;4;0;Health;-1;Expert;2;Reload;2;;;;;Ceanataur Carpce;3;Sm Ceanataur Shl;6;Monster Bone+;3;DaoraDragonScale;2
+Diablo Mail U;6;9;1;0;1;7;62;3;1;0;-1;-2;Sharpness;2;Defense;-2;WindPress;3;;;;;Blk Blos Thracic;1;Majestic Horn;1;Black Blos Cpc;2;Hrd Monster Bone;2
+Diablo Vest U;6;9;1;0;2;7;28;5;4;0;2;-1;Reload;2;WindPress;3;Fate;-2;;;;;Blk Blos Thracic;1;Majestic Horn;1;Black Blos Cpc;2;Hrd Monster Bone;2
+Gravios Mail U;6;9;3;0;1;7;62;2;2;0;-2;1;Guard Up;1;Hunger;-1;Defense;1;;;;;Blk Gravios Cpc;5;Blk Gravios Shl;2;Hrd Monster Bone;2;Gravios BrainStm;1
+Gravios Vest U;6;9;3;0;2;7;28;4;3;0;1;2;Guard Up;1;Hunger;-1;Defense;1;;;;;Blk Gravios Cpc;5;Blk Gravios Shl;2;Hrd Monster Bone;2;Gravios BrainStm;1
+(dummy)Famitsu T-Shirt S;6;10;1;0;0;8;30;4;4;4;4;4;Antiseptic;2;Protection;5;;;;;;;(dummy)Famitsu Invoice;5;Pokke Ticket;2;Yian Garuga Coin;6;Kirin Coin;3
 Hunter T-Shirt;6;10;2;0;0;8;30;4;4;4;4;4;Fate;5;;;;;;;;;Hunter's Ticket;3;Pokke Ticket;2;Daora Carapace;3;Tigrex Scale+;4
-Black Belt Mail S;8;8;1;0;0;8;30;3;3;3;3;3;Artisan;2;Map;-2;Loading;2;Cooking;1;;;Rare Scarab;4;Expert Ticket;6;Rajang Coin;6;Yian Garuga Coin;10
+Black Belt Mail S;8;8;1;0;0;8;30;3;3;3;3;3;Artisan;2;Map;-2;Capacity;2;Cooking;1;;;Rare Scarab;4;Expert Ticket;6;Rajang Coin;6;Yian Garuga Coin;10
 Shinobi Suit(Heaven);6;10;2;0;0;8;30;2;4;2;-6;-3;ElementAtk;2;Cold Res;-1;Evade;2;;;;;Fatalis Webbing;1;Commendation;1;Pokke Ticket;1;FireWyvrn Marrow;2
 Shinobi Suit (Earth);6;10;2;0;0;8;30;2;4;2;-6;-3;Sneak;2;Hunger;2;Heat Res;-1;;;;;Fatalis Webbing;1;Commendation;1;Pokke Ticket;1;FireWyvrn Marrow;2
 Red Guild Guard Suit;5;9;0;1;0;8;30;0;0;0;0;0;Protection;-2;Backpackng;2;Whim;3;Fate;2;;;Firecell Stone;2;FlynMealPassPlus;1;Commendation;1;Rathalos Carpace;4
 Red Guild Guard Vest;4;9;0;1;0;8;30;0;0;0;0;0;PelletS Up;2;PelletSAdd;3;Protection;-2;Backpackng;2;;;Firecell Stone;2;FlynMealPassPlus;1;Commendation;1;Gaoren Spine;3
-Blue GuildGuard Suit;5;8;0;1;0;8;30;0;0;0;0;0;Protection;2;Fate;-3;Carving;4;;;;;Nova Crystal;1;Pokke Ticket;2;Commendation;1;Plesioth Fin+;3
-Blue GuildGuard Vest;5;8;0;1;0;8;30;0;0;0;0;0;NormalS Up;2;Fate;-3;Carving;4;;;;;Nova Crystal;1;Pokke Ticket;2;Commendation;1;Plesioth Scale+;6
+Blue GuildGuard Suit;5;8;0;1;0;8;30;0;0;0;0;0;Protection;2;Fate;-3;Carving;4;;;;;Novacrystal;1;Pokke Ticket;2;Commendation;1;Plesioth Fin+;3
+Blue GuildGuard Vest;5;8;0;1;0;8;30;0;0;0;0;0;NormalS Up;2;Fate;-3;Carving;4;;;;;Novacrystal;1;Pokke Ticket;2;Commendation;1;Plesioth Scale+;6
 Red Guild Guard Suit;5;9;0;2;0;8;30;0;0;0;0;0;Protection;-2;Backpackng;2;Whim;3;Fate;2;;;Firecell Stone;2;FlynMealPassPlus;1;Commendation;1;Rathalos Carpace;4
 Red Guild Guard Vest;4;9;0;2;0;8;30;0;0;0;0;0;PelletS Up;2;PelletSAdd;3;Protection;-2;Backpackng;2;;;Firecell Stone;2;FlynMealPassPlus;1;Commendation;1;Gaoren Spine;3
-Blue GuildGuard Suit;5;8;0;2;0;8;30;0;0;0;0;0;Protection;2;Fate;-3;Carving;4;;;;;Nova Crystal;1;Pokke Ticket;2;Commendation;1;Plesioth Fin+;3
-Blue GuildGuard Vest;5;8;0;2;0;8;30;0;0;0;0;0;NormalS Up;2;Fate;-3;Carving;4;;;;;Nova Crystal;1;Pokke Ticket;2;Commendation;1;Plesioth Scale+;6
-Devil Blos Mail;6;9;1;0;1;8;40;3;1;0;-1;-2;PsychicVis;4;Stamina;1;Technique;-1;Fast Chrge;1;;;One-HornedTicket;1;Diablos Carapace;2;Majestic Horn;1;Hrd Monster Bone;2
-Devil Blos Vest;6;9;1;0;2;8;20;5;4;0;2;-1;PsychicVis;4;Stamina;1;Technique;-1;Fast Chrge;1;;;One-HornedTicket;1;Diablos Carapace;2;Majestic Horn;1;Hrd Monster Bone;2
-Jolly Roger Suit;6;10;0;0;1;8;48;0;0;0;0;0;BombStrUp;1;Protection;-1;Fate;3;Carving;4;;;Pirate J Ticket;1;Fire Drgn Scl+;3;Ancient Fish;2;Remobra Skin+;3
-Jolly Roger Jacket;6;10;0;0;2;8;24;0;0;0;0;0;BombStrUp;1;Protection;-1;Fate;3;Carving;4;;;Pirate J Ticket;1;Fire Drgn Scl+;3;Ancient Fish;2;Remobra Skin+;3
+Blue GuildGuard Suit;5;8;0;2;0;8;30;0;0;0;0;0;Protection;2;Fate;-3;Carving;4;;;;;Novacrystal;1;Pokke Ticket;2;Commendation;1;Plesioth Fin+;3
+Blue GuildGuard Vest;5;8;0;2;0;8;30;0;0;0;0;0;NormalS Up;2;Fate;-3;Carving;4;;;;;Novacrystal;1;Pokke Ticket;2;Commendation;1;Plesioth Scale+;6
+(dummy)Devil Blos Mail;6;9;1;0;1;8;40;3;1;0;-1;-2;PsychicVis;4;Stamina;1;Constitutn;-1;ShortCharg;1;;;(dummy)One-HornedTicket;1;Diablos Carapace;2;Majestic Horn;1;Hrd Monster Bone;2
+(dummy)Devil Blos Vest;6;9;1;0;2;8;20;5;4;0;2;-1;PsychicVis;4;Stamina;1;Constitutn;-1;ShortCharg;1;;;(dummy)One-HornedTicket;1;Diablos Carapace;2;Majestic Horn;1;Hrd Monster Bone;2
+(dummy)Jolly Roger Suit;6;10;0;0;1;8;48;0;0;0;0;0;BombStrUp;1;Protection;-1;Fate;3;Carving;4;;;(dummy)Pirate J Ticket;1;Fire Drgn Scl+;3;Ancient Fish;2;Remobra Skin+;3
+(dummy)Jolly Roger Jacket;6;10;0;0;2;8;24;0;0;0;0;0;BombStrUp;1;Protection;-1;Fate;3;Carving;4;;;(dummy)Pirate J Ticket;1;Fire Drgn Scl+;3;Ancient Fish;2;Remobra Skin+;3
 Golden Haori;6;6;0;0;1;8;55;3;2;3;2;-2;Sneak;-2;Artisan;2;Potential;3;Horn;2;;;Rajang Horn;1;Gold Rajang Pelt;1;Blk Rajang Pelt;2;;
 PuppetMaster Costume;6;8;0;0;2;8;28;4;3;4;3;-1;Sneak;2;Potential;3;Precision;-1;Gunnery;3;;;Rajang Horn;1;Blk Rajang Pelt;4;DaoraDragonScal+;2;Daora Webbing;2
 Obituary Petto S;4;7;1;1;1;8;56;3;3;2;-5;-4;Spc Attack;2;Cold Res;-2;Evade;3;;;;;Rare Scarab;2;Great Hornfly;3;Killer Beetle;8;Toxin Sac;3
 Obituary Pectus S;4;7;1;1;2;8;28;4;5;2;-4;-3;Spc Attack;2;Cold Res;-2;Evade;3;;;;;Rare Scarab;2;Great Hornfly;3;Killer Beetle;8;Toxin Sac;3
 Butterfly Petto S;4;7;1;2;1;8;56;3;3;2;-5;-4;Spc Attack;2;Cold Res;-2;Evade;3;;;;;Rare Scarab;2;Great Hornfly;3;Killer Beetle;8;Toxin Sac;3
 Butterfly Pectus S;4;7;1;2;2;8;28;4;5;2;-4;-3;Spc Attack;2;Cold Res;-2;Evade;3;;;;;Rare Scarab;2;Great Hornfly;3;Killer Beetle;8;Toxin Sac;3
-DeathStench Muscle S;5;8;1;0;1;8;64;2;1;0;1;-1;Health;-3;Fencing;2;Spc Attack;2;;;;;Sinister Cloth;2;Blangonga Fang+;2;Unknown Skull;3;Elder Drgn Bone;3
-Death Stench Heart S;5;8;1;0;2;8;30;3;2;1;2;0;Health;-3;Spc Attack;2;Speed Fire;2;;;;;Sinister Cloth;2;Blangonga Fang+;2;Unknown Skull;3;Elder Drgn Bone;3
+DeathStench Muscle S;5;8;1;0;1;8;64;2;1;0;1;-1;Health;-3;Fencing;2;Spc Attack;2;;;;;Sinister Cloth;2;Blangonga Fang+;2;Unknown Skull;3;Eldr Dragon Bone;3
+Death Stench Heart S;5;8;1;0;2;8;30;3;2;1;2;0;Health;-3;Spc Attack;2;AutoReload;2;;;;;Sinister Cloth;2;Blangonga Fang+;2;Unknown Skull;3;Eldr Dragon Bone;3
 SupremeMizuha Guards;6;9;1;0;1;8;64;-4;0;-1;3;4;HearProtct;2;WindPress;3;Terrain;-2;;;;;Chameleos Hide+;2;ChameleosWebbing;3;Alluring Webbing;2;Firecell Stone;2
 SprmExtrvagantCamise;6;9;1;0;2;8;30;-3;1;0;4;5;HearProtct;2;WindPress;3;Terrain;-2;;;;;Chameleos Hide+;2;ChameleosWebbing;3;Alluring Webbing;2;Firecell Stone;2
-Kushala Cista S;6;8;1;0;1;8;66;0;-2;-3;2;4;Poison;-2;Sharpness;2;Terrain;2;Fast Chrge;1;;;Daora Carapace;2;Daora Webbing;2;Carbalite Ore;4;ElderDragonBlood;2
-Kushala Vise S;6;8;1;0;2;8;32;2;-2;-2;3;5;Poison;-2;PierceS Up;2;Terrain;2;Fast Chrge;1;;;Daora Carapace;2;Daora Webbing;2;Carbalite Ore;4;ElderDragonBlood;2
-Kirin Jacket S;5;9;1;0;1;8;66;0;4;-1;2;0;ElementAtk;2;All Resist;3;Everlastng;-2;;;;;Kirin Hide+;1;Kirin Hide;3;Pale Khezu Steak;1;Nova Crystal;1
-Kirin Cape S;5;9;1;0;2;8;32;1;6;0;4;1;ElementAtk;2;All Resist;3;Everlastng;-2;;;;;Kirin Hide+;1;Kirin Hide;3;Pale Khezu Steak;1;Nova Crystal;1
+Kushala Cista S;6;8;1;0;1;8;66;0;-2;-3;2;4;Poison;-2;Sharpness;2;Terrain;2;ShortCharg;1;;;Daora Carapace;2;Daora Webbing;2;Carbalite Ore;4;ElderDragonBlood;2
+Kushala Vise S;6;8;1;0;2;8;32;2;-2;-2;3;5;Poison;-2;PierceS Up;2;Terrain;2;ShortCharg;1;;;Daora Carapace;2;Daora Webbing;2;Carbalite Ore;4;ElderDragonBlood;2
+Kirin Jacket S;5;9;1;0;1;8;66;0;4;-1;2;0;ElementAtk;2;All Resist;3;Everlastng;-2;;;;;Kirin Hide+;1;Kirin Hide;3;Pale Khezu Steak;1;Novacrystal;1
+Kirin Cape S;5;9;1;0;2;8;32;1;6;0;4;1;ElementAtk;2;All Resist;3;Everlastng;-2;;;;;Kirin Hide+;1;Kirin Hide;3;Pale Khezu Steak;1;Novacrystal;1
 Auroros Torso Haku;6;9;1;1;1;8;66;-2;0;-4;2;2;Faint;-1;Rec Speed;2;Guard;2;Guard Up;2;;;Lao-ShanCarapace;4;Fire Dragon Pwdr;2;Monoblos Heart;1;Commendation;3
-Genesis Torso Haku;6;9;1;1;2;8;32;1;2;-2;3;3;Faint;-1;Rec Speed;2;Load;4;;;;;Lao-ShanCarapace;4;Fire Dragon Pwdr;2;Monoblos Heart;1;Commendation;3
+Genesis Torso Haku;6;9;1;1;2;8;32;1;2;-2;3;3;Faint;-1;Rec Speed;2;Reload;4;;;;;Lao-ShanCarapace;4;Fire Dragon Pwdr;2;Monoblos Heart;1;Commendation;3
 Borealis Chest Haku;6;9;1;2;1;8;66;-2;0;-4;2;2;Faint;-1;Rec Speed;2;Guard;2;Guard Up;2;;;Lao-ShanCarapace;4;Fire Dragon Pwdr;2;Monoblos Heart;1;Commendation;3
-Glyph Chest Haku;6;9;1;2;2;8;32;1;2;-2;3;3;Faint;-1;Rec Speed;2;Load;4;;;;;Lao-ShanCarapace;4;Fire Dragon Pwdr;2;Monoblos Heart;1;Commendation;3
+Glyph Chest Haku;6;9;1;2;2;8;32;1;2;-2;3;3;Faint;-1;Rec Speed;2;Reload;4;;;;;Lao-ShanCarapace;4;Fire Dragon Pwdr;2;Monoblos Heart;1;Commendation;3
 Ultimate Indra Vest;6;9;1;0;1;8;70;-2;2;-2;3;2;Guard;3;Cooking;-2;Quake Res;2;;;;;Gaoren Carapace;2;Gaoren Thoracic;1;Daora Carapace;1;Rare Scarab;2
 SupremeSteadfastVest;6;9;1;0;2;8;34;0;3;-1;5;3;Recoil;2;Fate;1;Cooking;-2;Quake Res;2;;;Gaoren Carapace;2;Gaoren Thoracic;1;Daora Carapace;1;Rare Scarab;2
 Kaiser Mail S;6;9;1;0;1;8;70;5;0;-2;-1;0;Expert;3;Cold Res;-2;Fatigue;2;;;;;Fire Dragon Pwdr;2;Teostra Carapace;3;Firecell Stone;3;ElderDragonBlood;3
 Kaiser Vest S;6;9;1;0;2;8;34;6;2;-1;1;0;Expert;3;Cold Res;-2;Fatigue;2;;;;;Fire Dragon Pwdr;2;Teostra Carapace;3;Firecell Stone;3;ElderDragonBlood;3
 Dragonhide S;6;10;0;0;1;8;70;0;2;-5;2;2;Sharpness;2;Fencing;2;Expert;-2;Protection;-3;;;Fatalis Horn;2;Fatalis Shell;3;Fatalis Scale;2;Rathalos Ruby;1
-Dragonskin S;6;10;0;0;2;8;34;2;4;-2;4;3;Expert;-2;NormalS Up;2;Protection;-3;Speed Fire;2;;;Fatalis Horn;2;Fatalis Shell;3;Fatalis Scale;2;Rathalos Ruby;1
-Dark Akantor Aegis;6;9;1;0;1;8;70;2;-1;-4;3;4;Artisan;2;Expert;2;HearProtct;1;Fast Chrge;-2;;;Akantor Fang;2;Akantor Shell;3;Akantor Scale;2;Gravios BrainStm;5
-Dark Akantor Plate;6;9;1;0;2;8;34;3;0;-2;4;5;Expert;2;HearProtct;1;Loading;2;Fast Chrge;-2;;;Akantor Fang;2;Akantor Shell;3;Akantor Scale;2;Gravios BrainStm;5
+Dragonskin S;6;10;0;0;2;8;34;2;4;-2;4;3;Expert;-2;NormalS Up;2;Protection;-3;AutoReload;2;;;Fatalis Horn;2;Fatalis Shell;3;Fatalis Scale;2;Rathalos Ruby;1
+Dark Akantor Aegis;6;9;1;0;1;8;70;2;-1;-4;3;4;Artisan;2;Expert;2;HearProtct;1;ShortCharg;-2;;;Akantor Fang;2;Akantor Shell;3;Akantor Scale;2;Gravios BrainStm;5
+Dark Akantor Plate;6;9;1;0;2;8;34;3;0;-2;4;5;Expert;2;HearProtct;1;Capacity;2;ShortCharg;-2;;;Akantor Fang;2;Akantor Shell;3;Akantor Scale;2;Gravios BrainStm;5
 Bistro Jacket U;5;7;1;0;0;8;28;2;2;2;2;2;Gluttony;1;Cooking;3;BBQ;3;;;;;Khezu Hide - Tan;2;FlynMealPassPlus;1;Spicy Mushroom;5;;
 Shinobi Suit (Sky);6;10;2;0;0;8;28;2;4;2;-6;-3;Spc Attack;2;Cold Res;-1;Evade;2;;;;;Fatalis Webbing;1;Commendation;1;Rainbow Insect;3;Gld Rathian Cpc;2
 Shinobi Suit (Sea);6;10;2;0;0;8;28;2;4;2;-6;-3;Sneak;-1;Hunger;2;Wide Area;2;;;;;Fatalis Webbing;1;Commendation;1;Rainbow Insect;3;Gld Rathian Cpc;2
-Guardian Suit U;4;7;2;1;0;8;28;0;0;0;0;0;Protection;2;Stamina;-1;Gunnery;2;;;;;Union Ore;3;Chaoshroom;4;Expert Ticket;2;Shogun Coin;3
-Guardian Vest U;4;7;2;1;0;8;28;0;0;0;0;0;Sneak;-1;Protection;2;Wide Area;2;;;;;Union Ore;3;Chaoshroom;4;Expert Ticket;2;Fire Coin;3
-Helper Vest U;4;7;2;2;0;8;28;0;0;0;0;0;Protection;2;Stamina;-1;Gunnery;2;;;;;Union Ore;3;Chaoshroom;4;Expert Ticket;2;Shogun Coin;3
-Healer Vest U;4;7;2;2;0;8;28;0;0;0;0;0;Sneak;-1;Protection;2;Wide Area;2;;;;;Union Ore;3;Chaoshroom;4;Expert Ticket;2;Fire Coin;3
+Guardian Suit U;4;7;2;1;0;8;28;0;0;0;0;0;Protection;2;Stamina;-1;Gunnery;2;;;;;Union Ore;3;Chaos Mushroom;4;Expert Ticket;2;Shogun Coin;3
+Guardian Vest U;4;7;2;1;0;8;28;0;0;0;0;0;Sneak;-1;Protection;2;Wide Area;2;;;;;Union Ore;3;Chaos Mushroom;4;Expert Ticket;2;Fire Coin;3
+Helper Vest U;4;7;2;2;0;8;28;0;0;0;0;0;Protection;2;Stamina;-1;Gunnery;2;;;;;Union Ore;3;Chaos Mushroom;4;Expert Ticket;2;Shogun Coin;3
+Healer Vest U;4;7;2;2;0;8;28;0;0;0;0;0;Sneak;-1;Protection;2;Wide Area;2;;;;;Union Ore;3;Chaos Mushroom;4;Expert Ticket;2;Fire Coin;3
 MelahoaFlowerJacketU;4;7;1;0;1;8;48;0;1;0;1;0;Health;-1;Gathering;3;HiSpdGathr;2;Recovery;1;;;King Scarab;4;Dosbiscus;5;FlynMealPassPlus;1;Monster Broth;8
 Melahoa Stalk U;4;7;1;0;2;8;24;0;1;0;2;0;Health;-1;Gathering;3;HiSpdGathr;2;Recovery;1;;;King Scarab;4;Dosbiscus;5;FlynMealPassPlus;1;Monster Broth;8
 Makluva Cover U;4;7;2;0;1;8;52;0;-2;0;2;0;MixSucRate;3;Alchemy;2;;;;;;;Cephalos Fin+;4;Springnight Carp;5;Gastronome Tuna;1;Book of Combos 1;1
 Makluva Scale U;4;7;2;0;2;8;26;0;-1;0;3;0;MixSucRate;3;Alchemy;2;;;;;;;Cephalos Fin+;4;Springnight Carp;5;Gastronome Tuna;1;Book of Combos 1;1
-Monodevil Mail U;10;8;1;0;1;8;58;2;-2;-1;-1;-1;Artisan;2;Expert;1;Protection;-2;Potential;2;;;WhtMnoblosThrcic;3;Wht Monoblos Cpc;2;Majestic Wht Hrn;2;Monoblos Heart;1
-Monodevil Vest U;10;8;1;0;2;8;28;4;0;0;2;0;Expert;1;Protection;-2;Potential;2;Loading;2;;;WhtMnoblosThrcic;3;Wht Monoblos Cpc;2;Majestic Wht Hrn;2;Monoblos Heart;1
-Rathian Heart Mail U;6;9;1;0;1;8;60;2;-2;-4;0;0;Antiseptic;1;Sneak;-1;Whim;3;Recovery;2;;;PnkRathian Scl+;3;Pnk Rathian Cpc;2;Carbalite Ore;4;Rathian Ruby;1
-Rathian Heart Vest U;6;9;1;0;2;8;28;4;0;-2;2;2;Antiseptic;1;Sneak;-1;Whim;3;Recovery;2;;;PnkRathian Scl+;3;Pnk Rathian Cpc;2;Carbalite Ore;4;Rathian Ruby;1
-Rathalos Soul Mail U;6;9;1;0;1;8;62;2;2;-4;-1;0;Health;-2;Expert;2;HearProtct;3;;;;;Azre Rathlos Cpc;3;Azr Rathlos Scl+;3;Inferno Sac;3;Hrd Monster Bone;2
-Rathalos Soul Vest U;6;9;1;0;2;8;28;4;5;-2;2;1;Health;-2;Expert;2;HearProtct;3;;;;;Azre Rathlos Cpc;3;Azr Rathlos Scl+;3;Inferno Sac;3;Hrd Monster Bone;2
+Monodevil Mail U;10;8;1;0;1;8;58;2;-2;-1;-1;-1;Artisan;2;Expert;1;Protection;-2;Potential;2;;;WhtMonoblosThora;3;Wht Monoblos Cpc;2;Top-GrdPlatHorn;2;Monoblos Heart;1
+Monodevil Vest U;10;8;1;0;2;8;28;4;0;0;2;0;Expert;1;Protection;-2;Potential;2;Capacity;2;;;WhtMonoblosThora;3;Wht Monoblos Cpc;2;Top-GrdPlatHorn;2;Monoblos Heart;1
+Rathian Heart Mail U;6;9;1;0;1;8;60;2;-2;-4;0;0;Antiseptic;1;Sneak;-1;Whim;3;Recovery;2;;;Pnk Rathian Scl+;3;Pnk Rathian Cpc;2;Carbalite Ore;4;Rathian Ruby;1
+Rathian Heart Vest U;6;9;1;0;2;8;28;4;0;-2;2;2;Antiseptic;1;Sneak;-1;Whim;3;Recovery;2;;;Pnk Rathian Scl+;3;Pnk Rathian Cpc;2;Carbalite Ore;4;Rathian Ruby;1
+Rathalos Soul Mail U;6;9;1;0;1;8;62;2;2;-4;-1;0;Health;-2;Expert;2;HearProtct;3;;;;;Azure Rthlos Cpc;3;Azre Rthlos Scl+;3;Inferno Sac;3;Hrd Monster Bone;2
+Rathalos Soul Vest U;6;9;1;0;2;8;28;4;5;-2;2;1;Health;-2;Expert;2;HearProtct;3;;;;;Azure Rthlos Cpc;3;Azre Rthlos Scl+;3;Inferno Sac;3;Hrd Monster Bone;2
 Golden Moon Mail;6;9;2;0;1;8;62;2;-2;1;0;0;Health;1;Whim;-1;Fate;3;;;;;Gld Rathian Scl+;3;Gld Rathian Cpc;3;FireWyvrn BrnStm;1;Rathian Ruby;1
 Golden Moon Vest;6;9;2;0;2;8;31;4;0;2;2;1;Health;1;Whim;-1;Fate;3;;;;;Gld Rathian Scl+;3;Gld Rathian Cpc;3;FireWyvrn BrnStm;1;Rathian Ruby;1
-Silver Sol Mail;6;9;2;0;1;8;64;2;-1;1;-1;0;Fencing;2;Attack;2;Defence;-1;;;;;Slvr Rathlos Cpc;3;Slvr Ratlos Scl+;3;Rathalos Ruby;1;Rathalos Plate;1
-Silver Sol Vest;6;9;2;0;2;8;32;4;1;2;2;1;PierceS Up;2;Attack;2;Defence;-1;;;;;Slvr Rathlos Cpc;3;Slvr Ratlos Scl+;3;Rathalos Ruby;1;Rathalos Plate;1
+Silver Sol Mail;6;9;2;0;1;8;64;2;-1;1;-1;0;Fencing;2;Attack;2;Defense;-1;;;;;Slvr Rthlos Cpc;3;Slvr Rthlos Scl+;3;Rathalos Ruby;1;Rathalos Plate;1
+Silver Sol Vest;6;9;2;0;2;8;32;4;1;2;2;1;PierceS Up;2;Attack;2;Defense;-1;;;;;Slvr Rthlos Cpc;3;Slvr Rthlos Scl+;3;Rathalos Ruby;1;Rathalos Plate;1
 Auroros Torso Ten;5;5;1;1;1;8;64;-2;0;-4;2;2;Faint;-2;Rec Speed;3;Fencing;2;;;;;Azure LaoS Shell;4;Lunastra Tail;3;Kirin Azure Horn;3;Commendation;3
 Genesis Torso Ten;6;9;1;1;2;8;30;1;2;-2;3;3;Faint;-2;Rec Speed;3;PierceS Up;2;;;;;Azure LaoS Shell;4;Fire Dragon Pwdr;2;Kirin Azure Horn;3;Commendation;3
 Borealis Chest Ten;5;5;1;2;1;8;64;-2;0;-4;2;2;Faint;-2;Rec Speed;3;Fencing;2;;;;;Azure LaoS Shell;4;Lunastra Tail;3;Kirin Azure Horn;3;Commendation;3
 Glyph Chest Ten;6;9;1;2;2;8;30;1;2;-2;3;3;Faint;-2;Rec Speed;3;PierceS Up;2;;;;;Azure LaoS Shell;4;Fire Dragon Pwdr;2;Kirin Azure Horn;3;Commendation;3
-Fatalis Hide;6;10;0;0;1;8;68;0;2;-5;2;2;Artisan;2;Defence;-2;Protection;-3;Stamina;2;;;Fatalis CrmsnHrn;2;Fatalis CrmsnShl;3;Fatalis CrmsnScl;2;Rathalos Ruby;1
-Fatalis Skin;6;10;0;0;2;8;32;2;4;-2;4;3;Defence;-2;Protection;-3;Stamina;2;Loading;2;;;Fatalis CrmsnHrn;2;Fatalis CrmsnShl;3;Fatalis CrmsnScl;2;Rathalos Ruby;1
-White Fatalis Hide;6;10;0;0;1;8;71;0;2;-5;2;2;Sharpness;-2;Artisan;2;Fencing;2;Protection;-3;;;White Ftalis Hrn;2;Wht Fatalis Cpc;3;Wht Fatalis Scl;2;Fire Drgn Jwl;1
-White Fatalis Skin;6;10;0;0;2;8;35;2;4;-2;4;3;Protection;-3;Stamina;-2;Loading;2;Fast Chrge;2;;;White Ftalis Hrn;2;Wht Fatalis Cpc;3;Wht Fatalis Scl;2;Fire Drgn Jwl;1
-Kut-Ku Mail X;7;10;2;0;1;9;78;2;0;-1;-2;-2;Rec Speed;1;Attack;2;Defence;-2;PsychicVis;2;;;Kut-Ku Thck Scl;2;Kut-Ku Hvy Cpc;3;Kut-Ku Hrd Wbbng;1;Etherlite Ore;3
-Kut-Ku Vest X;7;10;2;0;2;9;38;5;3;0;1;-1;Rec Speed;1;Attack;2;Defence;-2;PsychicVis;2;;;Kut-Ku Thck Scl;2;Kut-Ku Hvy Cpc;3;Kut-Ku Hrd Wbbng;1;Etherlite Ore;3
-Conga Mail X;7;10;1;0;1;9;80;-3;2;0;2;-1;Spc Attack;3;Hunger;-2;Gluttony;2;Attack;2;;;Congalala Pelt G;3;Conga Pelt+;4;Stout Bone;6;Emperor Locust;3
-Conga Vest X;7;10;1;0;2;9;40;-1;4;1;4;0;PierceS Up;3;Hunger;-2;Gluttony;2;PowerCtAdd;2;;;Congalala Pelt G;3;Conga Pelt+;4;Stout Bone;6;Emperor Locust;3
-Gypceros Mail X;7;10;1;0;1;9;80;-4;4;0;1;1;Poison;2;Recovery;-3;Carving;4;;;;;Rubbery Hide G;5;Monster Broth;3;Pure Crystal;1;BirdWyvnStoutBne;6
-Gypceros Vest X;7;10;1;0;2;9;40;-1;6;0;4;3;Recovery;-3;Carving;4;PoisnCtAdd;2;;;;;Rubbery Hide G;5;Monster Broth;3;Pure Crystal;1;BirdWyvnStoutBne;6
-Khezu Mail X;7;10;1;0;1;9;82;-3;4;0;3;1;Paralysis;3;Faint;-2;Rec Speed;2;Recovery;2;;;Khezu Hide-Gloss;3;ChoiceKhezuSteak;1;Monster Broth;6;Lifepowder;3
-Khezu Vest X;7;10;1;0;2;9;40;-1;6;0;5;2;Paralysis;3;Faint;-2;Rec Speed;2;Recovery;2;;;Khezu Hide-Gloss;3;ChoiceKhezuSteak;1;Monster Broth;6;Lifepowder;3
-Hermitaur Mail X;7;10;2;0;1;9;82;-3;-4;1;3;0;Guard Up;3;Defence;2;All Resist;-2;;;;;Hermitaur HvyCpc;4;Hermitaur Carpce;4;Emperor Locust;3;Stout Bone;4
-Hermitaur Vest X;7;10;2;0;2;9;40;-1;-2;2;5;1;Guard Up;3;Defence;2;All Resist;-2;;;;;Hermitaur HvyCpc;4;Hermitaur Carpce;4;Emperor Locust;3;Stout Bone;4
-Hypnoc Mail X;7;10;1;0;1;9;82;-2;0;1;2;1;Paralysis;-2;Sleep;2;Technique;5;;;;;Hypnoc Feather+;3;Hypnoc StrngClaw;4;Rainbow Down;4;Etherlite Ore;5
-Hypnoc Vest X;7;10;1;0;2;9;40;0;2;2;4;3;Paralysis;-2;Sleep;2;Technique;5;;;;;Hypnoc Feather+;3;Hypnoc StrngClaw;4;Rainbow Down;4;Etherlite Ore;5
-Basarios Mail X;8;10;1;0;1;9;84;0;2;-2;2;1;Attack;-2;Defence;3;Protection;2;Gunnery;2;;;Basarios Hvy Cpc;5;Firecell Stone;8;Venom Sac;3;Etherlite Ore;4
-Basarios Vest X;8;10;1;0;2;9;42;2;4;0;4;2;Attack;-2;Defence;3;Protection;2;Gunnery;2;;;Basarios Hvy Cpc;5;Firecell Stone;8;Venom Sac;3;Etherlite Ore;4
-Plesioth Mail X;7;10;1;0;1;9;84;-4;-4;0;4;2;Stamina;2;Technique;-2;Trapper;5;;;;;Plesioth Fin G;3;Plsioth Thck Scl;2;Plesioth Fin+;2;Etherlite Ore;4
-Plesioth Vest X;7;10;1;0;2;9;42;-2;-2;1;6;3;Stamina;2;Technique;-2;Trapper;5;;;;;Plesioth Fin G;3;Plsioth Thck Scl;2;Plesioth Fin+;2;Etherlite Ore;4
-Monoblos Mail X;7;8;1;0;1;9;88;2;-2;-1;-1;-1;Expert;1;Protection;-2;PsychicVis;2;Potential;4;;;Melange Ore;3;Majestic Red Hrn;1;Monoblos Thrcic;4;Monoblos Heart;2
-Monoblos Vest X;7;8;1;0;2;9;44;4;0;0;2;0;Expert;1;Protection;-2;PsychicVis;2;Potential;4;;;Melange Ore;3;Majestic Red Hrn;1;Monoblos Thrcic;4;Monoblos Heart;2
-Yian Garuga Mail X;8;10;2;0;1;9;88;2;2;0;0;0;Rec Speed;-3;Spc Attack;2;HearProtct;2;;;;;Garuga Scale G;4;Garuga Hvy Cpc;4;Garuga StrngWng;3;BirdWyvnStoutBne;6
-Yian Garuga Vest X;8;10;2;0;2;9;44;3;3;0;2;1;Rec Speed;-3;Spc Attack;2;HearProtct;2;;;;;Garuga Scale G;4;Garuga Hvy Cpc;4;Garuga StrngWng;3;BirdWyvnStoutBne;6
-Blango Mail X;8;10;2;0;1;9;88;-4;0;1;2;3;ElementAtk;2;Heat Res;-3;Quake Res;2;;;;;Blangonga Pelt G;3;Kirin Mane;2;Giaprey Hide+;4;Colossal Bone;3
-Blango Vest X;8;10;2;0;2;9;44;-3;1;2;4;5;ElementAtk;2;Heat Res;-3;Shot Mix;2;;;;;Blangonga Pelt G;3;Kirin Mane;2;Giaprey Hide+;4;Colossal Bone;3
-Ceanataur Mail X;8;10;2;0;1;9;89;1;-1;0;2;-1;Health;-4;Fencing;2;Drawn Crit;1;;;;;CeanataurHvyCpc;3;Ceanataur Claw+;4;Etherlite Ore;4;Rare Scarab;4
-Ceanataur Vest X;8;10;2;0;2;9;44;2;0;2;4;0;Health;-3;PierceSAdd;2;Loading;2;;;;;CeanataurHvyCpc;3;Ceanataur Claw+;4;Etherlite Ore;4;Rare Scarab;4
-Rathian Mail X;8;10;2;0;1;9;90;2;-2;-4;0;0;Health;3;SwdShrpner;-2;Recovery;2;;;;;Rathian Thck Scl;3;RathianDvnePlate;1;Rathian Spike+;2;Pure Crystal;1
-Rathian Vest X;8;10;2;0;2;9;44;4;0;-2;2;2;Health;3;Recovery;2;Precision;-2;;;;;Rathian Thck Scl;3;RathianDvnePlate;1;Rathian Spike+;2;Pure Crystal;1
-Naruga Mail X;8;10;2;0;1;9;90;-4;-3;0;3;2;Attack;-2;Evade;4;Evade Inc;1;;;;;Naruga Blk Pelt;3;Naruga Thck Scl;2;Naruga Hvy Fang;4;Melange Ore;4
-Naruga Vest X;8;10;2;0;2;9;44;-2;-1;1;4;3;Attack;-2;Evade;4;Evade Inc;1;;;;;Naruga Blk Pelt;3;Naruga Thck Scl;2;Naruga Hvy Fang;4;Melange Ore;4
-Volganos Mail X;8;10;3;0;1;9;92;4;0;1;-3;0;MixSucRate;-2;Terrain;1;Survival;2;;;;;Volganos Hvy Cpc;5;Volganos Fin+;3;Blaze Sac;2;Melange Ore;4
-Volganos Vest X;8;10;3;0;2;9;46;5;2;2;-1;2;MixSucRate;-2;Terrain;1;Survival;2;;;;;Volganos Hvy Cpc;5;Volganos Fin+;3;Blaze Sac;2;Melange Ore;4
-Tigrex Mail X;9;10;2;0;1;9;92;3;-2;-1;2;3;Protection;-2;HearProtct;2;Cooking;1;Observance;2;;;Tigrex Hvy Cpc;2;Tigrex Hvy Fang;2;Tigrex StrngClaw;3;Hvy Monster Bone;2
-Tigrex Vest X;9;10;2;0;2;9;46;4;-1;0;3;4;Protection;-2;HearProtct;2;Cooking;1;Observance;2;;;Tigrex Hvy Cpc;2;Tigrex Hvy Fang;2;Tigrex StrngClaw;3;Hvy Monster Bone;2
-Rathalos Mail X;8;10;3;0;1;9;92;2;2;-4;-1;-3;Attack;1;Drawn Crit;1;Fast Chrge;-3;;;;;Rathalos ThckScl;3;Rathalos Hvy Cpc;3;Hvy Monster Bone;2;Pure Crystal;1
-Rathalos Vest X;8;10;3;0;2;9;46;4;5;-2;0;-1;NormalS Up;1;Attack;1;Fast Chrge;-3;;;;;Rathalos ThckScl;3;Rathalos Hvy Cpc;3;Hvy Monster Bone;2;Pure Crystal;1
-Diablo Mail X;9;10;1;0;1;9;92;3;1;0;-1;-2;Attack;2;WindPress;5;Map;-2;;;;;Diablos HvySpne;1;Glorious Horn;2;Diablos Carapace;4;Hrd Monster Bone;6
-Diablo Vest X;9;10;1;0;2;9;46;5;4;0;2;-1;Attack;2;WindPress;5;Map;-2;;;;;Diablos HvySpne;1;Glorious Horn;2;Diablos Carapace;4;Hrd Monster Bone;6
-Gravios Mail X;9;10;1;0;1;9;92;2;2;-2;-2;0;Health;3;Guard;1;Guard Up;3;Technique;-2;;;Gravios Hvy Cpc;5;Gravios Carapace;6;Hvy Monster Bone;4;Coma Sac;4
-Gravios Vest X;9;10;1;0;2;9;46;4;3;0;1;1;Health;3;Guard Up;3;Recoil;1;Technique;-2;;;Gravios Hvy Cpc;5;Gravios Carapace;6;Hvy Monster Bone;4;Coma Sac;4
-Kut-Ku Mail Z;7;10;2;0;1;9;80;2;0;-1;-2;-2;Health;-2;Expert;2;WindPress;2;Recovery;1;;;BlueKut-KuThkScl;2;BlueKut-KuHvyCpc;3;Bullfango Pelt+;1;Etherlite Ore;3
-Kut-Ku Vest Z;7;10;2;0;2;9;40;5;3;0;1;-1;Health;-2;Expert;2;Load;2;Recovery;1;;;BlueKut-KuThkScl;2;BlueKut-KuHvyCpc;3;Bullfango Pelt+;1;Etherlite Ore;3
-Conga Mail Z;7;10;2;0;1;9;82;2;1;0;1;-3;Sharpness;-2;Expert;4;Cooking;1;;;;;GrnCongalalaPelt;3;Conga Pelt+;4;Colossal Bone;2;Razor Claw;6
-Conga Vest Z;7;10;2;0;2;9;42;4;3;0;3;-1;PelletS Up;4;Cooking;1;Fast Chrge;-2;;;;;GrnCongalalaPelt;3;Conga Pelt+;4;Colossal Bone;2;Razor Claw;6
-Gypceros Mail Z;7;10;2;0;1;9;82;-4;4;0;1;1;Faint;3;Hunger;-2;Stamina;2;;;;;Pur Gyp StrngWng;4;Pure Crystal;1;Antiseptic Stone;10;Emperor Locust;2
-Gypceros Vest Z;7;10;2;0;2;9;42;-1;6;0;4;3;Faint;3;Hunger;-2;Stamina;2;;;;;Pur Gyp StrngWng;4;Pure Crystal;1;Antiseptic Stone;10;Emperor Locust;2
-Khezu Mail Z;7;10;2;0;1;9;84;3;4;0;-3;0;Protection;-2;HearProtct;2;Wide Area;3;;;;;Alluring Wing;3;Pale Khezu Steak;1;Hrd Monster Bone;4;Thunderbug Jelly;3
-Khezu Vest Z;7;10;2;0;2;9;42;5;6;0;-1;1;Protection;-2;HearProtct;2;Wide Area;3;;;;;Alluring Wing;3;Pale Khezu Steak;1;Hrd Monster Bone;4;Thunderbug Jelly;3
-Hermitaur Mail Z;7;10;2;0;1;9;84;0;-2;1;3;-4;Guard;2;Attack;1;Stamina;-2;Survival;2;;;Pur HermitaurShl;3;Black Pearl+;1;Colossal Bone;1;Hercudrome;6
-Hermitaur Vest Z;7;10;2;0;2;9;42;1;-1;2;6;-2;Load;-2;Recoil;2;ClustS Add;1;Survival;2;;;Pur HermitaurShl;3;Black Pearl+;1;Colossal Bone;1;Hercudrome;6
-Plesioth Mail Z;7;10;2;0;1;9;86;-4;-4;0;4;2;Hunger;3;Stamina;2;Technique;-2;;;;;GrnPlsioth Fin G;3;GrnPlsiothThkScl;2;Grn Plsioth Fin+;2;Emperor Locust;3
-Plesioth Vest Z;7;10;2;0;2;9;44;-2;-2;1;6;3;Hunger;3;Stamina;2;Technique;-2;;;;;GrnPlsioth Fin G;3;GrnPlsiothThkScl;2;Grn Plsioth Fin+;2;Emperor Locust;3
-Blango Mail Z;8;10;2;0;1;9;90;3;2;1;0;-3;Faint;1;Sharpness;2;Attack;2;Cold Res;-2;;;Brwn BlngngaPelt;3;Blngnga HrdWhskr;2;Wht Monoblos Cpc;3;Colossal Bone;3
-Blango Vest Z;8;10;2;0;2;9;46;5;4;2;1;-2;Faint;1;NormalS Up;2;Cold Res;-2;Speed Fire;2;;;Brwn BlngngaPelt;3;Blngnga HrdWhskr;2;Wht Monoblos Cpc;3;Colossal Bone;3
-Ceanataur Mail Z;8;10;2;0;1;9;91;2;-1;0;1;0;Sharpness;1;Artisan;2;Defence;-4;;;;;RedCeanataurShl;3;RedCeanataurClaw;1;Hvy Monster Bone;3;PhantomButterfly;2
-Ceanataur Vest Z;8;10;2;0;2;9;46;4;0;2;2;1;Load;2;PierceS Up;2;Defence;-3;;;;;RedCeanataurShl;3;RedCeanataurClaw;1;Hvy Monster Bone;3;PhantomButterfly;2
-Diablo Mail Z;9;10;2;0;1;9;94;3;1;0;-1;-2;Sharpness;1;Expert;2;Protection;-2;HearProtct;2;;;Blk Blos Hvy Spn;1;RobustBlkBlosHrn;2;Black Blos Cpc;4;PhantomButterfly;4
-Diablo Vest Z;9;10;2;0;2;9;48;5;4;0;2;-1;Expert;2;Load;1;Protection;-2;HearProtct;2;;;Blk Blos Hvy Spn;1;RobustBlkBlosHrn;2;Black Blos Cpc;4;PhantomButterfly;4
-Gravios Mail Z;9;10;3;0;1;9;94;2;2;0;-2;1;ElementAtk;1;Defence;2;Stamina;-2;;;;;BlkGraviosHvyShl;5;Blk Gravios Cpc;6;Hvy Monster Bone;4;BlkGravDvnePlate;1
-Gravios Vest Z;9;10;3;0;2;9;48;4;3;0;1;2;ElementAtk;1;Defence;2;Stamina;-2;;;;;BlkGraviosHvyShl;5;Blk Gravios Cpc;6;Hvy Monster Bone;4;BlkGravDvnePlate;1
-Crystal Necklace;7;10;3;0;0;10;30;0;0;0;0;0;;;;;;;;;;;Pure Crystal;1;HypncGizzardStn+;1;Emperor Locust;3;;
-Famitsu T-Shirt X;9;10;0;0;0;10;40;4;4;4;4;4;Sneak;-5;Carving;6;;;;;;;FamitsuSpcialTkt;5;Commendation S;1;Blackbelt Coin G;6;Expert Coin G;3
-Hunter Soul T-Shirt X;7;10;0;0;0;10;40;4;4;4;4;4;Set Trap;10;;;;;;;;;Puppet Ticket+;5;Hunter Soul Tckt;5;Pokke Ticket;2;Blackbelt Coin G;4
-Hunter T-Shirt X;7;10;0;0;0;10;40;4;4;4;4;4;Observance;10;;;;;;;;;Puppet Ticket+;5;Hunter's Ticket;5;Pokke Ticket;2;Expert Coin G;4
-True Golden Haori;9;10;2;0;1;10;81;3;2;3;2;-2;Sneak;-2;Artisan;1;Dragon Res;2;Fast Chrge;2;;;Rajang StrngClaw;2;ShiningRajangPlt;2;BlkRajangThkPelt;2;GldRathianThkScl;2
-TruePuppetMstrCostume;9;10;2;0;2;10;40;4;3;4;3;-1;Sneak;2;NormalS Up;1;Dragon Res;2;Fast Chrge;2;;;ShiningRajangPlt;1;Rajang Hvy Fang;4;Gold Rajang Pelt;3;GldRathianThkScl;3
-Black Belt Mail X;8;10;2;0;1;10;82;1;1;1;1;1;Artisan;2;All Resist;2;Potential;-2;FlyneGuide;1;;;Azure LaoS Claw;1;Blackbelt Coin G;10;Fighter Coin G;12;Commendation G;1
-Black Belt Vest X;8;10;2;0;2;10;42;3;3;3;3;3;NormalS Up;2;All Resist;2;Potential;-2;FlyneGuide;1;;;Azure LaoS Claw;1;Blackbelt Coin G;10;Fighter Coin G;12;Commendation G;1
-Obituary Petto X;7;10;2;1;1;10;84;3;3;2;-5;-4;Cold Res;-2;Gathering;2;Evade;3;;;;;PhantomButterfly;2;Great Hornfly;3;Emperor Locust;8;Venom Sac;4
-Obituary Pectus X;7;10;2;1;2;10;42;4;5;2;-4;-3;Cold Res;-2;Gathering;2;Evade;3;;;;;PhantomButterfly;2;Great Hornfly;3;Emperor Locust;8;Venom Sac;4
-Butterfly Petto X;7;10;2;2;1;10;84;3;3;2;-5;-4;Cold Res;-2;Gathering;2;Evade;3;;;;;PhantomButterfly;2;Great Hornfly;3;Emperor Locust;8;Venom Sac;4
-Butterfly Pectus X;7;10;2;2;2;10;42;4;5;2;-4;-3;Cold Res;-2;Gathering;2;Evade;3;;;;;PhantomButterfly;2;Great Hornfly;3;Emperor Locust;8;Venom Sac;4
-True Mizuha Guards;9;10;1;0;1;10;92;-4;0;-1;3;4;Sneak;4;HearProtct;1;Terrain;-2;Daora Res;2;;;Chameleos Hide G;2;Chameleos Hide+;3;Ancient DrgnBone;2;Chameleos Jewel;1
-TrueExtrvagantCamise;9;10;1;0;2;10;46;-3;1;0;4;5;Sneak;4;HearProtct;1;Terrain;-2;Daora Res;2;;;Chameleos Hide G;2;Chameleos Hide+;3;Ancient DrgnBone;2;Chameleos Jewel;1
-Kushala Cista X;9;10;2;0;1;10;94;0;-2;-3;2;4;Poison;-3;Sharpness;2;FireDrgRes;2;;;;;Daora Hvy Carpce;2;Daora Webbing G;2;ElderDragonBlood;4;Commendation S;1
-Kushala Vise X;9;10;2;0;2;10;48;2;-2;-2;3;5;Poison;-3;Recoil;2;FireDrgRes;2;;;;;Daora Hvy Carpce;2;Daora Webbing G;2;ElderDragonBlood;4;Commendation S;1
-Kirin Jacket X;9;10;1;0;1;10;96;0;4;-1;2;0;ElementAtk;2;Protection;2;All Resist;-3;Stamina;2;;;Kirin Hide G;1;KirinThndrTail G;2;ChoiceKhezuSteak;1;Pure Crystal;3
-Kirin Cape X;9;10;1;0;2;10;48;1;6;0;4;1;ElementAtk;2;Protection;2;All Resist;-3;Stamina;2;;;Kirin Hide G;1;KirinThndrTail G;2;ChoiceKhezuSteak;1;Pure Crystal;3
-Empress Mail X;9;8;1;0;1;10;98;5;0;-2;-1;0;Wide Area;1;Recovery;4;Everlastng;-2;ChmleosRes;2;;;Fire Drgn HvyScl;3;Lunastra Horn G;1;Lunastra Carpace;3;Ancient DrgnBone;3
-Empress Vest X;9;8;1;0;2;10;49;6;2;-1;1;0;Wide Area;1;Recovery;4;Everlastng;-2;ChmleosRes;2;;;Fire Drgn HvyScl;3;Lunastra Horn G;1;Lunastra Carpace;3;Ancient DrgnBone;3
-True Indra Vest;9;10;1;0;1;10;100;-2;2;-2;3;2;Guard;2;Cooking;-2;Quake Res;4;Survival;1;;;Gaoren Hvy Cpc;2;Gaoren Hvy Spn;1;Daora Hvy Carpce;1;PhantomButterfly;2
-TrueSteadfastVest;9;10;1;0;2;10;50;0;3;-1;5;3;Recoil;2;Cooking;-2;Quake Res;4;Survival;1;;;Gaoren Hvy Cpc;2;Gaoren Hvy Spn;1;Daora Hvy Carpce;1;PhantomButterfly;2
-Kaiser Mail X;9;10;1;0;1;10;100;5;0;-2;-1;0;Expert;5;Everlastng;-2;ChmleosRes;2;;;;;Teostra Hvy Cpc;3;Fire Dragon Pwdr;2;ElderDragonBlood;3;Fire Drgn Jwl;1
-Kaiser Vest X;9;10;1;0;2;10;50;6;2;-1;1;0;Expert;5;Everlastng;-2;ChmleosRes;2;;;;;Teostra Hvy Cpc;3;Fire Dragon Pwdr;2;ElderDragonBlood;3;Fire Drgn Jwl;1
-TruGuardnSpritRaiment;9;10;2;0;1;10;100;2;3;-2;2;-2;Paralysis;1;Fencing;2;Hunger;-2;Cooking;2;;;Dragonmoss G;2;Dragonwood G;2;Yamatsukami Fin;2;Commendation S;1
-True Carnage Raiment;9;10;2;0;2;10;50;4;5;-1;3;-1;Hunger;-2;Loading;2;Cooking;2;Para CtAdd;1;;;Dragonmoss G;2;Dragonwood G;2;Yamatsukami Fin;2;Commendation S;1
-Dragonhide X;9;10;1;0;1;10;100;0;2;-5;2;2;Sharpness;2;Dragon Res;-3;Evade Inc;2;Status Res;2;;;Fatalis Hvy Horn;2;Fatalis Hvy Shl;3;Fatalis Hrd Wbng;3;RathlosDvnePlate;1
-Dragonskin X;9;10;1;0;2;10;50;2;4;-2;4;3;PierceS Up;2;Dragon Res;-3;Evade Inc;2;Status Res;2;;;Fatalis Hvy Horn;2;Fatalis Hvy Shl;3;Fatalis Hrd Wbng;3;RathlosDvnePlate;1
-Ucamulbas Aegis;9;10;2;0;1;10;100;-4;-2;0;3;5;Artisan;2;Fencing;2;Protection;-3;;;;;Ucamulbas Jaw;3;Ucamulbas Fin;2;Ucamulbas Scale;3;Ucamu Divine Jwl;1
-Ucamulbas Plate;9;10;2;0;2;10;50;-2;0;1;5;6;Load;2;Protection;-3;Loading;2;;;;;Ucamulbas Jaw;3;Ucamulbas Fin;2;Ucamulbas Scale;3;Ucamu Divine Jwl;1
-MelahoaFlowerJacketZ;7;10;3;0;1;10;78;0;1;0;1;0;HiSpdGathr;2;Whim;-2;Set Trap;1;;;;;Emperor Locust;4;Dosbiscus;5;FlynMealPassPlus;2;Monster Broth+;4
-Melahoa Stalk Z;7;10;3;0;2;10;38;0;1;0;2;0;HiSpdGathr;2;Whim;-2;Set Trap;1;;;;;Emperor Locust;4;Dosbiscus;5;FlynMealPassPlus;2;Monster Broth+;4
-Makluva Cover Z;7;10;2;0;1;10;82;0;-2;0;2;0;Protection;-2;HearProtct;2;MixSucRate;3;;;;;Etherlite Ore;5;Plesioth Fin G;4;Springnight Carp;5;Book of Combos 5;1
-Makluva Scale Z;7;10;2;0;2;10;42;0;-1;0;3;0;Protection;-2;HearProtct;2;MixSucRate;3;;;;;Etherlite Ore;5;Plesioth Fin G;4;Springnight Carp;5;Book of Combos 5;1
-Rathian Heart Mail Z;8;10;2;0;1;10;92;2;-2;-4;0;0;Protection;2;Wide Area;3;Potential;-2;;;;;PnkRathianThkScl;3;PnkRathianHvyCpc;2;Etherlite Ore;4;RathianDvnePlate;1
-Rathian Heart Vest Z;8;10;2;0;2;10;46;4;0;-2;2;2;Protection;2;Wide Area;3;Potential;-2;;;;;PnkRathianThkScl;3;PnkRathianHvyCpc;2;Etherlite Ore;4;RathianDvnePlate;1
-Rathalos Soul Mail Z;8;10;2;0;1;10;94;2;2;-4;-1;0;Health;-2;Expert;2;HearProtct;1;Technique;2;;;AzrRathlosHvyCpc;3;AzrRathlosThkScl;3;Blaze Sac;3;Hvy Monster Bone;2
-Rathalos Soul Vest Z;8;10;2;0;2;10;48;4;5;-2;2;1;Health;-2;Expert;2;HearProtct;1;Technique;2;;;AzrRathlosHvyCpc;3;AzrRathlosThkScl;3;Blaze Sac;3;Hvy Monster Bone;2
-Golden Moon Mail Z;9;10;3;0;1;10;96;2;-2;1;0;0;Whim;-2;Fate;2;Trapper;1;;;;;GldRathianThkScl;3;GldRathianHvyCpc;3;Rathian Plate;1;RathianDvnePlate;1
-Golden Moon Vest Z;9;10;3;0;2;10;48;4;0;2;2;1;Whim;-2;Fate;2;Trapper;1;;;;;GldRathianThkScl;3;GldRathianHvyCpc;3;Rathian Plate;1;RathianDvnePlate;1
-Silver Sol Mail Z;9;10;2;0;1;10;98;2;-1;1;-1;0;Fencing;2;Attack;3;Defence;-2;;;;;SlvrRthlosHvyCpc;3;SlvrRthlosThkScl;3;RathlosDvnePlate;1;Rathalos Ruby;1
-Silver Sol VestZ;9;10;2;0;2;10;50;4;1;2;2;1;PierceS Up;2;Attack;3;Defence;-2;;;;;SlvrRthlosHvyCpc;3;SlvrRthlosThkScl;3;RathlosDvnePlate;1;Rathalos Ruby;1
-Auroros Torso Kyoku;9;10;2;1;1;10;98;-2;0;-4;2;2;Faint;-2;Rec Speed;4;Drawn Crit;1;;;;;Lao-Shan Hvy Cpc;5;Azure LaoS Claw;1;TigrexDvinePlate;1;Commendation S;1
-Genesis Torso Kyoku;9;10;2;1;2;10;50;1;2;-2;3;3;Faint;-2;Rec Speed;4;PelletS Up;1;;;;;Lao-Shan Hvy Cpc;5;Azure LaoS Claw;1;TigrexDvinePlate;1;Commendation S;1
-Borealis Chest Kyoku;9;10;2;2;1;10;98;-2;0;-4;2;2;Faint;-2;Rec Speed;4;Drawn Crit;1;;;;;Lao-Shan Hvy Cpc;5;Azure LaoS Claw;1;TigrexDvinePlate;1;Commendation S;1
-Glyph Chest Kyoku;9;10;2;2;2;10;50;1;2;-2;3;3;Faint;-2;Rec Speed;4;PelletS Up;1;;;;;Lao-Shan Hvy Cpc;5;Azure LaoS Claw;1;TigrexDvinePlate;1;Commendation S;1
-Fatalis Hide Z;9;10;2;0;1;10;103;0;2;-5;2;2;Rec Speed;-3;Artisan;1;Evade;1;Rage;2;;;FataHvyCrmsnHrn;2;FataHvyCrmsnShl;3;FataThkCrmsnScl;2;TigrexDvinePlate;1
-Fatalis Skin Z;9;10;2;0;2;10;53;2;4;-2;4;3;Rec Speed;-3;Evade;1;Loading;1;Rage;2;;;FataHvyCrmsnHrn;2;FataHvyCrmsnShl;3;FataThkCrmsnScl;2;TigrexDvinePlate;1
-White Fatalis Hide Z;9;10;2;0;1;10;104;0;2;-5;2;2;Rec Speed;2;Fate;-3;SwdMastery;2;;;;;WhtFatalisHvyHrn;2;WhtFatalisHvyCpc;3;WhtFatalisThkScl;2;Elder Dragon Jwl;1
-White Fatalis Skin Z;9;10;2;0;2;10;54;2;4;-2;4;3;Rec Speed;2;Fate;-3;Marksman;2;;;;;WhtFatalisHvyHrn;2;WhtFatalisHvyCpc;3;WhtFatalisThkScl;2;Elder Dragon Jwl;1
+Fatalis Hide;6;10;0;0;1;8;68;0;2;-5;2;2;Artisan;2;Defense;-2;Protection;-3;Stamina;2;;;Fatalis CrmsnHrn;2;Fatalis CrmsnShl;3;Fatalis CrmsnScl;2;Rathalos Ruby;1
+Fatalis Skin;6;10;0;0;2;8;32;2;4;-2;4;3;Defense;-2;Protection;-3;Stamina;2;Capacity;2;;;Fatalis CrmsnHrn;2;Fatalis CrmsnShl;3;Fatalis CrmsnScl;2;Rathalos Ruby;1
+White Fatalis Hide;6;10;0;0;1;8;71;0;2;-5;2;2;Sharpness;-2;Artisan;2;Fencing;2;Protection;-3;;;Wht Fatalis Horn;2;Wht Fatalis Shl;3;Wht Fatalis Scl;2;Fire Drgn Jwl;1
+White Fatalis Skin;6;10;0;0;2;8;35;2;4;-2;4;3;Protection;-3;Stamina;-2;Capacity;2;ShortCharg;2;;;Wht Fatalis Horn;2;Wht Fatalis Shl;3;Wht Fatalis Scl;2;Fire Drgn Jwl;1
+Kut-Ku Mail X;7;10;2;0;1;9;78;2;0;-1;-2;-2;Rec Speed;1;Attack;2;Defense;-2;PsychicVis;2;;;Thick Kut-Ku Scl;2;Hvy Kut-Ku Shell;3;Str Kut-Ku Wing;1;Eltalite Ore;3
+Kut-Ku Vest X;7;10;2;0;2;9;38;5;3;0;1;-1;Rec Speed;1;Attack;2;Defense;-2;PsychicVis;2;;;Thick Kut-Ku Scl;2;Hvy Kut-Ku Shell;3;Str Kut-Ku Wing;1;Eltalite Ore;3
+Conga Mail X;7;10;1;0;1;9;80;-3;2;0;2;-1;Spc Attack;3;Hunger;-2;Gluttony;2;Attack;2;;;HrdCongalalaPlt+;3;Conga Pelt+;4;Stout Bone;6;Emperor Cricket;3
+Conga Vest X;7;10;1;0;2;9;40;-1;4;1;4;0;PierceS Up;3;Hunger;-2;Gluttony;2;PowerCAdd;2;;;HrdCongalalaPlt+;3;Conga Pelt+;4;Stout Bone;6;Emperor Cricket;3
+Gypceros Mail X;7;10;1;0;1;9;80;-4;4;0;1;1;Poison;2;Recovery;-3;Carving;4;;;;;SpecRubberyHide+;5;Monster Broth;3;Purecrystal;1;RobustWyvernBone;6
+Gypceros Vest X;7;10;1;0;2;9;40;-1;6;0;4;3;Recovery;-3;Carving;4;PoisonCAdd;2;;;;;SpecRubberyHide+;5;Monster Broth;3;Purecrystal;1;RobustWyvernBone;6
+Khezu Mail X;7;10;1;0;1;9;82;-3;4;0;3;1;Paralysis;3;Faint;-2;Rec Speed;2;Recovery;2;;;KhezuHide-Cream;3;KhezuSpecialCut;1;Monster Broth;6;Lifepowder;3
+Khezu Vest X;7;10;1;0;2;9;40;-1;6;0;5;2;Paralysis;3;Faint;-2;Rec Speed;2;Recovery;2;;;KhezuHide-Cream;3;KhezuSpecialCut;1;Monster Broth;6;Lifepowder;3
+Hermitaur Mail X;7;10;2;0;1;9;82;-3;-4;1;3;0;Guard Up;3;Defense;2;All Resist;-2;;;;;HvyHermitaurShl;4;Hermitaur Carpce;4;Emperor Cricket;3;Stout Bone;4
+Hermitaur Vest X;7;10;2;0;2;9;40;-1;-2;2;5;1;Guard Up;3;Defense;2;All Resist;-2;;;;;HvyHermitaurShl;4;Hermitaur Carpce;4;Emperor Cricket;3;Stout Bone;4
+Hypno Mail X;7;10;1;0;1;9;82;-2;0;1;2;1;Paralysis;-2;Sleep;2;Constitutn;5;;;;;OrangeHypnoPelt+;3;Top-GrdHypnoClaw;4;RainbowTailFeath;4;Eltalite Ore;5
+Hypno Vest X;7;10;1;0;2;9;40;0;2;2;4;3;Paralysis;-2;Sleep;2;Constitutn;5;;;;;OrangeHypnoPelt+;3;Top-GrdHypnoClaw;4;RainbowTailFeath;4;Eltalite Ore;5
+Basarios Mail X;8;10;1;0;1;9;84;0;2;-2;2;1;Attack;-2;Defense;3;Protection;2;Gunnery;2;;;HvyBasariosShell;5;Firecell Stone;8;DeadlyPoisonSac;3;Eltalite Ore;4
+Basarios Vest X;8;10;1;0;2;9;42;2;4;0;4;2;Attack;-2;Defense;3;Protection;2;Gunnery;2;;;HvyBasariosShell;5;Firecell Stone;8;DeadlyPoisonSac;3;Eltalite Ore;4
+Plesioth Mail X;7;10;1;0;1;9;84;-4;-4;0;4;2;Stamina;2;Constitutn;-2;Tranquilzr;5;;;;;SpecPlesiothFin+;3;ThckPlesiothScl;2;Plesioth Fin+;2;Eltalite Ore;4
+Plesioth Vest X;7;10;1;0;2;9;42;-2;-2;1;6;3;Stamina;2;Constitutn;-2;Tranquilzr;5;;;;;SpecPlesiothFin+;3;ThckPlesiothScl;2;Plesioth Fin+;2;Eltalite Ore;4
+Monoblos Mail X;7;8;1;0;1;9;88;2;-2;-1;-1;-1;Expert;1;Protection;-2;PsychicVis;2;Potential;4;;;Mellanje Ore;3;Top-GrdRedHorn;1;MonoblosThoracic;4;Monoblos Heart;2
+Monoblos Vest X;7;8;1;0;2;9;44;4;0;0;2;0;Expert;1;Protection;-2;PsychicVis;2;Potential;4;;;Mellanje Ore;3;Top-GrdRedHorn;1;MonoblosThoracic;4;Monoblos Heart;2
+Garuga Mail X;8;10;2;0;1;9;88;2;2;0;0;0;Rec Speed;-3;Spc Attack;2;HearProtct;2;;;;;ThickGarugaScale;4;Hvy Garuga Shell;4;Str Garuga Wing;3;RobustWyvernBone;6
+Garuga Vest X;8;10;2;0;2;9;44;3;3;0;2;1;Rec Speed;-3;Spc Attack;2;HearProtct;2;;;;;ThickGarugaScale;4;Hvy Garuga Shell;4;Str Garuga Wing;3;RobustWyvernBone;6
+Blango Mail X;8;10;2;0;1;9;88;-4;0;1;2;3;ElementAtk;2;Heat Res;-3;Quake Res;2;;;;;HrdBlangongaPlt+;3;Kirin Mane;2;Giaprey Hide+;4;Massive Bone;3
+Blango Vest X;8;10;2;0;2;9;44;-3;1;2;4;5;ElementAtk;2;Heat Res;-3;Shot Mix;2;;;;;HrdBlangongaPlt+;3;Kirin Mane;2;Giaprey Hide+;4;Massive Bone;3
+Ceanataur Mail X;8;10;2;0;1;9;89;1;-1;0;2;-1;Health;-4;Fencing;2;Sword Draw;1;;;;;HvyCeanataurShl;3;Ceanataur Claw+;4;Eltalite Ore;4;Rare Scarab;4
+Ceanataur Vest X;8;10;2;0;2;9;44;2;0;2;4;0;Health;-3;PierceSAdd;2;Capacity;2;;;;;HvyCeanataurShl;3;Ceanataur Claw+;4;Eltalite Ore;4;Rare Scarab;4
+Rathian Mail X;8;10;2;0;1;9;90;2;-2;-4;0;0;Health;3;SwdShrpner;-2;Recovery;2;;;;;ThckRathianScl;3;HvnlyRathianScl;1;Rathian Spike+;2;Purecrystal;1
+Rathian Vest X;8;10;2;0;2;9;44;4;0;-2;2;2;Health;3;Recovery;2;Precision;-2;;;;;ThckRathianScl;3;HvnlyRathianScl;1;Rathian Spike+;2;Purecrystal;1
+Narga Mail X;8;10;2;0;1;9;90;-4;-3;0;3;2;Attack;-2;Evade;4;Evade Dist;1;;;;;BlackNargaPelt+;3;ThickNargaScale;2;HvyNargacugaFang;4;Mellanje Ore;4
+Narga Vest X;8;10;2;0;2;9;44;-2;-1;1;4;3;Attack;-2;Evade;4;Evade Dist;1;;;;;BlackNargaPelt+;3;ThickNargaScale;2;HvyNargacugaFang;4;Mellanje Ore;4
+Lava Mail X;8;10;3;0;1;9;92;4;0;1;-3;0;MixSucRate;-2;Terrain;1;Guts;2;;;;;HvyLavasiothShl;5;SpecLavasioFin+;3;Blazing Fire Sac;2;Mellanje Ore;4
+Lava Vest X;8;10;3;0;2;9;46;5;2;2;-1;2;MixSucRate;-2;Terrain;1;Guts;2;;;;;HvyLavasiothShl;5;SpecLavasioFin+;3;Blazing Fire Sac;2;Mellanje Ore;4
+Tigrex Mail X;9;10;2;0;1;9;92;3;-2;-1;2;3;Protection;-2;HearProtct;2;Cooking;1;Perceive;2;;;Hvy Tigrex Shell;2;Hvy Tigrex Fang;2;Hard Tigrex Claw;3;Hvy Monster Bone;2
+Tigrex Vest X;9;10;2;0;2;9;46;4;-1;0;3;4;Protection;-2;HearProtct;2;Cooking;1;Perceive;2;;;Hvy Tigrex Shell;2;Hvy Tigrex Fang;2;Hard Tigrex Claw;3;Hvy Monster Bone;2
+Rathalos Mail X;8;10;3;0;1;9;92;2;2;-4;-1;-3;Attack;1;Sword Draw;1;ShortCharg;-3;;;;;Hrd Rathalos Scl;3;HvyRathalosShl;3;Hvy Monster Bone;2;Purecrystal;1
+Rathalos Vest X;8;10;3;0;2;9;46;4;5;-2;0;-1;NormalS Up;1;Attack;1;ShortCharg;-3;;;;;Hrd Rathalos Scl;3;HvyRathalosShl;3;Hvy Monster Bone;2;Purecrystal;1
+Diablo Mail X;9;10;1;0;1;9;92;3;1;0;-1;-2;Attack;2;WindPress;5;Map;-2;;;;;HvyDiablosSpine;1;StoutWarpedHorn;2;Diablos Carapace;4;Hrd Monster Bone;6
+Diablo Vest X;9;10;1;0;2;9;46;5;4;0;2;-1;Attack;2;WindPress;5;Map;-2;;;;;HvyDiablosSpine;1;StoutWarpedHorn;2;Diablos Carapace;4;Hrd Monster Bone;6
+Gravios Mail X;9;10;1;0;1;9;92;2;2;-2;-2;0;Health;3;Guard;1;Guard Up;3;Constitutn;-2;;;HvyGraviosShell;5;Gravios Carapace;6;Hvy Monster Bone;4;Coma Sac;4
+Gravios Vest X;9;10;1;0;2;9;46;4;3;0;1;1;Health;3;Guard Up;3;Recoil;1;Constitutn;-2;;;HvyGraviosShell;5;Gravios Carapace;6;Hvy Monster Bone;4;Coma Sac;4
+Kut-Ku Mail Z;7;10;2;0;1;9;80;2;0;-1;-2;-2;Health;-2;Expert;2;WindPress;2;Recovery;1;;;ThkBlueKut-KuScl;2;HvyBlueKut-KuShl;3;ThkBullfangoPelt;1;Eltalite Ore;3
+Kut-Ku Vest Z;7;10;2;0;2;9;40;5;3;0;1;-1;Health;-2;Expert;2;Reload;2;Recovery;1;;;ThkBlueKut-KuScl;2;HvyBlueKut-KuShl;3;ThkBullfangoPelt;1;Eltalite Ore;3
+Conga Mail Z;7;10;2;0;1;9;82;2;1;0;1;-3;Sharpness;-2;Expert;4;Cooking;1;;;;;E.CongalalaPelt+;3;Conga Pelt+;4;Massive Bone;2;Piercing Claw;6
+Conga Vest Z;7;10;2;0;2;9;42;4;3;0;3;-1;PelletS Up;4;Cooking;1;ShortCharg;-2;;;;;E.CongalalaPelt+;3;Conga Pelt+;4;Massive Bone;2;Piercing Claw;6
+Gypceros Mail Z;7;10;2;0;1;9;82;-4;4;0;1;1;Faint;3;Hunger;-2;Stamina;2;;;;;HrdPuGypcerosWng;4;Purecrystal;1;Antiseptic Stone;10;Emperor Cricket;2
+Gypceros Vest Z;7;10;2;0;2;9;42;-1;6;0;4;3;Faint;3;Hunger;-2;Stamina;2;;;;;HrdPuGypcerosWng;4;Purecrystal;1;Antiseptic Stone;10;Emperor Cricket;2
+Khezu Mail Z;7;10;2;0;1;9;84;3;4;0;-3;0;Protection;-2;HearProtct;2;Wide Area;3;;;;;StrAlluringWing;3;Pale Khezu Steak;1;Hrd Monster Bone;4;Thunderbug Jelly;3
+Khezu Vest Z;7;10;2;0;2;9;42;5;6;0;-1;1;Protection;-2;HearProtct;2;Wide Area;3;;;;;StrAlluringWing;3;Pale Khezu Steak;1;Hrd Monster Bone;4;Thunderbug Jelly;3
+Hermitaur Mail Z;7;10;2;0;1;9;84;0;-2;1;3;-4;Guard;2;Attack;1;Stamina;-2;Guts;2;;;PlumD.HermitrShl;3;Giant Blk Pearl;1;Massive Bone;1;Hercudrome;6
+Hermitaur Vest Z;7;10;2;0;2;9;42;1;-1;2;6;-2;Reload;-2;Recoil;2;ClustS Add;1;Guts;2;;;PlumD.HermitrShl;3;Giant Blk Pearl;1;Massive Bone;1;Hercudrome;6
+Plesioth Mail Z;7;10;2;0;1;9;86;-4;-4;0;4;2;Hunger;3;Stamina;2;Constitutn;-2;;;;;SpecGrnPlesioFn+;3;ThckGrnPlesioScl;2;Grn Plsioth Fin+;2;Emperor Cricket;3
+Plesioth Vest Z;7;10;2;0;2;9;44;-2;-2;1;6;3;Hunger;3;Stamina;2;Constitutn;-2;;;;;SpecGrnPlesioFn+;3;ThckGrnPlesioScl;2;Grn Plsioth Fin+;2;Emperor Cricket;3
+Blango Mail Z;8;10;2;0;1;9;90;3;2;1;0;-3;Faint;1;Sharpness;2;Attack;2;Cold Res;-2;;;C.BlangongaPelt+;3;Lthr Pelagus Plt;2;Wht Monoblos Cpc;3;Massive Bone;3
+Blango Vest Z;8;10;2;0;2;9;46;5;4;2;1;-2;Faint;1;NormalS Up;2;Cold Res;-2;AutoReload;2;;;C.BlangongaPelt+;3;Lthr Pelagus Plt;2;Wht Monoblos Cpc;3;Massive Bone;3
+Ceanataur Mail Z;8;10;2;0;1;9;91;2;-1;0;1;0;Sharpness;1;Artisan;2;Defense;-4;;;;;TerraCeanatrShl;3;TerraCeanatrClaw;1;Hvy Monster Bone;3;PhantomButterfly;2
+Ceanataur Vest Z;8;10;2;0;2;9;46;4;0;2;2;1;Reload;2;PierceS Up;2;Defense;-3;;;;;TerraCeanatrShl;3;TerraCeanatrClaw;1;Hvy Monster Bone;3;PhantomButterfly;2
+Diablo Mail Z;9;10;2;0;1;9;94;3;1;0;-1;-2;Sharpness;1;Expert;2;Protection;-2;HearProtct;2;;;HvyBlkBlosSpine;1;StoutBlkTwstdHrn;2;Black Blos Cpc;4;PhantomButterfly;4
+Diablo Vest Z;9;10;2;0;2;9;48;5;4;0;2;-1;Expert;2;Reload;1;Protection;-2;HearProtct;2;;;HvyBlkBlosSpine;1;StoutBlkTwstdHrn;2;Black Blos Cpc;4;PhantomButterfly;4
+Gravios Mail Z;9;10;3;0;1;9;94;2;2;0;-2;1;ElementAtk;1;Defense;2;Stamina;-2;;;;;HvyBlkGraviosShl;5;Blk Gravios Cpc;6;Hvy Monster Bone;4;HvnlyBlkGraviShl;1
+Gravios Vest Z;9;10;3;0;2;9;48;4;3;0;1;2;ElementAtk;1;Defense;2;Stamina;-2;;;;;HvyBlkGraviosShl;5;Blk Gravios Cpc;6;Hvy Monster Bone;4;HvnlyBlkGraviShl;1
+Chakra Necklace;7;10;3;0;0;10;30;0;0;0;0;0;;;;;;;;;;;Purecrystal;1;Hypno Bezoar+;1;Emperor Cricket;3;;
+(dummy)Famitsu T-Shirt X;9;10;0;0;0;10;40;4;4;4;4;4;Sneak;-5;Carving;6;;;;;;;(dummy)FamitsuSpcialTkt;5;Commendation S;1;BlackBeltCoinG;6;Expert Coin G;3
+HuntingSoulT-ShirtX;7;10;0;0;0;10;40;4;4;4;4;4;SpeedSetup;10;;;;;;;;;SpecPuppetTicket;5;Hunter Soul Tkt;5;Pokke Ticket;2;BlackBeltCoinG;4
+Hunter T-Shirt X;7;10;0;0;0;10;40;4;4;4;4;4;Perceive;10;;;;;;;;;SpecPuppetTicket;5;Hunter's Ticket;5;Pokke Ticket;2;Expert Coin G;4
+Golden Haori Shin;9;10;2;0;1;10;81;3;2;3;2;-2;Sneak;-2;Artisan;1;Dragon Res;2;ShortCharg;2;;;Hard Rajang Claw;2;GoldRajangPelt+;2;Blk Rajang Pelt+;2;ThckGldRathnScl;2
+PupptMastrCostShin;9;10;2;0;2;10;40;4;3;4;3;-1;Sneak;2;NormalS Up;1;Dragon Res;2;ShortCharg;2;;;GoldRajangPelt+;1;Hvy Rajang Fang;4;Gold Rajang Pelt;3;ThckGldRathnScl;3
+Black Belt Mail X;8;10;2;0;1;10;82;1;1;1;1;1;Artisan;2;All Resist;2;Potential;-2;ComrdGuide;1;;;Azure LaoS Claw;1;BlackBeltCoinG;10;Warrior Coin G;12;Commendation G;1
+Black Belt Vest X;8;10;2;0;2;10;42;3;3;3;3;3;NormalS Up;2;All Resist;2;Potential;-2;ComrdGuide;1;;;Azure LaoS Claw;1;BlackBeltCoinG;10;Warrior Coin G;12;Commendation G;1
+Obituary Petto X;7;10;2;1;1;10;84;3;3;2;-5;-4;Cold Res;-2;Gathering;2;Evade;3;;;;;PhantomButterfly;2;Great Hornfly;3;Emperor Cricket;8;DeadlyPoisonSac;4
+Obituary Pectus X;7;10;2;1;2;10;42;4;5;2;-4;-3;Cold Res;-2;Gathering;2;Evade;3;;;;;PhantomButterfly;2;Great Hornfly;3;Emperor Cricket;8;DeadlyPoisonSac;4
+Butterfly Petto X;7;10;2;2;1;10;84;3;3;2;-5;-4;Cold Res;-2;Gathering;2;Evade;3;;;;;PhantomButterfly;2;Great Hornfly;3;Emperor Cricket;8;DeadlyPoisonSac;4
+Butterfly Pectus X;7;10;2;2;2;10;42;4;5;2;-4;-3;Cold Res;-2;Gathering;2;Evade;3;;;;;PhantomButterfly;2;Great Hornfly;3;Emperor Cricket;8;DeadlyPoisonSac;4
+Mizuha Guards Shin;9;10;1;0;1;10;92;-4;0;-1;3;4;Sneak;4;HearProtct;1;Terrain;-2;AntiDaora;2;;;SpecChameleHide+;2;Chameleos Hide+;3;BigEDragonBone;2;Chameleos Jewel;1
+ExtrvagantCamiseShin;9;10;1;0;2;10;46;-3;1;0;4;5;Sneak;4;HearProtct;1;Terrain;-2;AntiDaora;2;;;SpecChameleHide+;2;Chameleos Hide+;3;BigEDragonBone;2;Chameleos Jewel;1
+Kushala Cista X;9;10;2;0;1;10;94;0;-2;-3;2;4;Poison;-3;Sharpness;2;AntiFirDrg;2;;;;;Hvy Daora Shell;2;Str Daora Wing;2;ElderDragonBlood;4;Commendation S;1
+Kushala Vise X;9;10;2;0;2;10;48;2;-2;-2;3;5;Poison;-3;Recoil;2;AntiFirDrg;2;;;;;Hvy Daora Shell;2;Str Daora Wing;2;ElderDragonBlood;4;Commendation S;1
+Kirin Jacket X;9;10;1;0;1;10;96;0;4;-1;2;0;ElementAtk;2;Protection;2;All Resist;-3;Stamina;2;;;SpecialKirinHide;1;LthrKirinThndrTl;2;KhezuSpecialCut;1;Purecrystal;3
+Kirin Cape X;9;10;1;0;2;10;48;1;6;0;4;1;ElementAtk;2;Protection;2;All Resist;-3;Stamina;2;;;SpecialKirinHide;1;LthrKirinThndrTl;2;KhezuSpecialCut;1;Purecrystal;3
+Empress Mail X;9;8;1;0;1;10;98;5;0;-2;-1;0;Wide Area;1;Recovery;4;Everlastng;-2;AntiChamel;2;;;ThckFireDrgnScl;3;Lunastra Spike;1;LunastraCarapace;3;BigEDragonBone;3
+Empress Vest X;9;8;1;0;2;10;49;6;2;-1;1;0;Wide Area;1;Recovery;4;Everlastng;-2;AntiChamel;2;;;ThckFireDrgnScl;3;Lunastra Spike;1;LunastraCarapace;3;BigEDragonBone;3
+Indra Vest Shin;9;10;1;0;1;10;100;-2;2;-2;3;2;Guard;2;Cooking;-2;Quake Res;4;Guts;1;;;HvyGaorenShell;2;Hvy Gaoren Spine;1;Hvy Daora Shell;1;PhantomButterfly;2
+Steadfast Vest Shin;9;10;1;0;2;10;50;0;3;-1;5;3;Recoil;2;Cooking;-2;Quake Res;4;Guts;1;;;HvyGaorenShell;2;Hvy Gaoren Spine;1;Hvy Daora Shell;1;PhantomButterfly;2
+Kaiser Mail X;9;10;1;0;1;10;100;5;0;-2;-1;0;Expert;5;Everlastng;-2;AntiChamel;2;;;;;HvyTeostraShell;3;Fire Dragon Pwdr;2;ElderDragonBlood;3;Fire Drgn Jwl;1
+Kaiser Vest X;9;10;1;0;2;10;50;6;2;-1;1;0;Expert;5;Everlastng;-2;AntiChamel;2;;;;;HvyTeostraShell;3;Fire Dragon Pwdr;2;ElderDragonBlood;3;Fire Drgn Jwl;1
+GuardSprRaimentShin;9;10;2;0;1;10;100;2;3;-2;2;-2;Paralysis;1;Fencing;2;Hunger;-2;Cooking;2;;;AncientDrgnmoss;2;AncientDrgnwood;2;YamaTsukaFillet;2;Commendation S;1
+Carnage Raiment Shin;9;10;2;0;2;10;50;4;5;-1;3;-1;Hunger;-2;Capacity;2;Cooking;2;ParalyCAdd;1;;;AncientDrgnmoss;2;AncientDrgnwood;2;YamaTsukaFillet;2;Commendation S;1
+Dragonhide X;9;10;1;0;1;10;100;0;2;-5;2;2;Sharpness;2;Dragon Res;-3;Evade Dist;2;ResistSts;2;;;HardFatalisHorn;2;Hvy Fatalis Shl;3;Str Fatalis Wng;3;HvnlyRathalosScl;1
+Dragonskin X;9;10;1;0;2;10;50;2;4;-2;4;3;PierceS Up;2;Dragon Res;-3;Evade Dist;2;ResistSts;2;;;HardFatalisHorn;2;Hvy Fatalis Shl;3;Str Fatalis Wng;3;HvnlyRathalosScl;1
+Dark Ukanlos Aegis;9;10;2;0;1;10;100;-4;-2;0;3;5;Artisan;2;Fencing;2;Protection;-3;;;;;UkanlosShovelJaw;3;StrongUkanlosFin;2;UkanlosUnderscl;3;Ukanlos Stone;1
+Dark Ukanlos Plate;9;10;2;0;2;10;50;-2;0;1;5;6;Reload;2;Protection;-3;Capacity;2;;;;;UkanlosShovelJaw;3;StrongUkanlosFin;2;UkanlosUnderscl;3;Ukanlos Stone;1
+MelahoaFlowerJacketZ;7;10;3;0;1;10;78;0;1;0;1;0;HiSpdGathr;2;Whim;-2;SpeedSetup;1;;;;;Emperor Cricket;4;Dosbiscus;5;FlynMealPassPlus;2;Monster Essence;4
+Melahoa Stalk Z;7;10;3;0;2;10;38;0;1;0;2;0;HiSpdGathr;2;Whim;-2;SpeedSetup;1;;;;;Emperor Cricket;4;Dosbiscus;5;FlynMealPassPlus;2;Monster Essence;4
+Makluva Cover Z;7;10;2;0;1;10;82;0;-2;0;2;0;Protection;-2;HearProtct;2;MixSucRate;3;;;;;Eltalite Ore;5;SpecPlesiothFin+;4;Springnight Carp;5;Book of Combos 5;1
+Makluva Scale Z;7;10;2;0;2;10;42;0;-1;0;3;0;Protection;-2;HearProtct;2;MixSucRate;3;;;;;Eltalite Ore;5;SpecPlesiothFin+;4;Springnight Carp;5;Book of Combos 5;1
+Rathian Heart Mail Z;8;10;2;0;1;10;92;2;-2;-4;0;0;Protection;2;Wide Area;3;Potential;-2;;;;;ThckPnkRathnScl;3;HvyPnkRathianShl;2;Eltalite Ore;4;HvnlyRathianScl;1
+Rathian Heart Vest Z;8;10;2;0;2;10;46;4;0;-2;2;2;Protection;2;Wide Area;3;Potential;-2;;;;;ThckPnkRathnScl;3;HvyPnkRathianShl;2;Eltalite Ore;4;HvnlyRathianScl;1
+Rathalos Soul Mail Z;8;10;2;0;1;10;94;2;2;-4;-1;0;Health;-2;Expert;2;HearProtct;1;Constitutn;2;;;HvyAzurRthlsShl;3;ThckAzurRthlsScl;3;Blazing Fire Sac;3;Hvy Monster Bone;2
+Rathalos Soul Vest Z;8;10;2;0;2;10;48;4;5;-2;2;1;Health;-2;Expert;2;HearProtct;1;Constitutn;2;;;HvyAzurRthlsShl;3;ThckAzurRthlsScl;3;Blazing Fire Sac;3;Hvy Monster Bone;2
+Golden Moon Mail Z;9;10;3;0;1;10;96;2;-2;1;0;0;Whim;-2;Fate;2;Tranquilzr;1;;;;;ThckGldRathnScl;3;HvyGldRathianShl;3;Rathian Plate;1;HvnlyRathianScl;1
+Golden Moon Vest Z;9;10;3;0;2;10;48;4;0;2;2;1;Whim;-2;Fate;2;Tranquilzr;1;;;;;ThckGldRathnScl;3;HvyGldRathianShl;3;Rathian Plate;1;HvnlyRathianScl;1
+Silver Sol Mail Z;9;10;2;0;1;10;98;2;-1;1;-1;0;Fencing;2;Attack;3;Defense;-2;;;;;HvySlvrRthlsShl;3;ThckSlvrRthlsScl;3;HvnlyRathalosScl;1;Rathalos Ruby;1
+Silver Sol Vest Z;9;10;2;0;2;10;50;4;1;2;2;1;PierceS Up;2;Attack;3;Defense;-2;;;;;HvySlvrRthlsShl;3;ThckSlvrRthlsScl;3;HvnlyRathalosScl;1;Rathalos Ruby;1
+Auroros Torso Goku;9;10;2;1;1;10;98;-2;0;-4;2;2;Faint;-2;Rec Speed;4;Sword Draw;1;;;;;Lao-Shan'sHvyShl;5;Azure LaoS Claw;1;HvnlyTigrexScale;1;Commendation S;1
+Genesis Torso Goku;9;10;2;1;2;10;50;1;2;-2;3;3;Faint;-2;Rec Speed;4;PelletS Up;1;;;;;Lao-Shan'sHvyShl;5;Azure LaoS Claw;1;HvnlyTigrexScale;1;Commendation S;1
+Borealis Chest Goku;9;10;2;2;1;10;98;-2;0;-4;2;2;Faint;-2;Rec Speed;4;Sword Draw;1;;;;;Lao-Shan'sHvyShl;5;Azure LaoS Claw;1;HvnlyTigrexScale;1;Commendation S;1
+Glyph Chest Goku;9;10;2;2;2;10;50;1;2;-2;3;3;Faint;-2;Rec Speed;4;PelletS Up;1;;;;;Lao-Shan'sHvyShl;5;Azure LaoS Claw;1;HvnlyTigrexScale;1;Commendation S;1
+Fatalis Hide Z;9;10;2;0;1;10;103;0;2;-5;2;2;Rec Speed;-3;Artisan;1;Evade;1;Fury;2;;;HrdFatlisCrmHorn;2;HvyFatalisCrmShl;3;ThckFatlisCrmScl;2;HvnlyTigrexScale;1
+Fatalis Skin Z;9;10;2;0;2;10;53;2;4;-2;4;3;Rec Speed;-3;Evade;1;Capacity;1;Fury;2;;;HrdFatlisCrmHorn;2;HvyFatalisCrmShl;3;ThckFatlisCrmScl;2;HvnlyTigrexScale;1
+White Fatalis Hide Z;9;10;2;0;1;10;104;0;2;-5;2;2;Rec Speed;2;Fate;-3;Edgemaster;2;;;;;HrdWhtFatlisHorn;2;HvyWhtFatalisShl;3;ThckWhtFatlisScl;2;BigEDragonJewel;1
+White Fatalis Skin Z;9;10;2;0;2;10;54;2;4;-2;4;3;Rec Speed;2;Fate;-3;SteadyHand;2;;;;;HrdWhtFatlisHorn;2;HvyWhtFatalisShl;3;ThckWhtFatlisScl;2;BigEDragonJewel;1

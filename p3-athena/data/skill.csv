@@ -1,0 +1,310 @@
+key;value
+Attack;Attack
+Expert;Expert
+Sharpness;Sharpness
+Sharpener;Sharpener
+Artisan;Handicraft
+PunishDraw;PunishDraw
+Crit Draw;Crit Draw
+FastCharge;FastCharge
+Fencing;Fencing
+Debilitate;Tenderizer
+Slam;Destroyer
+KO;KO
+FatigueAtk;Stam Drain
+Horn;Maestro
+Gunnery;Artillery
+Awaken;Gloves Off
+Potential;Potential
+Adversity;Survivor
+Loading;Loading
+Rapid Fire;Rapid Fire
+Reload Spd;Reload Speed
+Recoil;Recoil
+Precision;Precision
+NormalS Up;Normal Up
+PierceS Up;Pierce Up
+PelletS Up;Pellet Up
+NormalSAdd;Normal S+
+PierceSAdd;Pierce S+
+PelletSAdd;Pellet S+
+Crag S Add;Crag S+
+ClustS Add;Clust S+
+CutterSAdd;Slice S+
+PoisonCAdd;Poison C+
+ParalyCAdd;Para C+
+SleepCAdd;Sleep C+
+PowerCAdd;Power C+
+RazorCAdd;C. Range C+
+FatigeCAdd;Exhaust C+
+Status;Status
+Elemental;ElementAtk
+Fire Atk;Fire Atk
+Water Atk;Water Atk
+Thundr Atk;Thundr Atk
+Ice Attack;Ice Atk
+Dragon Atk;Dragon Atk
+Constitutn;Constitutn
+Stamina;Stamina
+Will Recov;Stam Recov
+Hunger;Hunger
+Evasion;Evasion
+Evade Dist;Evade Dist
+Sheathe;Sheathing
+Sense;Sense
+Rec Speed;Rec Speed
+Guard;Guard
+Guard Up;Guard Up
+Auto-Guard;Auto-Guard
+Protection;Protection
+Poison;Poison
+Paralysis;Paralysis
+Sleep;Sleep
+Stun;Stun
+Mud/Snow;Mud/Snow
+Quake Res;Tremor Res
+WindPress;Wind Res
+Antiseptic;Antiseptic
+Anti-Theft;Anti-Theft
+Blight Res;Blight Res
+Fortitude;Def Lock
+HearProtct;Hearing
+Health;Health
+Defense;Defense
+Fire Res;Fire Res
+Water Res;Water Res
+ThunderRes;ThunderRes
+Ice Res;Ice Res
+Dragon Res;Dragon Res
+Wide Area;Wide-Range
+BombStrUp;Bomb Boost
+SpeedSetup;SpeedSetup
+Perception;Perception
+Psychic;Psychic
+DungMaster;Dungmaster
+Rec Level;Rec Level
+LastingPwr;LastingPwr
+Gluttony;Gluttony
+Eating;Eating
+Huntsman;Ranger
+Backpackng;Transportr
+Heat Res;Heat Res
+Cold Res;Cold Res
+Gathering;Gathering
+HiSpdGathr;Spd Gather
+Whim;Whim
+Fate;Fate
+Carving;Carving
+Rewards;Tranquilzr
+Combo Rate;Combo Rate
+Shot Mix;Combo Plus
+Torso Inc;Torso Up
+Attack Up [Sm];Attack Up (S)
+Attack Up [Med];Attack Up (M)
+Attack Up [Lg];Attack Up (L)
+Attack Down [Sm];Attack Down (S)
+Attack Down [Med];Attack Down (M)
+Attack Down [Lg];Attack Down (L)
+Reckless Abandon +1;Critical Eye +1
+Reckless Abandon +2;Critical Eye +2
+Reckless Abandon +3;Critical Eye +3
+Reckless Abandon -1;Critical Eye -1
+Reckless Abandon -2;Critical Eye -2
+Reckless Abandon -3;Critical Eye -3
+Sharp Sword;Razor Sharp
+Blunt;Blunt Edge
+Speed Sharpening;Speed Sharpening
+Slow Sharpening;Slow Sharpening
+Sharpness +1;Sharpness +1
+Unsheathe Stun;Punishing Draw
+Unsheathe Critical;Critical Draw
+Concentration;Focus
+Distraction;Distraction
+ESP;Mind's Eye
+Exploiter;Weakness Exploit
+Ruiner;Partbreaker
+Improved KO;Knockout King
+Enfeebler;Stamina Thief
+Flute Expert;Horn Maestro
+Gunnery Master;Artillery Novice
+Gunnery King;Artillery King
+Unleashed +1;Latent Power +1
+Unleashed +2;Latent Power +2
+Adrenaline +1;Adrenaline +1
+Adrenaline +2;Adrenaline +2
+Worry;Worrywort
+Resilience;Fortify
+Load Up;Load Up
+Rapid Shot +1;Bonus Shot
+Reload Speed +1;Reload Speed +1
+Reload Speed +2;Reload Speed +2
+Reload Speed +3;Reload Speed +3
+Reload Speed -1;Reload Speed -1
+Reload Speed -2;Reload Speed -2
+Reload Speed -3;Reload Speed -3
+Recoil Reduction +1;Recoil Down +1
+Recoil Reduction +2;Recoil Down +2
+Recoil Reduction +3;Recoil Down +3
+Recoil Reduction -1;Recoil Down -1
+Recoil Reduction -2;Recoil Down -2
+Recoil Reduction -3;Recoil Down -3
+Accuracy+1;Steadiness +1
+Accuracy+2;Steadiness +2
+Accuracy-1;Steadiness -1
+Accuracy-2;Steadiness -2
+NormalS/RapidBowUp;Normal/Rapid Up
+PierceS/PierceBowUp;Pierce/Pierce Up
+PelletS/ScatterBowUp;Pellet/Spread Up
+Normal S All Add;Use Any Normal
+Pierce S LV1 Add;Use Lv1 Pierce S
+Pierce S All Add;Use Any Pierce S
+Pellet S LV1 Add;Use Lv1 Pellet S
+Pellet S All Add;Use Any Pellet S
+Crag S LV1 Add;Use Lv1 Crag S
+Crag S All Add;Use Any Crag S
+Clust S LV1 Add;Use Lv1 Clust S
+Clust S All Add;Use Any Clust S
+Cutter S Add;Use Slicing S
+Poison Coating Add;Use Poison Coat
+Parlysis Coating Add;Use Para Coat
+Sleep Coating Add;Use Sleep Coat
+Power Coating Add;Use Power Coat
+Close Range Coating Add;Use C. Range Coat
+Fatigue Coating Add;Use Exhaust Coat
+Abnormal Status Atk +1;Status Atk +1
+Abnormal Status Atk +2;Status Atk +2
+Abnormal Status Atk Down;Status Atk Down
+Element Atk Up;Element Atk +1
+Elemnt Atk Down;Element Atk Down
+Fire Element +1;Fire Atk +1
+Fire Element +2;Fire Atk +2
+Fire Elment Down;Fire Atk Down
+Water Element +1;Water Atk +1
+Water Element +2;Water Atk +2
+Water Element Down;Water Atk Down
+Thunder Element +1;Thunder Atk +1
+Thunder Element +2;Thunder Atk +2
+Thunder Element Down;Thunder Atk Down
+Ice Element +1;Ice Atk +1
+Ice Element +2;Ice Atk +2
+Ice Element Down;Ice Atk Down
+Dragon Element +1;Dragon Atk +1
+Dragon Element +2;Dragon Atk +2
+Dragon Element Down;Dragon Atk Down
+Constitution +1;Constitution +1
+Constitution +2;Constitution +2
+Constitution -1;Constitution -1
+Constitution -2;Constitution -2
+Runner;Marathon Runner
+Flat Footed;Short Sprinter
+Stamina Recov Up;Stam Recov Up
+Stamina Recov Down;Stam Recov Down
+Hunger Halved;Halve Hunger
+Hunger Negated;Negate Hunger
+Hunger Inc [Lo];Raise Hunger
+Hunger Inc [Hi];Double Hunger
+Evade +1;Evasion +1
+Evade +2;Evasion +2
+Evade Down;Evade Down
+Evasion Up;Evade Extender
+Fast Sheathe;Quick Sheathe
+Sneak;Sneak
+Taunt;Taunt
+Recovery Speed +1;Recovery Spd +1
+Recovery Speed +2;Recovery Spd +2
+Recovery Spd -1;Recovery Spd -1
+Recovery Spd -2;Recovery Spd -2
+Guard +1;Guard +1
+Guard +2;Guard +2
+Guard -1;Guard -1
+Guard Inc;Guard Boost
+Auto-Guard;Auto-Guard
+Divine Protection;Divine Blessing
+Demonic Protection;Demonic Blessing
+Poison Negated;Negate Poison
+Poison [x2];Double Poison
+Parlysis Negated;Negate Paralysis
+Paralysis [x2];Double Paralysis
+Sleep Negated;Negate Sleep
+Sleep [x2];Double Sleep
+Stun Halved;Halve Stun
+Stun Negated;Negate Stun
+Stun [x2];Double Stun
+Mud/Snow Res;Negate Mud/Snow
+Quake Res;Tremor Resistance
+Wind Breaker;Windproof (Lo)
+Wind Anchor;Windproof (Hi)
+Antiseptic;Antiseptic
+Steal No Effect;Anti-Theft
+Blightproof;Blights Negated
+Def Down Negate;Iron Skin
+Earplug;Earplugs
+HighGradeEarplug;HG Earplugs
+Health +20;Health +20
+Health +50;Health +50
+Health -10;Health -10
+Health -30;Health -30
+Def Up (S);Defense Up (S)
+Def Up (M);Defense Up (M)
+Def Up (L);Defense Up (L)
+Def Down (S);Defense Down (S)
+Def Down (M);Defense Down (M)
+Def Down (L);Defense Down (L)
+Fire Res (S);Fire Res +5
+Fire Res (L);Fire Res +10
+Fire Res Weakened;Fire Res -10
+Water Res (S);Water Res +5
+Water Res (L);Water Res +10
+Water Res Weakened;Water Res -10
+Thunder Res (S);Thunder Res +5
+Thunder Res (L);Thunder Res +10
+Thunder Res Weakened;Thunder Res -10
+Ice Res (S);Ice Res +5
+Ice Res (L);Ice Res +10
+Ice Res Weakened;Ice Res -10
+Dragon Res (S);Dragon Res +5
+Dragon Res (L);Dragon Res +10
+Dragon Res Weakened;Dragon Res -10
+Wide Area +1;Wide-Range +1
+Wide Area +2;Wide-Range +2
+Bombardier;Bombardier
+Trap Master;Trap Master
+Trnquilizr Guru;Capture Guru
+Detect;Detect
+Autotracker;Autotracker
+DungBombExpert;Dung Bomb Expert
+Recovery Up;Recovery Up
+Recovery Down;Recovery Down
+Item Use Up;Item Use Up
+Item Use Down;Item Use Down
+Filled Up;Scavenger
+Picky Eater;Gourmand
+Quick Eating +1;Speed Eating +1
+Quick Eating +2;Speed Eating +2
+Slow Life;Slow Eater
+Huntsman's Life;Outdoorsman
+Backpacking Expert;Pro Transporter
+Heat Cancel;Heat Cancel
+Heat Inc;Heat Surge
+Cold Eliminate;Cold Cancel
+Cold Increase;Cold Surge
+Gathering +1;Gathering +1
+Gathering +2;Gathering +2
+Gathering -1;Gathering -1
+Hi-SpdGathering;Speed Gatherer
+Spirit's Whim;Spirit's Whim
+Divine Whim;Divine Whim
+Spectre's Whim;Spectre's Whim
+Devil's Whim;Devil's Whim
+Good Luck;Good Luck
+Luck Booster;Great Luck
+Bad Luck;Bad Luck
+Calamity;Carving Pro
+Carving Expert;Carving Master
+Rewards Expert;Capture Expert
+Rewards Celeb;Capture Master
+Combine Success +20%;Combination +20%
+Combine Success+45%;Combination +45%
+Combine Success -10%;Combination -10%
+Combine Success-20%;Combination -20%
+Bullet Limit;Combination Pro
